@@ -42,7 +42,7 @@
       text-align: center;
       animation: fadeIn 1s ease-in-out;
     }
-    #difficulty {
+    #category, #difficulty {
       font-size: 0.9em;
       color: #777;
       text-align: center;
@@ -59,7 +59,7 @@
     #score {
       font-size: 1.1em;
       margin-top: 20px;
-      text-align: right;
+      text-align: center;
       animation: fadeIn 1s ease-in-out;
     }
     button {
@@ -146,6 +146,7 @@
   <h1>Simple Trivia Game</h1>
   <p id="score">Score: 0</p>
   <p id="question"></p>
+  <p id="category"></p>
   <p id="difficulty"></p>
   
   <!-- Multiple-choice options -->
@@ -157,6 +158,7 @@
   <script src="questions.js"></script>
   <script>
     const questionElement = document.getElementById('question');
+    const categoryElement = document.getElementById('category');
     const difficultyElement = document.getElementById('difficulty');
     const optionsElement = document.getElementById('options');
     const resultElement = document.getElementById('result');
@@ -166,6 +168,7 @@
     let score = 0;
     let currentDifficultyIndex = 0;
     let askedQuestions = new Set();
+    let answeredCorrectly = false;
     
     const difficultyPoints = {
       "Highschool": 1,
@@ -186,6 +189,26 @@
     categorizedQuestions.forEach(question => {
       questionsByDifficulty[question.difficulty].push(question);
     });
+
+    function saveGameState() {
+      const gameState = {
+        score,
+        currentDifficultyIndex,
+        askedQuestions: Array.from(askedQuestions)
+      };
+      localStorage.setItem('triviaGameState', JSON.stringify(gameState));
+    }
+
+    function loadGameState() {
+      const savedState = localStorage.getItem('triviaGameState');
+      if (savedState) {
+        const gameState = JSON.parse(savedState);
+        score = gameState.score;
+        currentDifficultyIndex = gameState.currentDifficultyIndex;
+        askedQuestions = new Set(gameState.askedQuestions);
+        scoreElement.textContent = `Score: ${score}`;
+      }
+    }
     
     function getRandomQuestion() {
       const difficulty = difficultyLevels[currentDifficultyIndex];
@@ -195,15 +218,18 @@
         question = questions[Math.floor(Math.random() * questions.length)];
       } while (askedQuestions.has(question));
       askedQuestions.add(question);
+      saveGameState();
       return question;
     }
     
     function loadQuestion() {
       const currentQuestion = getRandomQuestion();
       questionElement.textContent = currentQuestion.question;
+      categoryElement.textContent = `Category: ${currentQuestion.category}`;
       difficultyElement.textContent = `Difficulty: ${currentQuestion.difficulty}`;
       optionsElement.innerHTML = '';
       nextQuestionButton.style.display = 'none';
+      answeredCorrectly = false;
       
       currentQuestion.choices.forEach(choice => {
         const button = document.createElement('button');
@@ -215,11 +241,15 @@
     }
     
     function checkAnswer(answer, currentQuestion) {
+      if (answeredCorrectly) return;
+      
       if (answer === currentQuestion.correctAnswer) {
         resultElement.textContent = 'Correct!';
         resultElement.style.color = '#4CAF50';
         score += difficultyPoints[currentQuestion.difficulty];
         currentDifficultyIndex = Math.min(currentDifficultyIndex + 1, difficultyLevels.length - 1);
+        answeredCorrectly = true;
+        saveGameState();
         setTimeout(() => {
           loadQuestion();
           resultElement.textContent = '';
@@ -229,8 +259,17 @@
         resultElement.style.color = '#d9534f';
         currentDifficultyIndex = Math.max(currentDifficultyIndex - 1, 0);
         nextQuestionButton.style.display = 'block';
+        disableOptions();
+        saveGameState();
       }
       scoreElement.textContent = `Score: ${score}`;
+    }
+    
+    function disableOptions() {
+      const buttons = optionsElement.querySelectorAll('button');
+      buttons.forEach(button => {
+        button.disabled = true;
+      });
     }
     
     nextQuestionButton.addEventListener('click', () => {
@@ -246,7 +285,8 @@
         toggleThemeButton.textContent = 'Dark Theme';
       }
     });
-    
+
+    loadGameState();
     loadQuestion();
   </script>
 </body>
