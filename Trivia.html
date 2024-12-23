@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Simple Trivia Game</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+    h1 {
+      color: #4CAF50;
+      text-align: center;
+    }
+    #question {
+      font-size: 1.2em;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    #result {
+      margin-top: 15px;
+      font-weight: bold;
+      color: #d9534f;
+      text-align: center;
+    }
+    #score {
+      font-size: 1.1em;
+      margin-top: 20px;
+      text-align: right;
+    }
+    button {
+      margin: 5px 0;
+      padding: 10px 20px;
+      cursor: pointer;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-size: 1em;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    #options {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Simple Trivia Game</h1>
+  <p id="score">Score: 0</p>
+  <p id="question"></p>
+  
+  <!-- Multiple-choice options -->
+  <div id="options"></div>
+  
+  <p id="result"></p>
+  
+  <script src="questions.js"></script>
+  <script>
+    const questionElement = document.getElementById('question');
+    const optionsElement = document.getElementById('options');
+    const resultElement = document.getElementById('result');
+    const scoreElement = document.getElementById('score');
+    
+    let score = 0;
+    let currentDifficultyIndex = 0;
+    let askedQuestions = new Set();
+    
+    const difficultyPoints = {
+      "Highschool": 1,
+      "Undergrad": 4,
+      "Masters": 16,
+      "PhD": 64,
+      "Extreme": 256
+    };
+    
+    const questionsByDifficulty = {
+      "Highschool": [],
+      "Undergrad": [],
+      "Masters": [],
+      "PhD": [],
+      "Extreme": []
+    };
+    
+    categorizedQuestions.forEach(question => {
+      questionsByDifficulty[question.difficulty].push(question);
+    });
+    
+    function getRandomQuestion() {
+      const difficulty = difficultyLevels[currentDifficultyIndex];
+      const questions = questionsByDifficulty[difficulty];
+      let question;
+      do {
+        question = questions[Math.floor(Math.random() * questions.length)];
+      } while (askedQuestions.has(question));
+      askedQuestions.add(question);
+      return question;
+    }
+    
+    function loadQuestion() {
+      const currentQuestion = getRandomQuestion();
+      questionElement.textContent = `${currentQuestion.question} (Difficulty: ${currentQuestion.difficulty})`;
+      optionsElement.innerHTML = '';
+      
+      currentQuestion.choices.forEach(choice => {
+        const button = document.createElement('button');
+        button.textContent = choice;
+        button.onclick = () => checkAnswer(choice, currentQuestion);
+        optionsElement.appendChild(button);
+        optionsElement.appendChild(document.createElement('br'));
+      });
+    }
+    
+    function checkAnswer(answer, currentQuestion) {
+      if (answer === currentQuestion.correctAnswer) {
+        resultElement.textContent = 'Correct!';
+        resultElement.style.color = '#4CAF50';
+        score += difficultyPoints[currentQuestion.difficulty];
+        currentDifficultyIndex = Math.min(currentDifficultyIndex + 1, difficultyLevels.length - 1);
+      } else {
+        resultElement.textContent = 'Wrong answer. Try again!';
+        resultElement.style.color = '#d9534f';
+        currentDifficultyIndex = Math.max(currentDifficultyIndex - 1, 0);
+      }
+      scoreElement.textContent = `Score: ${score}`;
+      setTimeout(() => {
+        if (askedQuestions.size < categorizedQuestions.length) {
+          loadQuestion();
+        } else {
+          questionElement.textContent = `Game Over! Your score is ${score}.`;
+          optionsElement.innerHTML = '';
+        }
+        resultElement.textContent = '';
+      }, 1000);
+    }
+    
+    loadQuestion();
+  </script>
+</body>
+</html>
