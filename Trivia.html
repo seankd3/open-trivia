@@ -3,32 +3,64 @@
 <head>
   <meta charset="utf-8" />
   <title>Simple Trivia Game</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    @keyframes bounce {
+      0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+      }
+      40% {
+        transform: translateY(-30px);
+      }
+      60% {
+        transform: translateY(-15px);
+      }
+    }
+
     body {
       font-family: Arial, sans-serif;
       margin: 20px;
       background-color: #f4f4f9;
       color: #333;
+      transition: background-color 0.3s, color 0.3s;
+      animation: fadeIn 1s ease-in-out;
     }
     h1 {
       color: #4CAF50;
       text-align: center;
+      margin-top: 50px;
+      animation: bounce 2s;
     }
     #question {
-      font-size: 1.2em;
-      margin-bottom: 20px;
+      font-size: 1.5em;
+      margin-bottom: 10px;
       text-align: center;
+      animation: fadeIn 1s ease-in-out;
+    }
+    #difficulty {
+      font-size: 0.9em;
+      color: #777;
+      text-align: center;
+      margin-bottom: 20px;
+      animation: fadeIn 1s ease-in-out;
     }
     #result {
       margin-top: 15px;
       font-weight: bold;
       color: #d9534f;
       text-align: center;
+      animation: fadeIn 1s ease-in-out;
     }
     #score {
       font-size: 1.1em;
       margin-top: 20px;
       text-align: right;
+      animation: fadeIn 1s ease-in-out;
     }
     button {
       margin: 5px 0;
@@ -39,32 +71,98 @@
       border: none;
       border-radius: 5px;
       font-size: 1em;
+      width: 100%;
+      max-width: 300px;
+      transition: background-color 0.3s, transform 0.3s;
     }
     button:hover {
       background-color: #45a049;
+      transform: scale(1.05);
     }
     #options {
       text-align: center;
+      animation: fadeIn 1s ease-in-out;
+    }
+    #toggle-theme {
+      display: block;
+      margin: 10px auto;
+      background-color: #333;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      padding: 5px 10px;
+      cursor: pointer;
+      transition: background-color 0.3s, transform 0.3s;
+    }
+    #toggle-theme:hover {
+      background-color: #555;
+      transform: scale(1.05);
+    }
+    #next-question {
+      display: none;
+      margin: 20px auto;
+      padding: 10px 20px;
+      cursor: pointer;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-size: 1em;
+      width: 100%;
+      max-width: 300px;
+      transition: background-color 0.3s, transform 0.3s;
+      animation: fadeIn 1s ease-in-out;
+    }
+    #next-question:hover {
+      background-color: #45a049;
+      transform: scale(1.05);
+    }
+    .dark-theme {
+      background-color: #333;
+      color: #f4f4f9;
+    }
+    .dark-theme button {
+      background-color: #555;
+    }
+    .dark-theme button:hover {
+      background-color: #666;
+    }
+    @media (max-width: 600px) {
+      body {
+        margin: 10px;
+      }
+      #score {
+        text-align: center;
+        margin-top: 10px;
+      }
+      #toggle-theme {
+        padding: 5px 10px;
+      }
     }
   </style>
 </head>
 <body>
+  <button id="toggle-theme">Dark Theme</button>
   <h1>Simple Trivia Game</h1>
   <p id="score">Score: 0</p>
   <p id="question"></p>
+  <p id="difficulty"></p>
   
   <!-- Multiple-choice options -->
   <div id="options"></div>
   
   <p id="result"></p>
+  <button id="next-question">Next</button>
   
   <script src="questions.js"></script>
   <script>
     const questionElement = document.getElementById('question');
+    const difficultyElement = document.getElementById('difficulty');
     const optionsElement = document.getElementById('options');
     const resultElement = document.getElementById('result');
     const scoreElement = document.getElementById('score');
-    
+    const toggleThemeButton = document.getElementById('toggle-theme');
+    const nextQuestionButton = document.getElementById('next-question');
     let score = 0;
     let currentDifficultyIndex = 0;
     let askedQuestions = new Set();
@@ -102,8 +200,10 @@
     
     function loadQuestion() {
       const currentQuestion = getRandomQuestion();
-      questionElement.textContent = `${currentQuestion.question} (Difficulty: ${currentQuestion.difficulty})`;
+      questionElement.textContent = currentQuestion.question;
+      difficultyElement.textContent = `Difficulty: ${currentQuestion.difficulty}`;
       optionsElement.innerHTML = '';
+      nextQuestionButton.style.display = 'none';
       
       currentQuestion.choices.forEach(choice => {
         const button = document.createElement('button');
@@ -120,22 +220,32 @@
         resultElement.style.color = '#4CAF50';
         score += difficultyPoints[currentQuestion.difficulty];
         currentDifficultyIndex = Math.min(currentDifficultyIndex + 1, difficultyLevels.length - 1);
+        setTimeout(() => {
+          loadQuestion();
+          resultElement.textContent = '';
+        }, 1000);
       } else {
-        resultElement.textContent = 'Wrong answer. Try again!';
+        resultElement.textContent = `Wrong answer. The correct answer is ${currentQuestion.correctAnswer}.`;
         resultElement.style.color = '#d9534f';
         currentDifficultyIndex = Math.max(currentDifficultyIndex - 1, 0);
+        nextQuestionButton.style.display = 'block';
       }
       scoreElement.textContent = `Score: ${score}`;
-      setTimeout(() => {
-        if (askedQuestions.size < categorizedQuestions.length) {
-          loadQuestion();
-        } else {
-          questionElement.textContent = `Game Over! Your score is ${score}.`;
-          optionsElement.innerHTML = '';
-        }
-        resultElement.textContent = '';
-      }, 1000);
     }
+    
+    nextQuestionButton.addEventListener('click', () => {
+      loadQuestion();
+      resultElement.textContent = '';
+    });
+    
+    toggleThemeButton.addEventListener('click', () => {
+      document.body.classList.toggle('dark-theme');
+      if (document.body.classList.contains('dark-theme')) {
+        toggleThemeButton.textContent = 'Light Theme';
+      } else {
+        toggleThemeButton.textContent = 'Dark Theme';
+      }
+    });
     
     loadQuestion();
   </script>
