@@ -92,7 +92,10 @@ def main():
                         json.dump(questions, f, indent=2)
                         f.write(";")
                 current_question += 1
+                print(f"Total number of questions: {len(questions)}")
                 print(f"Progress: {current_question}/{total_questions} questions generated")
+
+    
 
     if not questions:
         print("No questions were generated.")
