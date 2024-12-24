@@ -47,17 +47,17 @@ def main():
     categories = [
         "Culinary Arts", "Geography", "Physics", "Journalism", "Botany", 
         "Environmental Science", "Cybersecurity", "Neuroscience", "Statistics", 
-        "Machine Learning", "International Relations", "Marketing", "Space", 
-        "Engineering", "Computer Science", "Television", "Movies", "Music", 
-        "Psychology", "Sociology", "Medicine", "Law", "Business", "Finance", 
+        "Machine Learning", "International Relations","Space", "Astrophysics",
+        "Engineering", "Computer Science",
+        "Psychology", "Sociology", "Medicine",
         "Artificial Intelligence", "Data Science", "Robotics", "Quantum Computing", 
         "Genetics", "Zoology", "Geology", "Meteorology", "Oceanography", 
         "Paleontology", "Architecture", "Design", "Fashion", "Photography", 
         "Cinimatogprahy", "Communications", "Information Technology", 
         "Game Development", "Animation", "Graphic Design", "Web Development", 
         "Military History", "Military Science", "military technology", "History", 
-        "Technology", "Mathematics", "Economics", "Biology", "Chemistry", 
-        "Astrophysics", "Astronomy", "Internet culture", "Social Media", "Aerospace", "Aviation"
+        "Technology", "Mathematics", "Economics", "Biology", "Chemistry",
+        "Astrophysics", "Astronomy", "Internet culture", "Social Media", "Aerospace", "Aviation", "Aerospace Engineering", "Lex Fridman Podcast Guests"
     ]
     difficulty_levels = ["Highschool", "Undergrad", "Masters", "PhD", "Extreme", "Extra Super Extremely hard"]
 

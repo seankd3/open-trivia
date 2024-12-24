@@ -3000,5 +3000,1318 @@ const questions = [
     "explanation": "During the main sequence phase, a star generates energy through the process of nuclear fusion, specifically by fusing hydrogen atoms into helium in its core. This process produces immense energy, which counteracts the gravitational forces trying to collapse the star, allowing it to maintain stability over billions of years.",
     "category": "Astrophysics",
     "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following substances is a primary component of the bioluminescent phenomenon in fireflies?",
+    "choices": [
+      "Luciferin",
+      "Chlorophyll",
+      "Hemoglobin",
+      "Chitin"
+    ],
+    "correctAnswer": "Luciferin",
+    "explanation": "Luciferin is the chemiluminescent compound found in fireflies that, when oxidized, produces light. This biochemical process involving luciferin and the enzyme luciferase enables fireflies to produce their characteristic glow.",
+    "category": "Obsure",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following potential forms of time travel is theorized in quantum physics but remains largely untested?",
+    "choices": [
+      "Wormholes",
+      "Parallel Universes",
+      "Cosmic Strings",
+      "Warp Drive"
+    ],
+    "correctAnswer": "Wormholes",
+    "explanation": "Wormholes are hypothetical passages through space-time that could create shortcuts for long journeys across the universe. While they have been a popular topic of theoretical physics and science fiction, the existence of wormholes is yet to be confirmed or observed, and the practicality of using them for time travel remains speculative.",
+    "category": "Obsure",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which ancient Sumerian city is believed to be the birthplace of writing and is often referred to as the 'Cradle of Civilization'?",
+    "choices": [
+      "Babylon",
+      "Uruk",
+      "Nippur",
+      "Lagash"
+    ],
+    "correctAnswer": "Uruk",
+    "explanation": "Uruk, an ancient city of Sumer in southern Mesopotamia, is one of the oldest cities in the world and is credited with the development of some of the earliest writing systems, particularly cuneiform inscribed on clay tablets. Its prominence in terms of culture and influence in early civilization is why it is often identified as the 'Cradle of Civilization'.",
+    "category": "Obsure",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What rare substance, first discovered in 1958, is known for its unique properties that allow it to remove impurities from metals in metallurgical processes, and whose name is derived from a character in a Lewis Carroll novel?",
+    "choices": [
+      "Bardinium",
+      "Mockingbird Alloys",
+      "Lumpquoia",
+      "Babbage Zinc"
+    ],
+    "correctAnswer": "Bardinium",
+    "explanation": "Bardinium was named after the fictional character, the 'Jabberwock,' from Lewis Carroll's poem. It is a rare alloy known for its ability to purify other metals, making it valuable in certain metallurgical applications.",
+    "category": "Obsure",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In which of the following works is the character Licencesie introduced, notorious for being both a mischief-maker and an enigma within the narrative?",
+    "choices": [
+      "The Castle of Otranto",
+      "The King in Yellow",
+      "Moby-Dick",
+      "A Voyage to Arcturus"
+    ],
+    "correctAnswer": "The King in Yellow",
+    "explanation": "Licencesie is a character from 'The King in Yellow' by Robert W. Chambers, where he embodies both charm and chaos. The book, though less known today, had a significant impact on later works in the weird fiction and horror genres.",
+    "category": "Obsure",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which obscure 17th-century philosopher proposed the concept of 'tabula rasa,' asserting that individuals are born as a blank slate, a viewpoint later discussed extensively in contrast to innate ideas?",
+    "choices": [
+      "John Locke",
+      "Rene Descartes",
+      "Baruch Spinoza",
+      "Thomas Hobbes"
+    ],
+    "correctAnswer": "John Locke",
+    "explanation": "John Locke is known for his work in philosophy and epistemology, particularly for his assertion that human beings are born as a 'tabula rasa' or blank slate, fre of inherent ideas. This concept has had a profound influence on educational theories and discussions about human nature.",
+    "category": "Obsure",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following terms describes a rare type of windstorm that forms in desert regions, characterized by spiraling dust and sand clouds?",
+    "choices": [
+      "Dust Devil",
+      "Sandblaster",
+      "Tornado",
+      "Trombe"
+    ],
+    "correctAnswer": "Dust Devil",
+    "explanation": "Dust devils are small, insignificant whirlwinds that occur mostly in hot, calm desert areas. They can reach heights of several hundred feet and can pick up small debris and dust, creating a violent tornado- like appearance, but do not possess the same destructive capabilities as true tornadoes.",
+    "category": "Obsure",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which ancient civilization is known for the creation of the first known form of writing, known as cuneiform?",
+    "choices": [
+      "Minoan",
+      "Mesopotamian",
+      "Indus Valley",
+      "Aztec"
+    ],
+    "correctAnswer": "Mesopotamian",
+    "explanation": "The Mesopotamian civilization, particularly the Sumerians, developed cuneiform in 3200 BCE, making it the first known writing system in human history. This system was initially used for record-keeping and gradually evolved to encompass multiple purposes including literature, law, and trade.",
+    "category": "Obsure",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which obscure novel, written in the aftermath of World War I, explores the disillusionment of the 'Lost Generation' through the lives of a group of expatriates in Paris?",
+    "choices": [
+      "Tender Is the Night",
+      "The Sun Also Rises",
+      "A Moveable Feast",
+      "Steppenwolf"
+    ],
+    "correctAnswer": "The Sun Also Rises",
+    "explanation": "Written by Ernest Hemingway and published in 1926, 'The Sun Also Rises' captures the sense of disillusionment prevalent among the expatriate American and British writers following World War I, making it a quintessential work describing the 'Lost Generation'.",
+    "category": "Obsure",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which author is known for pioneering the genre of the dark fantasy through works such as 'The King of Elfland's Elysium' and contributed significantly to the literature of the early 20th century?",
+    "choices": [
+      "Algernon Blackwood",
+      "Lord Dunsany",
+      "William Hope Hodgson",
+      "Mervyn Peake"
+    ],
+    "correctAnswer": "Lord Dunsany",
+    "explanation": "Lord Dunsany was a pivotal figure in early 20th century literature, particularly known for his contributions to the fantasy genre. His style combined myth, adventure, and elements reminiscent of Shakespeare, making him influential in shaping modern fantasy fiction.",
+    "category": "Obsure",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which obscure mathematical theorem, proven by 19th-century mathematician F\u00e9lix Klein, describes the Polyhedron formula that relates the number of vertices, edges, and faces of a convex polyhedron?",
+    "choices": [
+      "Euler's Formula",
+      "B\u00e9la Bart\u00f3k's Theorem",
+      "Gauss's Nexus",
+      "Klein's Hierarchy"
+    ],
+    "correctAnswer": "Euler's Formula",
+    "explanation": "Euler's Formula states that for any convex polyhedron, the relationship V - E + F = 2 holds, where V is the number of vertices, E is the number of edges, and F is the number of faces. This theorem, although well-known, can be considered obscure when placed within the context of extensive mathematical knowledge, often overlooked by those outside advanced mathematical study.",
+    "category": "Obsure",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary function of the protein known as 'ock' in certain bacterial species?",
+    "choices": [
+      "Facilitates protein synthesis",
+      "Functions as a transcription factor",
+      "Catalyzes the degradation of abscess virulence factors",
+      "Regulates DNA replication"
+    ],
+    "correctAnswer": "Catalyzes the degradation of abscess virulence factors",
+    "explanation": "The 'ock' protein serves a critical role in modulating virulence in bacteria by catalyzing the degradation of specific factors that contribute to the formation of pathogenic abscesses, thereby affecting the overall ability of bacteria to infect and survive within a host.",
+    "category": "Obsure",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What was the codename for the top-secret plan to develop the first nuclear weapons during World War II, involving collaboration among the United States, United Kingdom, and Canada?",
+    "choices": [
+      "Operation Thunderclap",
+      "Project Manhattan",
+      "Operation Crossbow",
+      "Project Amalgam"
+    ],
+    "correctAnswer": "Project Manhattan",
+    "explanation": "Project Manhattan was the name of the highly secretive project during World War II that led to the development of the first nuclear weapons. It involved scientists, including notable figures like J. Robert Oppenheimer and Enrico Fermi, and aimed to harness nuclear fission for explosive power.",
+    "category": "Obsure",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the name of the mathematical function that describes the behavior of a random walk on a discrete space, which was introduced by Polish mathematician W\u0142odzimierz Franaszek?",
+    "choices": [
+      "Franaszek's Function",
+      "Goemans Function",
+      "Knuth's Polynomial",
+      "Wichura's Walk"
+    ],
+    "correctAnswer": "Franaszek's Function",
+    "explanation": "Franaszek's Function details the statistical properties underlying random walks, adding to the understanding of stochastic processes. The function was introduced by W\u0142odzimierz Franaszek, offering insights in fields such as physics, mathematics, and finance.",
+    "category": "Obsure",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the 18th century, which obscure mathematical figure is known for developing the Infinitesimal Calculus in parallel to Isaac Newton, primarily influencing the German school of mathematics?",
+    "choices": [
+      "Leonhard Euler",
+      "Gottfried Wilhelm Leibniz",
+      "Richard Courant",
+      "Carl Friedrich Gauss"
+    ],
+    "correctAnswer": "Gottfried Wilhelm Leibniz",
+    "explanation": "While Isaac Newton is often credited with the development of Calculus, Gottfried Wilhelm Leibniz independently formulated his version, which was a parallel but different approach. Leibniz's notation and ideas laid significant groundwork for the mathematical community in Europe, influencing the development of calculus, particularly in German mathematics.",
+    "category": "Obsure",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the study of the Schloss von Neumann principle, which of the following unconventional materials is theorized to exhibit properties of torsion in mechanical systems when subjected to high-stress environments?",
+    "choices": [
+      "Shadow graphite",
+      "Piezoelectric crystal-SRL composite",
+      "Quantum entangled graphene oxide",
+      "Super-elastic shape memory alloy"
+    ],
+    "correctAnswer": "Quantum entangled graphene oxide",
+    "explanation": "Quantum entangled graphene oxide has been proposed in theoretical models to function similarly to hexagonal carbon structures that exhibit quantum mechanical properties within torsional frameworks under stress. This gives rise to unique reactions in mechanical systems, differentiating it from other materials listed.",
+    "category": "Obsure",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the early 20th century, which obscure mathematical construct proposed by Henri Poincar\u00e9 and further developed by W. W. R. Stein played a pivotal role in understanding the complexities of dynamical systems and chaos theory?",
+    "choices": [
+      "The general theory of relativity",
+      "The concept of homology in algebraic topology",
+      "The notion of homoclinic points",
+      "The incompleteness theorem"
+    ],
+    "correctAnswer": "The notion of homoclinic points",
+    "explanation": "Henri Poincar\u00e9 first introduced the relevant ideas about homoclinic points while studying dynamical systems, particularly in his exploration of the three-body problem, contributing significantly to the foundations of chaos theory. W. W. R. Stein extended these insights in mathematical computation and analysis related to Poincar\u00e9\u2019s work.",
+    "category": "Obsure",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In Hegelian philosophy, what term describes the dialectical process that reconciles contradictions in the development of ideas, leading to a higher understanding or synthesis?",
+    "choices": [
+      "Aufhebung",
+      "Gesamtkunstwerk",
+      "Zeitgeist",
+      "Dasein"
+    ],
+    "correctAnswer": "Aufhebung",
+    "explanation": "Aufhebung is a key concept in Hegel's dialectics, representing the process by which contradictions are both negated and preserved, leading to a new synthesis. This process emphasizes the dynamic nature of philosophical development, illustrating how ideas evolve through the resolution of conflicts.",
+    "category": "Obsure",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the context of postcolonial criticism, which obscure theorist is known for introducing the term 'vernacular cosmopolitanism' to describe a form of cultural interaction that resists imperial narratives?",
+    "choices": [
+      "Chandra Mohanty",
+      "Arjun Appadurai",
+      "Ng\u0169g\u0129 wa Thiong'o",
+      "Ella Shohat"
+    ],
+    "correctAnswer": "Arjun Appadurai",
+    "explanation": "Arjun Appadurai, a prominent figure in cultural studies and anthropology, introduced the concept of 'vernacular cosmopolitanism' to highlight how local cultures can engage with and reinterpret global narratives, creating forms of identity that resist simplistic categorization often found in imperialistic frameworks.",
+    "category": "Obsure",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the primary reason behind the Sarbanes-Oxley Act of 2002, particularly in the context of corporate governance, and how does its introduction address deficiencies highlighted by specific law-enforcement cases?",
+    "choices": [
+      "Prevent misconduct in accounting practices following the Enron scandal",
+      "Enhance consumer rights in securities transactions after the 2008 financial crisis",
+      "Regulate international trade measures to foster corporate transparency post-World War II",
+      "Establish stronger intellectual property protections after a series of media lawsuits"
+    ],
+    "correctAnswer": "Prevent misconduct in accounting practices following the Enron scandal",
+    "explanation": "The Sarbanes-Oxley Act was primarily implemented in response to the Enron scandal and other corporate accounting disasters that betrayed investor trust. Its goal was to improve corporate governance and accountability to safeguard interests of stakeholders.",
+    "category": "Obsure",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the obscure field of late 19th-century forgotten botanical studies, which plant genus was primarily investigated by botanist Konrad A. Kuss and remains largely unrecorded in current botanical literature?",
+    "choices": [
+      "Clatia",
+      "Zorrellia",
+      "Arnperwania",
+      "Lantanor"
+    ],
+    "correctAnswer": "Arnperwania",
+    "explanation": "Arnperwania was a bract-like flora genus discovered by Konrad A. Kuss that has mostly defied current classification due to limited specimen availability and was not widely studied compared to its contemporaries. Its convoluted taxonomic history and the obscurity of the species have rendered it nearly forgotten in modern botanical studies.",
+    "category": "Obsure",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the name of the theorem that describes the relationship between parallel postulates in non-Euclidean geometries, particularly in relation to the internal angles of polygons in hyperbolic spaces?",
+    "choices": [
+      "Bolyai\u2013Lobachevsky Theorem",
+      "G\u00f6del\u2013Bernays Symposium",
+      "Hales\u2013Donaldson Axiom",
+      "Kurami\u2013Ez \u0627\u0644\u0628\u0646\u0627\u0621"
+    ],
+    "correctAnswer": "Bolyai\u2013Lobachevsky Theorem",
+    "explanation": "The Bolyai\u2013Lobachevsky Theorem references the foundational principles of hyperbolic geometry, articulated independently by mathematicians J\u00e1nos Bolyai and Nikolai Lobachevsky in the 19th century. It describes how, unlike Euclidean geometry, in hyperbolic spaces, the sum of the internal angles of a triangle is less than 180 degrees, establishing a fundamental differentiator between Euclidean and non-Euclidean geometries.",
+    "category": "Obsure",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which ancient civilization is credited with the earliest known user of the wheel, leading to significant advancements in labor and trade, yet remains seldom discussed compared to contemporary societies?",
+    "choices": [
+      "The Minoans",
+      "The Hittites",
+      "The Indus Valley Civilization",
+      "The Sumerians"
+    ],
+    "correctAnswer": "The Sumerians",
+    "explanation": "The Sumerians, who inhabited ancient Mesopotamia around 3500 BC, are recognized as the civilization that first developed the wheel. This invention greatly enhanced their transportation and trade capabilities, yet they often receive less attention than other civilizations like the Egyptians or Greeks in modern discussions.",
+    "category": "Obsure",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following extinct primate species is believed to have similarities in social structure and group dynamics with modern humans, specifically regarding complex cooperation and alliance formation?",
+    "choices": [
+      "Plesiadapiformes",
+      "Tarsius",
+      "Proconsul",
+      "Australopithecus afarensis"
+    ],
+    "correctAnswer": "Proconsul",
+    "explanation": "Proconsul is an extinct genus of primates that lived during the early Miocene and is notable for showing some characteristics similar to both primitive apes and modern monkeys. Recent studies suggest that its social structures and potential for cooperation indicate advanced social group dynamics that might resemble early forms of human social behavior.",
+    "category": "Obsure",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What rare psychological condition, characterized by the belief that one's thoughts or actions are catastrophic or under constant surveillance, is recognized in only a handful of documented cases worldwide?",
+    "choices": [
+      "Cotard's Delusion",
+      "Ekbom Syndrome",
+      "Persecutory Delusion",
+      "Apophenia"
+    ],
+    "correctAnswer": "Ekbom Syndrome",
+    "explanation": "Ekbom Syndrome, also known as delusional parasitosis, is a very rare infliction where patients believe they are infested with parasites, often reflecting an intense paranoia about their thoughts and personal sense of security. Despite its rarity, it can lead to severe psychological distress. Other options are conditions reflecting different kinds of delusional thinking and psychiatric assessments.",
+    "category": "Obsure",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the name of the ancient Phoenician city that was originally built on the islands off the coast of modern-day Lebanon and served as a major trade hub in the Mediterranean during the first millennium BCE?",
+    "choices": [
+      "Byblos",
+      "Tyre",
+      "Sidon",
+      "Ugarit"
+    ],
+    "correctAnswer": "Tyre",
+    "explanation": "Tyre was an influential city in ancient Phoenicia, notable for its trade connections across the Mediterranean, the production of purple dye, and the construction of the famous Tyrian ships. Notably, Tyre was originally composed of a land and island area, strategically important for its maritime control. Byblos and Sidon were also Phoenician cities, but Tyre played a more preeminently commercial role in that era.",
+    "category": "Obsure",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the term for a rare physiological condition called Right Sided Aortic Arch with Intr cardiovascular Divergence Syndrome, affecting only a handful of individuals worldwide, which leads to selective disruption of upper body hemodynamics?",
+    "choices": [
+      "Anatomic Aberration Syndrome",
+      "Dilated Hemosynematic Anomaly",
+      "Hemodynamic Divergence Phenomenon",
+      "Persistent Fetal Aortic Pathology"
+    ],
+    "correctAnswer": "Hemodynamic Divergence Phenomenon",
+    "explanation": "The Right Sided Aortic Arch with Intr cardiovascular Divergence Syndrome is an extremely rare condition characterized by distinct hemodynamic anomalies in the right-sided aortic arch and significant physiological disparities. This syndrome leads to complications in blood flow regulation and is documented under the term Hemodynamic Divergence Phenomenon, making it of particular interest in cardiologic and physiological studies where unique vascular structures are recorded.",
+    "category": "Obsure",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which obscure phobia is characterized by an excessive fear of the color yellow?",
+    "choices": [
+      "Cromophobia",
+      "Xanthophobia",
+      "Cyanophobia",
+      "Chorophobia"
+    ],
+    "correctAnswer": "Xanthophobia",
+    "explanation": "Xanthophobia is derived from the Greek word 'xanthos', meaning yellow. It refers to an intense and irrational fear of the color yellow, which is relatively obscure compared to more commonly known phobias. Cromophobia refers to fear of colors in general, while cyanophobia is the fear of the color blue. Chorophobia describes the fear of dancing.",
+    "category": "Obsure",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which rare mineral, primarily composed of calcium and magnesium, is considered the play of light in opal and has been discovered only in a few locations globally, including northern Finland?",
+    "choices": [
+      "Lindbergite",
+      "Nordstrandite",
+      "Kainosite",
+      "Perlite"
+    ],
+    "correctAnswer": "Lindbergite",
+    "explanation": "Lindbergite is a rare acid-silicate mineral that consists primarily of calcium and magnesium. It is known for its exquisite plays of light, akin to opal, and is predominantly found in specific geologic environments, such as those in northern Finland. This makes it a unique and obscure mineral both in mineralogical studies and among gemstone enthusiasts.",
+    "category": "Obsure",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the early 20th century, which mathematician introduced the concept of 'Grothendieck Universes,' an abstract framework that allows for the study of set theory within category theory without running into paradoxes?",
+    "choices": [
+      "Andr\u00e9 Weil",
+      "Jean-Pierre Serre",
+      "Alexander Grothendieck",
+      "Niels Henrik Abel"
+    ],
+    "correctAnswer": "Alexander Grothendieck",
+    "explanation": "Alexander Grothendieck was a highly influential mathematician who made significant contributions to algebraic geometry and category theory. The concept of 'Grothendieck Universes' is used to prevent paradoxes arising from set theory by creating a hierarchy of 'universes' in which particular sets can vary while preserving the foundations of category theory.",
+    "category": "Obsure",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary reason for the development of serrated teeth in carnivorous dinosaurs?",
+    "choices": [
+      "To increase feeding efficiency on tough plant material",
+      "To improve the ability to grind hard shells",
+      "To help hold onto slippery prey",
+      "To create a tearing motion to effectively slice through flesh"
+    ],
+    "correctAnswer": "To create a tearing motion to effectively slice through flesh",
+    "explanation": "Serrated teeth in carnivorous dinosaurs evolved primarily to enhance their ability to grasp and slice through the flesh of their prey. This adaptation allows for a more effective predation strategy, facilitating the tearing apart of tendons and muscle tissue.",
+    "category": "Paleontology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does the term 'morphology' refer to in paleontology?",
+    "choices": [
+      "The study of ancient ecosystems",
+      "The shape and structure of organisms",
+      "The method of dating fossils",
+      "The classification of dinosaur species"
+    ],
+    "correctAnswer": "The shape and structure of organisms",
+    "explanation": "In paleontology, 'morphology' specifically refers to the study of the form and structure of organisms, including their bones, teeth, and overall anatomy. Understanding morphology is crucial for identifying different species and their evolutionary relationships.",
+    "category": "Paleontology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following dinosaur species is known for having a large sail composed of elongated neural spines along its back?",
+    "choices": [
+      "Stegosaurus",
+      "Spinosaurus",
+      "Therizinosaurus",
+      "Brachiosaurus"
+    ],
+    "correctAnswer": "Spinosaurus",
+    "explanation": "Spinosaurus is a distinctive dinosaur known for the sail-like structure on its back, formed by elongated neural spines, which is believed to have been used for display, thermoregulation, or aiding in swimming.",
+    "category": "Paleontology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following fossil types provides the most direct evidence of an ancient organism's behavior?",
+    "choices": [
+      "Body fossils",
+      "Trace fossils",
+      "Molecular fossils",
+      "Chemical fossils"
+    ],
+    "correctAnswer": "Trace fossils",
+    "explanation": "Trace fossils are geological records of biological activity and can include footprints, burrows, nests, and feces, providing direct evidence of how ancient organisms moved, lived, and interacted with their environment.",
+    "category": "Paleontology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What was the main diet of Tyrannosaurus rex as supported by fossil evidence?",
+    "choices": [
+      "Carnivorous predator",
+      "Herbivorous scavenger",
+      "Omnivorous opportunist",
+      "Primarily aquatic filter feeder"
+    ],
+    "correctAnswer": "Carnivorous predator",
+    "explanation": "Fossil evidence, including teeth structure and the discovery of T. rex's bite marks on prey, supports the conclusion that Tyrannosaurus rex was primarily a carnivorous predator that hunted and consumed other large organisms, making it one of the apex predators of its time.",
+    "category": "Paleontology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following dinosaurs is known for having a long neck and tail, and is often associated with a giant sauropod classification?",
+    "choices": [
+      "Tyrannosaurus rex",
+      "Triceratops",
+      "Brachiosaurus",
+      "Velociraptor"
+    ],
+    "correctAnswer": "Brachiosaurus",
+    "explanation": "Brachiosaurus is a well-known giant sauropod dinosaur characterized by its long neck and tail, making it one of the most recognizable dinosaurs in paleontological studies.",
+    "category": "Paleontology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following periods is known for the diversification of dinosaurs and the appearance of the first mammals?",
+    "choices": [
+      "Triassic",
+      "Jurassic",
+      "Cretaceous",
+      "Paleozoic"
+    ],
+    "correctAnswer": "Jurassic",
+    "explanation": "The Jurassic period, which spanned from approximately 201 to 145 million years ago, is known for significant dinosaur diversification. It is also during this time that the first true mammals appeared, marking an important development in terrestrial vertebrate evolution.",
+    "category": "Paleontology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary method by which paleontologists often estimate the age of fossils?",
+    "choices": [
+      "Plasmid insertion",
+      "Radiometric dating",
+      "Morphological comparison",
+      "Sedimentary layers identification"
+    ],
+    "correctAnswer": "Radiometric dating",
+    "explanation": "Radiometric dating is a critical technique used by paleontologists to estimate the age of fossils. This method relies on the decay of radioactive isotopes within the minerals associated with the fossil to determine how long ago the organism existed. Other methods, like morphological comparison and reviewing sedimentary layers, can provide context but are not primary age estimation techniques.",
+    "category": "Paleontology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which treaty ended the Second Boer War in 1902?",
+    "choices": [
+      "Treaty of Vereeniging",
+      "Treaty of Utrecht",
+      "Treaty of Versailles",
+      "Treaty of Rotterdam"
+    ],
+    "correctAnswer": "Treaty of Vereeniging",
+    "explanation": "The Treaty of Vereeniging was signed on May 31, 1902, officially ending the Second Boer War between the British Empire and the two Boer republics of the Transvaal and the Free State. This treaty marked a significant moment in South African history, leading to the incorporation of the Boer republics into the British Empire.",
+    "category": "History",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which historic treaty ended the Thirty Years' War in 1648 and significantly altered the political landscape of Europe?",
+    "choices": [
+      "Treaty of Versailles",
+      "Treaty of Utrecht",
+      "Peace of Westphalia",
+      "Treaty of Ryswick"
+    ],
+    "correctAnswer": "Peace of Westphalia",
+    "explanation": "The Peace of Westphalia consisted of a series of treaties that collectively ended the Thirty Years' War, which was fought primarily within the Holy Roman Empire. The treaties established the principles of state sovereignty and laid the groundwork for the modern international system, shaping the borders and political alliances in Europe for centuries to come.",
+    "category": "History",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which battle, fought in 1815, marked the end of the Napoleonic Wars and resulted in the defeat of Napoleon Bonaparte?",
+    "choices": [
+      "Battle of Waterloo",
+      "Battle of Leipzig",
+      "Battle of Austerlitz",
+      "Battle of Trafalgar"
+    ],
+    "correctAnswer": "Battle of Waterloo",
+    "explanation": "The Battle of Waterloo, fought on June 18, 1815, resulted in Napoleon Bonaparte's final defeat and marked the end of the Napoleonic Wars. It led to his exile to Saint Helena, thereby ending his rule as Emperor of the French.",
+    "category": "History",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which event, occurring in 1989, symbolized the end of the Cold War in Eastern Europe?",
+    "choices": [
+      "The Warsaw Pact dissolution",
+      "The fall of the Berlin Wall",
+      "The Chernobyl disaster",
+      "The signing of the SALT treaties"
+    ],
+    "correctAnswer": "The fall of the Berlin Wall",
+    "explanation": "The fall of the Berlin Wall on November 9, 1989, became a pivotal moment in world history that signified the collapse of communist control in Eastern Europe and symbolized the end of the Cold War. It allowed East and West Berlin to reunify and marked the beginning of a broader movement toward democracy in the region.",
+    "category": "History",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which treaty ended the Thirty Years' War in 1648, establishing terms that greatly influenced the political landscape in Europe?",
+    "choices": [
+      "The Treaty of Utrecht",
+      "The Treaty of Westphalia",
+      "The Treaty of Paris",
+      "The Treaty of Frankfurt"
+    ],
+    "correctAnswer": "The Treaty of Westphalia",
+    "explanation": "The Treaty of Westphalia, signed in 1648, concluded the Thirty Years' War and significantly altered the political map of Europe. It marked a turning point that led to the recognition of state sovereignty and the principle of legal equality among sovereign states.",
+    "category": "History",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What event is commonly considered the immediate catalyst for the start of World War I?",
+    "choices": [
+      "The assassination of Archduke Franz Ferdinand",
+      "The invasion of Belgium",
+      "The sinking of the Lusitania",
+      "The signing of the Treaty of Versailles"
+    ],
+    "correctAnswer": "The assassination of Archduke Franz Ferdinand",
+    "explanation": "The assassination of Archduke Franz Ferdinand of Austria-Hungary on June 28, 1914, is widely regarded as the spark that ignited World War I. His death set off a chain reaction of alliances and conflicts, leading to the declaration of war in July 1914.",
+    "category": "History",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which treaty ended the Spanish-American War in 1898?",
+    "choices": [
+      "Treaty of Ghent",
+      "Treaty of Paris",
+      "Treaty of Versailles",
+      "Treaty of Utrecht"
+    ],
+    "correctAnswer": "Treaty of Paris",
+    "explanation": "The Treaty of Paris, signed on December 10, 1898, formally ended the Spanish-American War. The treaty resulted in Spain ceding Puerto Rico, Guam, and the Philippines to the United States, significantly increasing American territories and influence.",
+    "category": "History",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which country was the first to abolish the death penalty for all crimes?",
+    "choices": [
+      "France",
+      "United States",
+      "Venezuela",
+      "Norway"
+    ],
+    "correctAnswer": "Venezuela",
+    "explanation": "Venezuela was the first country in the world to abolish the death penalty for all crimes with the Constitution of 1863. While other nations moved towards abolishing or restricting it, Venezuela took this significant step as early as the mid-19th century.",
+    "category": "History",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What was the primary reason for the issuance of the Emancipation Proclamation by Abraham Lincoln in 1863?",
+    "choices": [
+      "To formally end the Civil War",
+      "To abolish slavery throughout the United States",
+      "To weaken the Confederate states by freeing their slaves",
+      "To fulfill a campaign promise"
+    ],
+    "correctAnswer": "To weaken the Confederate states by freeing their slaves",
+    "explanation": "The Emancipation Proclamation was issued by President Abraham Lincoln on January 1, 1863, during the Civil War. Its main goal was to undermine the Confederate war effort by declaring the freedom of all enslaved people in states that were in rebellion against the Union, thereby weakening the South's labor force.",
+    "category": "History",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which event is widely considered the triggering factor that led to the outbreak of World War I?",
+    "choices": [
+      "The sinking of the Lusitania",
+      "The assassination of Archduke Franz Ferdinand",
+      "The signing of the Treaty of Versailles",
+      "The invasion of Belgium by Germany"
+    ],
+    "correctAnswer": "The assassination of Archduke Franz Ferdinand",
+    "explanation": "The assassination of Archduke Franz Ferdinand of Austria on June 28, 1914, is commonly regarded as the spark that ignited World War I. This event set off a chain reaction of alliances and hostilities among the major powers of Europe, ultimately leading to a full-scale war.",
+    "category": "History",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which treaty, signed in 1814, marked the formal end of the Napoleonic Wars and led to the restoration of the Bourbon monarchy in France?",
+    "choices": [
+      "Treaty of Versailles",
+      "Treaty of Paris",
+      "Treaty of Westphalia",
+      "Treaty of Tilsit"
+    ],
+    "correctAnswer": "Treaty of Paris",
+    "explanation": "The Treaty of Paris, signed on May 30, 1814, formally ended the Napoleonic Wars and facilitated the restoration of the Bourbon monarchy. It followed the defeat of Napoleon and established a new balance of power in Europe.",
+    "category": "History",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which historical event marked the beginning of the end of the Vietnam War, leading to the eventual fall of Saigon in 1975?",
+    "choices": [
+      "The Tet Offensive",
+      "The Paris Peace Accords",
+      "The Gulf of Tonkin Incident",
+      "The Cambodian Campaign"
+    ],
+    "correctAnswer": "The Paris Peace Accords",
+    "explanation": "The Paris Peace Accords, signed in January 1973, aimed to establish peace in Vietnam and end U.S. involvement in the conflict. Although fighting continued, the Accords laid the groundwork for North Vietnam's eventual victory and the fall of Saigon in 1975, which marked the official end of the Vietnam War.",
+    "category": "History",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What historical document, adopted in 1925, aimed to promote the international cooperation of universities and ensure the free movement of scholars in response to the socio-political changes following World War I?",
+    "choices": [
+      "The Treaty of Versailles",
+      "The International Covenant on Economic, Social and Cultural Rights",
+      "The Sorbonne Manifesto",
+      "The League of Nations Covenant"
+    ],
+    "correctAnswer": "The Sorbonne Manifesto",
+    "explanation": "The Sorbonne Manifesto, adopted in 1925, was a key document advocating for the establishment of academic freedom and the international exchange of knowledge following the disruption caused by World War I. It emphasized the importance of accessible education and research collaboration in a world striving for peace.",
+    "category": "History",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which treaty, signed in 1815, played a pivotal role in establishing the balance of power in Europe following the Napoleonic Wars?",
+    "choices": [
+      "Treaty of Paris",
+      "Treaty of Trianon",
+      "Treaty of Vienna",
+      "Treaty of Utrecht"
+    ],
+    "correctAnswer": "Treaty of Vienna",
+    "explanation": "The Treaty of Vienna, signed in 1815, was crucial in reshaping Europe after the defeat of Napoleon. It aimed to restore the balance of power, prevent future conflicts, and rebuild the continent's political landscape. This treaty established numerous boundaries and gave prominence to major powers, significantly influencing European relations for decades.",
+    "category": "History",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which Treaty, signed in 1868, marked Japan's reform period, allowing it to adopt modern Western practices while maintaining cultural traditions?",
+    "choices": [
+      "Treaty of Kanagawa",
+      "Treaty of Peace with Japan",
+      "Meiji Constitution",
+      "Treaty of Shimonoseki"
+    ],
+    "correctAnswer": "Meiji Constitution",
+    "explanation": "The Meiji Constitution, promulgated in 1889, and not a treaty per se, reflects the legal framework of the Meiji Restoration, period where Japan underwent extensive modernization akin to Western powers while navigating the balance with its traditional values. The Treaty of Kanagawa in 1854 opened Japan to the West, leading to this significant era of reform.",
+    "category": "History",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What was the primary purpose of the 1846 Oregon Treaty between the United States and Britain, and how did it impact the territorial boundaries of North America?",
+    "choices": [
+      "To settle trade disputes and create a free trade zone.",
+      "To determine competition in the fur trade and guarantee Native American rights.",
+      "To resolve the territorial claims of the Oregon Country, establishing a boundary along the 49th parallel.",
+      "To expand railroads and impose tariffs on goods moving between Canada and the United States."
+    ],
+    "correctAnswer": "To resolve the territorial claims of the Oregon Country, establishing a boundary along the 49th parallel.",
+    "explanation": "The 1846 Oregon Treaty effectively settled the border dispute over the Oregon Country between the United States and Britain, defining the boundary at the 49th parallel north from the Rocky Mountains to the Strait of Georgia. This treaty significantly expanded U.S. territory in the Pacific Northwest and contributed to the concept of manifest destiny, influencing westward expansion.",
+    "category": "History",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which treaty, signed in 1648, marked the end of the Thirty Years' War and established principles of state sovereignty in international law?",
+    "choices": [
+      "The Treaty of Utrecht",
+      "The Treaty of Westphalia",
+      "The Treaty of Paris",
+      "The Treaty of Ghent"
+    ],
+    "correctAnswer": "The Treaty of Westphalia",
+    "explanation": "The Treaty of Westphalia, concluded in 1648, was actually a series of peace treaties that ended the Thirty Years' War between Catholic and Protestant states in the Holy Roman Empire as well as the Eighty Years' War between Spain and the Dutch Republic. It is significant for establishing the concept of state sovereignty, where nations are recognized as having territorial integrity and authority over their domestic affairs without external interference.",
+    "category": "History",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What was the primary objective of the inter-Westphalian order established through the Peace of Westphalia in 1648?",
+    "choices": [
+      "To abolish monarchies and establish democratic governments",
+      "To create a framework for international law focused on state sovereignty",
+      "To expand colonial empires motivated by mercantilism",
+      "To establish a permanent military alliance among European states"
+    ],
+    "correctAnswer": "To create a framework for international law focused on state sovereignty",
+    "explanation": "The Peace of Westphalia is widely regarded as a foundational moment in the establishment of state sovereignty, marking the end of the Thirty Years' War and the Eighty Years' War. The treaties negotiated created a system that acknowledged the sovereignty of nation-states over their territories and established the principles of non-interference and legal equality, thus framing the pathways for an enduring international order.",
+    "category": "History",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which African kingdom was known for its unique method of governance, where parliamentary decision-making often involved complex consensus building, frequently confounding European observers in the 19th century?",
+    "choices": [
+      "Kongo",
+      "Oyo",
+      "Ashanti",
+      "Benin"
+    ],
+    "correctAnswer": "Ashanti",
+    "explanation": "The Ashanti Empire, located in present-day Ghana, developed an intricate system of governance characterized by consensus-based decision-making, which stood in contrast to the more autocratic structures encountered by European powers. This communal approach to discussions often left European commentators perplexed when they encountered negotiations that did not follow their familiar hierarchical models.",
+    "category": "History",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which treaty officially ended the Second Schleswig War and established the border between Denmark and the German states?",
+    "choices": [
+      "Treaty of Vienna",
+      "Treaty of Lyons",
+      "Treaty of Prague",
+      "Treaty of Copenhagen"
+    ],
+    "correctAnswer": "Treaty of Vienna",
+    "explanation": "The Treaty of Vienna, signed in 1864, officially ended the Second Schleswig War, settling the disputes between Denmark and the German Confederation regarding the duchies of Schleswig and Holstein. It delineated the borders and established Danish sovereignty over the territories.",
+    "category": "History",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following keys to modernization did the Meiji Restoration focus on reinterpreting while aiming to avoid the trap of Western imperialism?",
+    "choices": [
+      "Militarism",
+      "Industrialization",
+      "Nativism",
+      "Constitutional Liberalism"
+    ],
+    "correctAnswer": "Industrialization",
+    "explanation": "The Meiji Restoration focused heavily on industrialization as a means to modernize Japan. By adopting Western technology while maintaining control and adapting Western ideas to fit Japanese contexts, the leaders sought to resist the threats posed by Western imperialism and to strengthen Japan\u2019s own position on the global stage. While militarism, nativism, and the push for constitutional liberalism also played significant roles, industrialization was the central theme.",
+    "category": "History",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which ancient civilization is credited with the development of one of the first known writing systems, cuneiform, that significantly advanced record-keeping and literature?",
+    "choices": [
+      "Babylonian",
+      "Sumerian",
+      "Hittite",
+      "Assyrian"
+    ],
+    "correctAnswer": "Sumerian",
+    "explanation": "The Sumerians, who inhabited what is now southern Iraq, developed cuneiform writing around 3200 BCE. This system used reed styluses to create wedge-shaped impressions on clay tablets and laid the foundation for literate civilization, facilitating administration, commerce, and cultural expression.",
+    "category": "History",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the primary factor that determines the strength of a material's electromagnetic field?",
+    "choices": [
+      "Atomic density",
+      "Molecular arrangement",
+      "Temperature of the material",
+      "Elements constituting the material"
+    ],
+    "correctAnswer": "Atomic density",
+    "explanation": "The strength of a material's electromagnetic field is influenced significantly by its atomic density. Higher atomic density leads to more charge carriers being available, which increases the strength of the electromagnetic interactions within the material.",
+    "category": "Physics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In a vacuum, which of the following statements about the speed of light is true?",
+    "choices": [
+      "It varies depending on the color of the light",
+      "It travels at approximately 300,000 kilometers per second",
+      "It can be slowed down by a perfect vacuum",
+      "It is faster than the speed of sound"
+    ],
+    "correctAnswer": "It travels at approximately 300,000 kilometers per second",
+    "explanation": "The speed of light in a vacuum is a constant approximately equal to 299,792 kilometers per second (often rounded to 300,000 km/s). This speed is one of the fundamental constants of nature and is considered invariant in a vacuum regardless of the light's color (or frequency). Light does not travel into a perfect vacuum as light speed is defined at that condition, and although speeds can differ when light passes through various media, in a vacuum it remains at this constant speed.",
+    "category": "Physics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the main principle behind the operation of a laser, particularly in terms of stimulated emission?",
+    "choices": [
+      "Electrons release energy spontaneously when they transition down energy levels",
+      "Photons passing through a medium of coherent atoms induce the release of more photons of the same energy",
+      "The frequency of emitted radiation is independent of the customer requirements in the operational zone",
+      "The energy of photons is absorbed by electrons leading to ionization"
+    ],
+    "correctAnswer": "Photons passing through a medium of coherent atoms induce the release of more photons of the same energy",
+    "explanation": "Lasers operate on the principle of stimulated emission, where an external photon of a specific energy prompts an electron in an atom to drop to a lower energy level, which in turn releases another photon of identical energy, phase, and direction. This amplification process is ensured by arranging a coherent medium and resonator structure within the laser system.",
+    "category": "Physics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary significance of the Coleman-Mandula theorem in the context of quantum field theory?",
+    "choices": [
+      "It proves the complete foldability of all gauge theories.",
+      "It establishes that Lorentz invariance and unitary representation cannot be consistently combined if interactions exist.",
+      "It shows that superspace can be approached with standard quantum mechanical methods.",
+      "It provides a method for deriving the Standard Model from string theory."
+    ],
+    "correctAnswer": "It establishes that Lorentz invariance and unitary representation cannot be consistently combined if interactions exist.",
+    "explanation": "The Coleman-Mandula theorem, proven in the context of quantum field theory, states that the qualitative nature of particle interactions is heavily constrained by symmetries. Specifically, it asserts that there cannot be a non-trivial interaction involving both internal symmetry transformations and space-time transformations unless trivial laws govern the field dynamics. This means that complications arising from a putative, realistic, interacting quantum field theory where meaningful particle dynamics arise would contradict either Lorentz invariance or the principles underlying unitary transformations, thereby simplifying the structure of particle physics significantly under the constraints of our current understandings.",
+    "category": "Physics",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the context of quantum mechanics and the theory of quantum entanglement, what phenomenon explains the effect where the measurement of one entangled particle instantaneously influences the state of another, regardless of the distance separating them?",
+    "choices": [
+      "Superposition",
+      "Bell's Theorem",
+      "Quantum Tunneling",
+      "Wave Function Collapse"
+    ],
+    "correctAnswer": "Bell's Theorem",
+    "explanation": "Bell's Theorem posits that no physical theory of local hidden variables can ever reproduce all of the predictions of quantum mechanics. This indicates that when two particles are entangled, a measurement of one instantaneously affects the other, reflecting the inherent non-locality of quantum mechanics.",
+    "category": "Physics",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In the context of quantum chromodynamics (QCD), which of the following statements correctly describes the phenomenon known as 'color confinement'?",
+    "choices": [
+      "Quantum effects causing quarks and gluons to form stable, bound states within hadrons.",
+      "The theoretical absence of distinct color charges in vacuum states.",
+      "The magnetic confinement of color sources within a specific temperature density range.",
+      "Color charges being observed freely at energies beyond the Planck scale."
+    ],
+    "correctAnswer": "Quantum effects causing quarks and gluons to form stable, bound states within hadrons.",
+    "explanation": "Color confinement is a fundamental characteristic of QCD that explains why quarks and gluons are never found in isolation, but instead are always confined within larger particles known as hadrons, such as protons and neutrons. This phenomenon arises from the strong force mediated by gluons and is an essential part of the current understanding of quantum field theories.",
+    "category": "Physics",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following protocols is primarily used for sending email over the Internet?",
+    "choices": [
+      "FTP",
+      "HTTP",
+      "SMTP",
+      "POP3"
+    ],
+    "correctAnswer": "SMTP",
+    "explanation": "SMTP stands for Simple Mail Transfer Protocol and is the standard protocol used for sending emails across the Internet. FTP is used for file transfers, HTTP is used for the Web, and POP3 is a protocol used for receiving emails.",
+    "category": "Communications",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following communication models emphasizes the importance of context and factors affecting miscommunication between sender and receiver?",
+    "choices": [
+      "Shannon-Weaver Model",
+      "Berlo's Source-Message-Channel-Receiver Model",
+      "Interactive Model",
+      "Transactional Model"
+    ],
+    "correctAnswer": "Transactional Model",
+    "explanation": "The Transactional Model of communication acknowledges that both sender and receiver simultaneously create meaning through their interaction, taking into account context and feedback which can influence the communication process. This contrasts with other models that treat communication as a one-way or linear process.",
+    "category": "Communications",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following theories primarily explains how anxiety and uncertainty may impact communication in interpersonal relationships?",
+    "choices": [
+      "Uncertainty Reduction Theory",
+      "Cognitive Dissonance Theory",
+      "Communication Accommodation Theory",
+      "Social Penetration Theory"
+    ],
+    "correctAnswer": "Uncertainty Reduction Theory",
+    "explanation": "Uncertainty Reduction Theory is a communication theory developed to explain how individuals engage in communication to reduce uncertainty about one another in interpersonal contexts. It suggests that as relations develop, individuals seek to gather information in order to reduce anxiety and increase predictability about interaction partners and situations.",
+    "category": "Communications",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of Shannon's Information Theory, which formula accurately represents the relationship between entropy (H), the probabilities (p) of event outcomes, and information content provided by a source?",
+    "choices": [
+      "H(X) = -\u03a3 p(x) log_b(p(x))",
+      "H(X) = \u03a3 p(x) log_b(p(x))",
+      "H(X) = p(x) + log_b(n)",
+      "H(X) = log_b(p(x))"
+    ],
+    "correctAnswer": "H(X) = -\u03a3 p(x) log_b(p(x))",
+    "explanation": "Shannon's entropy is defined as H(X) = -\u03a3 p(x) log_b(p(x)), where p(x) is the probability of event x occurring, and the logarithm base b is typically taken to be 2 for binary systems. This formula quantifies the average amount of information produced by a stochastic source of data.",
+    "category": "Communications",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following theories in communication suggests that individuals possess the ability to shift their identities and communication styles based on the context and audience, thereby navigating various social situations effectively?",
+    "choices": [
+      "Uses and Gratifications Theory",
+      "Communication Accommodation Theory",
+      "Co-culture Theory",
+      "Expectancy Violations Theory"
+    ],
+    "correctAnswer": "Communication Accommodation Theory",
+    "explanation": "Communication Accommodation Theory, developed by Howard Giles, posits that people adjust their speech, vocal patterns, and nonverbal communication behaviors based on their social context, relationships, and audience in order to gain approval or increase mutual understanding.",
+    "category": "Communications",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following communication theories proposed that the transfer of complexity in culturally rich messages could be simplified through encoding and decoding processes?",
+    "choices": [
+      "Cognitive Dissonance Theory",
+      "Shannon-Weaver Model of Communication",
+      "Encoding/Decoding Model by Stuart Hall",
+      "Spiral of Silence Theory"
+    ],
+    "correctAnswer": "Encoding/Decoding Model by Stuart Hall",
+    "explanation": "The Encoding/Decoding Model proposed by cultural theorist Stuart Hall emphasizes the active role of the audience in interpreting media messages, acknowledging that the meaning can be significantly different from what the sender intended. This model critiques traditional models like the Shannon-Weaver Model by asserting that reception is subjective based on cultural context.",
+    "category": "Communications",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following algorithms is typically used for unsupervised learning in artificial intelligence?",
+    "choices": [
+      "Linear Regression",
+      "Support Vector Machines",
+      "K-means Clustering",
+      "Decision Trees"
+    ],
+    "correctAnswer": "K-means Clustering",
+    "explanation": "K-means Clustering is a popular unsupervised learning algorithm used to partition a set of data points into distinct groups based on their features. In contrast, Linear Regression and Decision Trees are generally used for supervised learning, while Support Vector Machines can utilize both supervised and unsupervised techniques.",
+    "category": "Artificial Intelligence",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary purpose of a reinforcement learning algorithm in AI?",
+    "choices": [
+      "To learn from a labeled dataset to make predictions",
+      "To mimic human cognitive functions through neural networks",
+      "To develop a policy for an agent to maximize cumulative reward through interactions",
+      "To conduct unsupervised learning for exploring data structure"
+    ],
+    "correctAnswer": "To develop a policy for an agent to maximize cumulative reward through interactions",
+    "explanation": "Reinforcement learning is a type of machine learning where an agent learns to make decisions by taking actions in an environment to maximize some notion of cumulative reward. This process involves exploring actions and learning from their outcomes, contrasting with supervised learning, which relies on labeled data.",
+    "category": "Artificial Intelligence",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following architectures introduced by Google has significantly advanced the field of natural language processing and underlies many state-of-the-art models as of 2023?",
+    "choices": [
+      "CNN",
+      "RNN",
+      "Transformer",
+      "Boltzmann Machine"
+    ],
+    "correctAnswer": "Transformer",
+    "explanation": "The Transformer architecture, introduced in the paper 'Attention is All You Need' by Vaswani et al. in 2017, has become foundational for various natural language processing models, including BERT and GPT. Its self-attention mechanism allows models to weigh the significance of different words regardless of their position, which has led to breakthroughs in understanding and generating human language.",
+    "category": "Artificial Intelligence",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of neural networks, what is the purpose of the 'dropout' regularization technique during training?",
+    "choices": [
+      "To increase the number of parameters in the model",
+      "To reduce the learning rate dynamically",
+      "To prevent overfitting by randomly setting a proportion of neurons to zero during training",
+      "To initialize weights in a more optimal manner"
+    ],
+    "correctAnswer": "To prevent overfitting by randomly setting a proportion of neurons to zero during training",
+    "explanation": "Dropout is a regularization technique used in neural networks to prevent overfitting. It works by randomly setting a selected fraction of neurons to zero during each training iteration, which helps the model generalize better to new data. This randomness prevents the model from becoming overly reliant on specific neurons and encourages the development of redundant representations across the network.",
+    "category": "Artificial Intelligence",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following neural network architectures is specifically designed to learn representations of sequential data by utilizing mechanisms such as attention and is at the core of the state-of-the-art in natural language processing as of 2023?",
+    "choices": [
+      "Recurrent Neural Networks (RNN)",
+      "Convolutional Neural Networks (CNN)",
+      "Transformer Networks",
+      "Generative Adversarial Networks (GAN)"
+    ],
+    "correctAnswer": "Transformer Networks",
+    "explanation": "Transformer networks revolutionized natural language processing by introducing self-attention mechanisms that allow the model to weigh different parts of the input sequence differently. This design overcomes shortcomings of older architectures like RNNs, enabling processing of large datasets more efficiently. They are utilized in many state-of-the-art models like BERT and GPT.",
+    "category": "Artificial Intelligence",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In the context of deep learning, which neural network architecture is primarily utilized for the task of Generative Adversarial Networks (GANs), significantly contributing to data generation and mirroring real-world distributions?",
+    "choices": [
+      "Convolutional Neural Networks (CNNs)",
+      "Recurrent Neural Networks (RNNs)",
+      "Transformer Networks",
+      "Conditional Generative Adversarial Networks (cGANs)"
+    ],
+    "correctAnswer": "Conditional Generative Adversarial Networks (cGANs)",
+    "explanation": "Conditional Generative Adversarial Networks (cGANs) extend GANs by adding the capability to condition the image generation process on auxiliary information, allowing for more controlled data generation across various fields, such as image synthesis and medical data augmentation.",
+    "category": "Artificial Intelligence",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary programming language used for scripting in Unreal Engine during game development?",
+    "choices": [
+      "C#",
+      "C++",
+      "JavaScript",
+      "Python"
+    ],
+    "correctAnswer": "C++",
+    "explanation": "Unreal Engine primarily uses C++ for scripting game logic and other development aspects, which allows for high performance and flexibility in the game development process.",
+    "category": "Game Development",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What programming language is primarily used for scripting in Unity game development?",
+    "choices": [
+      "C#",
+      "C++",
+      "Python",
+      "JavaScript"
+    ],
+    "correctAnswer": "C#",
+    "explanation": "Unity primarily uses C# as its scripting language, allowing developers to create game functionality. While Unity also supports Boo and JavaScript (or UnityScript, which is now deprecated), C# has become the standard for Unity developers.",
+    "category": "Game Development",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In the context of game engine architecture, what design pattern is commonly employed to enable modular components in a game application while promoting reusability and flexibility?",
+    "choices": [
+      "State pattern",
+      "Singleton pattern",
+      "Entity-Component-System",
+      "Observer pattern"
+    ],
+    "correctAnswer": "Entity-Component-System",
+    "explanation": "The Entity-Component-System (ECS) architectural pattern allows for games to be designed using modular components that are decoupled from one another. This design promotes greater reusability and flexibility in game development, enabling better management of entity behavior through the use of systems that operate on entities defined by their components.",
+    "category": "Game Development",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of game development, what is the term 'spatial partitioning', and how does it affect rendering performance in computer graphics?",
+    "choices": [
+      "A technique used to avoid draw calls by pre-rendering groups of objects as a single entity.",
+      "A method of dividing the game environment into subregions to optimize collision detection and rendering by reducing the number of objects processed each frame.",
+      "A way to create three-dimensional models using two-dimensional images to save processing power on dimensions.",
+      "A strategy for loading assets asynchronously in response to player proximity to reduce loading times."
+    ],
+    "correctAnswer": "A method of dividing the game environment into subregions to optimize collision detection and rendering by reducing the number of objects processed each frame.",
+    "explanation": "Spatial partitioning is essential in game development to improve performance by only dealing with collisions and rendering for objects that are relevant to the player\u2019s current vicinity. Techniques like Quad-trees and Octrees exploit spatial coherence to limit the number of objects processed in the graphics pipeline, greatly enhancing rendering efficiency.",
+    "category": "Game Development",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the context of game development, the A* (A-Star) algorithm is widely used for pathfinding. What principle does the A* algorithm utilize to evaluate the best path towards a target node?",
+    "choices": [
+      "Depth-first search",
+      "Breadth-first search",
+      "Heuristic function",
+      "Dynamic programming"
+    ],
+    "correctAnswer": "Heuristic function",
+    "explanation": "The A* algorithm uses both the cost to reach a node and a heuristic estimate of the cost from that node to the target to evaluate which path to take, making it efficient for pathfinding in game environments.",
+    "category": "Game Development",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which programming language predominantly influences the development of the Unreal Engine's scripting capabilities through its scripting language called Blueprints, designed to allow developers to implement gameplay mechanics visually rather than through text-based coding?",
+    "choices": [
+      "Python",
+      "C++",
+      "JavaScript",
+      "Lua"
+    ],
+    "correctAnswer": "C++",
+    "explanation": "Unreal Engine primarily uses C++ as its core programming language. While Blueprints allow for visual scripting, C++ remains the foundation for more complex game mechanics and performance optimization in projects built on the Unreal Engine.",
+    "category": "Game Development",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the television series 'The West Wing', what is the name of the character who serves as the Chief of Staff for President Jed Bartlet?",
+    "choices": [
+      "Leo McGarry",
+      "Toby Ziegler",
+      "Josh Lyman",
+      "C.J. Cregg"
+    ],
+    "correctAnswer": "Leo McGarry",
+    "explanation": "Leo McGarry, portrayed by John Spencer, is a prominent character in 'The West Wing', serving as the Chief of Staff for President Bartlet throughout the series. He is known for his loyalty, wisdom, and mentoring role within the White House team.",
+    "category": "Television",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which popular TV show features a group of survivors during a zombie apocalypse and was the basis for a large franchise including spin-offs and related media?",
+    "choices": [
+      "The Walking Dead",
+      "Stranger Things",
+      "Game of Thrones",
+      "Breaking Bad"
+    ],
+    "correctAnswer": "The Walking Dead",
+    "explanation": "The Walking Dead is a television series based on the comic book series of the same name. It depicts life after a zombie apocalypse and follows a group of survivors as they navigate both the undead and the complexities of humanity. The show's popularity has led to multiple spin-off series and related media, solidifying its place in pop culture.",
+    "category": "Television",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In the television series 'The Sopranos,' what is the full name of Tony Soprano's therapist, whose sessions are central to the plot?",
+    "choices": [
+      "Jennifer Melfi",
+      "Kimberly Anne Melfi",
+      "Theresa Melfi",
+      "Carmen Melfi"
+    ],
+    "correctAnswer": "Jennifer Melfi",
+    "explanation": "Jennifer Melfi is the psychiatrist portrayed by Lorraine Bracco, who helps Tony Soprano deal with various personal and psychological issues throughout the series. Her character serves as a pivotal counterpoint to Tony's criminal life.",
+    "category": "Television",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary principle behind the operation of a nuclear reactor?",
+    "choices": [
+      "Radiation pressure",
+      "Nuclear fission",
+      "Electromagnetic induction",
+      "Beta decay"
+    ],
+    "correctAnswer": "Nuclear fission",
+    "explanation": "A nuclear reactor primarily operates on the principle of nuclear fission, where heavy atomic nuclei (like uranium-235 or plutonium-239) split into smaller nuclei when struck by a neutron, releasing a significant amount of energy in the process.",
+    "category": "Physics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the phenomenon called when light bends as it passes from one medium to another?",
+    "choices": [
+      "Diffraction",
+      "Interference",
+      "Refraction",
+      "Reflection"
+    ],
+    "correctAnswer": "Refraction",
+    "explanation": "Refraction occurs when light travels from one medium to another and experiences a change in speed that causes it to change direction. This bending of light can be visualized using Snell's Law, which defines the relationship between the angles and the indices of refraction of the two media.",
+    "category": "Physics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following experiments is primarily used to test the principles of quantum superposition and to highlight the wave-particle duality of matter?",
+    "choices": [
+      "Double-slit experiment",
+      "Millikan oil drop experiment",
+      "Hugh D. Wheeler's experiments on gravitational lensing",
+      "Photoelectric effect analysis"
+    ],
+    "correctAnswer": "Double-slit experiment",
+    "explanation": "The double-slit experiment demonstrates quantized channels of probability regarding particle position and momentum, showcasing quantum superposition in cohort with the wave-particle duality by subjecting particles like electrons through two slits leading to interference patterns when not observed, thus finding application in the context of quantum mechanics.",
+    "category": "Physics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of quantum field theory, which mechanism allows certain gauge bosons to acquire mass through spontaneous symmetry breaking while preserving the gauge invariance of the theory?",
+    "choices": [
+      "Higgs Mechanism",
+      "Chisholm Mechanism",
+      "Goldstone Theorem",
+      "Chern-Simons Term"
+    ],
+    "correctAnswer": "Higgs Mechanism",
+    "explanation": "The Higgs Mechanism is a process whereby gauge bosons can acquire mass while still preserving the gauge invariance of the underlying theory. This mechanism relies on the interaction of gauge fields with a scalar field, known as the Higgs field, which develops a vacuum expectation value, leading to mass terms in the Lagrangian without breaking gauge symmetry.",
+    "category": "Physics",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In quantum field theory, which of the following particle phenomena is explained by the Higgs mechanism?",
+    "choices": [
+      "Black hole radiation",
+      "Neutrino mass generation",
+      "Spontaneous symmetry breaking",
+      "Quantum entanglement"
+    ],
+    "correctAnswer": "Spontaneous symmetry breaking",
+    "explanation": "The Higgs mechanism provides a way to understand how particles acquire mass through spontaneous symmetry breaking. In this process, the underlying symmetry (invariance under transformations) of the Lagrangian is not preserved in the vacuum state, leading to different masses for different particles. This phenomenon is crucial for the Standard Model of particle physics, particularly in explaining the masses of W and Z bosons, which mediate the weak force.",
+    "category": "Physics",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In the context of quantum chromodynamics (QCD), which of the following statements about the running of the strong coupling constant is correct?",
+    "choices": [
+      "It increases logarithmically with energy scale, leading to asymptotic freedom.",
+      "It remains constant regardless of the energy scale due to confinement.",
+      "It decreases with increasing energy scale, indicating the binding of quarks.",
+      "It undergoes a phase transition at energies below 1 GeV, resulting in spontaneous symmetry breaking."
+    ],
+    "correctAnswer": "It decreases with increasing energy scale, indicating the binding of quarks.",
+    "explanation": "In quantum chromodynamics, the strong coupling constant exhibits a behavior known as asymptotic freedom, meaning it decreases as the energy scale increases. This allows quarks and gluons to interact weakly at high energies, contrary to the confinement observed at lower energies where they act strongly.",
+    "category": "Physics",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the acclaimed Studio Ghibli film 'Spirited Away', what is the name of the spirit that appears as a large, faceless creature and later reveals itself to be a river spirit?",
+    "choices": [
+      "No-Face",
+      "Haku",
+      "Yubaba",
+      "B\u014dh\u014d"
+    ],
+    "correctAnswer": "Haku",
+    "explanation": "In 'Spirited Away', Haku is revealed to be the spirit of the Kohaku River and takes the form of a dragon. Most importantly, he helps Chihiro navigate through the spirit world and represents her connection to the real world.",
+    "category": "Animation",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What was the first fully computer-animated feature film released by Pixar Animation Studios?",
+    "choices": [
+      "Finding Nemo",
+      "Toy Story",
+      "Monsters, Inc.",
+      "The Incredibles"
+    ],
+    "correctAnswer": "Toy Story",
+    "explanation": "Toy Story, released in 1995, is notable for being the first feature-length film made entirely with computer-generated imagery (CGI). It marked a significant milestone in animation technology and the success of Pixar as an innovative animation studio.",
+    "category": "Animation",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In Hayao Miyazaki's film 'Spirited Away', what condition must Chihiro fulfill to free her parents from their spell?",
+    "choices": [
+      "Eat a true spirit food",
+      "Complete a series of tasks for Yubaba",
+      "Pilot a magical train",
+      "Find the Lost River Spirit"
+    ],
+    "correctAnswer": "Complete a series of tasks for Yubaba",
+    "explanation": "In 'Spirited Away', Chihiro must work for the witch Yubaba and complete her tasks to free her parents, who have been turned into pigs. The film's intricate plot and rich character arcs reveal themes of growth, resilience, and transformation.",
+    "category": "Animation",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following animated techniques was pioneered by Ub Iwerks and Richard Purdum in their version of 'Steamboat Willie,' and contributed to the development of synchronized sound in American animation?",
+    "choices": [
+      "Rotoscope Animation",
+      "Cel Animation",
+      "Silhouette Animation",
+      "Cutout Animation"
+    ],
+    "correctAnswer": "Cel Animation",
+    "explanation": "Ub Iwerks was the primary animator for the iconic 'Steamboat Willie,' which is notable for being one of the first synchronized sound cartoons. Cel animation, involving the use of transparent sheets (cels) to create moving images, was established as a key technique at this time, allowing for more intricate and synchronized animation experiences compared to earlier styles.",
+    "category": "Animation",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In 'Neon Genesis Evangelion', which biblical figure is used as a term for the creatures battled by the protagonists, and what is the specific significance of their number in the manifestation verified by the show?",
+    "choices": [
+      "Gabriel, representing twelve human Sabre soldiers",
+      "Seraphim, as the first angels created",
+      "Jacobs, embodying the complete yet cyclical notion of the universe",
+      "Aberwyn, as scapegoats battling resurrection with failed Second Impact replicas"
+    ],
+    "correctAnswer": "Seraphim, as the first angels created",
+    "explanation": "In 'Neon Genesis Evangelion,' the term 'angel' indeed refers to the biblical 'Seraphim,' who are described in biblical literature as beings of the highest rank in the angelic hierarchy. The significance of the number of the angels, often investigated throughout the series, delves into humankind's existential fight against powerful beings, paralleling biblical interpretations about apocalyptic prophecies. The philosophical depth discussed alongside mecha battles showcased grace and tension between the storylines.",
+    "category": "Animation",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In the context of Japanese animated films, which movie features the iconic character No-Face, who transforms throughout the film by consuming the emotions and attributes of those around him?",
+    "choices": [
+      "Spirited Away",
+      "Princess Mononoke",
+      "My Neighbor Totoro",
+      "Akira"
+    ],
+    "correctAnswer": "Spirited Away",
+    "explanation": "No-Face is a significant character in Studio Ghibli's 'Spirited Away' directed by Hayao Miyazaki. Throughout the film, No-Face is a misunderstood spirit who seeks companionship and becomes a manifestation of greed and desire, secretly reflecting the changes in the story's protagonist, Chihiro. The film's narrative and its exploration of identity and consumerism stand out in the field of animation.",
+    "category": "Animation",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which international organization was established after World War II to promote peace and cooperation among countries and has a Universal Declaration of Human Rights as one of its significant documents?",
+    "choices": [
+      "United Nations",
+      "League of Nations",
+      "North Atlantic Treaty Organization",
+      "World Trade Organization"
+    ],
+    "correctAnswer": "United Nations",
+    "explanation": "The United Nations (UN) was founded in 1945 after World War II to prevent further conflicts and foster international cooperation. One of its key achievements is the Universal Declaration of Human Rights, adopted in 1948, which outlines fundamental human rights to be universally protected.",
+    "category": "International Relations",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary purpose of the United Nations Security Council?",
+    "choices": [
+      "To manage international trade relations",
+      "To supervise elections in member states",
+      "To maintain international peace and security",
+      "To promote human rights worldwide"
+    ],
+    "correctAnswer": "To maintain international peace and security",
+    "explanation": "The primary purpose of the UN Security Council is to maintain international peace and security. It conducts investigations into situations threatening peace, issues sanctions, and authorizes the use of force when necessary to help maintain or restore peace around the world.",
+    "category": "International Relations",
+    "difficulty": "Undergrad"
   }
 ];
