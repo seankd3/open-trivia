@@ -153,6 +153,7 @@
   <div id="options"></div>
   
   <p id="result"></p>
+  <p id="explanation"></p>
   <button id="next-question">Next</button>
   
   <script src="questions.js"></script> <!-- Add this line to include the questions.js file -->
@@ -165,6 +166,7 @@
     const scoreElement = document.getElementById('score');
     const toggleThemeButton = document.getElementById('toggle-theme');
     const nextQuestionButton = document.getElementById('next-question');
+    const explanationElement = document.getElementById('explanation');
     let score = 0;
     let currentDifficultyIndex = 0;
     let askedQuestions = new Set();
@@ -238,6 +240,7 @@
       difficultyElement.textContent = `Difficulty: ${currentQuestion.difficulty}`;
       optionsElement.innerHTML = '';
       nextQuestionButton.style.display = 'none';
+      explanationElement.textContent = '';
       answeredCorrectly = false;
 
       currentQuestion.choices.forEach(choice => {
@@ -258,19 +261,15 @@
         score += difficultyPoints[currentQuestion.difficulty];
         currentDifficultyIndex = Math.min(currentDifficultyIndex + 1, difficultyLevels.length - 1);
         answeredCorrectly = true;
-        saveGameState();
-        setTimeout(() => {
-          loadQuestion();
-          resultElement.textContent = '';
-        }, 1000);
       } else {
         resultElement.textContent = `Wrong answer. The correct answer is ${currentQuestion.correctAnswer}.`;
         resultElement.style.color = '#d9534f';
         currentDifficultyIndex = Math.max(currentDifficultyIndex - 1, 0);
-        nextQuestionButton.style.display = 'block';
-        disableOptions();
-        saveGameState();
       }
+      explanationElement.textContent = currentQuestion.explanation;
+      nextQuestionButton.style.display = 'block';
+      disableOptions();
+      saveGameState();
       scoreElement.textContent = `Score: ${score}`;
     }
 

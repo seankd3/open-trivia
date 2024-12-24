@@ -13,7 +13,7 @@ load_dotenv()
 openai.api_key = os.getenv('OPENAI_API_KEY')
 
 def generate_question(category, difficulty, difficulty_levels):
-    prompt = f"Generate a trivia question with multiple choices in the category of {category} and difficulty level {difficulty} on a scale of {difficulty_levels}. Return the result as a JSON object with fields 'question', 'choices', and 'correctAnswer'. Do not include prefixes to the anserwes like A) B) C) etc.."
+    prompt = f"Generate a trivia question with multiple choices in the category of {category} and difficulty level {difficulty} on a scale of {difficulty_levels}. Return the result as a JSON object with fields 'question', 'choices', 'correctAnswer', and 'explanation'. Do not include prefixes to the answers like A) B) C) etc."
     retries = 5
     while retries > 0:
         try:
@@ -57,7 +57,7 @@ def main():
         "Game Development", "Animation", "Graphic Design", "Web Development", 
         "Military History", "Military Science", "military technology", "History", 
         "Technology", "Mathematics", "Economics", "Biology", "Chemistry", 
-        "Astrophysics", "Astronomy", "Internet culture", "Social Media"
+        "Astrophysics", "Astronomy", "Internet culture", "Social Media", "Aerospace", "Aviation"
     ]
     difficulty_levels = ["Highschool", "Undergrad", "Masters", "PhD", "Extreme", "Extra Super Extremely hard"]
 
