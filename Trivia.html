@@ -156,8 +156,13 @@
   <p id="explanation"></p>
   <button id="next-question">Next</button>
   
-  <script src="questions.js"></script> <!-- Add this line to include the questions.js file -->
+  <!-- Import your questions array in 'questions.js' -->
+  <script src="questions.js"></script> 
+
   <script>
+    /***********************************************************
+     * ----------------- GLOBAL VARIABLES ----------------------
+     ***********************************************************/
     const questionElement = document.getElementById('question');
     const categoryElement = document.getElementById('category');
     const difficultyElement = document.getElementById('difficulty');
@@ -167,11 +172,16 @@
     const toggleThemeButton = document.getElementById('toggle-theme');
     const nextQuestionButton = document.getElementById('next-question');
     const explanationElement = document.getElementById('explanation');
+
     let score = 0;
-    let currentDifficultyIndex = 0;
-    let askedQuestions = new Set();
+    let askedQuestions = new Set();      // Stores question strings that have been asked
     let answeredCorrectly = false;
 
+    // We'll keep track of the current difficulty index and current category
+    let currentDifficultyIndex = 0;
+    let currentCategory = null;
+
+    // Map difficulty level names to points
     const difficultyPoints = {
       "Elementary": 1,
       "Middle School": 2,
@@ -181,104 +191,329 @@
       "PhD": 64,
       "Extreme": 256,
       "Extra Super Extremely hard": 1024,
-      "Impossible": (4096*4)
+      "Impossible": 4096 * 4
     };
 
-    const difficultyLevels = ["Elementary", "Middle School", "Highschool", "Undergrad", "Masters", "PhD", "Extreme", "Extra Super Extremely hard", "Impossible"];
+    // Ordered difficulty levels
+    const difficultyLevels = [
+      "Elementary",
+      "Middle School",
+      "Highschool",
+      "Undergrad",
+      "Masters",
+      "PhD",
+      "Extreme",
+      "Extra Super Extremely hard",
+      "Impossible"
+    ];
 
-    const questionsByDifficulty = {
-      "Elementary": [],
-      "Middle School": [],
-      "Highschool": [],
-      "Undergrad": [],
-      "Masters": [],
-      "PhD": [],
-      "Extreme": [],
-      "Extra Super Extremely hard": [],
-      "Impossible": []
-    };
+    // We'll build a structure: questionsByCategoryAndDifficulty[category][difficulty] = []
+    const questionsByCategoryAndDifficulty = {};
+    const allCategories = new Set();
 
-    function loadQuestionsFromJS() {
-      questions.forEach(question => {
-        if (!questionsByDifficulty[question.difficulty].some(q => q.question === question.question)) {
-          questionsByDifficulty[question.difficulty].push(question);
+    /***********************************************************
+     * --------------- HELPER FUNCTIONS ------------------------
+     ***********************************************************/
+
+    /**
+     * Build the questionsByCategoryAndDifficulty data structure
+     * and track all unique categories.
+     */
+    function buildQuestionsMap() {
+      questions.forEach(q => {
+        const cat = q.category;
+        const diff = q.difficulty;
+
+        if (!questionsByCategoryAndDifficulty[cat]) {
+          questionsByCategoryAndDifficulty[cat] = {};
         }
+        if (!questionsByCategoryAndDifficulty[cat][diff]) {
+          questionsByCategoryAndDifficulty[cat][diff] = [];
+        }
+        questionsByCategoryAndDifficulty[cat][diff].push(q);
+        allCategories.add(cat);
       });
-      loadQuestion(); // Ensure a question is loaded after fetching the questions
     }
 
+    /**
+     * Try to get a random question from a specific category & difficulty
+     * that hasn't been asked yet. Return null if none is available.
+     */
+    function getRandomQuestionFrom(cat, diff) {
+      if (
+        !questionsByCategoryAndDifficulty[cat] ||
+        !questionsByCategoryAndDifficulty[cat][diff]
+      ) {
+        return null;
+      }
+      const pool = questionsByCategoryAndDifficulty[cat][diff];
+      // Filter out any we've already asked
+      const unasked = pool.filter(q => !askedQuestions.has(q.question));
+      if (unasked.length === 0) {
+        return null;
+      }
+      // Return a random unasked question
+      return unasked[Math.floor(Math.random() * unasked.length)];
+    }
+
+    /**
+     * Find the next higher difficulty index that has
+     * at least one unasked question for the same category.
+     * Return the new difficulty index, or -1 if none available.
+     */
+    function findNextAvailableDifficultyUp(cat, startDiffIndex) {
+      for (let i = startDiffIndex + 1; i < difficultyLevels.length; i++) {
+        const diff = difficultyLevels[i];
+        if (getRandomQuestionFrom(cat, diff) !== null) {
+          return i;
+        }
+      }
+      return -1;
+    }
+
+    /**
+     * Find the next lower difficulty index that has
+     * at least one unasked question for the given category.
+     * Return the new difficulty index, or -1 if none available.
+     */
+    function findNextAvailableDifficultyDown(cat, startDiffIndex) {
+      for (let i = startDiffIndex - 1; i >= 0; i--) {
+        const diff = difficultyLevels[i];
+        if (getRandomQuestionFrom(cat, diff) !== null) {
+          return i;
+        }
+      }
+      return -1;
+    }
+
+    /**
+     * Pick a random category that is NOT the 'excludedCategory'.
+     * If there's no other category, returns the same one
+     * (edge case if there's only one category in the dataset).
+     */
+    function pickRandomDifferentCategory(excludedCategory) {
+      const categoriesArray = Array.from(allCategories);
+      if (categoriesArray.length === 1) {
+        return excludedCategory; // no other category
+      }
+      let category;
+      do {
+        category = categoriesArray[Math.floor(Math.random() * categoriesArray.length)];
+      } while (category === excludedCategory);
+      return category;
+    }
+
+    /**
+     * Save the current game state to localStorage
+     */
     function saveGameState() {
       const gameState = {
         score,
+        askedQuestions: Array.from(askedQuestions),
         currentDifficultyIndex,
-        askedQuestions: Array.from(askedQuestions)
+        currentCategory
       };
       localStorage.setItem('triviaGameState', JSON.stringify(gameState));
     }
 
+    /**
+     * Load the saved game state from localStorage, if any
+     */
     function loadGameState() {
       const savedState = localStorage.getItem('triviaGameState');
       if (savedState) {
         const gameState = JSON.parse(savedState);
         score = gameState.score;
-        currentDifficultyIndex = gameState.currentDifficultyIndex;
         askedQuestions = new Set(gameState.askedQuestions);
+        currentDifficultyIndex = gameState.currentDifficultyIndex;
+        currentCategory = gameState.currentCategory;
         scoreElement.textContent = `Score: ${score}`;
       }
     }
 
-    function getRandomQuestion() {
+    /**
+     * Main function to load a question based on currentCategory and currentDifficultyIndex.
+     * If no question is found (e.g., all used up at that difficulty), we find a fallback difficulty.
+     */
+    function loadQuestion() {
+      // Attempt to get a question from the current category & difficulty
       const difficulty = difficultyLevels[currentDifficultyIndex];
-      const questions = questionsByDifficulty[difficulty];
-      let question;
-      do {
-        question = questions[Math.floor(Math.random() * questions.length)];
-      } while (askedQuestions.has(question.question));
-      askedQuestions.add(question.question);
-      saveGameState();
-      return question;
+      let questionObj = getRandomQuestionFrom(currentCategory, difficulty);
+
+      // If none is available at current difficulty, try to find a fallback at the same cat
+      // and the next difficulty up or down (depending on what's possible).
+      if (!questionObj) {
+        // Let's see if there's a question at some higher difficulty
+        const nextDiffUpIndex = findNextAvailableDifficultyUp(currentCategory, currentDifficultyIndex);
+        // Or fallback to a lower difficulty
+        const nextDiffDownIndex = findNextAvailableDifficultyDown(currentCategory, currentDifficultyIndex);
+
+        let chosenIndex = -1;
+        if (nextDiffUpIndex === -1 && nextDiffDownIndex === -1) {
+          // Absolutely no questions in this category remain
+          // For robust fallback, let's pick a random different category
+          currentCategory = pickRandomDifferentCategory(currentCategory);
+          currentDifficultyIndex = 0; // Start from easy again
+          questionObj = getRandomQuestionFrom(
+            currentCategory,
+            difficultyLevels[currentDifficultyIndex]
+          );
+          // If STILL no question, we'll do a bigger fallback loop
+          // but in practice, if there's at least one question in the entire game, we should get it
+          if (!questionObj) {
+            fallbackToAnyQuestion();
+            return;
+          }
+        } else {
+          // Prefer nextDiffUpIndex if it exists; else nextDiffDownIndex
+          if (nextDiffUpIndex !== -1) {
+            chosenIndex = nextDiffUpIndex;
+          } else {
+            chosenIndex = nextDiffDownIndex;
+          }
+          currentDifficultyIndex = chosenIndex;
+          questionObj = getRandomQuestionFrom(currentCategory, difficultyLevels[chosenIndex]);
+          if (!questionObj) {
+            // fallback
+            fallbackToAnyQuestion();
+            return;
+          }
+        }
+      }
+
+      displayQuestion(questionObj);
     }
 
-    function loadQuestion() {
-      const currentQuestion = getRandomQuestion();
-      questionElement.textContent = currentQuestion.question;
-      categoryElement.textContent = `Category: ${currentQuestion.category}`;
-      difficultyElement.textContent = `Difficulty: ${currentQuestion.difficulty}`;
+    /**
+     * Display the given question object on the page
+     */
+    function displayQuestion(questionObj) {
+      if (!questionObj) {
+        // No question available: fallback
+        fallbackToAnyQuestion();
+        return;
+      }
+
+      // Show question data
+      questionElement.textContent = questionObj.question;
+      categoryElement.textContent = `Category: ${questionObj.category}`;
+      difficultyElement.textContent = `Difficulty: ${questionObj.difficulty}`;
       optionsElement.innerHTML = '';
       nextQuestionButton.style.display = 'none';
       explanationElement.textContent = '';
       answeredCorrectly = false;
+      resultElement.textContent = '';
 
-      currentQuestion.choices.forEach(choice => {
+      // Render choices
+      questionObj.choices.forEach(choice => {
         const button = document.createElement('button');
         button.textContent = choice;
-        button.onclick = () => checkAnswer(choice, currentQuestion);
+        button.onclick = () => checkAnswer(choice, questionObj);
         optionsElement.appendChild(button);
         optionsElement.appendChild(document.createElement('br'));
       });
     }
 
+    /**
+     * Fallback function: in extreme edge cases, pick ANY unasked question from the entire dataset.
+     */
+    function fallbackToAnyQuestion() {
+      let unasked = [];
+      questions.forEach(q => {
+        if (!askedQuestions.has(q.question)) {
+          unasked.push(q);
+        }
+      });
+
+      if (unasked.length === 0) {
+        // No unasked questions at all: game over scenario
+        questionElement.textContent = "No more questions available!";
+        categoryElement.textContent = "";
+        difficultyElement.textContent = "";
+        optionsElement.innerHTML = "";
+        nextQuestionButton.style.display = "none";
+        return;
+      }
+
+      // Choose random from 'unasked'
+      const questionObj = unasked[Math.floor(Math.random() * unasked.length)];
+      // Update the currentCategory & currentDifficultyIndex to match
+      currentCategory = questionObj.category;
+      currentDifficultyIndex = difficultyLevels.indexOf(questionObj.difficulty);
+
+      displayQuestion(questionObj);
+    }
+
+    /**
+     * Check if the answer is correct, update score, update difficulty/category according to rules,
+     * then show explanation, "Next" button, etc.
+     */
     function checkAnswer(answer, currentQuestion) {
+      // Prevent multiple clicks after answered
       if (answeredCorrectly) return;
 
       if (answer === currentQuestion.correctAnswer) {
+        // Correct
         resultElement.textContent = 'Correct!';
         resultElement.style.color = '#4CAF50';
         score += difficultyPoints[currentQuestion.difficulty];
-        currentDifficultyIndex = Math.min(currentDifficultyIndex + 1, difficultyLevels.length - 1);
         answeredCorrectly = true;
+
+        // Increase difficulty for the same category if possible
+        // OR use the next highest available difficulty question in that category
+        const nextIndex = findNextAvailableDifficultyUp(currentCategory, currentDifficultyIndex);
+        if (nextIndex !== -1) {
+          currentDifficultyIndex = nextIndex;
+        } else {
+          // If we can't go up, we at least stay at the same difficulty
+          // (If no question at the same difficulty, loadQuestion() will do fallback)
+        }
+
       } else {
-        resultElement.textContent = `Wrong answer. The correct answer is ${currentQuestion.correctAnswer}.`;
+        // Incorrect
+        resultElement.textContent = `Wrong answer. Correct: ${currentQuestion.correctAnswer}.`;
         resultElement.style.color = '#d9534f';
-        currentDifficultyIndex = Math.max(currentDifficultyIndex - 1, 0);
+        
+        // Switch to a DIFFERENT category, at one level lower difficulty (if possible)
+        const oldCategory = currentCategory;
+        currentCategory = pickRandomDifferentCategory(oldCategory);
+
+        const downIndex = findNextAvailableDifficultyDown(oldCategory, currentDifficultyIndex);
+        if (downIndex !== -1) {
+          currentDifficultyIndex = downIndex;
+        } else {
+          // If we can't go down, try same difficulty in the new category
+          // We'll see if the new category at the current difficulty has any questions
+          if (!getRandomQuestionFrom(currentCategory, difficultyLevels[currentDifficultyIndex])) {
+            // fallback if none
+            fallbackToAnyQuestion();
+            disableOptions();
+            explanationElement.textContent = currentQuestion.explanation;
+            nextQuestionButton.style.display = 'block';
+            saveGameState();
+            scoreElement.textContent = `Score: ${score}`;
+            return;
+          }
+        }
       }
+
+      // Mark this question as asked
+      askedQuestions.add(currentQuestion.question);
+      // Show explanation
       explanationElement.textContent = currentQuestion.explanation;
+      // Show "Next" button
       nextQuestionButton.style.display = 'block';
+      // Disable options
       disableOptions();
-      saveGameState();
+      // Update score
       scoreElement.textContent = `Score: ${score}`;
+      // Save state
+      saveGameState();
     }
 
+    /**
+     * Disable the multiple-choice buttons once the user has answered.
+     */
     function disableOptions() {
       const buttons = optionsElement.querySelectorAll('button');
       buttons.forEach(button => {
@@ -286,11 +521,16 @@
       });
     }
 
+    /**
+     * Handle the "Next" button click: load a new question
+     */
     nextQuestionButton.addEventListener('click', () => {
       loadQuestion();
-      resultElement.textContent = '';
     });
 
+    /**
+     * Theme toggle logic
+     */
     toggleThemeButton.addEventListener('click', () => {
       document.body.classList.toggle('dark-theme');
       if (document.body.classList.contains('dark-theme')) {
@@ -300,11 +540,35 @@
       }
     });
 
+    /***********************************************************
+     * ----------------- GAME INIT ----------------------------
+     ***********************************************************/
+
+    /**
+     * Initializes the game by building the question map,
+     * loading game state from localStorage, and picking
+     * an initial category/difficulty if not yet set.
+     */
     function initializeGame() {
-      loadQuestionsFromJS();
+      buildQuestionsMap();
       loadGameState();
+
+      // If we don't have a current category, pick one at random
+      if (!currentCategory || !allCategories.has(currentCategory)) {
+        const categoriesArray = Array.from(allCategories);
+        currentCategory = categoriesArray[Math.floor(Math.random() * categoriesArray.length)];
+      }
+
+      // If out of range, reset difficulty to 0
+      if (currentDifficultyIndex < 0 || currentDifficultyIndex >= difficultyLevels.length) {
+        currentDifficultyIndex = 0;
+      }
+
+      // Finally, load the first question
+      loadQuestion();
     }
 
+    // Start the game
     initializeGame();
   </script>
 </body>
