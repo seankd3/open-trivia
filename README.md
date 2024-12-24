@@ -50,7 +50,7 @@ To add questions, follow these steps:
         correctAnswer: "Paris",
         explanation: "Paris is the capital and most populous city of France.",
         category: "Geography",
-        difficulty: "Highschool"
+        difficulty: "Highschool" // Difficulty can be "Elementary", "Middle School", "Highschool", "Undergrad", "Masters", "PhD", "Extreme", "Extra Super Extremely hard", or "Impossible"
       },
       // Add more questions here
     ];

@@ -173,23 +173,29 @@
     let answeredCorrectly = false;
 
     const difficultyPoints = {
+      "Elementary": 0.25,
+      "Middle School": 0.5,
       "Highschool": 1,
       "Undergrad": 4,
       "Masters": 16,
       "PhD": 64,
       "Extreme": 256,
-      "Extra Super Extremely hard": 1024
+      "Extra Super Extremely hard": 1024,
+      "Impossible": 4096
     };
 
-    const difficultyLevels = ["Highschool", "Undergrad", "Masters", "PhD", "Extreme", "Extra Super Extremely hard"];
+    const difficultyLevels = ["Elementary", "Middle School", "Highschool", "Undergrad", "Masters", "PhD", "Extreme", "Extra Super Extremely hard", "Impossible"];
 
     const questionsByDifficulty = {
+      "Elementary": [],
+      "Middle School": [],
       "Highschool": [],
       "Undergrad": [],
       "Masters": [],
       "PhD": [],
       "Extreme": [],
-      "Extra Super Extremely hard": []
+      "Extra Super Extremely hard": [],
+      "Impossible": []
     };
 
     function loadQuestionsFromJS() {

@@ -16135,5 +16135,11289 @@ const questions = [
     "explanation": "Organic architecture, particularly as applied in Northern California, is associated with architects such as Frank Lloyd Wright and embodies large, asymmetrical structures and nature integration.",
     "category": "Architecture",
     "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which architect is known for the design of the Sydney Opera House, but specifically for their use of shells?",
+    "choices": [
+      "Louis Kahn",
+      "Moshe Safdie",
+      "Jaques Herzog",
+      "J\u00f8rn Utzon"
+    ],
+    "correctAnswer": "J\u00f8rn Utzon",
+    "explanation": "J\u00f8rn Utzon was the Danish architect who won the design competition for the Sydney Opera House and is known for his innovative use of shell-like structures in its design.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In which year did the construction of the Villa Savoye, designed by Le Corbusier, complete?",
+    "choices": [
+      "1928",
+      "1931",
+      "1945",
+      "1952"
+    ],
+    "correctAnswer": "1931",
+    "explanation": "Villa Savoye, which exemplifies the International Style and embodies the principles of Le Corbusier's Five Points of Architecture, was completed in 1931.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Who was the influential architect behind the concept of 'Deconstructivism'?",
+    "choices": [
+      "Zaha Hadid",
+      "Frank Gehry",
+      "Peter Eisenman",
+      "Daniel Libeskind"
+    ],
+    "correctAnswer": "Frank Gehry",
+    "explanation": "Frank Gehry is widely regarded as a master of Deconstructivism, characterized by fragmented forms and the challenge of traditional architectural conventions.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which Gothic architectural term refers to the ribbed framework that structures the vaulted ceilings?",
+    "choices": [
+      "Tracery",
+      "Clerestory",
+      "Everyday Ribbing",
+      "Ribbed Vault"
+    ],
+    "correctAnswer": "Ribbed Vault",
+    "explanation": "The ribbed vault is a construction method derived from Romanesque architecture used prominently in Gothic cathedrals, helping to distribute weight and create higher ceilings.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What was the innovative material introduced by Frank Lloyd Wright in the design of Fallingwater to blend the structure with nature?",
+    "choices": [
+      "Reinforced concrete",
+      "Steel frames",
+      "Cantilevered glass",
+      "Natural stone"
+    ],
+    "correctAnswer": "Cantilevered glass",
+    "explanation": "While the structure utilized various materials, it was Wright's use of cantilevered design and truely integrating glass and natural landscaping which heightened the bond between structure and nature.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which renowned architect designed the Villa Savoye, a prime example of the International Style?",
+    "choices": [
+      "Le Corbusier",
+      "Walter Gropius",
+      "Louis Kahn",
+      "Frank Lloyd Wright"
+    ],
+    "correctAnswer": "Le Corbusier",
+    "explanation": "The Villa Savoye, completed in 1931, is one of Le Corbusier's most important works and exemplifies his Five Points of Architecture come to life.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "The world's tallest completed building as of October 2023, the Burj Khalifa, is located in which city?",
+    "choices": [
+      "Dubai",
+      "Shanghai",
+      "New York",
+      "Kuala Lumpur"
+    ],
+    "correctAnswer": "Dubai",
+    "explanation": "Completed in 2010, the Burj Khalifa stands at a height of 828 meters and is a global icon, located in the heart of Dubai, UAE.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What ancient civilization is credited with the first architectural use of the arch, allowing for the construction of massive and durable structures?",
+    "choices": [
+      "The Egyptians",
+      "The Greeks",
+      "The Romans",
+      "The Mesopotamians"
+    ],
+    "correctAnswer": "The Romans",
+    "explanation": "The Romans utilized the arch extensively in their construction, leading to innovative structures such as aqueducts, bridges, and monumental buildings.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "The use of biomimicry in architecture often looks to which natural element for inspiration in creating sustainable buildings?",
+    "choices": [
+      "Trees",
+      "Aquatic organisms",
+      "Desert organisms",
+      "Honeycombs"
+    ],
+    "correctAnswer": "Trees",
+    "explanation": "Architects often study trees to improve designs for lightweight structures that utilize renewable references from nature to enhance environmental efficiency.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What famous architect is known for integrating nature with architecture and promoting organic architecture, exemplified by Fallingwater?",
+    "choices": [
+      "I. M. Pei",
+      "Louis Sullivan",
+      "Frank Lloyd Wright",
+      "Zaha Hadid"
+    ],
+    "correctAnswer": "Frank Lloyd Wright",
+    "explanation": "Frank Lloyd Wright designed Fallingwater in 1935 and prioritized harmony between human habitation and the natural world, making it a signature example of organic architecture.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which building is often cited as the first skyscraper using structural steel framing when it was completed in 1885?",
+    "choices": [
+      "The Woolworth Building",
+      "Home Insurance Building",
+      "Sears Tower",
+      "Chrysler Building"
+    ],
+    "correctAnswer": "Home Insurance Building",
+    "explanation": "The Home Insurance Building in Chicago, designed by William Le Baron Jenney, is considered the world's first skyscraper due to its innovative use of steel as the primary structural material.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which avant-garde movement in architecture normalized the use of industrial materials and processes during the early 20th century?",
+    "choices": [
+      "Modernism",
+      "Futurism",
+      "Constructivism",
+      "Bauhaus"
+    ],
+    "correctAnswer": "Modernism",
+    "explanation": "Modernism in architecture emphasized functional layouts and used industrial materials, reflecting the technological progress and rejecting ornate styles associated with the past.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary characteristic of a 'Cantilever' structure?",
+    "choices": [
+      "Free-standing structure",
+      "Support only on one end",
+      "Only vertical support",
+      "Uses triangulation"
+    ],
+    "correctAnswer": "Support only on one end",
+    "explanation": "A cantilevered structure extends horizontally into space, fixed at only one end, which allows for overhangs without external bracing.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "The analytical approach predominantly associated with constructing hollow and open forms, influenced by barras shirkarde architecture disciplines, falls under which theoretical model?",
+    "choices": [
+      "Constructivism",
+      "Synthesia",
+      "Rationalism",
+      "Parametricism"
+    ],
+    "correctAnswer": "Parametricism",
+    "explanation": "Parametricism promotes the use of algorithmic structures to create intricate forms shaped by changing parameters, focusing on function over static design.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which architect is known for popularizing the concept of 'brutalism' in architecture?",
+    "choices": [
+      "Le Corbusier",
+      "Louis Kahn",
+      "Oscar Niemeyer",
+      "Alison and Peter Smithson"
+    ],
+    "correctAnswer": "Alison and Peter Smithson",
+    "explanation": "Alison and Peter Smithson were key figures in the brutalism movement, helping to define its principles and visual language, most notably with the design of the Robin Hood Gardens in London.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What specific architectural feature is characteristic of Islamic architecture, especially in mosques?",
+    "choices": [
+      "Aqueducts",
+      "Minarets",
+      "Pillars",
+      "Domes"
+    ],
+    "correctAnswer": "Minarets",
+    "explanation": "Minarets are tall slender towers that are often an integral element of Islamic architecture, used for calls to prayer and symbolizing the height of aspiration towards the divine.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In which city is the Centro Nacional de Artes by architect Teodoro Gonz\u00e1lez de Le\u00f3n located?",
+    "choices": [
+      "S\u00e3o Paulo",
+      "Madrid",
+      "Mexico City",
+      "Buenos Aires"
+    ],
+    "correctAnswer": "Mexico City",
+    "explanation": "The Centro Nacional de Artes (National Arts Center) is prominently located in Mexico City, showcasing Teodoro Gonz\u00e1lez de Le\u00f3n's modern architectural style.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Who designed the Glass House, an iconic work of modernist architecture, in 1949?",
+    "choices": [
+      "Philip Johnson",
+      "Farnsworth",
+      "Mies van der Rohe",
+      "Frank Lloyd Wright"
+    ],
+    "correctAnswer": "Philip Johnson",
+    "explanation": "Philip Johnson designed the Glass House in New Canaan, Connecticut, which is renowned for its seamless integration with the surrounding nature and innovative use of translucent materials.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What architectural style is derived from ancient Roman architecture and starkly detailed through ornamental design?",
+    "choices": [
+      "Gothic",
+      "Mannerism",
+      "Rococo",
+      "Baroque"
+    ],
+    "correctAnswer": "Baroque",
+    "explanation": "Baroque architecture, which evolved from the Renaissance period, incorporates elaborate details, grand overall design, and a dynamic expression often found in churches and institutional buildings.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In classical architecture, what is the term for the rhythmic flow in a row of columns?",
+    "choices": [
+      "Syntaxis",
+      "Columniation",
+      "Entasis",
+      "Reticulation"
+    ],
+    "correctAnswer": "Columniation",
+    "explanation": "Columniation refers to the arrangement or fashioning of columns which effectively creates rhythm within the overall design of classical architecture.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which postmodern architecture team's approach emphasized irony with the manipulation of forms, colors, and symbols?",
+    "choices": [
+      "Group OCAT",
+      "Venturi Scott Brown",
+      "SEDUM Craftsmen",
+      "You & Me Architects"
+    ],
+    "correctAnswer": "Venturi Scott Brown",
+    "explanation": "Venturi Scott Brown introduced a playful ambivalence and became well-known for Sie Observation's principle of 'less is a bore,' which critiques modernist singularity.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What type of ancient structure features a circular stone slice with a conical roof typified by production-point productivity in Flintstones-like history?",
+    "choices": [
+      "Trulli",
+      "Dolmen",
+      "Menhir",
+      "Tumulus"
+    ],
+    "correctAnswer": "Trulli",
+    "explanation": "Trulli are traditional stone homes with conical roofs found mainly in the Itria Valley of Apulia, Italy, known for their unique architectural features and seasonal agricultural utility.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which renowned modernist architect is known for his 'organic architecture' and emphasized harmony between human habitation and nature?",
+    "choices": [
+      "Mies van der Rohe",
+      "Frank Lloyd Wright",
+      "Louis Sullivan",
+      "Richard Meier"
+    ],
+    "correctAnswer": "Frank Lloyd Wright",
+    "explanation": "Frank Lloyd Wright promoted organic architecture and believed that buildings should blend into and enhance their surroundings, exemplified in works like Fallingwater.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What term describes the architectural detailing marked by exaggerated scale and proportion, often associated with Romanesque buildings?",
+    "choices": [
+      "Application Architecture",
+      "Romanization",
+      "Basso Imperial",
+      "Transitional Style"
+    ],
+    "correctAnswer": "Application Architecture",
+    "explanation": "Application Architecture involves the manipulation of exaggerated carries from Romanesque designs emphasizing arches, thick walls more elaborately noted concurrent settings in medieval structures.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which architect is known for innovating the concept of 'Organic Architecture', particularly through the design of the Dade County Public Library?",
+    "choices": [
+      "Louis Kahn",
+      "Frank Lloyd Wright",
+      "Oscar Niemeyer",
+      "Richard Neutra"
+    ],
+    "correctAnswer": "Oscar Niemeyer",
+    "explanation": "Oscar Niemeyer is widely recognized for his contributions to the principles of 'Organic Architecture', which emphasizes harmony between the natural environment and the built form.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the architectural term for a freestanding pathway defined by continuous colonnades, especially noteworthy in classical structures?",
+    "choices": [
+      "Peristyle",
+      "Triforium",
+      "Cloister",
+      "Stoa"
+    ],
+    "correctAnswer": "Stoa",
+    "explanation": "A 'Stoa' refers to an ancient Greek covered portico or walkway that is supported by columns and opens to the opposite side.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In which decade was the famous Sydney Opera House officially completed, and who was the architect behind its design?",
+    "choices": [
+      "1970s; I.M. Pei",
+      "1980s; Richard Meier",
+      "1960s; J\u00f8rn Utzon",
+      "1990s; Zaha Hadid"
+    ],
+    "correctAnswer": "1970s; J\u00f8rn Utzon",
+    "explanation": "The Sydney Opera House, designed by architect J\u00f8rn Utzon, was officially completed in 1973 and is one of the most recognizable structures of the 20th century.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "The Temple of Heaven, an architectural masterpiece representative of Ming dynasty cosmology, is located in which city?",
+    "choices": [
+      "Shanghai",
+      "Beijing",
+      "Nanjing",
+      "Xi'an"
+    ],
+    "correctAnswer": "Beijing",
+    "explanation": "The Temple of Heaven is situated in Beijing and served as a religious complex for the emperor to pray for good harvests.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which architectural style is characterized by intricate tracery, high spires, and flying buttresses, often seen in Gothic cathedrals?",
+    "choices": [
+      "Neoclassical",
+      "Baroque",
+      "Romanesque",
+      "Rococo"
+    ],
+    "correctAnswer": "Gothic",
+    "explanation": "The Gothic style, prominent during the late Middle Ages, is noted for its use of flying buttresses and spires, creating structures that appeared to reach toward the heavens.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which San Francisco skyscraper is considered a pivotal example of Postmodern architecture and was designed by Michael Graves?",
+    "choices": [
+      "Salesforce Tower",
+      "Pacific Design Center",
+      "1535 Mission",
+      "Portsmouth Square"
+    ],
+    "correctAnswer": "Pacific Design Center",
+    "explanation": "Written by Michael Graves, the Pacific Design Center is often cited as an important example of Postmodernism in architecture, completing in 1975.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which architect is credited with the design of the famous Sydney Opera House?",
+    "choices": [
+      "Frank Lloyd Wright",
+      "Eero Saarinen",
+      "J\u00f8rn Utzon",
+      "Renzo Piano"
+    ],
+    "correctAnswer": "J\u00f8rn Utzon",
+    "explanation": "J\u00f8rn Utzon, a Danish architect, designed the Sydney Opera House, which opened in 1973. It is one of the most iconic buildings of the 20th century.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary structural system used in the construction of the Hagia Sophia?",
+    "choices": [
+      "Post and lintel",
+      "Arch and vault",
+      "Frame construction",
+      "Reinforced concrete"
+    ],
+    "correctAnswer": "Arch and vault",
+    "explanation": "The Hagia Sophia, built between 532 and 537, primarily uses a complex system of arches and vaulted structures that support its large dome.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which postmodern building is known for its bright colors and playful shapes, designed by architect Philip Johnson?",
+    "choices": [
+      "Bank of China Tower",
+      "AT&T Building",
+      "Vanna Venturi House",
+      "Seattle Central Library"
+    ],
+    "correctAnswer": "AT&T Building",
+    "explanation": "The AT&T Building, completed in 1984 in New York City, is famous for its reductionist adaptation of classical aesthetics and is considered a seminal work of postmodern architecture.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which ancient civilization is credited with developing the first form of true arches?",
+    "choices": [
+      "Egyptian Civilization",
+      "Greek Civilization",
+      "Roman Civilization",
+      "Mesopotamian Civilization"
+    ],
+    "correctAnswer": "Roman Civilization",
+    "explanation": "The Roman Civilization dramatically advanced the use of the arch, using it in aqueducts, bridges, and monumental structures, leading to a significant evolution in architectural capabilities.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Who designed the Fallingwater house, considered a masterpiece of organic architecture?",
+    "choices": [
+      "Louis Kahn",
+      "Le Corbusier",
+      "Frank Lloyd Wright",
+      "Lina Bo Bardi"
+    ],
+    "correctAnswer": "Frank Lloyd Wright",
+    "explanation": "Fallingwater, designed by Frank Lloyd Wright in 1935, is celebrated for its integration with the surrounding landscape and commitment to craftsmanship.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What unique feature distinguishes the Centre Pompidou in Paris?",
+    "choices": [
+      "Gothic spires",
+      "All-glass facade",
+      "Exposed structural elements",
+      "Green roof"
+    ],
+    "correctAnswer": "Exposed structural elements",
+    "explanation": "The Centre Pompidou, designed by Richard Rogers and Renzo Piano in 1977, is characterized by its bold structure with pipes and mechanical systems displayed on the exterior.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which architectural style originated in the late 19th century and favors the use of new structural materials and large glass areas?",
+    "choices": [
+      "Brutalism",
+      "Art Nouveau",
+      "International Style",
+      "Beaux-Arts"
+    ],
+    "correctAnswer": "International Style",
+    "explanation": "The International Style emerged in the 1920s and favored functional aesthetics, advancing steel, glass, and reinforced concrete for minimalist designs and open spaces.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following algorithms is considered a divide and conquer algorithm?",
+    "choices": [
+      "Bubble Sort",
+      "Merge Sort",
+      "Linear Search",
+      "Depth-First Search"
+    ],
+    "correctAnswer": "Merge Sort",
+    "explanation": "Merge Sort is a divide and conquer algorithm that divides the input into two halves, recursively sorts each half, and then merges the sorted halves.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does the 'HTTP' in URL stand for?",
+    "choices": [
+      "HyperText Transmission Protocol",
+      "HyperText Transport Protocol",
+      "HyperText Transfer Protocol",
+      "HyperText Test Protocol"
+    ],
+    "correctAnswer": "HyperText Transfer Protocol",
+    "explanation": "HTTP stands for HyperText Transfer Protocol, which is the foundation of data communication on the World Wide Web.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In programming, what is a 'byte'?",
+    "choices": [
+      "A unit of 10 bits",
+      "A unit of data that is 4 bits",
+      "A unit of data that is commonly 8 bits",
+      "A type of code that uses 2 digits"
+    ],
+    "correctAnswer": "A unit of data that is commonly 8 bits",
+    "explanation": "A byte is a basic unit of data in computer storage, typically consisting of 8 bits.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What type of data structure uses FIFO (First In, First Out) logic?",
+    "choices": [
+      "Array",
+      "Stack",
+      "Queue",
+      "Tree"
+    ],
+    "correctAnswer": "Queue",
+    "explanation": "A Queue is a data structure that processes elements in a first in, first out manner, similar to a line of people waiting.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following is an example of a low-level programming language?",
+    "choices": [
+      "Python",
+      "Java",
+      "C",
+      "Assembly"
+    ],
+    "correctAnswer": "Assembly",
+    "explanation": "Assembly language is a low-level programming language that is close to machine code and requires a detailed understanding of the computer's architecture.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does the term 'Open Source' reference?",
+    "choices": [
+      "Software that is available for free with its source code open to the public",
+      "Software maintained by a single corporation",
+      "Software that is remarkably secure",
+      "Software packaged for distribution only"
+    ],
+    "correctAnswer": "Software that is available for free with its source code open to the public",
+    "explanation": "Open Source refers to software that has its source code made publicly available for anyone to view, modify, or distribute.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In the context of computer networks, what does 'latency' refer to?",
+    "choices": [
+      "The speed of data transfer",
+      "The amount of data that can be transferred at once",
+      "The time delay in transmitting data across a network",
+      "The capacity of a network"
+    ],
+    "correctAnswer": "The time delay in transmitting data across a network",
+    "explanation": "Latency refers to the time it takes for a data packet to travel from the source to the destination over a network.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which component is often referred to as the 'brain' of the computer?",
+    "choices": [
+      "Random Access Memory (RAM)",
+      "Motherboard",
+      "Central Processing Unit (CPU)",
+      "Graphics Processing Unit (GPU)"
+    ],
+    "correctAnswer": "Central Processing Unit (CPU)",
+    "explanation": "The Central Processing Unit (CPU) is considered the brain of the computer because it performs most of the calculations and processing of data.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does the acronym 'HTTP' stand for?",
+    "choices": [
+      "Hyper Transfer Text Protocol",
+      "Hypertext Transport Protocol",
+      "Hypertext Transfer Protocol",
+      "Hypertext Transmission Protocol"
+    ],
+    "correctAnswer": "Hypertext Transfer Protocol",
+    "explanation": "HTTP stands for Hypertext Transfer Protocol, which is used for transferring hypertext in the World Wide Web.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which data structure uses 'first-in, first-out' (FIFO) methodology?",
+    "choices": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "correctAnswer": "Queue",
+    "explanation": "A Queue is a data structure that follows the FIFO principle, meaning the first element added is the first one to be removed.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In programming, what does 'OOP' stand for?",
+    "choices": [
+      "Optimized Operating Program",
+      "Object-Oriented Programming",
+      "Official Open Protocol",
+      "Ordered Output Procedure"
+    ],
+    "correctAnswer": "Object-Oriented Programming",
+    "explanation": "OOP stands for Object-Oriented Programming, a programming paradigm based on the concept of 'objects'.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following is not a programming language?",
+    "choices": [
+      "Python",
+      "HTML",
+      "JavaScript",
+      "C++"
+    ],
+    "correctAnswer": "HTML",
+    "explanation": "HTML (Hypertext Markup Language) is a markup language used for creating web pages, not a programming language.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the main purpose of an 'IP address'?",
+    "choices": [
+      "To control internet traffic",
+      "To identify a device on a network",
+      "To secure data",
+      "To assign time stamps to data packets"
+    ],
+    "correctAnswer": "To identify a device on a network",
+    "explanation": "An IP address serves as a unique identifier for devices on a network, allowing them to communicate with one another.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following is true regarding the functioning of a stack data structure?",
+    "choices": [
+      "Elements can be added and removed from both ends.",
+      "It follows the Last In First Out (LIFO) principle.",
+      "Elements can only be added, but not removed.",
+      "It's primarily based on a binary search tree."
+    ],
+    "correctAnswer": "It follows the Last In First Out (LIFO) principle.",
+    "explanation": "A stack data structure allows elements to be added and removed only from the top, adhering to the LIFO principle.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does the acronym 'HTML' stand for?",
+    "choices": [
+      "Hypertext Markup Language",
+      "High-level Task Management Language",
+      "Hyper Transfer Multi Link",
+      "Home Tool Markup Language"
+    ],
+    "correctAnswer": "Hypertext Markup Language",
+    "explanation": "HTML stands for Hypertext Markup Language, which is the standard language for creating web pages.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which data structure uses the technique known as collision resolution?",
+    "choices": [
+      "Stack",
+      "Queue",
+      "Hash Table",
+      "Graph"
+    ],
+    "correctAnswer": "Hash Table",
+    "explanation": "Hash tables rely on collision resolution techniques to handle situations where two keys hash to the same index.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the time complexity of accessing an element in a binary search tree (BST) in the average case scenario?",
+    "choices": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correctAnswer": "O(log n)",
+    "explanation": "In a balanced binary search tree, the average time complexity of accessing an element is O(log n) due to halving the search space at each step.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following protocols is commonly used for secure data transmission over the internet?",
+    "choices": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "HTTPS"
+    ],
+    "correctAnswer": "HTTPS",
+    "explanation": "HTTPS, or HTTP Secure, is an extension of HTTP that uses SSL/TLS protocols for secure data transmission.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does the acronym \"HTML\" stand for?",
+    "choices": [
+      "HyperText Markup Language",
+      "HighText Machine Language",
+      "Hyperlink and Text Markup Language",
+      "High-Level Programming Language"
+    ],
+    "correctAnswer": "HyperText Markup Language",
+    "explanation": "HTML stands for HyperText Markup Language, which is the standard markup language used to create web pages.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following is a hashing algorithm?",
+    "choices": [
+      "SHA-256",
+      "RC4",
+      "AES",
+      "RSA"
+    ],
+    "correctAnswer": "SHA-256",
+    "explanation": "SHA-256 is a hashing algorithm that produces a 256-bit hash value, used for data integrity verification.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the purpose of an IP address?",
+    "choices": [
+      "To encrypt data",
+      "To identify devices on a network",
+      "To manage software installations",
+      "To execute program commands"
+    ],
+    "correctAnswer": "To identify devices on a network",
+    "explanation": "An IP address is used to identify devices on a network uniquely and facilitate data transfer between them.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of these is a type of loop in programming?",
+    "choices": [
+      "for",
+      "cat",
+      "end",
+      "break"
+    ],
+    "correctAnswer": "for",
+    "explanation": "A \"for\" loop iterates over a sequence, allowing repeated execution of a block of code a specified number of times.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In object-oriented programming, what is inheritance?",
+    "choices": [
+      "A mechanism to skip execution",
+      "A way to define only one method per class",
+      "A way to derive a new class from an existing one",
+      "A technique to measure how fast a program executes"
+    ],
+    "correctAnswer": "A way to derive a new class from an existing one",
+    "explanation": "Inheritance is a fundamental concept in object-oriented programming where a new class can inherit properties and methods from an existing class.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary purpose of an Operating System?",
+    "choices": [
+      "To manage computer hardware",
+      "To compile programs",
+      "To design user interfaces",
+      "To connect to the internet"
+    ],
+    "correctAnswer": "To manage computer hardware",
+    "explanation": "An Operating System acts as an intermediary between users and computer hardware, managing resources and allocating processes.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which algorithm design paradigm uses the technique of dividing a problem into smaller subproblems?",
+    "choices": [
+      "Greedy Algorithm",
+      "Dynamic Programming",
+      "Divide and Conquer",
+      "Brute Force"
+    ],
+    "correctAnswer": "Divide and Conquer",
+    "explanation": "Divide and Conquer is an algorithm design paradigm that works by recursively breaking down a problem into smaller sub-problems until they are manageable.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In binary, which of the following represents the decimal number 13?",
+    "choices": [
+      "1101",
+      "1110",
+      "1011",
+      "1111"
+    ],
+    "correctAnswer": "1101",
+    "explanation": "In binary, the digits represent powers of 2. The binary number 1101 translates to 1*8 + 1*4 + 0*2 + 1*1, which equals 13.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does the HTTP status code 404 signify?",
+    "choices": [
+      "Success",
+      "Server Error",
+      "Page Not Found",
+      "Unauthorized Access"
+    ],
+    "correctAnswer": "Page Not Found",
+    "explanation": "The 404 status code indicates that the requested page could not be found on the server.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following is a characteristic of a linked list compared to an array?",
+    "choices": [
+      "Dynamic size",
+      "Multi-dimensional",
+      "Stored in contiguous memory",
+      "Faster access to elements"
+    ],
+    "correctAnswer": "Dynamic size",
+    "explanation": "A linked list can grow dynamically, while arrays have a fixed size unless a new array is created.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which type of data structure is mainly used to implement recursion?",
+    "choices": [
+      "Array",
+      "Stack",
+      "Queue",
+      "Linked List"
+    ],
+    "correctAnswer": "Stack",
+    "explanation": "A stack follows the last-in, first-out (LIFO) principle, which aligns with how recursive function calls work.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does DRAM stand for in computer memory?",
+    "choices": [
+      "Dynamic Random Access Memory",
+      "Direct Random Access Memory",
+      "Data Reading Access Memory",
+      "Dual Random Access Memory"
+    ],
+    "correctAnswer": "Dynamic Random Access Memory",
+    "explanation": "DRAM stands for Dynamic Random Access Memory, which stores each bit of data in a separate capacitor within an integrated circuit.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is an example of a malware type that disguises itself as a legitimate program?",
+    "choices": [
+      "Trojan Horse",
+      "Worm",
+      "Virus",
+      "Spyware"
+    ],
+    "correctAnswer": "Trojan Horse",
+    "explanation": "A Trojan Horse is a type of malware that pretends to be a legitimate software to deceive users into installing it.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In programming, what does 'API' stand for?",
+    "choices": [
+      "Application Programming Interface",
+      "Application Performance Indicator",
+      "Actual Programming Improvement",
+      "Advanced Protocol Integration"
+    ],
+    "correctAnswer": "Application Programming Interface",
+    "explanation": "API stands for Application Programming Interface, which defines the methods and tools for building software applications.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In the context of web development, what does CSS stand for?",
+    "choices": [
+      "Cascading Style Sheets",
+      "Creative Style System",
+      "Colored Style Syntax",
+      "Centralized Styling Service"
+    ],
+    "correctAnswer": "Cascading Style Sheets",
+    "explanation": "CSS stands for Cascading Style Sheets, which is used for describing the presentation of a document written in HTML or XML.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which sorting algorithm has the best average-case time complexity?",
+    "choices": [
+      "Bubble Sort",
+      "Quick Sort",
+      "Insertion Sort",
+      "Selection Sort"
+    ],
+    "correctAnswer": "Quick Sort",
+    "explanation": "Quick Sort is an efficient sorting algorithm that, on average, has a time complexity of O(n log n), compared to other common sorts.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the main purpose of DNS in networking?",
+    "choices": [
+      "Transferring data files",
+      "Encryption of internet traffic",
+      "Resolving domain names to IP addresses",
+      "Improving network speed"
+    ],
+    "correctAnswer": "Resolving domain names to IP addresses",
+    "explanation": "DNS, or Domain Name System, is responsible for translating human-friendly domain names into IP addresses that computers can understand.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following is a programming paradigm based on the concept of 'objects'?",
+    "choices": [
+      "Procedural Programming",
+      "Functional Programming",
+      "Object-Oriented Programming",
+      "Logic Programming"
+    ],
+    "correctAnswer": "Object-Oriented Programming",
+    "explanation": "Object-Oriented Programming (OOP) is a programming paradigm centered on the concept of 'objects', which can contain data and code.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In the context of databases, what does ACID stand for?",
+    "choices": [
+      "Atomicity, Consistency, Isolation, Durability",
+      "Algebra, Closure, Isolation, Durability",
+      "Access, Consistency, Integrity, Durability",
+      "Atomicity, Causality, Isolation, Decay"
+    ],
+    "correctAnswer": "Atomicity, Consistency, Isolation, Durability",
+    "explanation": "ACID is a set of properties that guarantee that database transactions are processed reliably, comprising Atomicity, Consistency, Isolation, and Durability.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary function of an operating system?",
+    "choices": [
+      "Manage hardware and software resources",
+      "Create and edit documents",
+      "Develop software applications",
+      "Conduct data analysis"
+    ],
+    "correctAnswer": "Manage hardware and software resources",
+    "explanation": "An operating system (OS) is software that manages computer hardware and software resources and provides common services for computer programs.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In which data structure is a tree most similar to?",
+    "choices": [
+      "Array",
+      "Graph",
+      "Linked List",
+      "Stack"
+    ],
+    "correctAnswer": "Graph",
+    "explanation": "A tree is a specialized form of a graph where there are no cycles, and there is one unique path between any two nodes.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which algorithm is primarily used in public-key cryptography?",
+    "choices": [
+      "RSA algorithm",
+      "Dijkstra's algorithm",
+      "Huffman coding",
+      "Bubble sort"
+    ],
+    "correctAnswer": "RSA algorithm",
+    "explanation": "The RSA algorithm is an asymmetric cryptographic algorithm used widely for secure data transmission and key exchange.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following languages is primarily regarded as a systems programming language?",
+    "choices": [
+      "Python",
+      "Java",
+      "C",
+      "Ruby"
+    ],
+    "correctAnswer": "C",
+    "explanation": "C is known as a systems programming language as it provides low-level access to memory and operating within hardware.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the time complexity of binary search in a sorted array?",
+    "choices": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correctAnswer": "O(log n)",
+    "explanation": "Binary search reduces the size of the search space by half every time a decision is made, hence it's logarithmic.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary function of a CPU?",
+    "choices": [
+      "Memory storage",
+      "Input processing",
+      "Data output",
+      "Instruction execution"
+    ],
+    "correctAnswer": "Instruction execution",
+    "explanation": "The Central Processing Unit (CPU) is often called the brain of the computer, as it performs the instructions of computer programs by executing and processing data.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which data structure uses a FIFO (First In, First Out) principle?",
+    "choices": [
+      "Stack",
+      "Queue",
+      "Linked List",
+      "Array"
+    ],
+    "correctAnswer": "Queue",
+    "explanation": "A queue is a linear data structure that follows the FIFO order, in which the first element added is the first to be removed.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is a common use case for a Trie data structure?",
+    "choices": [
+      "Searching an element in an array",
+      "Autocomplete feature in search engines",
+      "Storing integer keys",
+      "Implementing stack operations"
+    ],
+    "correctAnswer": "Autocomplete feature in search engines",
+    "explanation": "Tries are efficient to use for retrieval of strings, making them ideal for autocomplete features where the user inputs part of a word and the system suggests complete matches.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which algorithm is typically used for pathfinding and graph traversal?",
+    "choices": [
+      "Bubble Sort",
+      "A* Search",
+      "Binary Search",
+      "Depth-First Search"
+    ],
+    "correctAnswer": "A* Search",
+    "explanation": "The A* Search algorithm is widely used for pathfinding and graph traversal, combining aspects of Dijkstra's Algorithm and heuristics to efficiently find the shortest path.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the time complexity of an algorithm that needs to evaluate all possible subsets of a set with 'n' elements?",
+    "choices": [
+      "O(n)",
+      "O(n log n)",
+      "O(2^n)",
+      "O(n^2)"
+    ],
+    "correctAnswer": "O(2^n)",
+    "explanation": "Evaluating all possible subsets of a set requires examining every combination, leading to a time complexity of O(2^n), where 'n' is the number of elements in the set.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the process of finding and fixing bugs in software called?",
+    "choices": [
+      "Debugging",
+      "Compiling",
+      "Executing",
+      "Testing"
+    ],
+    "correctAnswer": "Debugging",
+    "explanation": "Debugging is the process used by software developers to identify and correct errors or bugs in code.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following programming languages is considered object-oriented?",
+    "choices": [
+      "Python",
+      "C",
+      "HTML",
+      "SQL"
+    ],
+    "correctAnswer": "Python",
+    "explanation": "Python is an object-oriented programming language that allows encapsulation, inheritance, and polymorphism.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What structure of data organizes data in a last-in-first-out (LIFO) manner?",
+    "choices": [
+      "Queue",
+      "Stack",
+      "Array",
+      "Linked List"
+    ],
+    "correctAnswer": "Stack",
+    "explanation": "A stack structures data so that the last element added is the first one to be removed (LIFO).",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the main purpose of an algorithm in computer science?",
+    "choices": [
+      "To store data",
+      "To define a problem",
+      "To set rules for logical reasoning",
+      "To provide a step-by-step procedure for calculations"
+    ],
+    "correctAnswer": "To provide a step-by-step procedure for calculations",
+    "explanation": "An algorithm is a series of steps, in order, to accomplish a specific task or solve a particular problem.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In networking, what does the acronym 'IP' stand for?",
+    "choices": [
+      "Internet Provider",
+      "Interface Protocol",
+      "Internet Protocol",
+      "International Packet"
+    ],
+    "correctAnswer": "Internet Protocol",
+    "explanation": "IP stands for Internet Protocol, which is used to identify and locate computers on a network, enabling data exchange.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary function of the operating system?",
+    "choices": [
+      "Managing hardware resources",
+      "Creating video graphics",
+      "Compiling code",
+      "Building networks"
+    ],
+    "correctAnswer": "Managing hardware resources",
+    "explanation": "The primary function of an operating system (OS) is to manage the hardware and software resources of the computer, including the CPU, memory, disk space, and input/output devices.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following sorting algorithms has the best average-case time complexity?",
+    "choices": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "Quick Sort",
+      "Selection Sort"
+    ],
+    "correctAnswer": "Quick Sort",
+    "explanation": "Quick Sort has an average-case time complexity of O(n log n), making it one of the most efficient sorting algorithms in average scenarios. In contrast, Bubble Sort and Selection Sort have average time complexities of O(n^2).",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does the acronym 'HTML' stand for in web development?",
+    "choices": [
+      "HyperText Markup Language",
+      "Hyper Transfer Markup Language",
+      "Hypertext Machine Language",
+      "Hyper Tech Markup Language"
+    ],
+    "correctAnswer": "HyperText Markup Language",
+    "explanation": "HTML stands for HyperText Markup Language, which is the standard language used for creating web pages and web applications.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which component of a computer system is responsible for executing instructions?",
+    "choices": [
+      "RAM",
+      "Hard Drive",
+      "CPU",
+      "Motherboard"
+    ],
+    "correctAnswer": "CPU",
+    "explanation": "The CPU, or Central Processing Unit, is often referred to as the brain of the computer. It is responsible for executing instructions from programs and performing calculations.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "choices": [
+      "Control Processing Unit",
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Unit"
+    ],
+    "correctAnswer": "Central Processing Unit",
+    "explanation": "CPU stands for Central Processing Unit, which is often referred to as the brain of the computer where most calculations take place.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is a Turing complete programming language?",
+    "choices": [
+      "SQL",
+      "HTML",
+      "Python",
+      "CSS"
+    ],
+    "correctAnswer": "Python",
+    "explanation": "Python is a Turing complete language, meaning it can simulate any Turing machine and thus can perform any computation given enough time and resources.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What does 'HTTP' stand for?",
+    "choices": [
+      "HyperText Transmission Protocol",
+      "HyperText Transfer Protocol",
+      "HyperText Transport Protocol",
+      "HyperText Termination Protocol"
+    ],
+    "correctAnswer": "HyperText Transfer Protocol",
+    "explanation": "HTTP stands for HyperText Transfer Protocol, which is the foundation of data communication on the World Wide Web.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which data structure uses FIFO (First In, First Out)?",
+    "choices": [
+      "Array",
+      "Stack",
+      "Queue",
+      "Linked List"
+    ],
+    "correctAnswer": "Queue",
+    "explanation": "A Queue is a data structure that follows FIFO (First In, First Out) order, meaning the first element added is the first one to be removed.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the main purpose of an operating system?",
+    "choices": [
+      "Data storage management",
+      "Language translation",
+      "Resource management",
+      "Network security"
+    ],
+    "correctAnswer": "Resource management",
+    "explanation": "An operating system's primary role is to manage computer hardware and software resources while providing common services for application programs.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following network topologies uses a central hub?",
+    "choices": [
+      "Star",
+      "Ring",
+      "Bus",
+      "Mesh"
+    ],
+    "correctAnswer": "Star",
+    "explanation": "A Star topology uses a central hub, node, or switch to which all other nodes are connected, facilitating easy addition and management of devices.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is recursion in computer programming?",
+    "choices": [
+      "Process where a function calls itself",
+      "Declaring a function",
+      "Syntax error in a function",
+      "A loop in code"
+    ],
+    "correctAnswer": "Process where a function calls itself",
+    "explanation": "Recursion is when a function calls itself to solve smaller instances of the same problem, often used to simplify complex problems.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which encryption method uses the same key for both encryption and decryption?",
+    "choices": [
+      "Asymmetric encryption",
+      "Symmetric encryption",
+      "Hashing",
+      "Nonce"
+    ],
+    "correctAnswer": "Symmetric encryption",
+    "explanation": "Symmetric encryption uses the same key for both encryption and decryption, making it different from asymmetric encryption which uses a public and a private key.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What browsing tool stores usernames and passwords?",
+    "choices": [
+      "Firewall",
+      "Cache",
+      "Bookmark",
+      "Password manager"
+    ],
+    "correctAnswer": "Password manager",
+    "explanation": "A password manager is a tool that stores usernames and passwords securely, simplifying the process of logging into various accounts.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What does 'CSS' stand for?",
+    "choices": [
+      "Cascading Style Sheet",
+      "Computer Style Source",
+      "Custom Style System",
+      "Content Style Sheet"
+    ],
+    "correctAnswer": "Cascading Style Sheet",
+    "explanation": "CSS stands for Cascading Style Sheets, used for describing the presentation of a document written in HTML or XML.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary purpose of an operating system?",
+    "choices": [
+      "To provide a user interface for applications",
+      "To manage hardware resources and provide services for computer programs",
+      "To perform calculations faster than hardware",
+      "To connect to the internet"
+    ],
+    "correctAnswer": "To manage hardware resources and provide services for computer programs",
+    "explanation": "An operating system serves as an intermediary between users and the computer hardware, managing resources such as the CPU, RAM, and disk drives.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which data structure uses the Last In First Out (LIFO) principle?",
+    "choices": [
+      "Queue",
+      "Stack",
+      "Array",
+      "Linked List"
+    ],
+    "correctAnswer": "Stack",
+    "explanation": "A stack is a data structure that follows the LIFO principle, meaning that the last element added is the first one to be removed.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "choices": [
+      "Structured Query Language",
+      "Standard Query Language",
+      "Simple Query Language",
+      "Structured Question Language"
+    ],
+    "correctAnswer": "Structured Query Language",
+    "explanation": "SQL stands for Structured Query Language, which is used to communicate with databases to query, update, and manage data.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In computer networking, what does TCP stand for?",
+    "choices": [
+      "Transfer Control Protocol",
+      "Transmission Control Protocol",
+      "Time Copy Protocol",
+      "Transport Control Protocol"
+    ],
+    "correctAnswer": "Transmission Control Protocol",
+    "explanation": "TCP stands for Transmission Control Protocol, which is one of the key protocols of the Internet, ensuring reliable transmission of data.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which programming paradigm is based on the concept of classes and objects?",
+    "choices": [
+      "Functional programming",
+      "Procedural programming",
+      "Object-oriented programming",
+      "Declarative programming"
+    ],
+    "correctAnswer": "Object-oriented programming",
+    "explanation": "Object-oriented programming (OOP) is a programming paradigm that uses 'objects' to represent data and methods, and design revolves around classes and objects.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is an example of an interpreted language?",
+    "choices": [
+      "C",
+      "Java",
+      "Python",
+      "Go"
+    ],
+    "correctAnswer": "Python",
+    "explanation": "Python is an interpreted language, meaning that its code is executed line-by-line by the interpreter.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the purpose of a binary search?",
+    "choices": [
+      "Sort a list of numbers",
+      "Find an element in a sorted list",
+      "Stop recursion",
+      "Execute multiple processes"
+    ],
+    "correctAnswer": "Find an element in a sorted list",
+    "explanation": "A binary search is an efficient algorithm that is used to find a specific element in a sorted list by repeatedly dividing the search interval in half.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In computer networking, what does IP stand for?",
+    "choices": [
+      "Internet Protocol",
+      "Internal Process",
+      "Input Power",
+      "Interconnected People"
+    ],
+    "correctAnswer": "Internet Protocol",
+    "explanation": "IP stands for Internet Protocol, which is a set of rules governing the format of data sent over the internet. It's critical for establishing a connection between devices.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the time complexity of accessing an element in an array?",
+    "choices": [
+      "O(n)",
+      "O(1)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctAnswer": "O(1)",
+    "explanation": "Accessing an element in an array takes constant time, O(1), because you can directly access any element based on its index.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following data structures uses Last In First Out (LIFO) principle?",
+    "choices": [
+      "Queue",
+      "Tree",
+      "Stack",
+      "Array"
+    ],
+    "correctAnswer": "Stack",
+    "explanation": "A stack uses the Last In First Out (LIFO) principle, meaning the last element added is the first to be removed.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which algorithm is used to find the shortest path in a graph?",
+    "choices": [
+      "Merge Sort",
+      "Dijkstra's Algorithm",
+      "Binary Search",
+      "Quick Sort"
+    ],
+    "correctAnswer": "Dijkstra's Algorithm",
+    "explanation": "Dijkstra's Algorithm is used for finding the shortest paths between nodes in a graph, making it essential for routing and network optimization.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What does GUI stand for in computer science?",
+    "choices": [
+      "Generally Universal Interface",
+      "Graphical User Interface",
+      "Globally Unique Identifier",
+      "Graphical Utility Integration"
+    ],
+    "correctAnswer": "Graphical User Interface",
+    "explanation": "GUI stands for Graphical User Interface, which allows users to interact with electronic devices using graphical icons and visual indicators.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is a function of RAM?",
+    "choices": [
+      "Data storage",
+      "Executing instructions",
+      "Providing power",
+      "Invalid buffering"
+    ],
+    "correctAnswer": "Executing instructions",
+    "explanation": "Random Access Memory (RAM) is used for temporarily storing data that is being used by the CPU during operation, effectively executing instructions.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which sorting algorithm is considered the fastest in average case complexity?",
+    "choices": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "Merge Sort",
+      "Quick Sort"
+    ],
+    "correctAnswer": "Quick Sort",
+    "explanation": "Quick Sort is often faster in practice than other O(n log n) algorithms, especially for sorted input, due to its partitioning strategy.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What does API stand for?",
+    "choices": [
+      "Application Programming Interface",
+      "Application Prototyping Integration",
+      "Applied Protocol Interface",
+      "Advanced Programming Initiative"
+    ],
+    "correctAnswer": "Application Programming Interface",
+    "explanation": "API stands for Application Programming Interface, which defines the methods and data structures that applications use to communicate with each other.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which data structure uses Last In First Out (LIFO) methodology?",
+    "choices": [
+      "Queue",
+      "Stack",
+      "Array",
+      "Linked List"
+    ],
+    "correctAnswer": "Stack",
+    "explanation": "A Stack is a data structure that operates on the Last In First Out (LIFO) principle, meaning the last element added to the stack is the first to be removed.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is an example of non-volatile memory?",
+    "choices": [
+      "RAM",
+      "Cache",
+      "ROM",
+      "Registers"
+    ],
+    "correctAnswer": "ROM",
+    "explanation": "ROM, or Read-Only Memory, is a type of non-volatile memory that retains its content even when power is turned off, unlike RAM which is volatile.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What language is primarily used for styling web pages?",
+    "choices": [
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "PHP"
+    ],
+    "correctAnswer": "CSS",
+    "explanation": "CSS, or Cascading Style Sheets, is the standard language for styling and layout of web pages and is used in conjunction with HTML.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In which computer network topology does each node connect to a central hub?",
+    "choices": [
+      "Bus",
+      "Star",
+      "Ring",
+      "Mesh"
+    ],
+    "correctAnswer": "Star",
+    "explanation": "In a star topology, every node is connected to a central hub or switch, allowing for easy management and troubleshooting of the network.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is an object-oriented programming concept?",
+    "choices": [
+      "Inheritance",
+      "Encapsulation",
+      "Polymorphism",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Inheritance, encapsulation, and polymorphism are fundamental concepts of object-oriented programming that help in organizing and structuring code effectively.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What does the term 'algorithm' mean in computer science?",
+    "choices": [
+      "A piece of hardware",
+      "A set of rules or steps to solve a problem",
+      "A programming language",
+      "A type of software application"
+    ],
+    "correctAnswer": "A set of rules or steps to solve a problem",
+    "explanation": "An algorithm is a specific set of logical steps and instructions to accomplish a task or solve a problem.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is a noSQL database?",
+    "choices": [
+      "MySQL",
+      "MongoDB",
+      "Oracle",
+      "SQLite"
+    ],
+    "correctAnswer": "MongoDB",
+    "explanation": "MongoDB is a popular noSQL database that stores data in flexible, JSON-like documents instead of traditional table formats.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In which layer of the OSI model does the HTTP protocol operate?",
+    "choices": [
+      "Application Layer",
+      "Transport Layer",
+      "Network Layer",
+      "Data Link Layer"
+    ],
+    "correctAnswer": "Application Layer",
+    "explanation": "HTTP (Hypertext Transfer Protocol) is an application layer protocol used for transferring hypertext requests and information on the internet.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the time complexity of accessing an element in a hash table?",
+    "choices": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correctAnswer": "O(1)",
+    "explanation": "Hash tables provide an average time complexity of O(1) for accessing an element, assuming a good hash function and low collision amounts.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which sorting algorithm is considered the most efficient for large datasets?",
+    "choices": [
+      "Bubble Sort",
+      "Merge Sort",
+      "Insertion Sort",
+      "Selection Sort"
+    ],
+    "correctAnswer": "Merge Sort",
+    "explanation": "Merge Sort has an average and worst-case time complexity of O(n log n), making it efficient for sorting large datasets.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following protocols is used to send emails?",
+    "choices": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "IMAP"
+    ],
+    "correctAnswer": "SMTP",
+    "explanation": "SMTP, or Simple Mail Transfer Protocol, is the standard protocol used for sending emails across the Internet.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "choices": [
+      "Hyper Text Markup Language",
+      "High-Level Text Marking Language",
+      "Hyperlink and Text Markup Language",
+      "Hyper Transfer Markup Language"
+    ],
+    "correctAnswer": "Hyper Text Markup Language",
+    "explanation": "HTML stands for Hyper Text Markup Language, which is the standard language used to create and design pages on the World Wide Web.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which algorithm is primarily associated with optimal pathfinding for games?",
+    "choices": [
+      "Dijkstra\u2019s Algorithm",
+      "Merge Sort",
+      "Bubble Sort",
+      "Hungry Ghost Algorithm"
+    ],
+    "correctAnswer": "Dijkstra\u2019s Algorithm",
+    "explanation": "Dijkstra\u2019s Algorithm is a popular algorithm used for finding the shortest path between nodes, commonly applied in game development for pathfinding.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of these is a version control system?",
+    "choices": [
+      "Markdown",
+      "Git",
+      "\u044f\u042f\u0438\u043b\u043b\u0438w\u1ee5gui",
+      "HTML"
+    ],
+    "correctAnswer": "Git",
+    "explanation": "Git is a widely used version control system that allows developers to track changes to code and collaborate with others.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What language is primarily used for artificial intelligence?",
+    "choices": [
+      "Pascal",
+      "Python",
+      "HTML",
+      "C++"
+    ],
+    "correctAnswer": "Python",
+    "explanation": "Python is the primary language used for artificial intelligence due to its simplicity, robustness, and large number of libraries dedicated to the field.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is a 'bug' in computer programming?",
+    "choices": [
+      "An unnecessary line of code",
+      "An error in the program",
+      "A software update",
+      "A type of computer virus"
+    ],
+    "correctAnswer": "An error in the program",
+    "explanation": "A 'bug' refers to an error, flaw, or fault in a program that prevents it from functioning as intended.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What component is primarily responsible for executing instructions in a computer?",
+    "choices": [
+      "RAM",
+      "CPU",
+      "Hard drive",
+      "Motherboard"
+    ],
+    "correctAnswer": "CPU",
+    "explanation": "The CPU (Central Processing Unit) is the main component that executes instructions from programs and applications.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which data structure uses 'Last In First Out' (LIFO) order?",
+    "choices": [
+      "Queue",
+      "Stack",
+      "Array",
+      "Linked List"
+    ],
+    "correctAnswer": "Stack",
+    "explanation": "A stack is a collection data structure that follows the LIFO principle, meaning the last item added is the first one to be removed.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What does 'SQL' stand for?",
+    "choices": [
+      "Structured Query Language",
+      "Standard Query Language",
+      "Systematic Query Language",
+      "Scripting Query Language"
+    ],
+    "correctAnswer": "Structured Query Language",
+    "explanation": "SQL stands for Structured Query Language, which is used for managing and manipulating relational databases.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the purpose of a compiler?",
+    "choices": [
+      "To convert high-level code to machine code",
+      "To identify bugs in source code",
+      "To manage memory allocation",
+      "To optimize network traffic"
+    ],
+    "correctAnswer": "To convert high-level code to machine code",
+    "explanation": "A compiler translates high-level programming language code into machine code that a computer can execute.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In networking, what does 'IP' stand for?",
+    "choices": [
+      "Internet Protocol",
+      "Internal Process",
+      "Interconnected Program",
+      "Input Protocol"
+    ],
+    "correctAnswer": "Internet Protocol",
+    "explanation": "IP stands for Internet Protocol, which is a protocol for sending data packets over the internet.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is an example of a NoSQL database?",
+    "choices": [
+      "MySQL",
+      "MongoDB",
+      "SQLite",
+      "Oracle"
+    ],
+    "correctAnswer": "MongoDB",
+    "explanation": "MongoDB is a popular NoSQL database designed to handle large sets of distributed data, contrasted with traditional relational databases like MySQL.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is a NoSQL database?",
+    "choices": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "SQLite"
+    ],
+    "correctAnswer": "MongoDB",
+    "explanation": "MongoDB is a widely used NoSQL database, which is designed to store and retrieve data in a non-relational format.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What does 'CSS' stand for in web development?",
+    "choices": [
+      "Cascading Style Sheets",
+      "Creative Style System",
+      "Cascading Style System",
+      "Cascading Source Sheets"
+    ],
+    "correctAnswer": "Cascading Style Sheets",
+    "explanation": "CSS stands for Cascading Style Sheets, which is used for styling HTML elements on a webpage.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the purpose of 'garbage collection' in programming languages?",
+    "choices": [
+      "To delete files",
+      "To optimize memory usage",
+      "To create backups",
+      "To compile code"
+    ],
+    "correctAnswer": "To optimize memory usage",
+    "explanation": "Garbage collection is a memory management feature that automatically recycles memory by removing unused objects in a program.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is a programming paradigm that treats computation as the evaluation of mathematical functions?",
+    "choices": [
+      "Imperative Programming",
+      "Functional Programming",
+      "Object-Oriented Programming",
+      "Logic Programming"
+    ],
+    "correctAnswer": "Functional Programming",
+    "explanation": "Functional programming is a programming paradigm based on the concept of mathematical functions, focusing on the evaluation of expressions rather than the execution of commands.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the main function of the CPU in a computer?",
+    "choices": [
+      "To store data",
+      "To execute instructions",
+      "To manage input and output devices",
+      "To connect to the internet"
+    ],
+    "correctAnswer": "To execute instructions",
+    "explanation": "The CPU, or Central Processing Unit, is often referred to as the brain of the computer. Its main function is to execute instructions from programs by performing basic arithmetic, logic, and control operations.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is a programming paradigm that is based on the concept of encapsulating data and methods that operate on that data?",
+    "choices": [
+      "Functional programming",
+      "Object-oriented programming",
+      "Procedural programming",
+      "Declarative programming"
+    ],
+    "correctAnswer": "Object-oriented programming",
+    "explanation": "Object-oriented programming is a programming paradigm centered around objects, which can contain data as well as code in the form of procedures. It emphasizes the encapsulation of data and the methods that manipulate that data.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What does ACL stand for in the context of computer security?",
+    "choices": [
+      "Access Control List",
+      "Access Channel Layer",
+      "Automated Communication Link",
+      "Application Control Lock"
+    ],
+    "correctAnswer": "Access Control List",
+    "explanation": "ACL stands for Access Control List. It is a set of rules that governs what users or groups of users can or cannot do with a particular resource such as files, directories, or network devices.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which algorithm is primarily used for sorting data?",
+    "choices": [
+      "Hashing",
+      "Quick Sort",
+      "Knapsack",
+      "Dijkstra's Algorithm"
+    ],
+    "correctAnswer": "Quick Sort",
+    "explanation": "Quick Sort is a widely used sorting algorithm that follows the divide-and-conquer technique. It partitions the dataset into smaller sub-arrays and then recursively sorts the sub-arrays.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In web development, what does HTML stand for?",
+    "choices": [
+      "Hypertext Management Language",
+      "Hypertext Markup Language",
+      "High-text Marking Language",
+      "Hyper Transfer Markup Language"
+    ],
+    "correctAnswer": "Hypertext Markup Language",
+    "explanation": "HTML stands for Hypertext Markup Language. It is the standard markup language used to create web pages and applications, defining the structure and layout of web content.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following protocols is used for secure communication over a computer network?",
+    "choices": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "HTTPS"
+    ],
+    "correctAnswer": "HTTPS",
+    "explanation": "HTTPS stands for HyperText Transfer Protocol Secure. It is an extension of HTTP that uses encryption (via SSL/TLS) to secure data transfer between clients and servers over the internet.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is a non-relational database?",
+    "choices": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "SQLite"
+    ],
+    "correctAnswer": "MongoDB",
+    "explanation": "MongoDB is a NoSQL database that falls under the category of non-relational databases. Unlike traditional relational databases, it stores data in flexible, JSON-like formats without requiring a fixed schema.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In computer networks, what does the acronym VPN stand for?",
+    "choices": [
+      "Virtual Private Network",
+      "Vulnerable Public Network",
+      "Variable Protected Network",
+      "Virtual Personal Network"
+    ],
+    "correctAnswer": "Virtual Private Network",
+    "explanation": "VPN stands for Virtual Private Network. It creates a secured network connection over a public network, allowing users to send and receive data as if their devices were directly connected to a private network.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which programming language is primarily used for Android development?",
+    "choices": [
+      "JavaScript",
+      "Java",
+      "Python",
+      "Swift"
+    ],
+    "correctAnswer": "Java",
+    "explanation": "Java is the official programming language for Android development. It is widely used to create apps for the Android operating system, although Kotlin has also gained popularity as a modern alternative.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the main function of a CPU?",
+    "choices": [
+      "To store data permanently",
+      "To perform calculations and process instructions",
+      "To act as a display for output",
+      "To provide network connectivity"
+    ],
+    "correctAnswer": "To perform calculations and process instructions",
+    "explanation": "The CPU (Central Processing Unit) is known as the brain of the computer where most calculations take place.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is an example of an operating system?",
+    "choices": [
+      "Microsoft Word",
+      "Google Chrome",
+      "Linux",
+      "Adobe Photoshop"
+    ],
+    "correctAnswer": "Linux",
+    "explanation": "Linux is an open-source operating system used for a wide range of applications.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What does 'HTML' stand for?",
+    "choices": [
+      "HighText Machine Language",
+      "HyperText Markup Language",
+      "Hyperlink and Text Markup Language",
+      "HyperText Media Language"
+    ],
+    "correctAnswer": "HyperText Markup Language",
+    "explanation": "HTML is the standard markup language used to create web pages.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In which year was the first version of Windows released?",
+    "choices": [
+      "1985",
+      "1990",
+      "1980",
+      "1995"
+    ],
+    "correctAnswer": "1985",
+    "explanation": "Microsoft Windows 1.0 was released on November 20, 1985.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the purpose of an algorithm?",
+    "choices": [
+      "To enhance graphical displays",
+      "To measure hardware performance",
+      "To provide a step-by-step procedure for solving a problem",
+      "To extract data from a database"
+    ],
+    "correctAnswer": "To provide a step-by-step procedure for solving a problem",
+    "explanation": "An algorithm is a finite sequence of well-defined rules or instructions for solving a problem or completing a task.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In which decade was the first computer virus created?",
+    "choices": [
+      "1950s",
+      "1960s",
+      "1970s",
+      "1980s"
+    ],
+    "correctAnswer": "1980s",
+    "explanation": "The first computer virus, known as the 'Elk Cloner', was created in the early 1980s as a prank involving Apple II computers.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What does the term 'refactoring' mean in software development?",
+    "choices": [
+      "Changing the software requirements",
+      "Correcting syntax errors",
+      "Improving the code structure without changing its functionality",
+      "Compiling the source code"
+    ],
+    "correctAnswer": "Improving the code structure without changing its functionality",
+    "explanation": "Refactoring involves rewriting existing code to improve its structure, making it easier to understand and maintain while preserving its original functionality.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What purpose does the Turing Machine serve in computer science?",
+    "choices": [
+      "Executing large datasets",
+      "Cognitive computing",
+      "Simulating algorithms and computing processes",
+      "Debugging programs"
+    ],
+    "correctAnswer": "Simulating algorithms and computing processes",
+    "explanation": "The Turing Machine is a theoretical construct that helps prove whether certain problems can be solved algorithmically; it forms the basis of our understanding of computation.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following best describes NoSQL databases?",
+    "choices": [
+      "They do not support transactions.",
+      "They primarily store data in rows and columns.",
+      "They are non-relational databases that can store unstructured data.",
+      "They are always SQL-compliant."
+    ],
+    "correctAnswer": "They are non-relational databases that can store unstructured data.",
+    "explanation": "NoSQL databases are designed to store large volumes of unstructured data and are different from traditional SQL databases, which depend on structured data models.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the time complexity for insertions in a balanced binary search tree (BST)?",
+    "choices": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "correctAnswer": "O(log n)",
+    "explanation": "In a balanced BST, insertions take O(log n) time because the tree height is maintained logarithmic in relation to the number of nodes, resulting in minimized traversal time.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following algorithms is typically NOT used for finding routes in a weighted graph?",
+    "choices": [
+      "Dijkstra's algorithm",
+      "A* algorithm",
+      "Bellman-Ford algorithm",
+      "Insertion sort"
+    ],
+    "correctAnswer": "Insertion sort",
+    "explanation": "Insertion sort is a sorting algorithm and not applicable for finding routes in weighted graphs, while the others are specifically designed for that purpose.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the main sanity check that println() statements might offer while downloaded via a specific transpilation?",
+    "choices": [
+      "Compiler errors",
+      "Audio errors",
+      "Compiler warnings",
+      "Visual errors"
+    ],
+    "correctAnswer": "Compiler warnings",
+    "explanation": "println() statements can quickly indicate from output what parts of code snippet are executed without required transpilation error states surfacing.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In machine learning, what does 'overfitting' refer to?",
+    "choices": [
+      "Model fit to uncontrolled variance",
+      "Model losing coordinates on retraining",
+      "Model capturing noise alongside patterns",
+      "All of the above"
+    ],
+    "correctAnswer": "Model capturing noise alongside patterns",
+    "explanation": "Overfitting occurs when a model learns not just the true trends in the training data but also the random noise, resulting in a model that performs poorly on unseen data.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What form of distribution is predominantly assumed in practical implementations of the naive Bayes classifier?",
+    "choices": [
+      "Normal",
+      "Poisson",
+      "Exponential",
+      "Uniform"
+    ],
+    "correctAnswer": "Normal",
+    "explanation": "The Gaussian (Normal) distribution is frequently assumed for continuous input features in practical scenarios of the naive Bayes classifier, facilitating probabilistic modeling.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary advantage of using a content delivery network (CDN)?",
+    "choices": [
+      "Increased bandwidth costs",
+      "Reduced load time for content",
+      "Simplified content creation",
+      "Enhanced raw data processing"
+    ],
+    "correctAnswer": "Reduced load time for content",
+    "explanation": "A CDN minimizes the distance between the server and the user to reduce latency and improve load times by storing cached versions of content closer to the user.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following storage architectures is characterized by geographic distribution of sensitive data to ensure high availability and disaster recovery?",
+    "choices": [
+      "Tamper-resistant storage",
+      "Federated storage",
+      "Distributed storage",
+      "Hierarchical storage"
+    ],
+    "correctAnswer": "Distributed storage",
+    "explanation": "Distributed storage architectures provide replicas of data across multiple locations to ensure that even if one site fails, data remains accessible through other sites.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of machine learning, what is cross-validation primarily used for?",
+    "choices": [
+      "To increase the dataset size",
+      "To enhance algorithm speed",
+      "To prevent overfitting",
+      "To monitor model predictions"
+    ],
+    "correctAnswer": "To prevent overfitting",
+    "explanation": "Cross-validation is a technique for assessing how the results of a statistical analysis will generalize to an independent dataset, helping to prevent overfitting in machine learning models.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In a neural network, which layer is typically responsible for performing measurements of the network\u2019s output against the expected results?",
+    "choices": [
+      "Input layer",
+      "Hidden layer",
+      "Output layer",
+      "Activation layer"
+    ],
+    "correctAnswer": "Output layer",
+    "explanation": "The output layer produces the predictions of a neural network and compares them to the actual results for performance measurement using loss functions.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the purpose of a deadlock detection algorithm in operating systems?",
+    "choices": [
+      "To allocate memory efficiently",
+      "To prevent resource leaks",
+      "To recover killed process threads",
+      "To identify and resolve deadlocks"
+    ],
+    "correctAnswer": "To identify and resolve deadlocks",
+    "explanation": "Deadlock detection algorithms intermittently check the resource allocation and request states to see if there are any cycles indicating the presence of deadlocks.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the main purpose of a Turing machine in theoretical computer science?",
+    "choices": [
+      "To execute syntax and yield results",
+      "To develop graphical applications",
+      "To define the limits of what can be computed",
+      "To optimize algorithms for performance"
+    ],
+    "correctAnswer": "To define the limits of what can be computed",
+    "explanation": "A Turing machine is a fundamental model of computation that helps theorists understand what problems can and cannot be solved algorithmically.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In distributed systems, what is the CAP theorem referring to?",
+    "choices": [
+      "Consistency, Availability, and Partition Tolerance",
+      "Complexity, Algorithm, and Performance",
+      "Communication, Access, and Persistence",
+      "Control, Architecture, and Practices"
+    ],
+    "correctAnswer": "Consistency, Availability, and Partition Tolerance",
+    "explanation": "The CAP theorem states that in any distributed data store, there are trade-offs between consistency, availability, and partition tolerance, meaning that not all three can be simultaneously guaranteed.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of machine learning, what does overfitting refer to?",
+    "choices": [
+      "When a model performs well on unseen data",
+      "When a model is too simple to learn from the data",
+      "When a model memorizes the training data and fails to generalize",
+      "When a model converges too quickly during training"
+    ],
+    "correctAnswer": "When a model memorizes the training data and fails to generalize",
+    "explanation": "Overfitting occurs when a model learns the noise and details of training data to the extent that it negatively impacts performance on new data.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What asyncio method can be used to find the first future that completes among a lot of futures in Python?",
+    "choices": [
+      "asyncio.wait",
+      "asyncio.gather",
+      "asyncio.as_completed",
+      "asyncio.select"
+    ],
+    "correctAnswer": "asyncio.as_completed",
+    "explanation": "The asyncio.as_completed method prepares an iterator that yields futures as they complete, allowing access to the results of the first futures completed.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What type of algorithm is primarily used for solving optimization problems in machine learning?",
+    "choices": [
+      "A) Genetic algorithms",
+      "B) Divide and conquer",
+      "C) Backtracking algorithms",
+      "D) Greedy algorithms"
+    ],
+    "correctAnswer": "A) Genetic algorithms",
+    "explanation": "Genetic algorithms are optimization algorithms inspired by the process of natural selection and are commonly used to find optimal solutions in various machine learning problems.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of neural networks, what does the term 'dropout' refer to?",
+    "choices": [
+      "A) A type of activation function",
+      "B) Regularization technique to prevent overfitting",
+      "C) A hyperparameter for model training",
+      "D) A framework for parallel processing"
+    ],
+    "correctAnswer": "B) Regularization technique to prevent overfitting",
+    "explanation": "Dropout is a regularization method where during training random units are dropped out to prevent the network from becoming too reliant on any one set of features, thus combating overfitting.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which computational model provides a framework for describing the simultaneous execution of complex algorithms?",
+    "choices": [
+      "A) Turing Machine",
+      "B) Von Neumann Architecture",
+      "C) Petri Net",
+      "D) Finite State Machine"
+    ],
+    "correctAnswer": "C) Petri Net",
+    "explanation": "Petri Nets are mathematical modeling tools used to describe distributed systems and help analyze concurrent processes.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which sorting algorithm achieves the best time complexity for a worst-case scenario?",
+    "choices": [
+      "A) Quick Sort",
+      "B) Merge Sort",
+      "C) Heap Sort",
+      "D) Insertion Sort"
+    ],
+    "correctAnswer": "B) Merge Sort",
+    "explanation": "Merge Sort has a worst-case time complexity of O(n log n) and is stable and efficient for large datasets.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In distributed systems, what does 'CAP theorem' stand for?",
+    "choices": [
+      "A) Consistency, Availability, and Partition tolerance",
+      "B) Centralization, Authentication, and Performance",
+      "C) Consistency, Accessibility, and Privacy",
+      "D) Clustering, Association, and Projection"
+    ],
+    "correctAnswer": "A) Consistency, Availability, and Partition tolerance",
+    "explanation": "The CAP theorem states that a distributed data store can only guarantee two of the three properties: consistency, availability, and partition tolerance.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the time complexity of finding the shortest path in an unweighted graph using BFS?",
+    "choices": [
+      "O(N)",
+      "O(N log N)",
+      "O(N^2)",
+      "O(E)"
+    ],
+    "correctAnswer": "O(V + E)",
+    "explanation": "BFS operates by traversing all the vertices (V) and edges (E), allowing it to find the shortest path in O(V + E) time.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which programming paradigm uses functions as first-class objects and treats computation as the evaluation of mathematical functions?",
+    "choices": [
+      "Procedural Programming",
+      "Object-Oriented Programming",
+      "Functional Programming",
+      "Declarative Programming"
+    ],
+    "correctAnswer": "Functional Programming",
+    "explanation": "Functional programming is centered around the concept of mathematical functions, treating computation as evaluating functions.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What algorithm is commonly used in image compression to reduce file size used by JPEG format?",
+    "choices": [
+      "Huffman Coding",
+      "Discrete Cosine Transform",
+      "Run-Length Encoding",
+      "Lempel-Ziv-Welch"
+    ],
+    "correctAnswer": "Discrete Cosine Transform",
+    "explanation": "JPEG compression primarily uses the Discrete Cosine Transform (DCT) to separate the image into different frequency components.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In RAID configurations, what level is known for striping with parity for fault tolerance?",
+    "choices": [
+      "RAID 0",
+      "RAID 1",
+      "RAID 5",
+      "RAID 10"
+    ],
+    "correctAnswer": "RAID 5",
+    "explanation": "RAID 5 uses baskoon and data striping along with a parity block for redundancy, allowing data recovery in case of a single drive failure.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which protocol is primarily responsible for the transmission of files over the internet?",
+    "choices": [
+      "FTP",
+      "HTTP",
+      "SMTP",
+      "TCP/IP"
+    ],
+    "correctAnswer": "FTP",
+    "explanation": "The File Transfer Protocol (FTP) is designed specifically for transferring files over a network.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What feature in programming languages like Haskell supports the ability to create expressions for control structures?",
+    "choices": [
+      "Lazy Evaluation",
+      "Monads",
+      "Closures",
+      "Algebraic Data Types"
+    ],
+    "correctAnswer": "Monads",
+    "explanation": "Monads allow for the chaining of operations and manage side effects, thus enhancing the expression of control structures.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which form of attack exploits the unique characteristics of Ethernet in a local network?",
+    "choices": [
+      "IP Spoofing",
+      "Man-in-the-Middle",
+      "ARP Spoofing",
+      "Phishing"
+    ],
+    "correctAnswer": "ARP Spoofing",
+    "explanation": "ARP Spoofing targets the ARP protocol to link IP addresses with MAC addresses, allowing attackers to intercept and manipulate packets on a local network.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In compiler design, what is peer to 'lexical analysis' focuses on in the analysis phase?",
+    "choices": [
+      "Syntax Analysis",
+      "Semantic Analysis",
+      "Optimization",
+      "Code Generation"
+    ],
+    "correctAnswer": "Syntax Analysis",
+    "explanation": "In the compilation process, syntax analysis follows lexical analysis to check code structure through parsing.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In machine learning, what must be minimized or maximized when training a model via gradient descent?",
+    "choices": [
+      "Loss Function",
+      "Weight Decay",
+      "Learning Rate",
+      "Validation Score"
+    ],
+    "correctAnswer": "Loss Function",
+    "explanation": "Gradient descent is used to minimize the loss function, helping the model to learn and improve performance.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What concept refers to using less memory to store references rather than the objects themselves in data structures?",
+    "choices": [
+      "Weak References",
+      "Pointers",
+      "Copy-on-Write",
+      "Immutable Objects"
+    ],
+    "correctAnswer": "Weak References",
+    "explanation": "Weak references allow garbage collection even when there are references to an object, which can lead to reduced memory usage by not preventing object deallocation.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the Big O notation of the most efficient sorting algorithm in terms of average case time complexity?",
+    "choices": [
+      "O(n)",
+      "O(n log n)",
+      "O(n^2)",
+      "O(log n)"
+    ],
+    "correctAnswer": "O(n log n)",
+    "explanation": "The most efficient sorting algorithms, such as mergesort and heapsort, achieve average case time complexity of O(n log n).",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of cybersecurity, what does the term 'zero-day vulnerability' refer to?",
+    "choices": [
+      "A vulnerability that is one day old",
+      "A vulnerability that has patches available",
+      "A vulnerability with no known fix",
+      "A vulnerability tested for 24 hours"
+    ],
+    "correctAnswer": "A vulnerability with no known fix",
+    "explanation": "A zero-day vulnerability is a flaw that is unknown to the software vendor, categorized as zero days because they\u2019ve had zero days to fix the issue since its discovery.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following programming paradigms does Functional Programming belong to?",
+    "choices": [
+      "Imperative",
+      "Declarative",
+      "Object-Oriented",
+      "Natural"
+    ],
+    "correctAnswer": "Declarative",
+    "explanation": "Functional Programming is a subset of declarative programming, which emphasizes what needs to be done rather than how to do it.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary purpose of ACID properties in a database system?",
+    "choices": [
+      "To ensure successful access controls",
+      "To guarantee reliable transactions",
+      "To improve computational efficiency",
+      "To assist in data visualization"
+    ],
+    "correctAnswer": "To guarantee reliable transactions",
+    "explanation": "ACID stands for Atomicity, Consistency, Isolation, and Durability, which are the properties that ensure reliable processing of database transactions.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is a widely used method for reducing the dimensionality of a dataset while retaining its essential features?",
+    "choices": [
+      "Feature selection",
+      "PCA",
+      "Naive Bayes",
+      "Regression analysis"
+    ],
+    "correctAnswer": "PCA",
+    "explanation": "Principal Component Analysis (PCA) is a method used for dimensionality reduction that transforms the data into a new coordinate system based on its variance.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following topics would best be studied using graph theory?",
+    "choices": [
+      "Propositional Logic",
+      "Network Topologies",
+      "Sorting Algorithms",
+      "Linear Regression"
+    ],
+    "correctAnswer": "Network Topologies",
+    "explanation": "Network Topologies can be analyzed through graphs comprising nodes (devices) and edges (connections), making graph theory essential in this area.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of computer sciences, what does 'GPGPU' stand for?",
+    "choices": [
+      "General Purpose Global Process Unit",
+      "General Purpose Graphics Processing Unit",
+      "Graphical Performance General Processing Uniform",
+      "General Processing Group Performance Unit"
+    ],
+    "correctAnswer": "General Purpose Graphics Processing Unit",
+    "explanation": "GPGPU refers to the application of a GPU to perform computation traditionally done on a CPU, taking advantage of the high parallelism of graphics processors.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What model of computation is primarily characterized by the use of transition functions and the underlying concept of state-based computation?",
+    "choices": [
+      "Finite-State Machines",
+      "Lambda Calculus",
+      "Cellular Automata",
+      "Turing Machines"
+    ],
+    "correctAnswer": "Finite-State Machines",
+    "explanation": "Finite-State Machines are used to model systems that change states in response to inputs, following transition functions.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In distributed systems, what is CAP theorem concerned with?",
+    "choices": [
+      "Consistency, Availability, Partition tolerance",
+      "Compression, Authorization, Purpose",
+      "Computation, Algorithms, Process structure",
+      "Concurrency, Application, Performance"
+    ],
+    "correctAnswer": "Consistency, Availability, Partition tolerance",
+    "explanation": "The CAP theorem states that a distributed database can provide at most two of the three guarantees: consistency, availability, and partition tolerance.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following algorithms is considered a fundamental example of a greedy algorithm?",
+    "choices": [
+      "Dijkstra's Algorithm",
+      "Kruskal's Algorithm",
+      "A* Search Algorithm",
+      "Merge Sort"
+    ],
+    "correctAnswer": "Kruskal's Algorithm",
+    "explanation": "Kruskal's Algorithm is a well-known greedy algorithm that finds the minimum spanning tree for a graph by selecting the edges with the smallest weights.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In terms of relational databases, what does the term 'normalization' refer to?",
+    "choices": [
+      "Creating backup copies of data",
+      "Reducing redundancy and dependency by organizing fields and table relations",
+      "Indexing data for faster retrieval",
+      "Changing data formats into hexadecimal"
+    ],
+    "correctAnswer": "Reducing redundancy and dependency by organizing fields and table relations",
+    "explanation": "Normalization organizes tables and relationships in databases to minimize redundancy and improve data integrity.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary purpose of a compilation phase in a programming language?",
+    "choices": [
+      "To interpret the code line-by-line",
+      "To optimize memory allocation",
+      "To convert high-level code into machine code",
+      "To execute the tests for the software"
+    ],
+    "correctAnswer": "To convert high-level code into machine code",
+    "explanation": "The compilation phase translates high-level programming languages into machine code that the computer's hardware can execute directly.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following algorithms is categorized as a greedy algorithm?",
+    "choices": [
+      "Dijkstra's Algorithm",
+      "QuickSort",
+      "Prim's Algorithm",
+      "Binary Search"
+    ],
+    "correctAnswer": "Prim's Algorithm",
+    "explanation": "Prim's Algorithm is used in graph theory to find the minimum spanning tree for a weighted, undirected graph using a greedy approach.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of operating systems, what does TPS stand for?",
+    "choices": [
+      "Transactions Per Second",
+      "Threads Per Second",
+      "Tasks Per Second",
+      "Transactions Processing System"
+    ],
+    "correctAnswer": "Transactions Per Second",
+    "explanation": "TPS refers to the number of transactions a computer system can handle per second, commonly used in database management contexts.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the worst-case time complexity of a balanced Binary Search Tree (BST) for search operations?",
+    "choices": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correctAnswer": "O(log n)",
+    "explanation": "In a balanced BST, search operations can be performed in logarithmic time, representing the depth of the tree.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following programming paradigms does not fundamentally support the concept of encapsulation?",
+    "choices": [
+      "Object-Oriented Programming",
+      "Functional Programming",
+      "Procedural Programming",
+      "Declarative Programming"
+    ],
+    "correctAnswer": "Procedural Programming",
+    "explanation": "While procedural programming focuses on procedures or routines, encapsulation is mainly driven by the hierarchies and objects in object-oriented paradigms.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary purpose of a digital certificate in a computer security context?",
+    "choices": [
+      "To compress data for faster transmission",
+      "To verify the identity of a network node",
+      "To encrypt data for secure communication",
+      "To store user passwords securely"
+    ],
+    "correctAnswer": "To verify the identity of a network node",
+    "explanation": "Digital certificates are used in public key infrastructure (PKI) to establish the identity of entities and ensure secure communications by linking a public key with an individual's or an organization's identity.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In machine learning, which technique is used to prevent overfitting?",
+    "choices": [
+      "Data augmentation",
+      "Normalization",
+      "Feature engineering",
+      "Random sampling"
+    ],
+    "correctAnswer": "Data augmentation",
+    "explanation": "Data augmentation involves creating new training data from the existing data through various transformations. This technique helps prevent overfitting by providing additional diverse data to learn from.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which algorithm is ideally used for finding a Minimum Spanning Tree in a weighted graph?",
+    "choices": [
+      "Dijkstra's algorithm",
+      "Kruskal's algorithm",
+      "Bellman-Ford algorithm",
+      "A* search algorithm"
+    ],
+    "correctAnswer": "Kruskal's algorithm",
+    "explanation": "Kruskal's algorithm efficiently finds the Minimum Spanning Tree for a weighted graph by choosing edges with the smallest weights and ensuring no cycles are formed, effectively covering all vertices.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which data structure uses a LRU (Least Recently Used) caching algorithm implementation?",
+    "choices": [
+      "Binary Tree",
+      "HashMap",
+      "LinkedList",
+      "FIFO Queue"
+    ],
+    "correctAnswer": "HashMap",
+    "explanation": "In the LRU caching strategy, HashMap can be combined with a linked list to keep track of the usage order, allowing efficient deletion of the least recently accessed elements when the cache size limit is reached.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following protocols operates primarily at the transport layer of the OSI model?",
+    "choices": [
+      "HTTP",
+      "IP",
+      "TCP",
+      "Ethernet"
+    ],
+    "correctAnswer": "TCP",
+    "explanation": "TCP (Transmission Control Protocol) is a transport layer protocol that provides reliable, ordered, and error-checked delivery of packets in a network, distinguishing it from protocols operating at other layers.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What technique is primarily used in Neural Networks to prevent neurons from co-adapting too much?",
+    "choices": [
+      "Momentum",
+      "Debugging",
+      "Dropout",
+      "Batch normalization"
+    ],
+    "correctAnswer": "Dropout",
+    "explanation": "Dropout is a regularization technique in neural networks where during training, random units (neurons) are dropped out temporarily, which prevents overfitting and encourages the network to learn independent features.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the complexity class of decision problems that can be solved by a deterministic Turing machine in polynomial time?",
+    "choices": [
+      "P",
+      "NP",
+      "PSPACE",
+      "EXPTIME"
+    ],
+    "correctAnswer": "P",
+    "explanation": "P is the class of decision problems for which a solution can be found in polynomial time using a deterministic Turing machine.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which algorithm is used to approximate solutions to NP-hard optimization problems?",
+    "choices": [
+      "Dijkstra's Algorithm",
+      "Prim's Algorithm",
+      "Greedy Algorithm",
+      "Branch and Bound"
+    ],
+    "correctAnswer": "Greedy Algorithm",
+    "explanation": "Greedy algorithms are often used to find approximate solutions for NP-hard problems by making locally optimal choices in the hope that these choices will lead to a globally optimal solution.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In which method of computability theory is the concept of 'reductions' significant in classifying problems?",
+    "choices": [
+      "Lambda Calculus",
+      "Recursive functions",
+      "Turing machines",
+      "Type theory"
+    ],
+    "correctAnswer": "Turing machines",
+    "explanation": "Reductions are a central concept in Turing machine theory, where one problem can be transformed into another, allowing for classification of problems based on their computability.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the significance of the Halting Problem in computer science?",
+    "choices": [
+      "It establishes limitations of algorithms.",
+      "It provides a method for optimizing algorithms.",
+      "It categorizes all algorithms in NP.",
+      "It is an example of a polynomial-time problem."
+    ],
+    "correctAnswer": "It establishes limitations of algorithms.",
+    "explanation": "The Halting Problem demonstrates that there are questions about program behavior that are undecidable, highlighting fundamental limitations on what can be computed.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which cryptographic protocol is based on the difficulty of factorizing large numbers?",
+    "choices": [
+      "AES",
+      "RSA",
+      "SHA-256",
+      "Elliptic Curve Cryptography"
+    ],
+    "correctAnswer": "RSA",
+    "explanation": "RSA encryption relies on the mathematical difficulty of factorizing the product of two large prime numbers to secure the communication.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following complexity classes is known to contain problems that can be solved in polynomial time, but is still not known whether it can contain NP-complete problems?",
+    "choices": [
+      "P",
+      "NP",
+      "PSPACE",
+      "EXP"
+    ],
+    "correctAnswer": "P",
+    "explanation": "P is the class of decision problems that can be solved by a deterministic Turing machine using a polynomial amount of time. The complexity class NP contains problems for which a given solution can be verified in polynomial time.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the significance of the Church-Turing Thesis in computability theory?",
+    "choices": [
+      "It proves the existence of a universal algorithm.",
+      "It establishes the equivalence of all reasonable models of computation.",
+      "It states the limits of computation in real-world contexts.",
+      "It quantifies the time complexity of recursive functions."
+    ],
+    "correctAnswer": "It establishes the equivalence of all reasonable models of computation.",
+    "explanation": "The Church-Turing Thesis is an assertion that any computation that can be performed by an algorithm can be simulated by a Turing machine.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which model of computation proves that certain problems are undecidable?",
+    "choices": [
+      "Finite Automata",
+      "Pushdown Automata",
+      "Turing Machines",
+      "Lambda Calculus"
+    ],
+    "correctAnswer": "Turing Machines",
+    "explanation": "Turing machines demonstrate that there are computational problems (like the Halting Problem) that cannot be solved by any algorithm. Turing's proof showcased the limits of computable functions.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In cryptographic terms, what is the main function of a hash function?",
+    "choices": [
+      "Encrypt sensitive data",
+      "Generate random keys",
+      "Ensure data integrity",
+      "Create digital signatures"
+    ],
+    "correctAnswer": "Ensure data integrity",
+    "explanation": "A cryptographic hash function takes an input and returns a fixed-size string of bytes, which is unique to each unique input. It ensures that any change in input will change the output, which guarantees integrity.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What concept in programming language theory does the term 'monad' refer to?",
+    "choices": [
+      "A type of storage variable",
+      "A structure to represent computations",
+      "A strategy for garbage collection",
+      "A way to handle exceptions"
+    ],
+    "correctAnswer": "A structure to represent computations",
+    "explanation": "Monads are design patterns used in functional programming to abstract computation and side effects. They can structure programs in a way to compartmentalize actions that might be impure or not purely functional.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following problems is provably NP-hard?",
+    "choices": [
+      "Finding a perfect matching in a general graph",
+      "Determining if a propositional formula is satisfiable",
+      "Sorting a list of integers",
+      "Computing the shortest path in a weighted graph"
+    ],
+    "correctAnswer": "Determining if a propositional formula is satisfiable",
+    "explanation": "The propositional satisfiability problem (SAT) was the first problem proven to be NP-complete by Stephen Cook in 1971, and since SAT is NP-complete, the problem of satisfiability is NP-hard.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What theorem is used to establish that certain functions cannot be computed in polynomial time?",
+    "choices": [
+      "G\u00f6del's Incompleteness Theorem",
+      "Breuer's Theorem",
+      "Rice's Theorem",
+      "Lyapunov's Theorem"
+    ],
+    "correctAnswer": "Rice's Theorem",
+    "explanation": "Rice's Theorem states that all non-trivial properties of partial functions are undecidable, which means that certain functions regarding decision-making are not computable efficiently.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the context of type theory, what role does a 'dependent type' serve?",
+    "choices": [
+      "Defines types based solely on variables",
+      "Introduces polymorphism",
+      "Acts as types that depend on values",
+      "Is synonymous with object types"
+    ],
+    "correctAnswer": "Acts as types that depend on values",
+    "explanation": "Dependent types allow types to be predicated on values, enabling more expressive type systems where type-checking can encompass assertions about program values.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which computational model can simulate any Turing machine and can serve as a foundation for our understanding of decidability?",
+    "choices": [
+      "Lambda calculus",
+      "Finite state machines",
+      "Pushdown automata",
+      "Graphs"
+    ],
+    "correctAnswer": "Lambda calculus",
+    "explanation": "The lambda calculus is As powerful as Turing machines, capable of expressing all computable functions, thus forms a critical foundation for the computability theory.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What concept provides a maximal system of equations that cannot be further simplified over a certain set and is crucial in understanding algebraic structures in theoretical computer science?",
+    "choices": [
+      "Code completeness",
+      "Nahm's Principle",
+      "Term rewriting",
+      "Congruence Closure"
+    ],
+    "correctAnswer": "Congruence Closure",
+    "explanation": "Congruence Closure provides a characterization of equivalence relations and synthesis methods in term rewriting systems, making it important in the analysis of algebraic transformations.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the time complexity of Dijkstra's algorithm using a binary heap for priority queue?",
+    "choices": [
+      "O(V^2)",
+      "O(E + V log V)",
+      "O(V^2 log V)",
+      "O(E log V)"
+    ],
+    "correctAnswer": "O(E log V)",
+    "explanation": "Using a binary heap, Dijkstra\u2019s algorithm has a time complexity of O(E log V), where E is the number of edges and V is the number of vertices.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In Type Theory, what is the significance of the Curry-Howard correspondence?",
+    "choices": [
+      "It relates logic and geometry.",
+      "It relates programs and types.",
+      "It relates databases and mappings.",
+      "It relates algorithms and data structures."
+    ],
+    "correctAnswer": "It relates programs and types.",
+    "explanation": "The Curry-Howard correspondence establishes a direct relationship between logic and computational systems, indicating that proofs correspond to programs and propositions correspond to types.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following is true about Turing machines and stack automata?",
+    "choices": [
+      "Both can compute the same functions.",
+      "Turing machines can compute a wider class of functions than stack automata.",
+      "Stack automata can simulate Turing machines.",
+      "They are equivalent computationally."
+    ],
+    "correctAnswer": "Turing machines can compute a wider class of functions than stack automata.",
+    "explanation": "Turing machines can recognize a more extensive class of languages, including context-sensitive languages, whereas stack automata are limited to context-free languages.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What does 'first-class' mean in the context of programming languages?",
+    "choices": [
+      "A type can be used to denote new values.",
+      "Functions can be passed as arguments, returned from other functions, and assigned to variables.",
+      "Variables are scoped to the entirety of the program.",
+      "Types are strictly enforced at compile time."
+    ],
+    "correctAnswer": "Functions can be passed as arguments, returned from other functions, and assigned to variables.",
+    "explanation": "In programming languages, 'first-class' citizens are those entities (like functions) that can be manipulated as freely as other fundamental types, enabling higher-order functions.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the characteristic property of NP-Complete problems?",
+    "choices": [
+      "They can be solved quickly.",
+      "They can be verified quickly given a solution.",
+      "They are solvable in polynomial time.",
+      "They are at least as hard as any problem in Fortnite."
+    ],
+    "correctAnswer": "They can be verified quickly given a solution.",
+    "explanation": "NP-Complete problems demonstrate the property wherein given a candidate solution to a verification can be conducted in polynomial time, though finding a solution may not be efficient.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the time complexity of the Fast Fourier Transform (FFT) algorithm used for computing the Discrete Fourier Transform (DFT)?",
+    "choices": [
+      "O(n)",
+      "O(n log n)",
+      "O(n^2)",
+      "O(log n)"
+    ],
+    "correctAnswer": "O(n log n)",
+    "explanation": "The Fast Fourier Transform algorithm reduces the complexity of computing the DFT from O(n^2) to O(n log n) by recursively breaking the problem into smaller chunks.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What problem is associated with the term 'The P vs NP Problem'?",
+    "choices": [
+      "It seeks to determine whether every problem whose solution can be quickly verified can also be quickly solved.",
+      "It addresses the limitations of memory in computational processes.",
+      "It deals with the efficiency of sorting algorithms.",
+      "It relates to the halting problem of Turing machines."
+    ],
+    "correctAnswer": "It seeks to determine whether every problem whose solution can be quickly verified can also be quickly solved.",
+    "explanation": "The P vs NP problem is one of the most significant unsolved problems in computer science which probes whether problems that can be verified quickly can also be solved quickly.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the context of neural networks, what does \u2018regularization\u2019 aim to achieve?",
+    "choices": [
+      "To increase the training time of the model",
+      "To improve generalization by reducing overfitting",
+      "To enhance the model's complexity for better performance",
+      "To decrease the model\u2019s memory consumption"
+    ],
+    "correctAnswer": "To improve generalization by reducing overfitting",
+    "explanation": "Regularization methods such as L1 and L2 regularization are used in machine learning to discourage overly complex models that perform well on training data but fail to generalize to unseen data.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "According to G\u00f6del's incompleteness theorems, what limitation do formal mathematical systems have?",
+    "choices": [
+      "They can solve all mathematical problems.",
+      "They cannot be entirely consistent and complete simultaneously.",
+      "They can demonstrate the existence of any computational function.",
+      "They are incapable of performing recursive operations."
+    ],
+    "correctAnswer": "They cannot be entirely consistent and complete simultaneously.",
+    "explanation": "G\u00f6del's first incompleteness theorem states that in any consistent formal system that is expressive enough to contain basic arithmetic, there are statements that are true but not provable in the system.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In quantum computing, which principle allows quantum bits (qubits) to exist in multiple states simultaneously?",
+    "choices": [
+      "Superposition",
+      "Entanglement",
+      "Interference",
+      "Collapse"
+    ],
+    "correctAnswer": "Superposition",
+    "explanation": "Superposition is a fundamental principle of quantum mechanics that allows quantum bits to be in a combination of states, enabling quantum computers to process a massive amount of information simultaneously.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What mathematical structure is considered fundamental in modern cryptography for providing security against certain types of attacks?",
+    "choices": [
+      "Groups",
+      "Fields",
+      "Integer Rings",
+      "Elliptic Curves"
+    ],
+    "correctAnswer": "Elliptic Curves",
+    "explanation": "Elliptic curves provide efficient ways to secure communications through protocols such as Elliptic Curve Cryptography (ECC), which relies on the difficulty of solving the discrete logarithm problem.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which algorithm is primarily used for unsupervised machine learning and dimensionality reduction?",
+    "choices": [
+      "Support Vector Machines",
+      "K-means Clustering",
+      "Gradient Descent",
+      "Random Forest"
+    ],
+    "correctAnswer": "K-means Clustering",
+    "explanation": "K-means clustering is an algorithm that partitions data into K distinct clusters based on feature similarity, making it useful for pattern recognition and compression.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the context of formal language theory, what distinguishes a context-free grammar from a regular grammar?",
+    "choices": [
+      "Regular grammars can include recursive rules.",
+      "Context-free grammars include nested structure rules which are experimentally reducible.",
+      "Regular grammars can only generate regular languages, while context-free can generate 'more complex' languages.",
+      "There are no significant differences."
+    ],
+    "correctAnswer": "Context-free grammars include nested structure rules which are experimentally reducible.",
+    "explanation": "Context-free grammars (CFGs) are capable of generating everything a regular grammar can, but they also provide the ability to define languages with nested structures, such as balanced parentheses or racketed HTML/XML tags.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which theorem is crucial to understanding the limits of what problems can be solved algorithmically in computer science?",
+    "choices": [
+      "Church-Turing Thesis",
+      "No Free Lunch Theorem",
+      "P vs NP Problem",
+      "Halting Problem"
+    ],
+    "correctAnswer": "Church-Turing Thesis",
+    "explanation": "The Church-Turing Thesis suggests that all effective computation can be performed by a Turing machine, indicating foundational concepts regarding the limits of algorithmic computation and decidability.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following contains the principal idea behind the B-tree data structure?",
+    "choices": [
+      "Hierarchical storage with fixed-size blocks",
+      "Self-balancing trees with variable lengths and minimum degree",
+      "Dynamic word sizes for garbage Organization",
+      "Reducing access times within systematic encoding"
+    ],
+    "correctAnswer": "Self-balancing trees with variable lengths and minimum degree",
+    "explanation": "B-trees are self-balancing tree structures designed to manage sorted data and allow for searches, sequential access, insertions, and deletions in logarithmic time, and they maintain multiple children nodes that enhance their efficiency in hard drive access.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the time complexity of QuickSort in its average case?",
+    "choices": [
+      "O(n log n)",
+      "O(n^2)",
+      "O(n)",
+      "O(log n)"
+    ],
+    "correctAnswer": "O(n log n)",
+    "explanation": "In the average case, QuickSort partitions the array into parts of approximately equal size, leading to a logarithmic number of levels of recursion, with each level taking linear time, resulting in O(n log n) average time complexity.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the context of formal languages, what is Chomsky hierarchy level for Context-Free Grammars?",
+    "choices": [
+      "Type 0",
+      "Type 1",
+      "Type 2",
+      "Type 3"
+    ],
+    "correctAnswer": "Type 2",
+    "explanation": "Context-Free Grammars are classified as Type 2 in the Chomsky hierarchy, which describes languages that can be recognized by pushdown automata.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which theorem states that it is impossible to decide certain properties for most formal systems?",
+    "choices": [
+      "G\u00f6del's Incompleteness Theorem",
+      "Church-Turing Thesis",
+      "Rice's Theorem",
+      "Cantor's Theorem"
+    ],
+    "correctAnswer": "G\u00f6del's Incompleteness Theorem",
+    "explanation": "G\u00f6del's Incompleteness Theorem establishes that in any consistent formal system rich enough to express basic arithmetic, there are statements that are true but cannot be proven within that system.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which algorithm is typically used for solving the minimum spanning tree problem efficiently?",
+    "choices": [
+      "Dijkstra's Algorithm",
+      "Prim's Algorithm",
+      "A* Search Algorithm",
+      "Kruskal's Algorithm"
+    ],
+    "correctAnswer": "Prim's Algorithm",
+    "explanation": "Prim's Algorithm is specifically designed to find a minimum spanning tree for a weighted undirected graph, ensuring that all nodes are connected, yielding the smallest possible total edge weight.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In machine learning, which optimization framework allows for constraints to be expressed in Solomonoff's Prior?",
+    "choices": [
+      "Lagrange Multipliers",
+      "Stochastic Gradient Descent",
+      "Linear Programming",
+      "Support Vector Machine"
+    ],
+    "correctAnswer": "Lagrange Multipliers",
+    "explanation": "Lagrange Multipliers is an optimization technique used to find the local maxima and minima of a function subject to equality constraints, which has implications within some contexts of Solomonoff's Prior in machine learning.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following sorting algorithms has a worst-case time complexity of O(n^2) but an average-case complexity of O(n log n)?",
+    "choices": [
+      "Quick Sort",
+      "Merge Sort",
+      "Heap Sort",
+      "Insertion Sort"
+    ],
+    "correctAnswer": "Quick Sort",
+    "explanation": "Quick Sort is typically O(n log n) on average due to its partitioning method, but in the worst case, when the pivot selected is the smallest or largest, it behaves like Insertion Sort, resulting in O(n^2).",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What type of memory management does not require a system to keep track of free memory areas?",
+    "choices": [
+      "Paging",
+      "Segmentation",
+      "Stack-based allocation",
+      "Heap-based allocation"
+    ],
+    "correctAnswer": "Stack-based allocation",
+    "explanation": "Stack-based allocation uses a last-in-first-out (LIFO) method for memory management, which does not require knowledge of free memory regions, unlike paging and segmentation.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the context of formal languages, what is the Chomsky hierarchy?",
+    "choices": [
+      "A categorization of problems based on time complexity",
+      "A classification of languages based on generative grammars",
+      "A system for numeric hashing",
+      "A taxonomy of software patterns"
+    ],
+    "correctAnswer": "A classification of languages based on generative grammars",
+    "explanation": "The Chomsky hierarchy classifies languages into types (Type 0, Type 1, Type 2, Type 3) according to their grammars and computational power from most to least powerful.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which theorem relates to the impossibility of deciding certain properties of algebraic data types?",
+    "choices": [
+      "Bellman-Ford Theorem",
+      "Rice's Theorem",
+      "G\u00f6del's Incompleteness Theorem",
+      "Liskov Substitution Principle"
+    ],
+    "correctAnswer": "Rice's Theorem",
+    "explanation": "Rice's Theorem states that every non-trivial property of the languages recognized by Turing machines is undecidable, addressing limitations of computability and type-checking.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What algorithm does Google's PageRank use to evaluate the relevance of web pages?",
+    "choices": [
+      "Dijkstra\u2019s algorithm",
+      "Depth-First Search",
+      "Markov chains",
+      "Brute-force algorithm"
+    ],
+    "correctAnswer": "Markov chains",
+    "explanation": "PageRank is based on Markov chains, where the stochastic process helps in determining the probability of a user landing on a particular page by navigating hyperlinks.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the time complexity of Dijkstra's algorithm when implemented with a binary heap?",
+    "choices": [
+      "O(V^2)",
+      "O(E log V)",
+      "O(V log V)",
+      "O(E)"
+    ],
+    "correctAnswer": "O(E log V)",
+    "explanation": "Dijkstra's algorithm has a time complexity of O(E log V) when implemented using a binary heap, where E is the number of edges and V is the number of vertices.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the context of Turing machines, which of the following concepts is used to describe problems that can be solved algorithmically?",
+    "choices": [
+      "Decidability",
+      "Recursion",
+      "Complexity classes",
+      "Interactiveness"
+    ],
+    "correctAnswer": "Decidability",
+    "explanation": "Decidability refers to whether a problem can be algorithmically solved by a Turing machine, which serves as the foundation of computability theory in computer science.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which model of computation can simulate any Turing machine according to the Church-Turing thesis?",
+    "choices": [
+      "Recursive Functions",
+      "Finite State Automata",
+      "Lambda Calculus",
+      "Stack-based Machines"
+    ],
+    "correctAnswer": "Lambda Calculus",
+    "explanation": "The Church-Turing thesis asserts that the lambda calculus can simulate any Turing machine, suggesting that it is as powerful as other computational models.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In category theory, what prerequisite structure is needed for a computation model to be suitable for \u03bb-calculus?",
+    "choices": [
+      "Monoid",
+      "Functor",
+      "Category",
+      "Topos"
+    ],
+    "correctAnswer": "Category",
+    "explanation": "The \u03bb-calculus is modeled categorically through the notion of 'Category,' which provides the necessary structure for the interpretation of computations.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which problem is proven to be NP-hard associated with the traveling salesman scenario and requires solving a combinatorial explosion of valid paths?",
+    "choices": [
+      "Knapsack Problem",
+      "Hamiltonian Cycle",
+      "Graph Coloring",
+      "Subset Sum"
+    ],
+    "correctAnswer": "Hamiltonian Cycle",
+    "explanation": "The Hamiltonian Cycle problem is binarily NP-hard and can be defined within the context of the traveling salesman problem, related inherently to verifying feasible circuits in graphs.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is a significant characterizing property of a P space in computational complexity?",
+    "choices": [
+      "Deterministic Polynomial Memory Usage",
+      "Non-Deterministic Polynomial Time Use",
+      "Cryptographic Security",
+      "Heuristic Functions"
+    ],
+    "correctAnswer": "Deterministic Polynomial Memory Usage",
+    "explanation": "P space concerns the complexity of decision problems where the space is ascertained to be polynomial with respect to input size, restricting graceful execution in memory.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which decision problem relates to determining whether an arithmetic expression has at least one valuation satisfying its constraints?",
+    "choices": [
+      "Boolean Satisfiability Problem (SAT)",
+      "Integer Programming",
+      "Linear Regression",
+      "Greedy Coloring"
+    ],
+    "correctAnswer": "Boolean Satisfiability Problem (SAT)",
+    "explanation": "The SAT problem involves checking for the existence of an assignment to variables that make a logical formula true, laying foundation in NP-complete decision problems.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What advanced algorithm primarily Utilizes randomness in obtaining faster approximate solutions for hard problems?",
+    "choices": [
+      "Greedy Algorithms",
+      "Dynamic Programming",
+      "Monte Carlo Algorithms",
+      "Backtracking"
+    ],
+    "correctAnswer": "Monte Carlo Algorithms",
+    "explanation": "Monte Carlo algorithms leverage random sampling to yield approximate solutions near polynomial performance targets accommodating extensive problem sizes.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In computational complexity theory, which class of problems is decidable by a Turing Machine and in which the solution can be verified in polynomial time?",
+    "choices": [
+      "P",
+      "NP",
+      "NP-complete",
+      "NP-hard"
+    ],
+    "correctAnswer": "NP",
+    "explanation": "NP consists of problems for which a given solution can be verified in polynomial time, even though they may not be solvable in polynomial time.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the primary function of the interpretation phase in a compiler?",
+    "choices": [
+      "Translation of code to machine language",
+      "Optimization of code",
+      "Error checking",
+      "Mapping high-level constructs to machine instructions"
+    ],
+    "correctAnswer": "Mapping high-level constructs to machine instructions",
+    "explanation": "The interpretation phase involves taking high-level programming code and mapping it to executable machine instructions in real-time or during execution.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following sorting algorithms exhibits a worst-case time complexity of O(n^2)?",
+    "choices": [
+      "Merge Sort",
+      "Heap Sort",
+      "Quick Sort",
+      "Selection Sort"
+    ],
+    "correctAnswer": "Selection Sort",
+    "explanation": "Selection Sort has a worst-case time complexity of O(n^2), which occurs when the elements are arranged in reverse order.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What does the acronym ACID in database management systems refer to?",
+    "choices": [
+      "Atomicity, Consistency, Isolation, Durability",
+      "Absence, Consistency, Isolation, Dexterity",
+      "Atomic, Committed, Independent, Definable",
+      "Accessible, Confidential, Immutable, Dependent"
+    ],
+    "correctAnswer": "Atomicity, Consistency, Isolation, Durability",
+    "explanation": "ACID is a set of properties that ensure reliable processing of database transactions.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the context of networking, what is described by the acronym 'TTL'?",
+    "choices": [
+      "Transmission Time Lag",
+      "Time To Live",
+      "Total Transmission Length",
+      "Tethered Transfer Link"
+    ],
+    "correctAnswer": "Time To Live",
+    "explanation": "TTL is a field in an Internet Protocol (IP) packet that used to prevent packets from circulating indefinitely in a network.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which theory or framework describes problems that can be solved by a machine using space or time poly-onomially growing in their input?",
+    "choices": [
+      "LALR(1) parsing",
+      "KLP theory",
+      "Space Complexity Theory",
+      "Kolmogorov Complexity"
+    ],
+    "correctAnswer": "Space Complexity Theory",
+    "explanation": "Space Complexity Theory deals with the amount of working storage an algorithm uses relative to the input size.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In security protocols, what does Diffie-Hellman primarily facilitate?",
+    "choices": [
+      "Encryption at rest",
+      "Secure messaging",
+      "Key exchange",
+      "Digital signatures"
+    ],
+    "correctAnswer": "Key exchange",
+    "explanation": "The Diffie-Hellman key exchange is a method by which two parties can securely share a secret key over an insecure channel.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which concept does the 'no free lunch' theorem uphold in the context of optimization algorithms?",
+    "choices": [
+      "All classifiers are equally effective",
+      "Algorithm efficiency is independent of problem type",
+      "Every optimization algorithm performs the same under all problems",
+      "Random functions provide the best predictive models"
+    ],
+    "correctAnswer": "Every optimization algorithm performs the same under all problems",
+    "explanation": "The 'no free lunch' theorem asserts that any two optimization algorithms have equal performance when considered across all possible problems.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the notable behavior of a 'deadlock' in computer systems?",
+    "choices": [
+      "Routine processing of tasks",
+      "Mutual exclusion and waiting",
+      "Proactive compliance",
+      "Guaranteed operational efficiency"
+    ],
+    "correctAnswer": "Mutual exclusion and waiting",
+    "explanation": "A deadlock arises when two or more processes cannot proceed because each is waiting for the other to release resources.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What was the primary purpose of the invention of the ENIAC computer?",
+    "choices": [
+      "To perform repetitive calculations",
+      "To serve as an early word processor",
+      "To facilitate process automation",
+      "To calculate artillery ballistic trajectories"
+    ],
+    "correctAnswer": "To calculate artillery ballistic trajectories",
+    "explanation": "ENIAC was designed to compute artillery firing tables for the United States Army during World War II and was the first electronic general-purpose computer.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which algorithmic complexity class does the Traveling Salesman Problem belong to?",
+    "choices": [
+      "P",
+      "NP hard",
+      "P complete",
+      "EXPSPACE"
+    ],
+    "correctAnswer": "NP hard",
+    "explanation": "The Traveling Salesman Problem (TSP) is NP-hard, meaning that no polynomial-time solution is known for the general case, and it is as hard as the hardest problems in NP.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What does the 'CAP' theorem describe and constrain?",
+    "choices": [
+      "The state of concurrent programming",
+      "The limitations of mobile networking",
+      "The trade-offs in designing distributed data stores",
+      "The processing capabilities of quantum computers"
+    ],
+    "correctAnswer": "The trade-offs in designing distributed data stores",
+    "explanation": "The CAP theorem, proposed by Eric Brewer, states that in any distributed computing environment, you can only achieve two out of three guarantees: Consistency, Availability, and Partition tolerance.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In computer security, what is the term used for hacked endpoints that have been turned into bots?",
+    "choices": [
+      "Zombies",
+      "Trojan horses",
+      "Backdoors",
+      "RATs"
+    ],
+    "correctAnswer": "Zombies",
+    "explanation": "Hacked computers that have been hijacked for malicious purposes, such as participating in coordinated attacks or sending out spam, are often referred to as 'zombie machines.'",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What programming construct keeps track of multiple pointers in memory to the same data without creating copies within C++?",
+    "choices": [
+      "Weak Pointers",
+      "Smart Pointers",
+      "Unique Pointers",
+      "Raw Pointers"
+    ],
+    "correctAnswer": "Weak Pointers",
+    "explanation": "Weak pointers in C++ are used in conjunction with shared pointers to avoid circular references, allowing the data they point to be deallocated even if weak pointers still reference it.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the worst-case time complexity of QuickSort?",
+    "choices": [
+      "O(n)",
+      "O(n log n)",
+      "O(n^2)",
+      "O(log n)"
+    ],
+    "correctAnswer": "O(n^2)",
+    "explanation": "The worst-case time complexity of QuickSort occurs when the pivot selection and partitions are least favorable, which results in unbalanced partitions.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In Rust, what keyword is used to indicate that a borrowed reference must not outlive the ownership it's borrowed from?",
+    "choices": [
+      "Lifetimes",
+      "Ownership",
+      "Borrow",
+      "Validation"
+    ],
+    "correctAnswer": "Lifetimes",
+    "explanation": "In Rust, lifetimes indicate how long a reference is valid, ensuring that borrowed references do not outlive the data they point to.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What does the term 'Uncanny Valley' refer to in robotics and AI design?",
+    "choices": [
+      "The observation that humanoid robots are appealing up to a point",
+      "The role of neural networks in defining human emotions",
+      "The complication of plan validation",
+      "The decline in interest of robots over time"
+    ],
+    "correctAnswer": "The observation that humanoid robots are appealing up to a point",
+    "explanation": "The 'Uncanny Valley' concept implies that humanoid objects that closely resemble humans can elicit unease if they appear too human-like without actually being human.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In a distributed system, what algorithm is traditionally used to achieve mutual exclusion?",
+    "choices": [
+      "Chandy-Misra",
+      "Fischer-Lynch-Paterson",
+      "Ricart-Agrawala",
+      "Lamport Timestamps"
+    ],
+    "correctAnswer": "Ricart-Agrawala",
+    "explanation": "The Ricart-Agrawala algorithm is used for achieving mutual exclusion in distributed systems through a logical clock and a request-reply mechanism.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which data structure inherently prevents duplicates, keeping elements in an unordered collection?",
+    "choices": [
+      "List",
+      "Set",
+      "Map",
+      "Array"
+    ],
+    "correctAnswer": "Set",
+    "explanation": "A Set is a collection data type that enforces uniqueness, preventing duplicates from existing within it.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following data structures uses a 'Last In, First Out' (LIFO) methodology?",
+    "choices": [
+      " Queue ",
+      " Array ",
+      " Stack ",
+      " Linked List "
+    ],
+    "correctAnswer": " Stack ",
+    "explanation": "A Stack operates on a LIFO principle, meaning that the last item added is the first to be removed.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In the context of operating systems, what does 'context switching' refer to?",
+    "choices": [
+      " Directly executing programs ",
+      " Saving and restoring the state of a CPU ",
+      " Preventing race conditions ",
+      " Allocating system memory "
+    ],
+    "correctAnswer": " Saving and restoring the state of a CPU ",
+    "explanation": "Context switching is the process that allows multiple processes to share a single CPU by saving the state of a process and loading the state of another.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the time complexity of looking up an element in a balanced binary search tree?",
+    "choices": [
+      " O(log n) ",
+      " O(n) ",
+      " O(n log n) ",
+      " O(1) "
+    ],
+    "correctAnswer": " O(log n) ",
+    "explanation": "Balanced binary search trees optimize search time to O(log n) because the tree is structured to have a logarithmic height relative to the number of nodes.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the primary encryption method used in RSA algorithm?",
+    "choices": [
+      " Symmetric encryption ",
+      " Asymmetric encryption ",
+      " Hashing ",
+      " Steganography "
+    ],
+    "correctAnswer": " Asymmetric encryption ",
+    "explanation": "RSA utilizes asymmetric encryption, involving a pair of keys: a public key for encryption and a private key for decryption.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which programming language introduced the concept of garbage collection?",
+    "choices": [
+      " Java ",
+      " Lisp ",
+      " C++ ",
+      " Python "
+    ],
+    "correctAnswer": " Lisp ",
+    "explanation": "Lisp was among the first programming languages that implemented garbage collection to manage memory automatically, paving the way for further advancements.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following programming paradigms focuses on the concept of 'objects' containing data and methods?",
+    "choices": [
+      "Functional Programming",
+      "Procedural Programming",
+      "Object-Oriented Programming",
+      "Declarative Programming"
+    ],
+    "correctAnswer": "Object-Oriented Programming",
+    "explanation": "Object-Oriented Programming (OOP) is a programming paradigm based on the concept of 'objects', which contain data in the form of fields (often known as attributes) and code in the form of procedures (often known as methods).",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the worst-case time complexity of Dijkstra's algorithm when using a binary heap?",
+    "choices": [
+      "O(E + V log V)",
+      "O(V^2)",
+      "O(E log V)",
+      "O(V log E)"
+    ],
+    "correctAnswer": "O(E + V log V)",
+    "explanation": "The worst-case time complexity of Dijkstra's algorithm using a binary heap is O(E + V log V), where V is the number of vertices and E is the number of edges in the graph.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In distributed systems, what is the primary problem caused by network partitions?",
+    "choices": [
+      "Data Consistency",
+      "Latency",
+      "Throughput",
+      "Scalability"
+    ],
+    "correctAnswer": "Data Consistency",
+    "explanation": "Network partitions can disrupt communication between nodes in distributed systems, leading to challenges in maintaining data consistency across those partitions.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following algorithms can be categorized under Dynamic Programming?",
+    "choices": [
+      "Depth-First Search",
+      "Quick Sort",
+      "Floyd-Warshall Algorithm",
+      "Merge Sort"
+    ],
+    "correctAnswer": "Floyd-Warshall Algorithm",
+    "explanation": "The Floyd-Warshall algorithm is an example of a Dynamic Programming algorithm used to find the shortest paths between all pairs of vertices in a weighted graph.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What does the term 'CAP Theorem' in distributed databases refer to?",
+    "choices": [
+      "Consistency, Availability, Partition Tolerance",
+      "Capacity, Availability, Performance",
+      "Complexity, Adaptability, Performance",
+      "Correctness, Accessibility, Partitioning"
+    ],
+    "correctAnswer": "Consistency, Availability, Partition Tolerance",
+    "explanation": "The CAP Theorem states that a distributed data store can only simultaneously provide two of the three guarantees: Consistency (C), Availability (A), or Partition Tolerance (P).",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the primary difference between TCP and UDP protocols?",
+    "choices": [
+      "Connection-oriented vs connectionless",
+      "Low latency vs high latency",
+      "Reliable vs unreliable delivery",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "TCP is a connection-oriented protocol that ensures reliable delivery, while UDP is a connectionless protocol that offers low-latency but does not guarantee reliable delivery.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which type of malware specifically aims to prevent file recovery by encrypting victims' files?",
+    "choices": [
+      "Virus",
+      "Worm",
+      "Ransomware",
+      "Trojans"
+    ],
+    "correctAnswer": "Ransomware",
+    "explanation": "Ransomware is a type of malware that encrypts a victim's files and demands a ransom payment to restore access to the files.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which programming language is known as the 'mother of all languages' and influenced many others?",
+    "choices": [
+      "C",
+      "Java",
+      "Assembly",
+      "Pascal"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The programming language C is often referred to as the 'mother of all languages' as it has heavily influenced many advanced programming languages, including C++, Java, and Perl.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In terms of theoretical computer science, which class of problems cannot be solved by any algorithm?",
+    "choices": [
+      "NP-Complete",
+      "Decidable",
+      "Undecidable",
+      "P-Complete"
+    ],
+    "correctAnswer": "Undecidable",
+    "explanation": "Undecidable problems are those for which no algorithm can provide a solution for all possible inputs, such as the Halting Problem.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is a falsifiable hypothesis in the context of Computer Science?",
+    "choices": [
+      "A hypothesis that cannot be true",
+      "A hypothesis that can be tested and disproven",
+      "A consensus-driven hypothesis",
+      "A universal truth"
+    ],
+    "correctAnswer": "A hypothesis that can be tested and disproven",
+    "explanation": "In scientific method terms, a falsifiable hypothesis is one that can be rigorously tested and possibly disproven, which is critical for empirical validation in computer science models.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the primary purpose of a Memory Management Unit (MMU) in a computer system?",
+    "choices": [
+      "To manage storage devices",
+      "To translate virtual addresses to physical addresses",
+      "To allocate CPU time",
+      "To control input and output devices"
+    ],
+    "correctAnswer": "To translate virtual addresses to physical addresses",
+    "explanation": "The MMU is responsible for handling the mapping of a process's virtual addresses to physical addresses in RAM, allowing operating systems to use virtual memory.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following is commonly considered an NP-complete problem?",
+    "choices": [
+      "Finding the shortest path in a graph",
+      "Traveling Salesman Problem",
+      "Sorting a list of numbers",
+      "Multiplying two matrices"
+    ],
+    "correctAnswer": "Traveling Salesman Problem",
+    "explanation": "The Traveling Salesman Problem (TSP) is a well-known NP-complete problem in combinatorial optimization where the task is to find the shortest possible route visiting a set of cities and returning to the origin.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In which year was the first RFC (Request for Comments) published that articulated what would become the protocol for the Internet?",
+    "choices": [
+      "1972",
+      "1969",
+      "1983",
+      "1974"
+    ],
+    "correctAnswer": "1969",
+    "explanation": "The first RFC, RFC 1, was published in 1969, describing the original ARPANET specification and guiding future protocols that would develop the foundation of the Internet.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What does RFC 821 specify?",
+    "choices": [
+      "SMTP",
+      "HTTP",
+      "TCP",
+      "IP"
+    ],
+    "correctAnswer": "SMTP",
+    "explanation": "RFC 821 defined the Simple Mail Transfer Protocol (SMTP), which is used for sending emails across the Internet.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the primary function of a compiler?",
+    "choices": [
+      "To execute code",
+      "To convert source code into machine code",
+      "To format source code",
+      "To debug programs"
+    ],
+    "correctAnswer": "To convert source code into machine code",
+    "explanation": "The main purpose of a compiler is to translate high-level programming code into machine code or intermediate code so that it can be executed by a computer.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the time complexity of the Fast Fourier Transform (FFT) algorithm?",
+    "choices": [
+      "O(n)",
+      "O(n log n)",
+      "O(n^2)",
+      "O(log n)"
+    ],
+    "correctAnswer": "O(n log n)",
+    "explanation": "The Fast Fourier Transform (FFT) is a highly efficient algorithm for computing the discrete Fourier transform (DFT) of a sequence, with a time complexity of O(n log n).",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In which year was the first known computer virus, called 'Creeper', created?",
+    "choices": [
+      "1971",
+      "1986",
+      "1995",
+      "2000"
+    ],
+    "correctAnswer": "1971",
+    "explanation": "The Creeper virus was created in 1971 and is known as the first computer virus that was self-replicating. It is famously noted for displaying a message that read, 'I'm the creeper, catch me if you can!'",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following is NOT a recognized classification of computer memory?",
+    "choices": [
+      "Volatile",
+      "Non-volatile",
+      "Tertiary",
+      "Cold"
+    ],
+    "correctAnswer": "Cold",
+    "explanation": "Cold is not a standard classification for computer memory. Common classifications include volatile (temporary storage, like RAM) and non-volatile (permanent storage, like SSDs). Tertiary can refer to secondary storage, which is less frequently accessed.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In the context of computer networking, what does SNMP stand for?",
+    "choices": [
+      "Super Network Management Protocol",
+      "Simple Network Management Protocol",
+      "Secure Network Management Protocol",
+      "Standard Network Management Protocol"
+    ],
+    "correctAnswer": "Simple Network Management Protocol",
+    "explanation": "SNMP stands for Simple Network Management Protocol, which is used to manage devices on IP networks such as routers, switches, and servers.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which programming language is optimized for statistical computing and graphics?",
+    "choices": [
+      "Python",
+      "R",
+      "Java",
+      "MATLAB"
+    ],
+    "correctAnswer": "R",
+    "explanation": "R is specifically designed for statistical analysis and data visualization, making it a favored tool among statisticians and data scientists.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In which year was the HTTP/2 protocol standardized?",
+    "choices": [
+      "2012",
+      "2015",
+      "2016",
+      "2018"
+    ],
+    "correctAnswer": "2015",
+    "explanation": "The HTTP/2 protocol was standardized by the Internet Engineering Task Force (IETF) as RFC 7540 in May 2015.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following languages influenced the development of C++?",
+    "choices": [
+      "Java",
+      "Simula",
+      "Pascal",
+      "Fortran"
+    ],
+    "correctAnswer": "Simula",
+    "explanation": "C++ was influenced by the programming language Simula, which introduced the concept of classes and objects.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the purpose of CAP theorem in distributed systems?",
+    "choices": [
+      "To measure performance of algorithms",
+      "To outline the limitations of database systems",
+      "To design user interfaces",
+      "To secure network communication"
+    ],
+    "correctAnswer": "To outline the limitations of database systems",
+    "explanation": "The CAP theorem states that a distributed data store cannot simultaneously provide all three of these guarantees: Consistency, Availability, and Partition tolerance.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What mathematical concept forms the basis for public key cryptography?",
+    "choices": [
+      "Elliptic curves",
+      "Graph theory",
+      "Integer factorization",
+      "Transfinite numbers"
+    ],
+    "correctAnswer": "Integer factorization",
+    "explanation": "Public key cryptography relies on mathematical problems such as integer factorization, which underpins schemes like RSA.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which algorithm is primarily used for routing in the Internet?",
+    "choices": [
+      "Dijkstra\u2019s algorithm",
+      "Bellman-Ford algorithm",
+      "A* search algorithm",
+      "Greedy algorithm"
+    ],
+    "correctAnswer": "Dijkstra\u2019s algorithm",
+    "explanation": "Dijkstra's algorithm is widely used in network routing protocols, allowing systems to determine the shortest path on graphs.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In terms of KPIs, what does the D of 'DPI' stand for in 'Deep Packet Inspection'?",
+    "choices": [
+      "Data",
+      "Document",
+      "Deep",
+      "Dynamic"
+    ],
+    "correctAnswer": "Deep",
+    "explanation": "DPI, or Deep Packet Inspection, refers to a method used for inspecting network packets in their entirety rather than just at the header level, allowing for more intricate configurations and analyses.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following protocols is designed for moving virtual components between server clusters for load balancing?",
+    "choices": [
+      "RADIUS",
+      "FTP",
+      "Vmotion",
+      "X11"
+    ],
+    "correctAnswer": "Vmotion",
+    "explanation": "Vmotion is a feature for live migration of virtual machines, allowing them to move between physical servers with minimal downtime, crucial for load balancing and resource management in data centers.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which theorem rationalizes the statement that it is impossible to perfectly predict the outcome of a chaotic system?",
+    "choices": [
+      "Taylor's Theorem",
+      "Cantor's Theorem",
+      "G\u00f6del's Incompleteness Theorems",
+      "Lyapunov's Exponential Stability Theorem"
+    ],
+    "correctAnswer": "Lyapunov's Exponential Stability Theorem",
+    "explanation": "Lyapunov's Exponential Stability Theorem provides insight into the behavior of dynamic systems, particularly chaotic systems, underscoring the challenge in predictability.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In cryptography, which algorithm is based on the assumption that the lattice problem is hard?",
+    "choices": [
+      "RSA",
+      "AES",
+      "Lattice-based cryptography",
+      "Elliptic Curve Cryptography"
+    ],
+    "correctAnswer": "Lattice-based cryptography",
+    "explanation": "Lattice-based cryptography utilizes hard problems based on lattice theory, proposing a more secure form of encryption in a post-quantum era.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following sorting algorithms is guaranteed to have O(n log n) time complexity in its worst case?",
+    "choices": [
+      "Bubble Sort",
+      "Merge Sort",
+      "Insertion Sort",
+      "Selection Sort"
+    ],
+    "correctAnswer": "Merge Sort",
+    "explanation": "Merge Sort is a divide and conquer algorithm that leads to a worst-case time complexity of O(n log n). Other sorting algorithms like Bubble Sort, Insertion Sort, and Selection Sort can have O(n^2) in their worst cases.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the primary purpose of the Turing Test?",
+    "choices": [
+      "To assess computer algorithms",
+      "To measure data transfer rate",
+      "To evaluate artificial intelligence",
+      "To compute arithmetic operations"
+    ],
+    "correctAnswer": "To evaluate artificial intelligence",
+    "explanation": "The Turing Test, proposed by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In terms of computational complexity, what is the class of problems that can be solved in polynomial time?",
+    "choices": [
+      "NP-Complete",
+      "P",
+      "PSPACE",
+      "EXP"
+    ],
+    "correctAnswer": "P",
+    "explanation": "The complexity class P is the class of decision problems (problems that yield a yes/no answer) that can be solved by a deterministic Turing machine in polynomial time.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following languages is considered the mother of all programming languages?",
+    "choices": [
+      "C",
+      "Assembly Language",
+      "FORTRAN",
+      "LISP"
+    ],
+    "correctAnswer": "C",
+    "explanation": "C is often referred to as the mother of all programming languages because many languages, including C++, Java, and Python, are influenced by its syntax and concepts.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the time complexity for multiplying two n x n matrices using standard algorithms?",
+    "choices": [
+      "O(n log n)",
+      "O(n^2)",
+      "O(n^3)",
+      "O(n^4)"
+    ],
+    "correctAnswer": "O(n^3)",
+    "explanation": "The traditional algorithm for matrix multiplication has a time complexity of O(n^3). More efficient algorithms exist, such as Strassen's algorithm, but they are more complex.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the time complexity of Dijkstra's shortest path algorithm with a binary heap?",
+    "choices": [
+      "O(V^2)",
+      "O(E log V)",
+      "O(V log V)",
+      "O(V^2 log V)"
+    ],
+    "correctAnswer": "O(E log V)",
+    "explanation": "Dijkstra's algorithm has a time complexity of O(E log V) when using a binary heap for priority queue operations.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following sorting algorithms is not comparison-based?",
+    "choices": [
+      "Quick sort",
+      "Merge sort",
+      "Radix sort",
+      "Heap sort"
+    ],
+    "correctAnswer": "Radix sort",
+    "explanation": "Radix sort is a non-comparison-based sorting algorithm as it sorts numbers by processing individual digits.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In which year was the first message sent over the ARPANET?",
+    "choices": [
+      "1965",
+      "1969",
+      "1971",
+      "1973"
+    ],
+    "correctAnswer": "1969",
+    "explanation": "The first message was sent over the ARPANET on October 29, 1969.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What does 'CAP' in CAP theorem stand for?",
+    "choices": [
+      "Consistency, Availability, Partition-tolerance",
+      "Conflict-Availability-Processing",
+      "Cluster-Associativity-Partitioning",
+      "Consistency-Revision-Partition"
+    ],
+    "correctAnswer": "Consistency, Availability, Partition-tolerance",
+    "explanation": "CAP theorem states that in the presence of a network partition, a distributed system can guarantee either consistency or availability, but not both.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What type of memory does a main memory typically use?",
+    "choices": [
+      "Flash memory",
+      "DRAM",
+      "SRAM",
+      "Magnetic tape"
+    ],
+    "correctAnswer": "DRAM",
+    "explanation": "Main memory typically uses DRAM (Dynamic Random Access Memory) because of its contrast between cost and speed advantages.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following network protocols is connectionless?",
+    "choices": [
+      "TCP",
+      "UDP",
+      "HTTP",
+      "FTP"
+    ],
+    "correctAnswer": "UDP",
+    "explanation": "UDP (User Datagram Protocol) is a connectionless protocol, allowing for decreased latency without the overhead of connection establishment.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is tail call optimization in programming?",
+    "choices": [
+      "A method to cache data",
+      "A technique to speed up recursive function calls",
+      "An optimization technique for concurrent execution",
+      "A process to manage memory effectively"
+    ],
+    "correctAnswer": "A technique to speed up recursive function calls",
+    "explanation": "Tail call optimization is a technique where recursive calls that take place at the end of a function can be optimized by the compiler to improve performance.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In a DIT(maximum depth of a tree) Binary Tree, what is the maximum number of node by levels l?",
+    "choices": [
+      "2^(l-1)",
+      "2^(l+1)-1",
+      "2^l",
+      "l^2"
+    ],
+    "correctAnswer": "2^l",
+    "explanation": "In a complete binary tree with 'l' levels, the maximum number of nodes is given by the formula 2^l.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which computer architecture introduced the concept of the subroutine?",
+    "choices": [
+      "Von Neumann architecture",
+      "Harvard architecture",
+      "x86 architecture",
+      "Reduced Instruction Set Computer (RISC)"
+    ],
+    "correctAnswer": "Von Neumann architecture",
+    "explanation": "The Von Neumann architecture, integrated the use of memory for both data and instructions, facilitating a structured approach to incorporating subroutines in programming.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the main purpose of a Ramdisk?",
+    "choices": [
+      "Persistent storage",
+      "Fast caching",
+      "Swap memory",
+      "To optimize disk use"
+    ],
+    "correctAnswer": "Fast caching",
+    "explanation": "A Ramdisk uses system memory instead of traditional disk storage which significantly speeds up data access times, hence serving primarily as fast caching.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following programming languages is implemented as a formal mathematical notation rather than a traditional programming paradigm?",
+    "choices": [
+      "A) Haskell",
+      "B) Lisp",
+      "C) Coq",
+      "D) Python"
+    ],
+    "correctAnswer": "C) Coq",
+    "explanation": "Coq is a formal proof management system that uses a mathematical notation for constructing mathematical proofs and formalizing algorithms, rather than adhering to conventional programming paradigms.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In which scenario does the Rice's Theorem say we cannot determine certain properties of a computable function?",
+    "choices": [
+      "A) When there is an unbounded input",
+      "B) When the output is always 'true'",
+      "C) When the property is non-trivial",
+      "D) When the computations exceed expected time limits"
+    ],
+    "correctAnswer": "C) When the property is non-trivial",
+    "explanation": "Rice's Theorem states that for any non-trivial property of total functions, it's undecidable whether a given Turing machine computes a function with that property, illustrating fundamental limits of computability.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the main limitation of the probabilistic algorithm known as the Miller-Rabin primality test?",
+    "choices": [
+      "A) It only detects composite numbers.",
+      "B) It is not efficient for large inputs.",
+      "C) It can yield false positives.",
+      "D) It cannot handle large even numbers."
+    ],
+    "correctAnswer": "C) It can yield false positives.",
+    "explanation": "The Miller-Rabin test is a probabilistic test that can affirm a composite number as 'probably prime' based on the randomness of selected bases, hence causing the possibility of false positives.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In a Turing machine, what is the significance of the Halting Problem?",
+    "choices": [
+      "A) It determines the machine's maximum input size.",
+      "B) It proves that efficient computation is always possible.",
+      "C) It shows the undecidability of certain algorithmic processes.",
+      "D) It simplifies the concept of computational complexity."
+    ],
+    "correctAnswer": "C) It shows the undecidability of certain algorithmic processes.",
+    "explanation": "The Halting Problem demonstrated by Alan Turing establishes that there is no general algorithm to determine whether any arbitrary Turing machine will eventually stop or run forever, revealing the limits of computation.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which paradox exposes a limit in bit-complexity when combining arbitrary numerical operations?",
+    "choices": [
+      "A) Russell's Paradox",
+      "B) Barber Paradox",
+      "C) Berry's Paradox",
+      "D) Cantor's Diagonal Argument"
+    ],
+    "correctAnswer": "C) Berry's Paradox",
+    "explanation": "Berry's Paradox illustrates complexities that arise from the concept of defining numbers naively; it raises issues in set theory and symbolic computation beyond simple arithmetic.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the worst-case time complexity of the Quickselect algorithm for finding the k-th smallest element in an unsorted array?",
+    "choices": [
+      "O(n)",
+      "O(n log n)",
+      "O(n^2)",
+      "O(log n)"
+    ],
+    "correctAnswer": "O(n^2)",
+    "explanation": "The Quickselect algorithm has an average time complexity of O(n), but in the worst-case scenario (when the smallest or largest element is always chosen as the pivot), it can degrade to O(n^2).",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following data structures uses the width-first search algorithm to navigate?",
+    "choices": [
+      "Binary Tree",
+      "Binary Search Tree",
+      "Graph",
+      "Trie"
+    ],
+    "correctAnswer": "Graph",
+    "explanation": "Width-first search, commonly implemented using a queue, is primarily associated with navigating graphs, examining all nodes at the present depth level before moving on to the nodes at the next depth level.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary purpose of the A* algorithm in computer science?",
+    "choices": [
+      "Sorting",
+      "Completing geometric transformations",
+      "Pathfinding",
+      "Data compression"
+    ],
+    "correctAnswer": "Pathfinding",
+    "explanation": "The A* algorithm is an informed search algorithm typically used in graph-based pathfinding and graph traversal. It extends Dijkstra's algorithm with the addition of heuristics that estimate the cost from the current node to the target.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In theoretical computer science, what does the 'P' class denote?",
+    "choices": [
+      "Problems solvable in polynomial time",
+      "Problems solvable in exponential time",
+      "Problems requiring parallel computation",
+      "Problems limited to practical application scenarios"
+    ],
+    "correctAnswer": "Problems solvable in polynomial time",
+    "explanation": "The class P (Polynomial time) contains the decision problems that can be solved by a determinate Turing machine using a number of steps that is a polynomial function of the size of the input.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of a hash function?",
+    "choices": [
+      "Deterministic",
+      "Fast computation",
+      "Pre-image resistance",
+      "Linear output"
+    ],
+    "correctAnswer": "Linear output",
+    "explanation": "Hash functions are designed to produce variable-length output from any size input and should ideally exhibit properties like being deterministic, fast to compute, and pre-image resistant; they do not produce linear or predictable outputs.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the time complexity of accessing an element in a binary search tree on average?",
+    "choices": [
+      "O(log n)",
+      "O(n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correctAnswer": "O(log n)",
+    "explanation": "In a balanced binary search tree, the height is logarithmic to the number of elements, making the average case access time O(log n).",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the context of data structures, what does the ' amortized time complexity' refer to?",
+    "choices": [
+      "The worst-case time over many operations",
+      "The total time over multiple operations divided by the number of operations",
+      "Only the longest individual operation time",
+      "The best-case time scenario"
+    ],
+    "correctAnswer": "The total time over multiple operations divided by the number of operations",
+    "explanation": "Amortized time complexity is an analysis that averages the time taken for a sequence of operations, and can provide insight into operations that Individually are expensive but rarely need to be performed.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which programming language paradigm is primarily based on the concept of objects, encapsulation, and inheritance?",
+    "choices": [
+      "Functional Programming",
+      "Aspect-Oriented Programming",
+      "Object-Oriented Programming",
+      "Procedural Programming"
+    ],
+    "correctAnswer": "Object-Oriented Programming",
+    "explanation": "Object-Oriented Programming (OOP) paradigm focuses on objects that possess both data and behavior, allowing for encapsulation and inheritance.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following sorting algorithms has the worst-case time complexity of O(n^2)?",
+    "choices": [
+      "Merge Sort",
+      "Quick Sort",
+      "Bubble Sort",
+      "Heap Sort"
+    ],
+    "correctAnswer": "Bubble Sort",
+    "explanation": "Bubble Sort is known for its simplicity but has a poor average and worst-case performance of O(n^2), in contrast to more efficient algorithms like Merge or Quick Sort.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In telecommunications, what does MQS stand for, referring to Maximum Quality of Service faire?",
+    "choices": [
+      "Management Quality Service",
+      "Multi-Quantum Scheduler",
+      "Multiple Quality Systems",
+      "Message Queuing Service"
+    ],
+    "correctAnswer": "Management Quality Service",
+    "explanation": "Maximum Quality of Service (MQS) in telecommunications refers to a toolkit or standards to manage data services effectively to maximize performance across a network.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following is a non-traditional file system for large-scale data stores, generally composed of horizontal scaling?",
+    "choices": [
+      "NTFS",
+      "HDFS",
+      "FAT32",
+      "ext4"
+    ],
+    "correctAnswer": "HDFS",
+    "explanation": "HDFS (Hadoop Distributed File System) is designed for storing large amounts of data across many machines in a distributed computing environment using horizontal scaling.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following networking protocols is designed to configure devices in an IP network and locate network services?",
+    "choices": [
+      "DHCP",
+      "ARP",
+      "NAT",
+      "SSH"
+    ],
+    "correctAnswer": "DHCP",
+    "explanation": "The Dynamic Host Configuration Protocol (DHCP) is used to dynamically assign IP addresses and provide other configuration to devices in a network.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What type of data structure does a 'Red-Black Tree' represent?",
+    "choices": [
+      "A self-balancing binary search tree",
+      "An unsorted linear array",
+      "A directed acyclic graph",
+      "A matrix of binary coefficients"
+    ],
+    "correctAnswer": "A self-balancing binary search tree",
+    "explanation": "A Red-Black Tree is a type of self-balancing binary search tree where each node contains an extra bit that telegraphs whether it is red or black, ensuring logarithmic time for insertions and deletions.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the domain of computer systems, what does 'thundering herd problem' refer to?",
+    "choices": [
+      "Binary search inefficiencies",
+      "Caching added latency",
+      "Multiple processes wake simultaneously",
+      "Data race in multithreading"
+    ],
+    "correctAnswer": "Multiple processes wake simultaneously",
+    "explanation": "The thundering herd problem occurs when multiple processes wake up for a resource delivery simultaneously, which can render all processes idle waiting for the resource to become available.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What routing algorithm type does OSPF (Open Shortest Path First) employ?",
+    "choices": [
+      "Flooding",
+      "Distance Vector",
+      "Link-state",
+      "Path Vector"
+    ],
+    "correctAnswer": "Link-state",
+    "explanation": "Open Shortest Path First (OSPF) is a link-state routing protocol that maintains a comprehensive state of all links in the routing domain for optimal path selection.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the time complexity of Dijkstra's algorithm using a binary heap?",
+    "choices": [
+      "O(V^2)",
+      "O(E log V)",
+      "O(V log V)",
+      "O(E)"
+    ],
+    "correctAnswer": "O(E log V)",
+    "explanation": "Dijkstra's algorithm efficiently finds the shortest paths from the source node to otherwise unreachable nodes, and using a binary heap data structure reduces the heap operations, leading to a time complexity of O(E log V).",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following programming languages is considered a superset of C?",
+    "choices": [
+      "C++",
+      "C#",
+      "Java",
+      "Rust"
+    ],
+    "correctAnswer": "C++",
+    "explanation": "C++ was developed as an extension of the C programming language with additional features such as classes and objects, hence it is considered a superset of C.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the context of the Halting Problem, what does the term 'undecidable' imply?",
+    "choices": [
+      "Every computation can halt eventually.",
+      "It is impossible to devise a universal algorithm that decides halting for all programs.",
+      "Halting decision algorithms will always return a false positive.",
+      "All non-terminating programs can be classified definitively."
+    ],
+    "correctAnswer": "It is impossible to devise a universal algorithm that decides halting for all programs.",
+    "explanation": "The Halting Problem is a foundational concept in computer science that proves it's formally undecidable to create an algorithm that can determine for every possible program-input pair whether the program halts or not.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the field of cryptography, what does the term 'superlattice' refer to?",
+    "choices": [
+      "A high-entropy block cipher",
+      "Symmetric encryption using lattice-based cryptography",
+      "A mathematical structure underlying post-quantum algorithms",
+      "A framework for polynomial-time encryptions"
+    ],
+    "correctAnswer": "A mathematical structure underlying post-quantum algorithms",
+    "explanation": "Superlattices refer to specific structures characterized by spatial information which are used in designing algorithms resilient to future quantum attacks.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the purpose of the 'refresh' command in a NoSQL database like Couchbase?",
+    "choices": [
+      "To invalidate indexed data.",
+      "To reset document expiry times.",
+      "To flush data from the memory to disk.",
+      "To control data replication processes."
+    ],
+    "correctAnswer": "To reset document expiry times.",
+    "explanation": "In Couchbase, the 'refresh' command allows developers to reset the expiration of documents without changing their stored contents, crucial for maintaining relevant data.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In which year was the first version of the C programming language implemented?",
+    "choices": [
+      "1967",
+      "1972",
+      "1980",
+      "1983"
+    ],
+    "correctAnswer": "1972",
+    "explanation": "The C programming language was first developed by Dennis Ritchie at Bell Labs in 1972.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary method by which modern computer antivirus software detects malware?",
+    "choices": [
+      "Heuristic analysis",
+      "Signature-based detection",
+      "Cloud scanning",
+      "Behavioral analysis"
+    ],
+    "correctAnswer": "Signature-based detection",
+    "explanation": "Signature-based detection refers to the scanning of files for known malware signatures stored in a database.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the time complexity of accessing an element in a balanced binary search tree?",
+    "choices": [
+      "O(log n)",
+      "O(n log n)",
+      "O(n)",
+      "O(1)"
+    ],
+    "correctAnswer": "O(log n)",
+    "explanation": "In a balanced binary search tree, the height of the tree is logarithmic with respect to the number of nodes, thus allowing for O(log n) access time.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following file systems is the native file system used by macOS?",
+    "choices": [
+      "NTFS",
+      "exFAT",
+      "HFS+",
+      "FAT32"
+    ],
+    "correctAnswer": "HFS+",
+    "explanation": "HFS+, or Hierarchical File System Plus, is the file system standard for macOS, allowing larger files and better data integrity features.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the context of database management, what does ACID stand for?",
+    "choices": [
+      "Atomicity, Consistency, Isolation, Durability",
+      "Accessibility, Consistency, Isolation, Data",
+      "AEID model, Consistency, Independence, Data handling",
+      "Atomic, Consistency log, Integrated Data"
+    ],
+    "correctAnswer": "Atomicity, Consistency, Isolation, Durability",
+    "explanation": "ACID stands for Atomicity, Consistency, Isolation, and Durability. These properties are used to ensure reliable transaction processing in databases.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which algorithm has the best worst-case complexity for integer multiplication?",
+    "choices": [
+      "Karatsuba",
+      "Strassen",
+      "Sch\u00f6nhage-Strassen",
+      "Toom-Cook"
+    ],
+    "correctAnswer": "Sch\u00f6nhage-Strassen",
+    "explanation": "The Sch\u00f6nhage-Strassen algorithm has a worst-case time complexity of O(n log n log log n), which is optimal for integer multiplication as it surpasses the previous fastest multiplication algorithms.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the context of computing, what does 'Turing completeness' signify?",
+    "choices": [
+      "A system can simulate any Turing machine.",
+      "A system can perform arithmetic operations.",
+      "A system can run all types of algorithms.",
+      "A system can optimize its own performance."
+    ],
+    "correctAnswer": "A system can simulate any Turing machine.",
+    "explanation": "Turing completeness indicates that a computational system can implement any algorithm given sufficient resources, reflecting its ability to simulate a Turing machine.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following is not a property of a good hash function?",
+    "choices": [
+      "Deterministic",
+      "Quick computation",
+      "Uniform distribution",
+      "Probability of collision always zero"
+    ],
+    "correctAnswer": "Probability of collision always zero",
+    "explanation": "While a good hash function should minimize collisions, it's not physically possible to achieve a collision probability of zero due to the pigeonhole principle.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary benefit of the ANTLR parser generator?",
+    "choices": [
+      "Handles ambiguous grammars.",
+      "Offers automatic code generation.",
+      "Supports diplomatic construction.",
+      "Generates arbitrary finite automata."
+    ],
+    "correctAnswer": "Offers automatic code generation.",
+    "explanation": "ANTLR (ANother Tool for Language Recognition) is primarily known for its ability to implement parsers and produces source code for lexers and parsers automatically.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What crucial technique was introduced in the Golem framework, which avoids environmental issues in model training?",
+    "choices": [
+      "Data parallelism",
+      "Virtual environment isolation",
+      "Gradient checkpointing",
+      "Curriculum learning"
+    ],
+    "correctAnswer": "Virtual environment isolation",
+    "explanation": "The Golem framework utilizes virtual environment isolation, allowing different models to train without affecting one another's dependency or environmental configurations.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of these programming languages is known for supporting Type Classes?",
+    "choices": [
+      "Java",
+      "Haskell",
+      "C++",
+      "Python"
+    ],
+    "correctAnswer": "Haskell",
+    "explanation": "Type Classes are a unique feature in Haskell, allowing for polymorphism and overriding behaviors for types in a philosophical, highly abstract nature.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the worst-case time complexity of the QuickSort algorithm when the pivot is chosen as the last element in a sorted array?",
+    "choices": [
+      "O(n)",
+      "O(n log n)",
+      "O(n^2)",
+      "O(log n)"
+    ],
+    "correctAnswer": "O(n^2)",
+    "explanation": "When the pivot is consistently the last (or the first) element of a sorted array, QuickSort will degrade to O(n^2) in performance, as it will create highly imbalanced partitions.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In computability theory, which of the following functions is provably total?",
+    "choices": [
+      "Busy Beaver function",
+      "Ackermann function",
+      "Peano Arithmetic",
+      "Turing Completions"
+    ],
+    "correctAnswer": "Peano Arithmetic",
+    "explanation": "Peano Arithmetic is a formal system in which basic arithmetic can be defined and is guaranteed to yield a result for all natural number inputs, making it a total function.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the purpose of the Rabin-Karp algorithm in computer science?",
+    "choices": [
+      "Sorting large numbers",
+      "Pattern matching in strings",
+      "Finding prime numbers",
+      "Data compression"
+    ],
+    "correctAnswer": "Pattern matching in strings",
+    "explanation": "The Rabin-Karp algorithm is used for string search, particularly efficient for multiple pattern matching, using hash functions to achieve this.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What does the complexity class EXPSPACE represent?",
+    "choices": [
+      "Problems solvable in polynomial time",
+      "Problems solvable with linear space",
+      "Problems solvable in exponential space",
+      "Problems verifiable in polynomial space"
+    ],
+    "correctAnswer": "Problems solvable in exponential space",
+    "explanation": "EXPSPACE is the class of decision problems that can be solved by a Turing machine using an exponential amount of memory, denoted as 2^(p(n)) for some polynomial p.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the context of the Holochain ledger, what does the term 'DNA' refer to?",
+    "choices": [
+      "Data Network Algorithm",
+      "Distributed Node Architecture",
+      "Distributed Normalized Agent",
+      "DNA Configuration Template"
+    ],
+    "correctAnswer": "DNA Configuration Template",
+    "explanation": "In Holochain, DNA refers to the configuration template that dictates how the applications and distributed systems should be built and interact.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Who is known for introducing the concept of Gaussian elimination in computational mathematics?",
+    "choices": [
+      "Carl Friedrich Gauss",
+      "Joseph-Louis Lagrange",
+      "Henry Burchard Fine",
+      "Alan Turing"
+    ],
+    "correctAnswer": "Carl Friedrich Gauss",
+    "explanation": "Carl Friedrich Gauss formalized the method of Gaussian elimination which is used for solving systems of linear equations.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the Theory of Computation, what characteristic defines a problem as being NP-complete?",
+    "choices": [
+      "Upper bounded journal articles",
+      "Verifiability and reducibility properties",
+      "Trustworthy decider mechanics",
+      "Ballotable partition schemas"
+    ],
+    "correctAnswer": "Verifiability and reducibility properties",
+    "explanation": "NP-complete problems are problems for which a solution can be verified in polynomial time and every problem in NP can be reduced to it in polynomial time.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In programming language theory, what does the term 'continuation' refer to?",
+    "choices": [
+      "Thread methods awaiting boolean fork expansions",
+      "The syntax used for procedural returns",
+      "The remainder of a program after a certain point",
+      "Function pointers represented as memory branches"
+    ],
+    "correctAnswer": "The remainder of a program after a certain point",
+    "explanation": "A continuation represents the control state of a program at a given point in execution and what remains of the program following that point.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What does the concept of 'non-determinism' in theoretical computer science imply fundamentally?",
+    "choices": [
+      "Output count across branches must converge",
+      "Processes remain inherently side-effectless",
+      "Separation of meaningful deviations exists",
+      "Multiple possible future states from present input"
+    ],
+    "correctAnswer": "Multiple possible future states from present input",
+    "explanation": "Non-determinism implies that a single input may lead to different outputs or progression states depending on internal or external factors.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of a Turing machine?",
+    "choices": [
+      "Finite states",
+      "Unbounded tape",
+      "Infinite compute steps",
+      "Limitless inputs"
+    ],
+    "correctAnswer": "Limitless inputs",
+    "explanation": "While Turing machines can involve unbounded tape and potentially infinite execution steps, they have finite input sizes as defined by a language or operation at a time.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What does the term 'Liskov Substitution Principle' refer to in computer science?",
+    "choices": [
+      "A concept related to changing variable types during runtime",
+      "A principle stating that objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program",
+      "A method for reducing database query time by indexing",
+      "A technique for converting high-level code to machine code"
+    ],
+    "correctAnswer": "A principle stating that objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program",
+    "explanation": "The Liskov Substitution Principle, defined by Barbara Liskov, ensures that subclasses can stand in for their superclasses without altering the desirable properties of a program.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is a significant property of the Turing completeness of a computational system?",
+    "choices": [
+      "It can only perform calculations up to a certain limit",
+      "It is able to simulate any Turing machine",
+      "It can operate only on integers",
+      "It can only read data from tapes but not write anything"
+    ],
+    "correctAnswer": "It is able to simulate any Turing machine",
+    "explanation": "A computational system is Turing complete if it can be used to simulate any Turing machine, meaning it can perform any calculation that can be defined algorithmically, given enough time and space.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following cryptographic mechanisms provides authentication and confidentiality?",
+    "choices": [
+      "OOXML",
+      "AES-GCM",
+      "PBS",
+      "Dijkstra's Algorithm"
+    ],
+    "correctAnswer": "AES-GCM",
+    "explanation": "AES-GCM (Galois/Counter Mode) is an encryption algorithm that provides both authentication and confidentiality by combining symmetric key encryption with Galois field multiplication for data integrity.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the context of machine learning, what is 'Feature Engineering'?",
+    "choices": [
+      "Selecting the correct machine learning algorithm",
+      "The process of using domain knowledge to select chosen features to include in the model",
+      "Dividing the dataset into training and testing subsets",
+      "Scaling data to improve algorithm efficiency"
+    ],
+    "correctAnswer": "The process of using domain knowledge to select chosen features to include in the model",
+    "explanation": "Feature engineering involves creating new input features from your existing ones to improve the model's performance, guiding how data helps shape learning.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following paradigms enables managing side effects in functional programming?",
+    "choices": [
+      "Streams",
+      "Imperative State Management",
+      "Monads",
+      "Variables"
+    ],
+    "correctAnswer": "Monads",
+    "explanation": "Monads in functional programming allow encapsulation of side effects such as state or input/output, providing a workaround to handle operations that would typically disrupt a purely functional approach.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the computational complexity of the standard version of Dijkstra's algorithm when implemented using an adjacency matrix and taking nodes from a priority queue?",
+    "choices": [
+      "O(V^2)",
+      "O(E log V)",
+      "O(VE)",
+      "O(V^3)"
+    ],
+    "correctAnswer": "O(V^2)",
+    "explanation": "Dijkstra's algorithm, when implemented using an adjacency matrix and without using a binary heap for priority queue operations, works in O(V^2) time complexity as it checks each vertex against all other vertices.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the context of database normalization, what is the Boyce-Codd Normal Form (BCNF)?",
+    "choices": [
+      "A form requiring 3NF with no transitive dependencies",
+      "A strength normal form requiring every determinant to be a candidate key",
+      "A higher form of First Normal Form (1NF)",
+      "A method to anonymize database schemas"
+    ],
+    "correctAnswer": "A strength normal form requiring every determinant to be a candidate key",
+    "explanation": "BCNF is a form of database normalization that extends the rules of Third Normal Form (3NF); a relation is in BCNF if every functional dependency X -> Y has X as a superkey.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following algorithms can provide a warm-start capacity in a linear programming scenario when attributes of the objective function are adjusted?",
+    "choices": [
+      "Simplex Method",
+      "Interior Point Method",
+      "Greedy Algorithm",
+      "Revised Simplex Algorithm"
+    ],
+    "correctAnswer": "Revised Simplex Algorithm",
+    "explanation": "The Revised Simplex Algorithm efficiently updates solutions to linear programs when small changes are made to the problem parameters allowing for warm starts.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In automata theory, what class of devices can be described as non-deterministic finite automata (NFA) with epsilon transitions?",
+    "choices": [
+      "Regular languages",
+      "Context-free languages",
+      "Non-context-free languages",
+      "Turing machines"
+    ],
+    "correctAnswer": "Regular languages",
+    "explanation": "NFAs, including those with epsilon (\u03b5) transitions, recognize exactly the class of regular languages. They can be converted to equivalent deterministic finite automata (DFAs), which also recognize regular languages.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the key difference between the volatile and non-volatile memory types in computer architectures?",
+    "choices": [
+      "Volatile memory is faster but loses content without power; non-volatile retains data with power loss.",
+      "Volatile memory is static; non-volatile is dynamic.",
+      "Volatile memory is non-addressable; non-volatile is addressable.",
+      "Volatile memory produces heat; non-volatile is cooler."
+    ],
+    "correctAnswer": "Volatile memory is faster but loses content without power; non-volatile retains data with power loss.",
+    "explanation": "Volatile memory, like RAM, requires continuous power to retain information, whereas non-volatile memory, such as ROM or flash memory, retains data even when power is lost.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In what year was the IEEE 802.11 standard for wireless communications first published?",
+    "choices": [
+      "1990",
+      "1997",
+      "2002",
+      "2008"
+    ],
+    "correctAnswer": "1997",
+    "explanation": "The IEEE 802.11 standard for wireless local area networks (WLAN) was first published in June 1997.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Who is credited with developing the concept of the Turing machine?",
+    "choices": [
+      "Alan Turing",
+      "John von Neumann",
+      "Alonzo Church",
+      "Stephen Kleene"
+    ],
+    "correctAnswer": "Alan Turing",
+    "explanation": "Alan Turing introduced the Turing machine in his 1936 paper, which is a foundational concept in computer science.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which algorithm is used for finding the minimum spanning tree in a connected weighted graph?",
+    "choices": [
+      "Dijkstra's algorithm",
+      "Kruskal's algorithm",
+      "Prim's algorithm",
+      "Bellman-Ford algorithm"
+    ],
+    "correctAnswer": "Kruskal's algorithm",
+    "explanation": "Kruskal's algorithm is designed to find the minimum spanning tree of a connected weighted graph by adding edges in increasing order of weight.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What does the LIKE clause in SQL specifically allow you to filter?",
+    "choices": [
+      "Numeric values",
+      "Date ranges",
+      "Pattern matching in text",
+      "Table joins"
+    ],
+    "correctAnswer": "Pattern matching in text",
+    "explanation": "The SQL LIKE operator is used to search for a specified pattern in a column, enabling text pattern matching.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which programming paradigm is based on the concept of 'objects' that can contain data and code?",
+    "choices": [
+      "Procedural programming",
+      "Functional programming",
+      "Object-oriented programming",
+      "Declarative programming"
+    ],
+    "correctAnswer": "Object-oriented programming",
+    "explanation": "Object-oriented programming (OOP) is a programming paradigm that uses 'objects' to represent data and behaviors in code.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary function of ribosomes in a cell?",
+    "choices": [
+      "Synthesizing lipids",
+      "Transcribing DNA",
+      "Producing proteins",
+      "Degrading old cell parts"
+    ],
+    "correctAnswer": "Producing proteins",
+    "explanation": "Ribosomes are the cellular machinery responsible for synthesizing proteins by translating messenger RNA (mRNA).",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In the process of photosynthesis, what molecule is usually produced as a byproduct?",
+    "choices": [
+      "Carbon dioxide",
+      "Glucose",
+      "Oxygen",
+      "Water"
+    ],
+    "correctAnswer": "Oxygen",
+    "explanation": "During photosynthesis, plants convert solar energy into chemical energy, resulting in glucose production and the release of oxygen as a byproduct.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following structures contains the genetic material in a eukaryotic cell?",
+    "choices": [
+      "Cytoplasm",
+      "Nucleus",
+      "Ribosome",
+      "Cell membrane"
+    ],
+    "correctAnswer": "Nucleus",
+    "explanation": "The nucleus is a membrane-bound organelle in eukaryotic cells that houses the cell's genetic material (DNA).",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which biological macromolecule serves as the primary energy carrier in cells?",
+    "choices": [
+      "DNA",
+      "Ribonucleic acid (RNA)",
+      "Adenosine triphosphate (ATP)",
+      "Proteins"
+    ],
+    "correctAnswer": "Adenosine triphosphate (ATP)",
+    "explanation": "ATP is known as the energy currency of the cell, allowing for the transfer and storage of energy for various biochemical processes.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What type of bond forms between the hydrogen and oxygen atoms in a water molecule?",
+    "choices": [
+      "Ionic bond",
+      "Covalent bond",
+      "Hydrogen bond",
+      "Van der Waals forces"
+    ],
+    "correctAnswer": "Covalent bond",
+    "explanation": "In a water molecule, covalent bonds form when hydrogen atoms share electrons with an oxygen atom, enabling the formation of H2O.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the end product of glycolysis?",
+    "choices": [
+      "Lactic acid",
+      "Carbon dioxide",
+      "Pyruvate",
+      "Acetyl-CoA"
+    ],
+    "correctAnswer": "Pyruvate",
+    "explanation": "Glycolysis is a metabolic pathway that converts glucose into pyruvate, generating small amounts of ATP and NADH in the process.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In the context of cellular respiration, what does the Krebs cycle primarily produce?",
+    "choices": [
+      "Glucose",
+      "NADH and FADH2",
+      "Oxygen",
+      "Lactate"
+    ],
+    "correctAnswer": "NADH and FADH2",
+    "explanation": "The Krebs cycle (Citric Acid Cycle) generates NADH and FADH2, which then feed into the electron transport chain to ultimately produce ATP.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which organelle is known as the 'powerhouse of the cell'?",
+    "choices": [
+      "Endoplasmic reticulum",
+      "Golgi apparatus",
+      "Ribosome",
+      "Mitochondria"
+    ],
+    "correctAnswer": "Mitochondria",
+    "explanation": "Mitochondria are often called the powerhouses of the cell because they convert glucose and other substrates into ATP through cellular respiration.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary structure of DNA?",
+    "choices": [
+      "Single-stranded helix",
+      "Double-stranded helix",
+      "Triple helix",
+      "Linear chain"
+    ],
+    "correctAnswer": "Double-stranded helix",
+    "explanation": "DNA is primarily composed of two strands that wind around each other to form a double helix, held together by complementary nitrogenous bases.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What process results in the production of genetically identical cells?",
+    "choices": [
+      "Meiosis",
+      "Mitosis",
+      "Fertilization",
+      "Gene transfer"
+    ],
+    "correctAnswer": "Mitosis",
+    "explanation": "Mitosis is the process of cell division that results in two genetic identical daughter cells from a single parent cell, essential for growth and repair.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which organelle is responsible for producing ATP in eukaryotic cells?",
+    "choices": [
+      "Nucleus",
+      "Endoplasmic Reticulum",
+      "Mitochondria",
+      "Golgi Apparatus"
+    ],
+    "correctAnswer": "Mitochondria",
+    "explanation": "Mitochondria are known as the powerhouse of the cell because they convert energy from organic compounds into ATP through cellular respiration.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In genetics, what does the term 'phenotype' refer to?",
+    "choices": [
+      "Genetic makeup",
+      "Physical traits",
+      "Mutation rate",
+      "Chromosomal structure"
+    ],
+    "correctAnswer": "Physical traits",
+    "explanation": "Phenotype refers to the observable physical and biochemical characteristics of an organism, which result from the interaction of its genotype with the environment.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following processes directly leads to the formation of mRNA?",
+    "choices": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "PCR"
+    ],
+    "correctAnswer": "Transcription",
+    "explanation": "Transcription is the process in which the DNA sequence of a gene is copied to make mRNA.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In what part of the cell does glycolysis take place?",
+    "choices": [
+      "Nucleus",
+      "Mitochondria",
+      "Cytoplasm",
+      "Chloroplast"
+    ],
+    "correctAnswer": "Cytoplasm",
+    "explanation": "Glycolysis occurs in the cytoplasm and is the process of breaking down glucose to form pyruvate, generating a small amount of ATP.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the main function of the Golgi apparatus?",
+    "choices": [
+      "ATP production",
+      "Lipid biosynthesis",
+      "Modification and sorting of proteins",
+      "Photosynthesis"
+    ],
+    "correctAnswer": "Modification and sorting of proteins",
+    "explanation": "The Golgi apparatus modifies, sorts, and packages proteins and lipids for secretion or delivery to other organelles.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which type of bond holds the two strands of DNA together?",
+    "choices": [
+      "Ionic bonds",
+      "Covalent bonds",
+      "Hydrogen bonds",
+      "Metallic bonds"
+    ],
+    "correctAnswer": "Hydrogen bonds",
+    "explanation": "Hydrogen bonds form between the nitrogenous bases of the DNA strands, holding the two strands of the double helix together.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the role of chloroplasts in plant cells?",
+    "choices": [
+      "Cell division",
+      "Photosynthesis",
+      "Energy production",
+      "Protein synthesis"
+    ],
+    "correctAnswer": "Photosynthesis",
+    "explanation": "Chloroplasts contain chlorophyll and are responsible for converting light energy into chemical energy through photosynthesis.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Individuals who are heterozygous for a gene display which phenomenon?",
+    "choices": [
+      "Complete dominance",
+      "Incomplete dominance",
+      "Codominance",
+      "Polygenic inheritance"
+    ],
+    "correctAnswer": "Complete dominance",
+    "explanation": "In cases of complete dominance, the phenotype of the heterozygous individual will express the dominant trait.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What term describes the ability of an enzyme to fit and bind with its substrate?",
+    "choices": [
+      "Site affinity",
+      "Binding selectivity",
+      "Active site compatibility",
+      "Enzyme specificity"
+    ],
+    "correctAnswer": "Enzyme specificity",
+    "explanation": "Enzyme specificity refers to the selective affinity of the enzyme for a specific substrate, determined by the shape and charge of the active site.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What cellular structure is primarily responsible for protein synthesis?",
+    "choices": [
+      "Mitochondria",
+      "Ribosomes",
+      "Endoplasmic Reticulum",
+      "Golgi Apparatus"
+    ],
+    "correctAnswer": "Ribosomes",
+    "explanation": "Ribosomes are the molecular machines within cells that translate messenger RNA (mRNA) into protein, playing a vital role in the process of protein synthesis.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which phase of cellular respiration produces the most ATP?",
+    "choices": [
+      "Glycolysis",
+      "Krebs Cycle",
+      "Electron Transport Chain",
+      "Fermentation"
+    ],
+    "correctAnswer": "Electron Transport Chain",
+    "explanation": "The Electron Transport Chain produces the most ATP during cellular respiration, harnessing energy from electrons that are transferred through a series of protein complexes.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What type of bond holds the two strands of a DNA molecule together?",
+    "choices": [
+      "Ionic bonds",
+      "Hydrogen bonds",
+      "Covalent bonds",
+      "Disulfide bonds"
+    ],
+    "correctAnswer": "Hydrogen bonds",
+    "explanation": "The two strands of DNA are held together by hydrogen bonds between complementary base pairs. This allows for the double helix structure characteristic of DNA.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which organelle is known as the powerhouse of the cell?",
+    "choices": [
+      "Ribosome",
+      "Mitochondrion",
+      "Nucleus",
+      "Chloroplast"
+    ],
+    "correctAnswer": "Mitochondrion",
+    "explanation": "Mitochondria are referred to as the powerhouse of the cell because they produce ATP through processes such as oxidative phosphorylation.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary function of the Golgi apparatus?",
+    "choices": [
+      "DNA replication",
+      "Energy production",
+      "Protein modification and sorting",
+      "Photosynthesis"
+    ],
+    "correctAnswer": "Protein modification and sorting",
+    "explanation": "The Golgi apparatus is involved in modifying, sorting, and packaging proteins and lipids for secretion or for use within the cell.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the basic unit of life?",
+    "choices": [
+      "Tissue",
+      "Cell",
+      "Organ",
+      "Organism"
+    ],
+    "correctAnswer": "Cell",
+    "explanation": "The cell is the smallest structural and functional unit of all living organisms, often referred to as the building block of life.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which molecule is primarily responsible for carrying genetic information?",
+    "choices": [
+      "RNA",
+      "DNA",
+      "Protein",
+      "Nucleotide"
+    ],
+    "correctAnswer": "DNA",
+    "explanation": "DNA, or deoxyribonucleic acid, is the hereditary material in most organisms that carries the genetic instructions required for development, functioning, and reproduction.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "During which phase of cell division does DNA replication occur?",
+    "choices": [
+      "Anaphase",
+      "Metaphase",
+      "Interphase",
+      "Telophase"
+    ],
+    "correctAnswer": "Interphase",
+    "explanation": "DNA replication occurs during the S phase of interphase, prior to cell division.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "choices": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosomes",
+      "Endoplasmic reticulum"
+    ],
+    "correctAnswer": "Mitochondria",
+    "explanation": "Mitochondria are known as the powerhouse of the cell because they convert energy from nutrients into ATP, which fuels cellular processes.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which process is responsible for the movement of substances from an area of high concentration to an area of low concentration without the use of energy?",
+    "choices": [
+      "Active transport",
+      "Osmosis",
+      "Diffusion",
+      "Endocytosis"
+    ],
+    "correctAnswer": "Diffusion",
+    "explanation": "Diffusion is the passive movement of particles from a region of higher concentration to a region of lower concentration.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What organelle is responsible for energy production in eukaryotic cells?",
+    "choices": [
+      "Ribosome",
+      "Mitochondria",
+      "Endoplasmic reticulum",
+      "Lysosome"
+    ],
+    "correctAnswer": "Mitochondria",
+    "explanation": "Mitochondria are known as the powerhouses of the cell, converting nutrients into energy through the process of cellular respiration.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following processes generates genetic diversity during meiosis?",
+    "choices": [
+      "Replication",
+      "Crossing over",
+      "Cellular respiration",
+      "Nuclear division"
+    ],
+    "correctAnswer": "Crossing over",
+    "explanation": "Crossing over occurs during prophase I of meiosis, where homologous chromosomes exchange genetic material, leading to increased genetic diversity in gametes.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which type of bond is primarily responsible for the structure of DNA?",
+    "choices": [
+      "Ionic bonds",
+      "Hydrogen bonds",
+      "Covalent bonds",
+      "Disulfide bridges"
+    ],
+    "correctAnswer": "Hydrogen bonds",
+    "explanation": "Hydrogen bonds form between the nitrogenous bases of the DNA strands, helping to stabilize the double helix structure.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In the process of photosynthesis, which of the following is converted into glucose?",
+    "choices": [
+      "Carbon dioxide",
+      "Hydrogen",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "correctAnswer": "Carbon dioxide",
+    "explanation": "During photosynthesis, carbon dioxide is taken in by plants and converted into glucose using sunlight energy along with water.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary function of ribosomes within a cell?",
+    "choices": [
+      "Energy production",
+      "Protein synthesis",
+      "DNA replication",
+      "Lipid synthesis"
+    ],
+    "correctAnswer": "Protein synthesis",
+    "explanation": "Ribosomes are molecules located in the cytoplasm or on the endoplasmic reticulum, where they synthesize proteins by translating messenger RNA.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What structure is responsible for regulating the movement of substances into and out of the cell?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Cell Membrane",
+      "Cytoplasm"
+    ],
+    "correctAnswer": "Cell Membrane",
+    "explanation": "The cell membrane is a selective barrier that regulates what enters and exits the cell, thus maintaining homeostasis.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following processes do plants use to convert sunlight into chemical energy?",
+    "choices": [
+      "Cellular Respiration",
+      "Photosynthesis",
+      "Fermentation",
+      "Transpiration"
+    ],
+    "correctAnswer": "Photosynthesis",
+    "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight into chemical energy in the form of glucose.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In genetics, what is the term for the different forms of a gene?",
+    "choices": [
+      "Alleles",
+      "Chromosomes",
+      "Homologs",
+      "Loci"
+    ],
+    "correctAnswer": "Alleles",
+    "explanation": "Alleles are different versions of a gene that can exist at a specific locus on a chromosome.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "During which phase of the cell cycle does DNA replication occur?",
+    "choices": [
+      "G1 Phase",
+      "S Phase",
+      "G2 Phase",
+      "M Phase"
+    ],
+    "correctAnswer": "S Phase",
+    "explanation": "The S Phase of the cell cycle is when DNA synthesis occurs, resulting in the duplication of chromosomes.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the initial structure formed when an sperm fertilizes an egg?",
+    "choices": [
+      "Zygote",
+      "Blastula",
+      "Embryo",
+      "Gamete"
+    ],
+    "correctAnswer": "Zygote",
+    "explanation": "The zygote is the first cell formed when a sperm fertilizes an egg, containing genetic material from both parents.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which process converts sulfur-containing compounds into sulfate in the environment?",
+    "choices": [
+      "Nitrogen Fixation",
+      "Decomposition",
+      "Sulfide Oxidation",
+      "Nitrification"
+    ],
+    "correctAnswer": "Sulfide Oxidation",
+    "explanation": "Sulfide oxidation is a biochemical process where bacteria convert sulfur compounds into sulfate, playing a critical role in the sulfur cycle.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is biodiversity a measure of?",
+    "choices": [
+      "The genetic variation within a population",
+      "The number of different species and their abundance in a particular area",
+      "The abundance of cattle in a region",
+      "The concentration of a particular species in a biome"
+    ],
+    "correctAnswer": "The number of different species and their abundance in a particular area",
+    "explanation": "Biodiversity refers to the variety of life on Earth and the distribution and abundance of various species in particular ecosystems.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary role of ribosomes in cells?",
+    "choices": [
+      "DNA replication",
+      "Protein synthesis",
+      "Energy production",
+      "Cell division"
+    ],
+    "correctAnswer": "Protein synthesis",
+    "explanation": "Ribosomes are the molecular machines within cells that translate messenger RNA (mRNA) to synthesize proteins.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the function of ribosomes in a cell?",
+    "choices": [
+      "Energy production",
+      "Protein synthesis",
+      "DNA replication",
+      "Lipid synthesis"
+    ],
+    "correctAnswer": "Protein synthesis",
+    "explanation": "Ribosomes are the cellular structures that carry out protein synthesis by translating mRNA into polypeptide chains.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which type of cell division results in daughter cells identical to the parent cell?",
+    "choices": [
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "All of the above"
+    ],
+    "correctAnswer": "Mitosis",
+    "explanation": "Mitosis is the process of cell division that allows a single cell to divide into two genetically identical daughter cells.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What part of the cell contains the genetic material?",
+    "choices": [
+      "Cytoplasm",
+      "Nucleus",
+      "Mitochondria",
+      "Endoplasmic reticulum"
+    ],
+    "correctAnswer": "Nucleus",
+    "explanation": "The nucleus houses the cell\u2019s genetic material (DNA) and is responsible for controlling the cell's growth and reproduction.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the function of chlorophyll in photosynthesis?",
+    "choices": [
+      "Absorb carbon dioxide",
+      "Absorb light energy",
+      "Produce glucose",
+      "Release oxygen"
+    ],
+    "correctAnswer": "Absorb light energy",
+    "explanation": "Chlorophyll is the pigment in plants that captures light energy from the sun, which is then used to drive the process of photosynthesis.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which organelle is responsible for energy production in eukaryotic cells?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondrion",
+      "Lysosome"
+    ],
+    "correctAnswer": "Mitochondrion",
+    "explanation": "Mitochondria are known as the powerhouses of the cell as they generate ATP, the energy currency of the cell, through cellular respiration.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What process do plants use to convert sunlight into chemical energy?",
+    "choices": [
+      "Respiration",
+      "Photosynthesis",
+      "Chemosynthesis",
+      "Assimilation"
+    ],
+    "correctAnswer": "Photosynthesis",
+    "explanation": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What type of bond holds together the two strands of a DNA molecule?",
+    "choices": [
+      "Ionic bond",
+      "Peptide bond",
+      "Hydrogen bond",
+      "Covalent bond"
+    ],
+    "correctAnswer": "Hydrogen bond",
+    "explanation": "Hydrogen bonds between complementary nitrogenous bases hold the two strands of DNA together, ensuring the structure of the double helix.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In genetics, what is the genotypic ratio of a monohybrid cross?",
+    "choices": [
+      "9:3:3:1",
+      "1:2:1",
+      "1:1",
+      "3:1"
+    ],
+    "correctAnswer": "1:2:1",
+    "explanation": "When performing a monohybrid cross where both parents are heterozygous for a trait, the resulting genotypic ratio for the offspring is 1 homozygous dominant : 2 heterozygous : 1 homozygous recessive.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What structure within the cell is responsible for protein synthesis?",
+    "choices": [
+      "A) Ribosome",
+      "B) Mitochondria",
+      "C) Golgi apparatus",
+      "D) Lysosome"
+    ],
+    "correctAnswer": "A) Ribosome",
+    "explanation": "Ribosomes are cellular structures that function as the site of protein synthesis, where they translate messenger RNA into polypeptide chains.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following processes produces the majority of the energy (ATP) in cellular respiration?",
+    "choices": [
+      "A) Glycolysis",
+      "B) Lactic acid fermentation",
+      "C) Oxidative phosphorylation",
+      "D) Alcoholic fermentation"
+    ],
+    "correctAnswer": "C) Oxidative phosphorylation",
+    "explanation": "Oxidative phosphorylation produces the majority of ATP during cellular respiration, utilizing the electron transport chain and chemiosmosis in the mitochondria.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the main component of the cell membrane?",
+    "choices": [
+      "A) Nucleic acids",
+      "B) Proteins",
+      "C) Lipids",
+      "D) Carbohydrates"
+    ],
+    "correctAnswer": "C) Lipids",
+    "explanation": "The cell membrane is primarily composed of a phospholipid bilayer, which provides a flexible structure and serves as a barrier to the passage of substances.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In genetics, what term is used to describe the genetic makeup of an organism?",
+    "choices": [
+      "A) Phenotype",
+      "B) Genotype",
+      "C) Heterozygote",
+      "D) Allele"
+    ],
+    "correctAnswer": "B) Genotype",
+    "explanation": "The genotype refers to the genetic constellation of alleles an organism possesses, coding for its traits, while phenotype pertains to the expressed characteristics.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which organ system is primarily responsible for transport of nutrients, gases, and waste in the body?",
+    "choices": [
+      "A) Nervous system",
+      "B) Digestive system",
+      "C) Circulatory system",
+      "D) Muscular system"
+    ],
+    "correctAnswer": "C) Circulatory system",
+    "explanation": "The circulatory system, comprising the heart, blood, and blood vessels, red furnace gases exchange and distributes nutrients and metabolic wastes.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In the process of photosynthesis, plants convert carbon dioxide and water into glucose. What is the main byproduct of this reaction?",
+    "choices": [
+      "A) Oxygen",
+      "B) Nitrogen",
+      "C) Water",
+      "D) ATP"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The main byproduct of photosynthesis is oxygen, which is released into the atmosphere as a result of the conversion of carbon dioxide and water into glucose.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the term for the genetic exchange between homologous chromosomes during meiosis?",
+    "choices": [
+      "A) Segregation",
+      "B) Independent assortment",
+      "C) Crossing over",
+      "D) Transformation"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Crossing over occurs when homologous chromosomes exchange segments of genetic material during prophase I of meiosis, increasing genetic variability.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which structure determines the selectively permeable nature of a cell's environment?",
+    "choices": [
+      "A) Cytoplasm",
+      "B) Nucleus",
+      "C) Cell membrane",
+      "D) Mitochondria"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The cell membrane, composed of a phospholipid bilayer with embedded proteins, regulates the movement of substances in and out of the cell.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which part of the brain is primarily responsible for maintaining homeostasis?",
+    "choices": [
+      "A) Cerebellum",
+      "B) Hippocampus",
+      "C) Hypothalamus",
+      "D) Brainstem"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The hypothalamus plays a crucial role in maintaining homeostasis by regulating bodily functions like temperature, hunger, and thirst.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the total number of chromosomes in a normal human somatic cell?",
+    "choices": [
+      "23",
+      "46",
+      "92",
+      "48"
+    ],
+    "correctAnswer": "46",
+    "explanation": "Normal human somatic cells contain 46 chromosomes, organized into 23 pairs.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In which part of the cell does protein synthesis occur?",
+    "choices": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosomes",
+      "Golgi apparatus"
+    ],
+    "correctAnswer": "Ribosomes",
+    "explanation": "Protein synthesis takes place at ribosomes, where messenger RNA is translated into polypeptide chains.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is not a macromolecule?",
+    "choices": [
+      "Carbohydrate",
+      "Protein",
+      "Lipid",
+      "Vitamin"
+    ],
+    "correctAnswer": "Vitamin",
+    "explanation": "Vitamins are micronutrients, while carbohydrates, proteins, and lipids are considered macromolecules because they are larger and essential for the body's structural and functional processes.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What structure in the plant cell is responsible for photosynthesis?",
+    "choices": [
+      "Chloroplast",
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome"
+    ],
+    "correctAnswer": "Chloroplast",
+    "explanation": "Chloroplasts are the organelles in plant cells where photosynthesis takes place, converting light energy into chemical energy in the form of glucose.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What type of bond holds the two strands of DNA together?",
+    "choices": [
+      "Ionic bonds",
+      "Covalent bonds",
+      "Hydrogen bonds",
+      "Metallic bonds"
+    ],
+    "correctAnswer": "Hydrogen bonds",
+    "explanation": "Hydrogen bonds hold the two strands of DNA together, forming the double helix structure by connecting complementary bases.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following processes occurs in glycolysis?",
+    "choices": [
+      "Lipid oxidation",
+      "Amino acid synthesis",
+      "Glucose breakdown",
+      "Fatty acid synthesis"
+    ],
+    "correctAnswer": "Glucose breakdown",
+    "explanation": "Glycolysis is the metabolic pathway that breaks down glucose into pyruvate, generating ATP and NADH as energy carriers.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is genetic drift?",
+    "choices": [
+      "Natural selection",
+      "Random changes in allele frequencies in a population",
+      "Mutation leading to new traits",
+      "Migration of individuals between populations"
+    ],
+    "correctAnswer": "Random changes in allele frequencies in a population",
+    "explanation": "Genetic drift is a mechanism of evolution that refers to random changes in the frequencies of alleles in a population, often having a larger effect in small populations.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What type of symbiotic relationship is characterized by one organism benefiting while the other is harmed?",
+    "choices": [
+      "Mutualism",
+      "Commensalism",
+      "Parasitism",
+      "Neutralism"
+    ],
+    "correctAnswer": "Parasitism",
+    "explanation": "In parasitism, one organism benefits (the parasite) at the expense of another organism (the host), which suffers harm.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which structure is responsible for the semi-permeability of the cell membrane?",
+    "choices": [
+      "A) Protein channels",
+      "B) Phospholipid bilayer",
+      "C) Carbohydrate chains",
+      "D) Nucleic acids"
+    ],
+    "correctAnswer": "B) Phospholipid bilayer",
+    "explanation": "The cell membrane is primarily composed of a phospholipid bilayer that allows selective passage of substances due to its structure.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the process by which plants convert light energy into chemical energy?",
+    "choices": [
+      "A) Respiration",
+      "B) Fermentation",
+      "C) Photosynthesis",
+      "D) Transpiration"
+    ],
+    "correctAnswer": "C) Photosynthesis",
+    "explanation": "Photosynthesis is the process used by plants to convert sunlight into chemical energy stored in glucose, using chlorophyll.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following components is NOT found in DNA?",
+    "choices": [
+      "A) Adenine",
+      "B) Guanine",
+      "C) Ribose",
+      "D) Thymine"
+    ],
+    "correctAnswer": "C) Ribose",
+    "explanation": "DNA contains deoxyribose, whereas RNA contains ribose; thus, ribose is not found in DNA.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In the process of photosynthesis, which gas is taken in by plants?",
+    "choices": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswer": "Carbon Dioxide",
+    "explanation": "Plants absorb carbon dioxide from the atmosphere to convert it into glucose during the photosynthesis process.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which process describes the movement of water across a semi-permeable membrane?",
+    "choices": [
+      "Diffusion",
+      "Active transport",
+      "Osmosis",
+      "Facilitated diffusion"
+    ],
+    "correctAnswer": "Osmosis",
+    "explanation": "Osmosis is the specific passive transport of water molecules across a semi-permeable membrane from an area of lower solute concentration to an area of higher solute concentration.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "choices": [
+      "Heart",
+      "Liver",
+      "Skin",
+      "Lungs"
+    ],
+    "correctAnswer": "Skin",
+    "explanation": "The skin is the largest organ in the human body and serves multiple functions, including protection, regulation, and sensation.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which macromolecule is primarily responsible for energy storage in plants?",
+    "choices": [
+      "Proteins",
+      "Nucleic acids",
+      "Carbohydrates",
+      "Lipids"
+    ],
+    "correctAnswer": "Carbohydrates",
+    "explanation": "In plants, carbohydrates such as starch serve as the primary form of energy storage that can be broken down when needed.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What structure regulates the movement of substances in and out of a cell?",
+    "choices": [
+      "Cell wall",
+      "Plasma membrane",
+      "Nucleus",
+      "Endoplasmic reticulum"
+    ],
+    "correctAnswer": "Plasma membrane",
+    "explanation": "The plasma membrane selectively allows substances to enter and exit the cell, thus maintaining the internal environment.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What process do cells use to divide and replicate themselves?",
+    "choices": [
+      "Meiosis",
+      "Mitosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "correctAnswer": "Mitosis",
+    "explanation": "Mitosis is the process by which a cell divides to produce two identical daughter cells, replicating its DNA.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following molecules carries genetic information?",
+    "choices": [
+      "RNA",
+      "Proteins",
+      "Lipids",
+      "Carbohydrates"
+    ],
+    "correctAnswer": "RNA",
+    "explanation": "RNA (ribonucleic acid) carries genetic information from DNA to the ribosome, where proteins are synthesized.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In which part of the cell does glycolysis occur?",
+    "choices": [
+      "Mitochondria",
+      "Cytoplasm",
+      "Nucleus",
+      "Endoplasmic Reticulum"
+    ],
+    "correctAnswer": "Cytoplasm",
+    "explanation": "Glycolysis takes place in the cytoplasm of cells where glucose is broken down to produce energy.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What type of bond is formed between the base pairs of DNA?",
+    "choices": [
+      "Ionic bonds",
+      "Hydrogen bonds",
+      "Covalent bonds",
+      "Metallic bonds"
+    ],
+    "correctAnswer": "Hydrogen bonds",
+    "explanation": "Hydrogen bonds form between the nitrogenous bases of the two DNA strands, specifically between adenine-thymine and cytosine-guanine pairs.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following processes is a part of photosynthesis?",
+    "choices": [
+      "Glycolysis",
+      "Krebs cycle",
+      "Calvin cycle",
+      "Fermentation"
+    ],
+    "correctAnswer": "Calvin cycle",
+    "explanation": "The Calvin cycle is the series of biochemical reactions that synthesize glucose using carbon dioxide and energy derived from light in photosynthesis.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary function of ribosomes?",
+    "choices": [
+      "Lipid synthesis",
+      "Protein synthesis",
+      "DNA replication",
+      "Cell respiration"
+    ],
+    "correctAnswer": "Protein synthesis",
+    "explanation": "Ribosomes are the cellular structures that facilitate the synthesis of proteins by translating messenger RNA (mRNA) into amino acid sequences.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which structure controls the movement of substances in and out of a cell?",
+    "choices": [
+      "Nucleus",
+      "Chloroplast",
+      "Cell membrane",
+      "Cytoplasm"
+    ],
+    "correctAnswer": "Cell membrane",
+    "explanation": "The cell membrane, also known as the plasma membrane, regulates the entry and exit of substances and is crucial for maintaining homeostasis.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the purpose of the enzyme DNA polymerase?",
+    "choices": [
+      "To add amino acids together",
+      "To synthesize RNA",
+      "To synthesize new DNA strands",
+      "To unpack chromatin"
+    ],
+    "correctAnswer": "To synthesize new DNA strands",
+    "explanation": "DNA polymerase is an enzyme that is essential for DNA replication, as it synthesizes new strands of DNA by adding nucleotides complementary to the template strand.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What type of symmetry do most animals exhibit?",
+    "choices": [
+      "Radial symmetry",
+      "Bilateral symmetry",
+      "Asymmetry",
+      "Spherical symmetry"
+    ],
+    "correctAnswer": "Bilateral symmetry",
+    "explanation": "Bilateral symmetry is a characteristic of most animals wherein the body can be divided into two equal halves that are mirror images along a single plane.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which type of cell division is responsible for growth and repair in multicellular organisms?",
+    "choices": [
+      "Meiosis",
+      "Fission",
+      "Mitosis",
+      "Budding"
+    ],
+    "correctAnswer": "Mitosis",
+    "explanation": "Mitosis is the process of cell division that results in two genetically identical daughter cells, vital for growth, development, and tissue repair.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which process do plants primarily use to convert carbon dioxide into glucose?",
+    "choices": [
+      "Cellular respiration",
+      "Photosynthesis",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correctAnswer": "Photosynthesis",
+    "explanation": "Photosynthesis is the process by which green plants use sunlight to convert carbon dioxide and water into glucose and oxygen, primarily occurring in chloroplasts.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In which part of the cell does the Krebs cycle occur?",
+    "choices": [
+      "Nucleus",
+      "Cytoplasm",
+      "Mitochondria",
+      "Endoplasmic reticulum"
+    ],
+    "correctAnswer": "Mitochondria",
+    "explanation": "The Krebs cycle, also known as the citric acid cycle, takes place in the mitochondria, where it plays a key role in cellular respiration by producing energy carriers.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What do you call the relationship between organisms in which one organism benefits while the other is not significantly helped or harmed?",
+    "choices": [
+      "Mutualism",
+      "Commensalism",
+      "Parasitism",
+      "Predation"
+    ],
+    "correctAnswer": "Commensalism",
+    "explanation": "Commensalism is a type of symbiotic relationship where one organism benefits from the association and the other is neither helped nor harmed.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which type of RNA carries the genetic information from DNA to the ribosomes?",
+    "choices": [
+      "tRNA",
+      "mRNA",
+      "rRNA",
+      "snRNA"
+    ],
+    "correctAnswer": "mRNA",
+    "explanation": "mRNA, or messenger RNA, is responsible for carrying the genetic blueprint from DNA in the nucleus to the ribosomes where proteins are synthesized.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which process primarily takes place in the mitochondria?",
+    "choices": [
+      "Photosynthesis",
+      "Cellular Respiration",
+      "Translation",
+      "Transcription"
+    ],
+    "correctAnswer": "Cellular Respiration",
+    "explanation": "Mitochondria are known as the powerhouses of the cell where cellular respiration occurs, converting nutrients into ATP.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In what part of the cell does photosynthesis occur?",
+    "choices": [
+      "Cytoplasm",
+      "Nucleus",
+      "Chloroplast",
+      "Golgi apparatus"
+    ],
+    "correctAnswer": "Chloroplast",
+    "explanation": "Photosynthesis takes place in chloroplasts, which contain chlorophyll and are responsible for capturing light energy.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What type of bond is predominant in the DNA double helix structure?",
+    "choices": [
+      "Ionic bonds",
+      "Hydrogen bonds",
+      "Covalent bonds",
+      "Van der Waals forces"
+    ],
+    "correctAnswer": "Hydrogen bonds",
+    "explanation": "Hydrogen bonds occur between the nitrogenous bases of the two DNA strands and play a crucial role in maintaining the double helical structure.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary role of the smooth endoplasmic reticulum?",
+    "choices": [
+      "Protein modification and transport",
+      "Lipid synthesis",
+      "Packaging of proteins",
+      "Cellular respiration"
+    ],
+    "correctAnswer": "Lipid synthesis",
+    "explanation": "The smooth endoplasmic reticulum is primarily involved in lipid synthesis and metabolism, along with detoxification processes.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following structures is responsible for protein synthesis?",
+    "choices": [
+      "Lysosome",
+      "Cell membrane",
+      "Ribosome",
+      "Golgi apparatus"
+    ],
+    "correctAnswer": "Ribosome",
+    "explanation": "Ribosomes are cellular structures that carry out protein synthesis by translating messenger RNA (mRNA) into polypeptides.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In the process of cellular respiration, what is the main electron carrier involved?",
+    "choices": [
+      "NADPH",
+      "NADH",
+      "FAD",
+      "Q10"
+    ],
+    "correctAnswer": "NADH",
+    "explanation": "NADH is one of the key electron carriers formed during the process of cellular respiration, particularly during glycolysis and the citric acid cycle.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What process do plants primarily use to convert sunlight into chemical energy?",
+    "choices": [
+      "Cellular respiration",
+      "Photosynthesis",
+      "Fermentation",
+      "Transpiration"
+    ],
+    "correctAnswer": "Photosynthesis",
+    "explanation": "Photosynthesis is the process by which green plants use sunlight, carbon dioxide, and water to produce glucose and oxygen, ultimately converting solar energy into chemical energy.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What structure in eukaryotic cells is responsible for genetic information storage?",
+    "choices": [
+      "Ribosome",
+      "Nucleus",
+      "Mitochondria",
+      "Cell membrane"
+    ],
+    "correctAnswer": "Nucleus",
+    "explanation": "The nucleus is an organelle that contains the genetic material (DNA) in eukaryotic cells, functioning as the control center for cell metabolism and reproduction.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which process describes the movement of water across a semipermeable membrane?",
+    "choices": [
+      "Active transport",
+      "Facilitated diffusion",
+      "Osmosis",
+      "Endocytosis"
+    ],
+    "correctAnswer": "Osmosis",
+    "explanation": "Osmosis is the diffusion of water molecules through a semipermeable membrane, moving from an area of lower solute concentration to an area of higher solute concentration.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In photosynthesis, carbon dioxide is converted into glucose through which cycle?",
+    "choices": [
+      "Krebs cycle",
+      "Calvin cycle",
+      "Photosystem II",
+      "Light-dependent reactions"
+    ],
+    "correctAnswer": "Calvin cycle",
+    "explanation": "The Calvin cycle, also known as the light-independent reactions, converts carbon dioxide and other compounds into glucose in photosynthesis.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What type of bond forms between nitrogenous bases in DNA?",
+    "choices": [
+      "Ionic bonds",
+      "Covalent bonds",
+      "Hydrogen bonds",
+      "Van der Waals forces"
+    ],
+    "correctAnswer": "Hydrogen bonds",
+    "explanation": "Hydrogen bonds form between nitrogenous bases in DNA, such as between adenine-thymine and guanine-cytosine pairs, holding the two strands of the double helix together.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which component of the cell membrane helps in the transport of substances?",
+    "choices": [
+      "Phospholipids",
+      "Sterols",
+      "Proteins",
+      "Carbohydrates"
+    ],
+    "correctAnswer": "Proteins",
+    "explanation": "Proteins embedded in the cell membrane play key roles as transport channels or carriers that facilitate the movement of substances in and out of the cell.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What function does ribosomal RNA (rRNA) perform in the cell?",
+    "choices": [
+      "Transcribing DNA",
+      "Catalyzing protein synthesis",
+      "Transporting amino acids",
+      "Degrading mRNA"
+    ],
+    "correctAnswer": "Catalyzing protein synthesis",
+    "explanation": "Ribosomal RNA (rRNA) plays a critical role in protein synthesis as it forms the core structural and functional components of ribosomes, which are the sites of translation.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which structure is responsible for the modification and sorting of proteins in the cell?",
+    "choices": [
+      "Endoplasmic reticulum",
+      "Golgi apparatus",
+      "Mitochondria",
+      "Nucleus"
+    ],
+    "correctAnswer": "Golgi apparatus",
+    "explanation": "The Golgi apparatus is the cellular organelle responsible for modifying, sorting, and packaging proteins for secretion or use within the cell.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the basic unit of life recognized in biology?",
+    "choices": [
+      "Atom",
+      "Molecule",
+      "Cell",
+      "Tissue"
+    ],
+    "correctAnswer": "Cell",
+    "explanation": "Cells are the basic units of life, as they are the smallest units that can carry out all necessary functions for maintaining life.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is NOT a greenhouse gas?",
+    "choices": [
+      "Carbon dioxide",
+      "Methane",
+      "Nitrous oxide",
+      "Oxygen"
+    ],
+    "correctAnswer": "Oxygen",
+    "explanation": "Oxygen is not a greenhouse gas; it does not trap heat in the atmosphere like carbon dioxide, methane, and nitrous oxide do.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What term describes the physical and biological properties of a transpiring-cooled environment?",
+    "choices": [
+      "Habitat",
+      "Niche",
+      "Biome",
+      "Ecosystem"
+    ],
+    "correctAnswer": "Ecosystem",
+    "explanation": "An ecosystem encompasses all the living organisms within a given area along with the non-living components, such as climate and nutrients, that interact together.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which component of the cell membrane is primarily responsible for its fluidity?",
+    "choices": [
+      "Proteins",
+      "Cholesterol",
+      "Phospholipids",
+      "Carbohydrates"
+    ],
+    "correctAnswer": "Cholesterol",
+    "explanation": "Cholesterol molecules help to maintain the fluidity of the cell membrane by preventing fatty acid chains from packing too closely together.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the dominant inheritance pattern for most human genetic traits?",
+    "choices": [
+      "Codominance",
+      "X-linked recessive",
+      "Autosomal dominant",
+      "Autosomal recessive"
+    ],
+    "correctAnswer": "Autosomal dominant",
+    "explanation": "Autosomal dominant traits only require one copy of the dominant allele to express the trait, making it the most common pattern of inheritance for many conditions.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In the process of cellular respiration, which molecule is typically considered the final electron acceptor?",
+    "choices": [
+      "Coenzyme A",
+      "Glucose",
+      "Oxygen",
+      "Carbon Dioxide"
+    ],
+    "correctAnswer": "Oxygen",
+    "explanation": "Oxygen is the final electron acceptor in cellular respiration, allowing ATP to be produced during aerobic respiration.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary role of ribosomes within a cell?",
+    "choices": [
+      "DNA replication",
+      "Protein synthesis",
+      "Lipid synthesis",
+      "Photosynthesis"
+    ],
+    "correctAnswer": "Protein synthesis",
+    "explanation": "Ribosomes are the cellular structures responsible for synthesizing proteins by translating messenger RNA.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which phase of the cell cycle is characterized by DNA replication?",
+    "choices": [
+      "M phase",
+      "G1 phase",
+      "S phase",
+      "G2 phase"
+    ],
+    "correctAnswer": "S phase",
+    "explanation": "The S phase (Synthesis phase) of the cell cycle is when DNA is replicated, preparing the cell to divide.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What type of mutation results in a change in a single nucleotide in the DNA sequence?",
+    "choices": [
+      "Frameshift mutation",
+      "Deletion mutation",
+      "Substitution mutation",
+      "Insertion mutation"
+    ],
+    "correctAnswer": "Substitution mutation",
+    "explanation": "A substitution mutation is the replacement of one nucleotide with another, which can lead to a change in the amino acid sequence during protein synthesis.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In ecological terms, what does the term 'carrying capacity' refer to?",
+    "choices": [
+      "The maximum population size that an environment can sustain",
+      "The number of individuals in a species across different ecosystems",
+      "The rate at which a species can reproduce",
+      "The variety of species in an ecosystem"
+    ],
+    "correctAnswer": "The maximum population size that an environment can sustain",
+    "explanation": "Carrying capacity is defined as the largest number of individuals of a particular species that an environment can support sustainably without degradation.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which type of biomolecule is an enzyme primarily classified as?",
+    "choices": [
+      "Carbohydrate",
+      "Lipid",
+      "Protein",
+      "Nucleic Acid"
+    ],
+    "correctAnswer": "Protein",
+    "explanation": "Enzymes are biological molecules that act as catalysts, and they are primarily composed of proteins.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is the main structure for protein synthesis in eukaryotic cells?",
+    "choices": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosomes",
+      "Endoplasmic Reticulum"
+    ],
+    "correctAnswer": "Ribosomes",
+    "explanation": "Ribosomes are cellular structures where proteins are synthesized by translating messenger RNA into polypeptide chains.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the function of telomerase in eukaryotic cells?",
+    "choices": [
+      "To replicate DNA",
+      "To maintain telomere length",
+      "To repair mutations",
+      "To synthesize ATP"
+    ],
+    "correctAnswer": "To maintain telomere length",
+    "explanation": "Telomerase is an enzyme that elongates telomeres, which protect the ends of chromosomes from deterioration during DNA replication.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which section of the cell cycle is responsible for cell division?",
+    "choices": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "correctAnswer": "M phase",
+    "explanation": "The M phase, or mitotic phase, is where cell division occurs, going through stages of mitosis and cytokinesis.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary role of chlorophyll in photosynthesis?",
+    "choices": [
+      "Breaking down glucose",
+      "Absorbing light energy",
+      "Transporting electrons",
+      "Fixing carbon dioxide"
+    ],
+    "correctAnswer": "Absorbing light energy",
+    "explanation": "Chlorophyll primarily absorbs wavelengths of light, especially in the blue and red spectrum, to initiate the process of photosynthesis.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What type of bond is primarily responsible for the base pairing in DNA?",
+    "choices": [
+      "Ionic bonds",
+      "Covalent bonds",
+      "Hydrogen bonds",
+      "Van der Waals forces"
+    ],
+    "correctAnswer": "Hydrogen bonds",
+    "explanation": "Hydrogen bonds form between complementary bases (adenine with thymine, and guanine with cytosine), stabilizing the double helix structure of DNA.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary function of the mitochondrion in eukaryotic cells?",
+    "choices": [
+      "A) DNA synthesis",
+      "B) Photosynthesis",
+      "C) ATP production",
+      "D) Protein synthesis"
+    ],
+    "correctAnswer": "C) ATP production",
+    "explanation": "Mitochondria are known as the powerhouses of the cell because they produce adenosine triphosphate (ATP), which is the main energy currency of the cell.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which structural level of protein organization is characterized by specific folding into a 3D shape?",
+    "choices": [
+      "A) Primary structure",
+      "B) Secondary structure",
+      "C) Tertiary structure",
+      "D) Quaternary structure"
+    ],
+    "correctAnswer": "C) Tertiary structure",
+    "explanation": "The tertiary structure of a protein refers to the overall 3D conformation that results from interactions among the amino acid side chains.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What mechanism is primarily responsible for generating genetic diversity during meiosis?",
+    "choices": [
+      "A) Independent assortment and crossing over",
+      "B) Erosion of telomeres",
+      "C) DNA replication error",
+      "D) Clone migration"
+    ],
+    "correctAnswer": "A) Independent assortment and crossing over",
+    "explanation": "During meiosis, independent assortment of chromosomes and crossing over during prophase I create genetic variation in the resulting gametes.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of evolution, what does the Hardy-Weinberg principle describe?",
+    "choices": [
+      "A) Adaptation to the environment",
+      "B) The mechanism of natural selection",
+      "C) Genetic equilibrium in a population",
+      "D) Fossil dating techniques"
+    ],
+    "correctAnswer": "C) Genetic equilibrium in a population",
+    "explanation": "The Hardy-Weinberg principle describes the conditions under which allele frequencies in a population will remain constant over generations, implying genetic equilibrium.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which type of RNA is primarily responsible for bringing amino acids to ribosomes during protein synthesis?",
+    "choices": [
+      "A) mRNA",
+      "B) rRNA",
+      "C) tRNA",
+      "D) snRNA"
+    ],
+    "correctAnswer": "C) tRNA",
+    "explanation": "Transfer RNA (tRNA) carries amino acids to the ribosome, where they are specified by the codons of messenger RNA (mRNA) during polypeptide synthesis.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which structure within a eukaryotic cell is primarily involved in ATP production through oxidative phosphorylation?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondrion",
+      "Endoplasmic Reticulum"
+    ],
+    "correctAnswer": "Mitochondrion",
+    "explanation": "Mitochondria are known as the powerhouse of the cell because they generate ATP through oxidative phosphorylation.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary function of ribozymes in living organisms?",
+    "choices": [
+      "To synthesize proteins",
+      "To catalyze biochemical reactions",
+      "To replicate DNA",
+      "To transport molecules across cell membranes"
+    ],
+    "correctAnswer": "To catalyze biochemical reactions",
+    "explanation": "Ribozymes are RNA molecules that exhibit catalytic activity, meaning they can catalyze biochemical reactions.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of the endosymbiotic theory, which organelle is believed to be derived from ancient prokaryotes?",
+    "choices": [
+      "Chloroplast",
+      "Golgi Apparatus",
+      "Nucleus",
+      "Lysosome"
+    ],
+    "correctAnswer": "Chloroplast",
+    "explanation": "The endosymbiotic theory suggests that chloroplasts evolved from once free-living prokaryotic organisms that were absorbed by early eukaryotic cells.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following processes directly contributes to genetic diversity during sexual reproduction?",
+    "choices": [
+      "Mitosis",
+      "Meiosis",
+      "DNA replication",
+      "Protein synthesis"
+    ],
+    "correctAnswer": "Meiosis",
+    "explanation": "Meiosis is the process that results in genetically diverse gametes through the processes of crossing over and independent assortment.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What enzyme is responsible for unwinding the DNA double helix during DNA replication?",
+    "choices": [
+      "DNA polymerase",
+      "Helicase",
+      "Ligase",
+      "Topoisomerase"
+    ],
+    "correctAnswer": "Helicase",
+    "explanation": "Helicase is the enzyme that unwinds the DNA double helix, allowing replication to proceed.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following biomolecules primarily determines the composition and shape of a cell membrane?",
+    "choices": [
+      "Proteins",
+      "Nucleic acids",
+      "Phospholipids",
+      "Carbohydrates"
+    ],
+    "correctAnswer": "Phospholipids",
+    "explanation": "Phospholipids are primarily responsible for forming the cell membrane, creating a bilayer that provides structure and delineates cellular compartments.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary role of ribosomes within a eukaryotic cell?",
+    "choices": [
+      "DNA replication",
+      "Protein synthesis",
+      "Lipid processing",
+      "Cellular respiration"
+    ],
+    "correctAnswer": "Protein synthesis",
+    "explanation": "Ribosomes are the molecular machines responsible for translating mRNA into polypeptide chains, thus synthesizing proteins for the cell.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of genetic regulation, what is the function of a promoter?",
+    "choices": [
+      "Stimulate transcription termination",
+      "Provide a binding site for RNA polymerase",
+      "Reduce transcription efficiency",
+      "Enhance degradation of mRNA"
+    ],
+    "correctAnswer": "Provide a binding site for RNA polymerase",
+    "explanation": "The promoter region is a sequence of DNA that initiates transcription of a specific gene, serving as a recognition site for RNA polymerase.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which process best describes the movement of proteins from the endoplasmic reticulum to the Golgi apparatus?",
+    "choices": [
+      "Exocytosis",
+      "Endocytosis",
+      "Vesicular transport",
+      "Extracellular fluid diffusion"
+    ],
+    "correctAnswer": "Vesicular transport",
+    "explanation": "Vesicular transport involves the movement of membrane-bound sacs (vesicles) that carry proteins from the ER to the Golgi apparatus.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What mechanism is primarily involved in the thermal regulation of plants, especially in response to high temperatures?",
+    "choices": [
+      "Stomatal closure",
+      "Transpiration",
+      "Glycolysis",
+      "CAM photosynthesis"
+    ],
+    "correctAnswer": "Transpiration",
+    "explanation": "Transpiration involves the evaporation of water from plant surfaces, effectively cooling the plant and aiding in nutrient transport.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following concepts explains the evolutionary similarity seen in different species due to common ancestry?",
+    "choices": [
+      "Natural selection",
+      "Genetic drift",
+      "Homology",
+      "Analogy"
+    ],
+    "correctAnswer": "Homology",
+    "explanation": "Homologous structures evolved from a common ancestor, demonstrating evolutionary relationships despite potential differences in function.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary role of the enzyme DNA polymerase during DNA replication?",
+    "choices": [
+      "Sealing gaps between Okazaki fragments",
+      "Unwinding the DNA helix",
+      "Synthesizing new DNA strands",
+      "Proofreading the newly synthesized DNA"
+    ],
+    "correctAnswer": "Synthesizing new DNA strands",
+    "explanation": "DNA polymerase adds nucleotides to the growing DNA strand, ensuring accurate replication of genetic material.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which process in cellular respiration generates the maximum amount of ATP?",
+    "choices": [
+      "Glycolysis",
+      "Krebs cycle",
+      "Electron transport chain",
+      "Fermentation"
+    ],
+    "correctAnswer": "Electron transport chain",
+    "explanation": "The electron transport chain generates the most ATP through oxidative phosphorylation, utilizing the proton gradient created by electron transfers.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the structure of an enzyme, the part that specifically binds to a substrate is known as what?",
+    "choices": [
+      "Active site",
+      "Allosteric site",
+      "Cofactor",
+      "Substrate pocket"
+    ],
+    "correctAnswer": "Active site",
+    "explanation": "The active site is the region of an enzyme where substrate molecules bind and undergo a chemical reaction.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What cellular structure is responsible for the synthesis of lipids and steroid hormones?",
+    "choices": [
+      "Rough endoplasmic reticulum",
+      "Smooth endoplasmic reticulum",
+      "Golgi apparatus",
+      "Mitochondria"
+    ],
+    "correctAnswer": "Smooth endoplasmic reticulum",
+    "explanation": "The smooth endoplasmic reticulum plays a key role in lipid and steroid hormone synthesis, as well as detoxification processes.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following is NOT a nitrogenous base found in RNA?",
+    "choices": [
+      "Adenine",
+      "Guanine",
+      "Thymine",
+      "Uracil"
+    ],
+    "correctAnswer": "Thymine",
+    "explanation": "Thymine is a nitrogenous base found in DNA; in RNA, uracil replaces thymine.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the main function of the ribosome in a eukaryotic cell?",
+    "choices": [
+      "DNA replication",
+      "Protein synthesis",
+      "Lipid synthesis",
+      "Signal transduction"
+    ],
+    "correctAnswer": "Protein synthesis",
+    "explanation": "Ribosomes are the cellular machinery responsible for translating mRNA into polypeptide chains, thereby synthesizing proteins.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Mendel's law of independent assortment states that alleles for different traits segregate independently of each other during which process?",
+    "choices": [
+      "Metaphase I of meiosis",
+      "Anaphase I of meiosis",
+      "Fertilization",
+      "Mitosis"
+    ],
+    "correctAnswer": "Metaphase I of meiosis",
+    "explanation": "During metaphase I of meiosis, homologous chromosomes align independently, ensuring that the segregation of alleles for one trait is not influenced by another.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In terms of ecosystems, what does primary productivity refer to?",
+    "choices": [
+      "The amount of energy available to consumers",
+      "The rate at which solar energy is converted to chemical energy by autotrophs",
+      "The variance of energy flow between trophic levels",
+      "The biomass produced by herbivores"
+    ],
+    "correctAnswer": "The rate at which solar energy is converted to chemical energy by autotrophs",
+    "explanation": "Primary productivity measures how quickly autotrophs, like plants, convert sunlight into chemical energy, forming the basis for energy flow through an ecosystem.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which process can lead to increased genetic diversity through the recombination of genes during bacterial reproduction?",
+    "choices": [
+      "Cloning",
+      "Transduction",
+      "Transformation",
+      "Bacterial conjugation"
+    ],
+    "correctAnswer": "Bacterial conjugation",
+    "explanation": "Bacterial conjugation involves the transfer of genetic material between bacteria through direct contact, enhancing genetic diversity.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary function of the Golgi apparatus in eukaryotic cells?",
+    "choices": [
+      "A) Energy production",
+      "B) Protein modification and sorting",
+      "C) DNA replication",
+      "D) Lipid synthesis"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Golgi apparatus is responsible for modifying, sorting, and packaging proteins and lipids for secretion or use within the cell.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which cellular structure is primarily responsible for maintaining osmotic balance in plant cells?",
+    "choices": [
+      "A) Nucleus",
+      "B) Cell wall",
+      "C) Chloroplast",
+      "D) Vacuole"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The vacuole in plant cells helps to maintain turgor pressure, thereby regulating osmotic balance.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the significance of the sigma factor in prokaryotic transcription?",
+    "choices": [
+      "A) It suppresses mutations in DNA",
+      "B) It binds to DNA and attracts RNA polymerase",
+      "C) It aids in ribosome assembly",
+      "D) It catalyzes the splicing of mRNA"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The sigma factor is necessary for the initiation of transcription in prokaryotes as it binds to a specific promoter region of DNA and recruits RNA polymerase.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of Human Genetics, what does a pedigree chart illustrate?",
+    "choices": [
+      "A) The metabolic pathways of a disease",
+      "B) The possible phenotypic expressions of a trait over time",
+      "C) The genetic relation among individuals over generations",
+      "D) The evolution of species"
+    ],
+    "correctAnswer": "C",
+    "explanation": "A pedigree chart is a diagram that depicts the genetic relationships within a family, often used to track inheritance of traits across generations.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Chaperone proteins primarily function to assist which aspect of cellular biology?",
+    "choices": [
+      "A) Lipid metabolism",
+      "B) Transcription of DNA",
+      "C) Protein folding",
+      "D) RNA splicing"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Chaperone proteins help other proteins to fold correctly, preventing aggregation and ensuring proper functioning.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following processes is responsible for generating ATP in eukaryotic cells?",
+    "choices": [
+      "Glycolysis",
+      "Oxidative phosphorylation",
+      "Beta-oxidation",
+      "Fermentation"
+    ],
+    "correctAnswer": "Oxidative phosphorylation",
+    "explanation": "In eukaryotic cells, oxidative phosphorylation occurs in the mitochondria and uses the electron transport chain to generate ATP.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which cellular structure is primarily responsible for synthesizing proteins?",
+    "choices": [
+      "Golgi apparatus",
+      "Ribosome",
+      "Endoplasmic reticulum",
+      "Lysosome"
+    ],
+    "correctAnswer": "Ribosome",
+    "explanation": "Ribosomes are the cell's machinery for protein synthesis, translating mRNA into polypeptide chains.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary function of the smooth endoplasmic reticulum?",
+    "choices": [
+      "Protein synthesis",
+      "Lipid synthesis",
+      "ATP production",
+      "DNA replication"
+    ],
+    "correctAnswer": "Lipid synthesis",
+    "explanation": "The smooth endoplasmic reticulum is involved in the synthesis of lipids, metabolism of carbohydrates, and detoxification of drugs and poisons.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which molecule serves as an energy currency in the cell?",
+    "choices": [
+      "NADPH",
+      "FADH2",
+      "ATP",
+      "GTP"
+    ],
+    "correctAnswer": "ATP",
+    "explanation": "Adenosine triphosphate (ATP) is the primary energy carrier in cells, allowing them to perform work and conduct metabolic processes.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the end product of glycolysis under anaerobic conditions?",
+    "choices": [
+      "Lactic acid",
+      "Acetyl-CoA",
+      "Pyruvate",
+      "Ethanol"
+    ],
+    "correctAnswer": "Lactic acid",
+    "explanation": "In the absence of oxygen, glycolysis converts glucose to pyruvate, which is then reduced to lactic acid in humans.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following is a key concept in population genetics that describes the proportion of different genotypes in a population?",
+    "choices": [
+      "Hardy-Weinberg equilibrium",
+      "Speciation theory",
+      "Gene flow",
+      "Sexual selection"
+    ],
+    "correctAnswer": "Hardy-Weinberg equilibrium",
+    "explanation": "The Hardy-Weinberg equilibrium describes the genetic variation in a population that is not evolving, focusing on genotype frequencies.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which process describes the conversion of adenine nucleotides to deoxyadenosine nucleotides during DNA synthesis?",
+    "choices": [
+      "Transcription",
+      "Replication",
+      "Translation",
+      "Polymerization"
+    ],
+    "correctAnswer": "Replication",
+    "explanation": "DNA replication is the process through which cells duplicate their DNA, converting deoxyadenosine triphosphate (dATP) to deoxyadenosine.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of inundating conditions, what termini is responsible for plant adaptation by facilitating the flow of water, nutrients, and signals?",
+    "choices": [
+      "Stomata",
+      "Phloem",
+      "Xylem",
+      "Mycorrhizae"
+    ],
+    "correctAnswer": "Phloem",
+    "explanation": "Phloem is crucial for transporting nutrients and metabolites throughout plants, especially during adaptations to flooding conditions.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which enzyme initiates the unwinding of DNA during replication?",
+    "choices": [
+      "Helicase",
+      "Primase",
+      "Ligase",
+      "DNA polymerase"
+    ],
+    "correctAnswer": "Helicase",
+    "explanation": "Helicase unwinds the double-stranded DNA, creating the replication fork by separating the two strands to allow copying.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What key factor influences the rate of photosynthesis?",
+    "choices": [
+      "Altitude",
+      "Sunlight intensity",
+      "Soil pH",
+      "Leaf size"
+    ],
+    "correctAnswer": "Sunlight intensity",
+    "explanation": "Sunlight intensity is one of the main factors affecting photosynthesis, as it determines the energy available for the conversion of carbon dioxide and water into glucose.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What organelle is responsible for the synthesis of ribosomal RNA (rRNA) in eukaryotic cells?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Endoplasmic Reticulum"
+    ],
+    "correctAnswer": "Nucleus",
+    "explanation": "The nucleolus is the part of the nucleus where ribosomal RNA is transcribed and assembled into ribosomes, which are essential for protein synthesis.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which protein complex is primarily responsible for the regulation of the cell cycle by editing cyclin-dependant kinase (CDK) activity?",
+    "choices": [
+      "Anaphase-promoting complex",
+      "Mitotic spindle",
+      "Proteasome",
+      "Cyclin-CDK complex"
+    ],
+    "correctAnswer": "Cyclin-CDK complex",
+    "explanation": "Cyclins bind to and activate CDKs (cyclin-dependent kinases) to regulate various phases of the cell cycle through phosphorylation of target proteins.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following is a key feature of G protein-coupled receptors (GPCRs)?",
+    "choices": [
+      "They undergo dimerization upon ligand binding.",
+      "They span the cell membrane seven times.",
+      "They function exclusively in metabolic pathways.",
+      "They activate ligand-dependent transcription factors directly."
+    ],
+    "correctAnswer": "They span the cell membrane seven times.",
+    "explanation": "GPCRs are characterized by having seven transmembrane domains, which allows them to interact with various ligands and activate intracellular G proteins.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In humans, which gene is required for the maintenance of the pluripotency of embryonic stem cells?",
+    "choices": [
+      "Oct4",
+      "Nanog",
+      "Sox2",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Oct4, Nanog, and Sox2 are transcription factors that collaboratively maintain the pluripotent state of embryonic stem cells through mutual regulatory networks.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What process is primarily responsible for the generation of genetic diversity during meiosis?",
+    "choices": [
+      "Binary fission",
+      "Crossing over and independent assortment",
+      "DNA repair mechanisms",
+      "Mitosis"
+    ],
+    "correctAnswer": "Crossing over and independent assortment",
+    "explanation": "During meiosis, crossing over occurs during prophase I, where homologous chromosomes exchange genetic material, and independent assortment during metaphase I shuffles genetic loci, providing genetic diversity.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which type of signaling molecule is typically characteristic of long-range communication in the endocrine system?",
+    "choices": [
+      "Neurotransmitters",
+      "Hormones",
+      "Paracrines",
+      "Cytokines"
+    ],
+    "correctAnswer": "Hormones",
+    "explanation": "Hormones are secreted by endocrine glands into the bloodstream and travel long distances to exert effects on target organs, making them key molecules for long-range signaling.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary role of RNA polymerase in eukaryotic transcription?",
+    "choices": [
+      "Synthesize DNA",
+      "Synthesize RNA",
+      "Synthesize protein",
+      "Regulate gene expression"
+    ],
+    "correctAnswer": "Synthesize RNA",
+    "explanation": "RNA polymerase is responsible for synthesizing RNA from a DNA template during the process of transcription in eukaryotic cells.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which organelle is responsible for the synthesis of ATP through oxidative phosphorylation?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondrion",
+      "Lysosome"
+    ],
+    "correctAnswer": "Mitochondrion",
+    "explanation": "Mitochondria are the sites of oxidative phosphorylation, where ATP is produced using the energy generated by electron transport in cellular respiration.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In genetics, what does the term 'pleiotropy' refer to?",
+    "choices": [
+      "The phenomenon where one gene affects multiple traits",
+      "The presence of multiple alleles for a single Gene",
+      "The expression of physically linked genes",
+      "The independent assortment of genes during meiosis"
+    ],
+    "correctAnswer": "The phenomenon where one gene affects multiple traits",
+    "explanation": "Pleiotropy refers to a situation in which a single gene can influence multiple phenotypic traits.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which process primarily reproduces asexually?",
+    "choices": [
+      "Mitosis",
+      "Meiosis",
+      "Fertilization",
+      "Conjugation"
+    ],
+    "correctAnswer": "Mitosis",
+    "explanation": "Mitosis is a type of cell division that typically results in two genetically identical daughter cells, functioning primarily for asexual reproduction.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What part of the cell cycle is primarily focused on cell growth and function?",
+    "choices": [
+      "M phase",
+      "G1 phase",
+      "S phase",
+      "G2 phase"
+    ],
+    "correctAnswer": "G1 phase",
+    "explanation": "During the G1 phase (Gap 1), the cell grows and carries out normal metabolic processes while preparing for DNA replication.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the main function of the Golgi apparatus in eukaryotic cells?",
+    "choices": [
+      "Responsible for energy production",
+      "Site of protein synthesis",
+      "Modification and packaging of proteins",
+      "DNA replication"
+    ],
+    "correctAnswer": "Modification and packaging of proteins",
+    "explanation": "The Golgi apparatus is primarily involved in modifying, sorting, and packaging proteins for secretion or delivery to other organelles within the cell.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which type of bond holds together the two strands of a DNA double helix?",
+    "choices": [
+      "Ionic bonds",
+      "Covalent bonds",
+      "Hydrogen bonds",
+      "Peptide bonds"
+    ],
+    "correctAnswer": "Hydrogen bonds",
+    "explanation": "The complementary base pairs in the DNA structure are held together by hydrogen bonds, which are critical for the stability of the DNA double helix.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What PRIMARY factor dictates the specificity of enzymes?",
+    "choices": [
+      "Temperature",
+      "pH level",
+      "Active site structure",
+      "Concentration of substrate"
+    ],
+    "correctAnswer": "Active site structure",
+    "explanation": "The specificity of enzymes for their substrates is determined primarily by the unique shape and chemical environment of their active sites.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the role of the smooth endoplasmic reticulum (SER)?",
+    "choices": [
+      "Protein synthesis",
+      "Lipid synthesis and metabolism",
+      "ATP production",
+      "DNA replication"
+    ],
+    "correctAnswer": "Lipid synthesis and metabolism",
+    "explanation": "The smooth endoplasmic reticulum is involved in the synthesis and metabolism of lipids, as well as the detoxification of certain chemicals.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which enzyme is primarily responsible for unwinding the DNA double helix during DNA replication?",
+    "choices": [
+      "Helicase",
+      "Ligase",
+      "Primase",
+      "Polymerase"
+    ],
+    "correctAnswer": "Helicase",
+    "explanation": "Helicase is the enzyme that unwinds the double-stranded DNA, separating the two strands to allow for replication.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What component of the cell membrane directly mediates transport processes and signal transduction?",
+    "choices": [
+      "Phospholipids",
+      "Cholesterol",
+      "Proteins",
+      "Glycolipids"
+    ],
+    "correctAnswer": "Proteins",
+    "explanation": "Proteins within the cell membrane are crucial for facilitating transport across the membrane and are involved in various signaling pathways.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In mice, the allele for black fur (B) is dominant over the allele for brown fur (b). If a heterozygous male is crossed with a homozygous recessive female, what proportion of the offspring are expected to have black fur?",
+    "choices": [
+      "0%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "correctAnswer": "50%",
+    "explanation": "The possible genotypes of the offspring are Bb (black fur) and bb (brown fur), resulting in a 50% chance of black fur and 50% for brown.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the primary function of a viral envelope?",
+    "choices": [
+      "Proteins for reproduction",
+      "Host cell identification",
+      "Genetic material protection",
+      "Protein synthesis"
+    ],
+    "correctAnswer": "Host cell identification",
+    "explanation": "The viral envelope is primarily used for the recognition of and binding to host cells, aiding in the infection process.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "During photosynthesis, what product is generated alongside glucose as a byproduct?",
+    "choices": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Water",
+      "Acetic acid"
+    ],
+    "correctAnswer": "Oxygen",
+    "explanation": "Oxygen is released as a byproduct of photosynthesis when water is split to obtain electrons and protons.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which structure in eukaryotic cells is primarily responsible for the synthesis and processing of ribosomal RNA?",
+    "choices": [
+      "Nucleus",
+      "Endoplasmic Reticulum",
+      "Nucleolus",
+      "Ribosome"
+    ],
+    "correctAnswer": "Nucleolus",
+    "explanation": "The nucleolus is a dense structure within the nucleus where ribosomal RNA (rRNA) is synthesized and ribosome assembly begins.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the role of the V programmer system in the context of cellular response to hypoxia?",
+    "choices": [
+      "Provides energy for ATP production",
+      "Regulates mitochondrial biogenesis",
+      "Inhibits apoptosis",
+      "Activates glycolytic pathway"
+    ],
+    "correctAnswer": "Regulates mitochondrial biogenesis",
+    "explanation": "The V programmer system plays a significant role in the adaptation of cells to low oxygen conditions by promoting mitochondrial biogenesis and enhancing the capability of cells to utilize oxygen efficiently.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In which phase of the cell cycle does the duplication of the genome occur?",
+    "choices": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "correctAnswer": "S phase",
+    "explanation": "The S phase (synthesis phase) is responsible for DNA replication, resulting in the duplication of the cell's genetic material before it enters mitosis (M phase).",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which type of RNA contains the anticodon and is responsible for bringing amino acids to the ribosome during protein synthesis?",
+    "choices": [
+      "mRNA",
+      "tRNA",
+      "rRNA",
+      "snRNA"
+    ],
+    "correctAnswer": "tRNA",
+    "explanation": "Transfer RNA (tRNA) is charged with specific amino acids and has an anticodon that pairs with the codon on the mRNA template during translation to facilitate protein synthesis.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the primary function of the centrosome in a eukaryotic cell?",
+    "choices": [
+      "DNA replication",
+      "Energy production",
+      "Microtubule organization",
+      "Protein degradation"
+    ],
+    "correctAnswer": "Microtubule organization",
+    "explanation": "The centrosome serves as the main microtubule-organizing center in eukaryotic cells and plays a crucial role in creating the mitotic spindle during cell division.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "During transcription, which enzyme is responsible for synthesizing RNA from a DNA template?",
+    "choices": [
+      "DNA polymerase",
+      "RNA polymerase",
+      "Reverse transcriptase",
+      "Helicase"
+    ],
+    "correctAnswer": "RNA polymerase",
+    "explanation": "RNA polymerase performs the critical role of synthesizing RNA  by catalyzing the assembly of nucleotides complementary to the DNA template during transcription.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following mechanisms is primarily responsible for the expulsion of glucose into the bloodstream from intestinal epithelial cells?",
+    "choices": [
+      "Simple Diffusion",
+      "Facilitated Diffusion",
+      "Active Transport",
+      "Passive Transport"
+    ],
+    "correctAnswer": "Active Transport",
+    "explanation": "Glucose is absorbed from the intestinal lumen into epithelial cells via sodium-dependent glucose transporters (SGLTs), which utilize sodium gradients established by the Na+/K+ ATPase, making this a form of active transport.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In plant cell biology, what structure serves as a semi-permeable barrier regulating the transport of substances in and out of the nucleus?",
+    "choices": [
+      "Cell Wall",
+      "Endoplasmic Reticulum",
+      "Nuclear Envelope",
+      "Plasma Membrane"
+    ],
+    "correctAnswer": "Nuclear Envelope",
+    "explanation": "The nuclear envelope, consisting of inner and outer membranes, serves as a selective barrier that regulates the passage of molecules between the nucleus and the cytoplasm.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following mutations is least likely to alter the function of a protein?",
+    "choices": [
+      "Silent Mutation",
+      "Missense Mutation",
+      "Nonsense Mutation",
+      "Frameshift Mutation"
+    ],
+    "correctAnswer": "Silent Mutation",
+    "explanation": "Silent mutations occur in coding regions but do not change the amino acid sequence of a protein, thus they typically do not affect protein function.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "During which phase of cell division does DNA condensation primarily occur?",
+    "choices": [
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase"
+    ],
+    "correctAnswer": "Prophase",
+    "explanation": "During prophase, chromatin condenses into visible chromosomes, facilitating separation during later stages of mitosis.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "The process of apoptosis is primarily regulated by which family of proteins?",
+    "choices": [
+      "Transcription Factors",
+      "Kinases",
+      "Bcl-2 Family",
+      "Heat Shock Proteins"
+    ],
+    "correctAnswer": "Bcl-2 Family",
+    "explanation": "The Bcl-2 family of proteins regulates apoptosis by controlling mitochondrial outer membrane permeabilization and the release of pro-apoptotic factors.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the primary mechanism of genetic recombination during meiosis in eukaryotes?",
+    "choices": [
+      "Segregation of alleles",
+      "Crossing over",
+      "Independent assortment",
+      "Mutagenesis"
+    ],
+    "correctAnswer": "Crossing over",
+    "explanation": "During meiosis, genetic recombination occurs primarily through the process of crossing over where homologous chromosomes exchange genetic material, leading to genetic diversity in gametes.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following signaling pathways most directly activates the MAPK/ERK pathway?",
+    "choices": [
+      "Nuclear factor kappa-light-chain-enhancer of activated B cells (NF-kB)",
+      "Ras/Raf/MEK signaling",
+      "Phosphoinositide 3-kinase (PI3K) pathway",
+      "Notch signaling"
+    ],
+    "correctAnswer": "Ras/Raf/MEK signaling",
+    "explanation": "The MAPK/ERK pathway is initiated by the activation of receptor tyrosine kinases (RTKs) that lead to the activation of Faith Ras, followed by a series of phosphorylation events involving Raf, MEK, and ERK.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the primary function of the spliceosome in eukaryotic cells?",
+    "choices": [
+      "Translation of mRNA",
+      "DE-capping of mRNA",
+      "Splicing of pre-mRNA",
+      "Polyadenylation of mRNA"
+    ],
+    "correctAnswer": "Splicing of pre-mRNA",
+    "explanation": "The spliceosome is a complex of small nuclear RNAs (snRNAs) and proteins that removes introns from pre-mRNA during the process of splicing, which is essential for creating mature, translatable mRNA.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which organic process is primarily involved in the generation of ATP during aerobic respiration?",
+    "choices": [
+      "Glycolysis",
+      "Substrate-level phosphorylation",
+      "Oxidative phosphorylation",
+      "Decarboxylation"
+    ],
+    "correctAnswer": "Oxidative phosphorylation",
+    "explanation": "Oxidative phosphorylation, occurring in the inner mitochondrial membrane, encompasses the electron transport chain and chemiosmosis, producing the majority of ATP during aerobic respiration.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In evolutionary biology, what term describes the phenomenon where one species evolves to exploit resources differently than another species, reducing direct competition?",
+    "choices": [
+      "Adaptive radiation",
+      "Character displacement",
+      "Diversifying selection",
+      "Niche partitioning"
+    ],
+    "correctAnswer": "Niche partitioning",
+    "explanation": "Niche partitioning allows multiple species to coexist by using different resources or mechanisms within the same habitat, thereby optimizing growth, survival, and reproduction with reduced direct competition.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the primary mechanism through which CRISPR-Cas9 confers resistance to phage infection in bacteria?",
+    "choices": [
+      "DNA repair mechanisms",
+      "Transcriptional regulation",
+      "Targeted cleavage of phage DNA",
+      "Modification of RNA polymerase"
+    ],
+    "correctAnswer": "Targeted cleavage of phage DNA",
+    "explanation": "CRISPR-Cas9 works by storing segments of viral DNA as CRISPR sequences, and when the virus infects the bacterium again, the CRISPR-Cas9 complex can recognize and cleave the complementary viral DNA, thereby conferring immunity.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In Arabidopsis, what is the primary role of the protein LEAFY (LFY) in flowering regulation?",
+    "choices": [
+      "Promotion of chlorophyll biosynthesis",
+      "Induction of vernalization",
+      "Activation of floral meristem identity genes",
+      "Inhibition of flowering locus D (FD)"
+    ],
+    "correctAnswer": "Activation of floral meristem identity genes",
+    "explanation": "LEAFY is a crucial floral identity gene responsible for the transition from vegetative to reproductive development by activating the expression of other essential genes needed for flower formation.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which component of the pentose phosphate pathway is responsible for generating NADPH?",
+    "choices": [
+      "6-Phosphogluconate dehydrogenase",
+      "Ribulose-5-phosphate epimerase",
+      "Transaldolase",
+      "G6PD (Glucose-6-phosphate dehydrogenase)"
+    ],
+    "correctAnswer": "G6PD (Glucose-6-phosphate dehydrogenase)",
+    "explanation": "G6PD catalyzes the first, and rate-limiting step of the oxidative phase of the pentose phosphate pathway, converting glucose-6-phosphate into 6-phosphoglucono-\u03b4-lactone while reducing NADP+ to NADPH.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What differentiates prokaryotic transcription from eukaryotic transcription?",
+    "choices": [
+      "Presence of multiple RNA polymerases in prokaryotes",
+      "Coupled transcription and translation in eukaryotes",
+      "The use of introns in prokaryotic mRNA",
+      "Different initiation mechanisms and transcription factors"
+    ],
+    "correctAnswer": "Different initiation mechanisms and transcription factors",
+    "explanation": "Prokaryotic cells employ a sigma factor to initiate transcription, while eukaryotic transcription relies on multiple transcription factors and various RNA polymerases for proper initiation and regulation.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In protein synthesis, which site on the ribosome is primarily responsible for the attachment of a newly arriving amino-acyl tRNA?",
+    "choices": [
+      "E site",
+      "P site",
+      "A site",
+      "S site"
+    ],
+    "correctAnswer": "A site",
+    "explanation": "The A site (Aminoacyl site) is the location on the ribosome where the new amino-acyl tRNA binds during protein synthesis, bringing the corresponding amino acid for incorporation into the growing polypeptide chain.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following signaling molecules plays a critical role in the regulation of apoptosis and was first identified in the nematode Caenorhabditis elegans?",
+    "choices": [
+      "Caspases",
+      "Cytokines",
+      "Growth factors",
+      "Neurotrophins"
+    ],
+    "correctAnswer": "Caspases",
+    "explanation": "Caspases are a family of cysteine proteases critical to the apoptosis process, and they were originally discovered through their role in the developmental regulation of apoptosis in C. elegans.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the primary energy currency molecule in cellular metabolism that is produced through both substrate-level phosphorylation and chemiosmotic coupling during oxidative phosphorylation?",
+    "choices": [
+      "ATP",
+      "NADPH",
+      "FADH2",
+      "NADH"
+    ],
+    "correctAnswer": "ATP",
+    "explanation": "Adenosine triphosphate (ATP) serves as the primary energy currency of the cell, generated through processes such as glycolysis, the citric acid cycle, and oxidative phosphorylation.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following theories explains the evolution of the eukaryotic cell involving a symbiotic relationship between ancestral prokaryotic cells?",
+    "choices": [
+      "Endosymbiotic theory",
+      "Oparin-Haldane hypothesis",
+      "Gene duplication theory",
+      "Serial endosymbiosis hypothesis"
+    ],
+    "correctAnswer": "Endosymbiotic theory",
+    "explanation": "The Endosymbiotic theory posits that eukaryotic cells evolved from a symbiotic relationship between different prokaryotic cells, explaining the presence of mitochondria and chloroplasts in eukaryotes.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In which of the following processes does RNA interfere with gene expression by binding to complementary mRNA sequences resulting in their degradation or translation inhibition?",
+    "choices": [
+      "Transcriptional activation",
+      "Gene silencing",
+      "Replication interference",
+      "RNA interference"
+    ],
+    "correctAnswer": "RNA interference",
+    "explanation": "RNA interference (RNAi) is a biological process in which RNA molecules inhibit gene expression or translation by neutralizing targeted mRNA molecules.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which DNA replication enzyme introduces negative supercoils into DNA to alleviate the strain generated ahead of the replication fork?",
+    "choices": [
+      "Helicase",
+      "Topoisomerase",
+      "Ligase",
+      "Polymerase"
+    ],
+    "correctAnswer": "Topoisomerase",
+    "explanation": "Topoisomerases are essential enzymes that manage DNA supercoiling and relieve the mechanical stress tangential to DNA replication, facilitating the unwinding of DNA strands.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the primary role of telomerase in eukaryotic cells?",
+    "choices": [
+      "To aid in DNA replication",
+      "To lengthen telomeres",
+      "To facilitate RNA transcription",
+      "To fix DNA damage"
+    ],
+    "correctAnswer": "To lengthen telomeres",
+    "explanation": "Telomerase adds nucleotide sequences to the ends of telomeres, preventing their shortening during cell division, which is crucial for cellular aging and replicative capacity.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What impact does temperature have on enzyme activity?",
+    "choices": [
+      "No impact, activity is consistent",
+      "Decreases activity uniformly",
+      "Increases activity to an optimum before denaturing",
+      "Increases activity indefinitely"
+    ],
+    "correctAnswer": "Increases activity to an optimum before denaturing",
+    "explanation": "Enzymes have an optimal temperature range; increasing temperature generally increases activity until the point of denaturation, where the structure is compromised.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which process describes the movement of water across a selectively permeable membrane?",
+    "choices": [
+      "Simple diffusion",
+      "Osmosis",
+      "Active transport",
+      "Facilitated diffusion"
+    ],
+    "correctAnswer": "Osmosis",
+    "explanation": "Osmosis specifically refers to the diffusion of water molecules through a selectively permeable membrane based on concentration gradients.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the hierarchy of biological classification, which rank is directly below the kingdom?",
+    "choices": [
+      "Phylum",
+      "Class",
+      "Order",
+      "Family"
+    ],
+    "correctAnswer": "Phylum",
+    "explanation": "The biological classification system organizes life into a hierarchy, starting with domain, and then proceeding through kingdom, phylum, class, order, family, genus, and species.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In genetics, what is the difference between heterozygous and homozygous alleles?",
+    "choices": [
+      "Heterozygous alleles are identical; homozygous are different",
+      "Heterozygous have different alleles at a locus; homozygous have identical",
+      "Homozygous refers to diploid organisms, while heterozygous refers to haploids",
+      "Homozygous involves incomplete dominance; heterozygous involves complete dominance"
+    ],
+    "correctAnswer": "Heterozygous have different alleles at a locus; homozygous have identical",
+    "explanation": "Heterozygous genotypes consist of two different alleles for a given trait, while homozygous genotypes consist of two identical alleles.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following biological polymers is formed from amino acids?",
+    "choices": [
+      "Nucleic acids",
+      "Proteins",
+      "Carbohydrates",
+      "Lipids"
+    ],
+    "correctAnswer": "Proteins",
+    "explanation": "Proteins are polymers made up of long chains of amino acids linked by peptide bonds, essential for numerous biological functions.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the primary mechanism by which mitochondrial DNA is inherited?",
+    "choices": [
+      "Autosomal inheritance",
+      "X-linked inheritance",
+      "Maternal inheritance",
+      "Biparental inheritance"
+    ],
+    "correctAnswer": "Maternal inheritance",
+    "explanation": "Mitochondrial DNA is primarily inherited from the mother, as the mitochondria from the sperm are usually destroyed after fertilization.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following does NOT contribute to the genetic variation in a population?",
+    "choices": [
+      "Mutation",
+      "Gene Flow",
+      "Genetic Drift",
+      "Mitosis"
+    ],
+    "correctAnswer": "Mitosis",
+    "explanation": "Mitosis is a process of cell division that produces two genetically identical daughter cells; it does not introduce genetic variation. In contrast, mutations, gene flow, and genetic drift all contribute to genetic diversity.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following cellular components are involved in the process of apoptosis?",
+    "choices": [
+      "a) Mitochondria",
+      "b) Endoplasmic reticulum",
+      "c) Lysosomes",
+      "d) All of the above"
+    ],
+    "correctAnswer": "d) All of the above",
+    "explanation": "Apoptosis, or programmed cell death, involves various organelles including mitochondria (which release cytochrome c), endoplasmic reticulum (calcium storage), and lysosomes (which can participate in morphological changes).",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which mechanism predominantly provides genetic variation during meiosis?",
+    "choices": [
+      "a) DNA replication",
+      "b) Independent assortment of chromosomes",
+      "c) Mutagenesis",
+      "d) Genetic drift"
+    ],
+    "correctAnswer": "b) Independent assortment of chromosomes",
+    "explanation": "During meiosis, the independent assortment of chromosomes during metaphase I leads to the generation of genetically unique gametes, contributing significantly to genetic variation.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the primary function of the gamma secretion system in Gram-negative bacteria?",
+    "choices": [
+      "a) Nutrient uptake",
+      "b) Excretion of waste products",
+      "c) Protein secretion",
+      "d) Motility"
+    ],
+    "correctAnswer": "c) Protein secretion",
+    "explanation": "The gamma secretion system (Type III secretion system) in Gram-negative bacteria is utilized to export proteins directly into the cytoplasm of eukaryotic host cells, facilitating pathogenic interactions.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following techniques is best suited for analyzing protein-protein interactions?",
+    "choices": [
+      "a) Western blotting",
+      "b) Serial analysis of gene expression (SAGE)",
+      "c) Co-immunoprecipitation (Co-IP)",
+      "d) Polymerase chain reaction (PCR)"
+    ],
+    "correctAnswer": "c) Co-immunoprecipitation (Co-IP)",
+    "explanation": "Co-immunoprecipitation (Co-IP) is a widely used technique that allows for the determination of protein-protein interactions by using antibodies to pull down a target protein and associated proteins.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In which part of eukaryotic cells is ribosomal RNA (rRNA) synthesized?",
+    "choices": [
+      "a) Nucleoplasm",
+      "b) Nuclear matrix",
+      "c) Nucleolus",
+      "d) Ribosomes"
+    ],
+    "correctAnswer": "c) Nucleolus",
+    "explanation": "The nucleolus, a prominent structure within the nucleus, is the site of rRNA synthesis and initial assembly of ribosomal subunits.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which enzyme is primarily responsible for unwinding the DNA double helix during replication?",
+    "choices": [
+      "DNA polymerase",
+      "Helicase",
+      "Ligase",
+      "Topoisomerase"
+    ],
+    "correctAnswer": "Helicase",
+    "explanation": "Helicase is the enzyme that unwinds the DNA double helix by separating the strands ahead of the replication fork.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which metabolic process occurs in the mitochondria and is affected by the availability of oxygen?",
+    "choices": [
+      "Glycolysis",
+      "Fermentation",
+      "Krebs Cycle",
+      "Electron Transport Chain"
+    ],
+    "correctAnswer": "Krebs Cycle",
+    "explanation": "The Krebs Cycle, also known as the Citric Acid Cycle, occurs in the mitochondria and is dependent on the presence of oxygen to efficiently process pyruvate derived from glycolysis.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What genetic phenomenon explains the expected distribution ratios of phenotypic traits in a dihybrid cross?",
+    "choices": [
+      "Polygenetic inheritance",
+      "Incomplete dominance",
+      "Independent assortment",
+      "Codominance"
+    ],
+    "correctAnswer": "Independent assortment",
+    "explanation": "Mendel's Law of Independent Assortment states that the alleles for different traits segregate independently from one another during gamete formation.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In eukaryotic cells, what is the purpose of the post-translational modification known as phosphorylation?",
+    "choices": [
+      "To signal for DNA replication",
+      "To ensure proper canalization during mitosis",
+      "To activate or inactivate enzymes",
+      "To enhance membrane receptor signaling"
+    ],
+    "correctAnswer": "To activate or inactivate enzymes",
+    "explanation": "Phosphorylation is a common post-translational modification that can change the activity state of enzymes, enabling regulation of metabolic pathways.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the function of the promotor region in eukaryotic genes?",
+    "choices": [
+      "To enhance protein synthesis",
+      "To initiate transcription",
+      "To terminate RNA transcription",
+      "To recruit ribosomes"
+    ],
+    "correctAnswer": "To initiate transcription",
+    "explanation": "The promoter region is a DNA sequence that signals the start site for RNA polymerase to begin transcription of a gene.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the primary role of the 5' cap in eukaryotic mRNA?",
+    "choices": [
+      "A) It protects mRNA from degradation",
+      "B) It serves as a binding site for ribosomes",
+      "C) It facilitates export of mRNA from the nucleus",
+      "D) All of the above"
+    ],
+    "correctAnswer": "D",
+    "explanation": "The 5' cap protects mRNA from degradation, serves as a binding site for the ribosome during translation initiation, and aids in the transport of mRNA out of the nucleus.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In what stage of cellular respiration does substrate-level phosphorylation occur?",
+    "choices": [
+      "A) Glycolysis",
+      "B) Citric Acid Cycle",
+      "C) Oxidative Phosphorylation",
+      "D) Both A and B"
+    ],
+    "correctAnswer": "D",
+    "explanation": "Substrate-level phosphorylation occurs in both glycolysis and the citric acid cycle, where ATP is produced through the direct transfer of a phosphate group.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which enzyme is responsible for introducing supercoils in DNA during replication?",
+    "choices": [
+      "A) helicase",
+      "B) topoisomerase",
+      "C) DNA polymerase",
+      "D) ligase"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Topoisomerase is responsible for mitigating the torsional strain that arises ahead of the replication fork by introducing supercoils (positive or negative) in the DNA.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the function of the signal recognition particle (SRP) in eukaryotic cells?",
+    "choices": [
+      "A) It binds nascent polypeptides as they are synthesized",
+      "B) It targets protein assemblies to the cell membrane",
+      "C) It promotes folding of newly synthesized proteins",
+      "D) It transports proteins to mitochondria"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The signal recognition particle is responsible for recognizing and binding to the signal peptide of the nascent polypeptides, facilitating the translation and translocation to the endoplasmic reticulum.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In which phase of meiosis do homologous chromosomes separate?",
+    "choices": [
+      "A) Prophase I",
+      "B) Metaphase II",
+      "C) Anaphase I",
+      "D) Telophase II"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Homologous chromosomes separate during Anaphase I of meiosis, where sister chromatids remain attached at their centromeres.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which hormone is primarily responsible for regulating blood glucose levels during fasting states?",
+    "choices": [
+      "A) Insulin",
+      "B) Ghrelin",
+      "C) Glucagon",
+      "D) Somatostatin"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Glucagon is the hormone released by the pancreas that helps to raise blood glucose levels during fasting periods by promoting gluconeogenesis and glycogenolysis.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What mechanism acts on gene expression by enhancing repression due to the binding of a regulatory protein to mRNA?",
+    "choices": [
+      "A) Alternative splicing",
+      "B) RNA interference",
+      "C) Enhancer function",
+      "D) Crispr/Cas9 maturation"
+    ],
+    "correctAnswer": "B",
+    "explanation": "RNA interference (RNAi) utilizes small interfering RNA (siRNA) to bind to and regulate mRNA, often leading to its degradation and thereby enhancing repression at the post-transcriptional level.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the role of telomerase in eukaryotic cells?",
+    "choices": [
+      "A) Hydrolyzes nucleotides during DNA replication",
+      "B) Synthesizes telomere repeats to maintain chromosome integrity",
+      "C) Removes RNA primers during DNA synthesis",
+      "D) Fixes DNA double-strand breaks"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Telomerase synthesizes repetitive sequences (telomeres) to maintain chromosome stability and integrity during cell division, thus preventing progressive shortening of chromosomes.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which process describes the synthesis of RNA from a DNA template?",
+    "choices": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Recombination"
+    ],
+    "correctAnswer": "Transcription",
+    "explanation": "Transcription is the process during which a segment of DNA is copied into RNA by the enzyme RNA polymerase.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What organelle is responsible for producing ATP during cellular respiration?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondrion",
+      "Chloroplast"
+    ],
+    "correctAnswer": "Mitochondrion",
+    "explanation": "Mitochondria are often termed the powerhouse of the cell because they generate ATP through the process of oxidative phosphorylation.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which structure is involved in the post-translational modification of proteins?",
+    "choices": [
+      "Endoplasmic Reticulum",
+      "Golgi Apparatus",
+      "Lysosome",
+      "Peroxisome"
+    ],
+    "correctAnswer": "Golgi Apparatus",
+    "explanation": "The Golgi apparatus modifies, sorts, and packages proteins and lipids for secretion or for use within the cell.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the primary function of eukaryotic telomeres?",
+    "choices": [
+      "DNA replication",
+      "Protein synthesis",
+      "Genetic recombination",
+      "Protection of chromosomal ends"
+    ],
+    "correctAnswer": "Protection of chromosomal ends",
+    "explanation": "Telomeres protect the ends of eukaryotic chromosomes from degradation and prevent them from fusing with each other.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What process is regulated by checkpoints during the cell cycle?",
+    "choices": [
+      "Cytokinesis",
+      "Mitosis",
+      "DNA replication",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Checkpoints in the cell cycle help ensure the cell does not proceed to the next phase until proper conditions are met and processes like DNA replication are completed correctly.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the primary function of the SERCA pump in muscle cells?",
+    "choices": [
+      "A) Transporting sodium ions out of the cell",
+      "B) Hydrolyzing ATP to provide energy for muscle contraction",
+      "C) Sequestering calcium ions in the sarcroplasmic reticulum",
+      "D) Maintaining the resting membrane potential"
+    ],
+    "correctAnswer": "C",
+    "explanation": "SERCA (Sarcoplasmic reticulum Ca\u00b2\u207a-ATPase) is responsible for pumping calcium ions from the cytoplasm back into the sarcoplasmic reticulum, which is crucial for muscle relaxation.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In which phase of the cell cycle does DNA replication occur?",
+    "choices": [
+      "A) G1 phase",
+      "B) S phase",
+      "C) G2 phase",
+      "D) M phase"
+    ],
+    "correctAnswer": "B",
+    "explanation": "DNA replication occurs during the S (Synthesis) phase of the cell cycle, where each chromosome is duplicated in preparation for cell division.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which process describes the phenomenon where multiple genes contribute to a single trait?",
+    "choices": [
+      "A) Epistasis",
+      "B) Multiple alleles",
+      "C) Polygenic inheritance",
+      "D) Pleiotropy"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Polygenic inheritance occurs when multiple genes (often located on different chromosomes) independently contribute to the expression of a single trait, such as height in humans.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What structure primarily facilitates the exchange of materials between the blood and surrounding tissues at the cellular level?",
+    "choices": [
+      "A) Arterioles",
+      "B) Venules",
+      "C) Capillaries",
+      "D) Lymphatic vessels"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Capillaries are the smallest blood vessels in the body, allowing for the exchange of oxygen, nutrients, and waste products between blood and tissues.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In the context of enzyme kinetics, what effect does temperature have on enzymatic activity?",
+    "choices": [
+      "A) Roseate temperature increases chemical no-product",
+      "B) Elevated temperature always boosts enzymatic activity",
+      "C) Enzymatic activity typically increases with temperature up to a point before denaturing",
+      "D) Enzymes function optimally at absolute zero"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Generally, enzymatic activity increases with temperature to optimal levels but can denature and lose activity due to excessively high temperatures.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following statements about mitochondrial DNA (mtDNA) is true?",
+    "choices": [
+      "A) It is inherited only from the father.",
+      "B) It is significantly larger than nuclear DNA.",
+      "C) It replicates independently of the cell cycle.",
+      "D) It can undergo genetic recombination freely."
+    ],
+    "correctAnswer": "C",
+    "explanation": "Mitochondrial DNA replicates independently of the cell cycle and is inherited maternally. It is smaller than nuclear DNA and does not typically undergo recombination.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the term for a genetic change in an organism that is not caused by mutations but stems from environmental factors and is passed on to the next generation?",
+    "choices": [
+      "A) Epigenesis",
+      "B) Waddington's landscape",
+      "C) Gene expression",
+      "D) Genetic drift"
+    ],
+    "correctAnswer": "A) Epigenesis",
+    "explanation": "Epigenesis refers to changes in organisms that occur due to environmental factors that affect gene expression without altering the underlying DNA sequence and may be inherited.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following complexes directly participates in the synthesis of ATP during oxidative phosphorylation in eukaryotic cells?",
+    "choices": [
+      "A) Complex II",
+      "B) Complex IV",
+      "C) ATP synthase",
+      "D) Complex I"
+    ],
+    "correctAnswer": "C) ATP synthase",
+    "explanation": "ATP synthase is the enzyme that uses the proton gradient generated by electron transport to synthesize ATP from ADP and inorganic phosphate during oxidative phosphorylation.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In mitochondrial inheritance, how are myopathies typically passed down from parent to offspring?",
+    "choices": [
+      "A) Through the Y-chromosome",
+      "B) Autosomal recessive",
+      "C) Random assortment",
+      "D) Maternal inheritance"
+    ],
+    "correctAnswer": "D) Maternal inheritance",
+    "explanation": "Mitochondrial myopathies are inherited maternally as mitochondria, including their DNA, are passed down from the mother to all her children.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "During which stage of meiosis does crossing over occur, aiding in genetic diversity?",
+    "choices": [
+      "A) Metaphase II",
+      "B) Anaphase I",
+      "C) Prophase I",
+      "D) Telophase I"
+    ],
+    "correctAnswer": "C) Prophase I",
+    "explanation": "Crossing over occurs during Prophase I of meiosis, specifically at the pachytene stage, where homologous chromosomes exchange genetic material, increasing diversity.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which protein complex is responsible for recognizing and repairing single-strand DNA breaks via base excision repair?",
+    "choices": [
+      "A) MSH complex",
+      "B) DNA Polymerase III",
+      "C) DNA ligase",
+      "D) DNA glycosylase"
+    ],
+    "correctAnswer": "D) DNA glycosylase",
+    "explanation": "DNA glycosylases are the key initiators for base excision repair, recognizing and removing damaged bases, thus enabling repair mechanisms to proceed.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the function of lichenase enzymes in the biological degradation of cellulose?",
+    "choices": [
+      "A) Hydrolyzing glucose residues in peptidoglycan",
+      "B) Breaking \u03b2-(1\u21924) glycosidic bonds in cellulose",
+      "C) Catalyzing the conversion of starch into glucose",
+      "D) Synthesizing cellulose from simple sugars"
+    ],
+    "correctAnswer": "B) Breaking \u03b2-(1\u21924) glycosidic bonds in cellulose",
+    "explanation": "Lichenase enzymes specifically target and hydrolyze \u03b2-(1\u21924) glycosidic bonds in cellulose, facilitating its degradation.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In a eukaryotic cell, which organelle is primarily responsible for the detoxification of reactive oxygen species?",
+    "choices": [
+      "A) Peroxisome",
+      "B) Ribosome",
+      "C) Golgi apparatus",
+      "D) Lysosome"
+    ],
+    "correctAnswer": "A) Peroxisome",
+    "explanation": "Peroxisomes are specialized organelles that contain enzymes responsible for breaking down fatty acids and detoxifying harmful by-products such as hydrogen peroxide, a reactive oxygen species.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which type of regulation involves the gene dosage effect, where gene dosage directly correlates to production levels of gene products?",
+    "choices": [
+      "A) Positive feedback loop",
+      "B) Transcriptional regulation",
+      "C) Genomic imprinting",
+      "D) Dosage compensation"
+    ],
+    "correctAnswer": "D) Dosage compensation",
+    "explanation": "Dosage compensation is a biological phenomenon in which organisms equalize the expression of genes between individuals with differing gene doses, related to the certification of gene product levels.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following processes plays a crucial role in the transfer of genetic information between bacterial cells via plasmids?",
+    "choices": [
+      "Translation",
+      "Transcription",
+      "Conjugation",
+      "Transformation"
+    ],
+    "correctAnswer": "Conjugation",
+    "explanation": "Conjugation is the process by which one bacterium transfers genetic material to another through direct contact, often involving plasmids.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "The process of gene knockdown is primarily facilitated by which of the following mechanisms in molecular biology?",
+    "choices": [
+      "CRISPR-Cas9",
+      "RNA interference (RNAi)",
+      "Gene therapy",
+      "Allele modification"
+    ],
+    "correctAnswer": "RNA interference (RNAi)",
+    "explanation": "RNA interference is a biological process in which RNA molecules inhibit gene expression, typically by causing the destruction of specific mRNA molecules.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In eukaryotic cells, which organelle is responsible for synthesizing ATP during cellular respiration?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Endoplasmic Reticulum"
+    ],
+    "correctAnswer": "Mitochondria",
+    "explanation": "Mitochondria are known as the powerhouses of the cell, generating ATP through oxidative phosphorylation in the process of cellular respiration.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which molecule is a precursor to heme synthesis in the biosynthetic pathway for hemoglobin?",
+    "choices": [
+      "Acetyl-CoA",
+      "Glycine",
+      "Succinyl-CoA",
+      "Both Acetyl-CoA and Succinyl-CoA"
+    ],
+    "correctAnswer": "Both Acetyl-CoA and Succinyl-CoA",
+    "explanation": "Heme synthesis begins with the condensation of acetyl-CoA and succinyl-CoA, leading into the production of porphyrins that form heme.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the defining characteristic of synthetic biology?",
+    "choices": [
+      "Editing pre-existing genomes",
+      "Creating entirely new metabolic pathways",
+      "Designing biological components for assemblies",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Synthetic biology encompasses various strategies including editing DNA, creating new metabolic processes, and engineering biological systems for novel uses.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the primary function of the rough endoplasmic reticulum?",
+    "choices": [
+      "Lipid synthesis",
+      "Protein synthesis and modification",
+      "Energy production",
+      "DNA replication"
+    ],
+    "correctAnswer": "Protein synthesis and modification",
+    "explanation": "The rough endoplasmic reticulum is studded with ribosomes, which function in the synthesis and modification of proteins.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following processes does NOT involve an electron transport chain?",
+    "choices": [
+      "Photosynthesis",
+      "Cellular respiration",
+      "Fermentation",
+      "Chemiosmosis"
+    ],
+    "correctAnswer": "Fermentation",
+    "explanation": "Fermentation occurs in the absence of oxygen and does not involve an electron transport chain; instead, it relies on substrate-level phosphorylation.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What type of RNA carries the codon from the nucleus to the ribosome?",
+    "choices": [
+      "tRNA",
+      "mRNA",
+      "rRNA",
+      "snRNA"
+    ],
+    "correctAnswer": "mRNA",
+    "explanation": "Messenger RNA (mRNA) carries the genetic information from the DNA in the nucleus to the ribosomes where proteins are synthesized.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which enzyme is primarily responsible for the unwinding of DNA during replication?",
+    "choices": [
+      "Helicase",
+      "Ligase",
+      "Polymerase",
+      "Topoisomerase"
+    ],
+    "correctAnswer": "Helicase",
+    "explanation": "Helicase unwinds the DNA double helix by breaking the hydrogen bonds between nucleotide bases, facilitating replication.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In which phase of cell division does crossing over occur?",
+    "choices": [
+      "Anaphase",
+      "Telophase",
+      "Prophase I of meiosis",
+      "Metaphase II"
+    ],
+    "correctAnswer": "Prophase I of meiosis",
+    "explanation": "Crossing over occurs during prophase I of meiosis, wherein homologous chromosomes exchange genetic material, increasing genetic diversity.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the term for an organism's complete set of DNA, including all of its genes?",
+    "choices": [
+      "Phenome",
+      "Proteome",
+      "Genotype",
+      "Genome"
+    ],
+    "correctAnswer": "Genome",
+    "explanation": "The genome is the complete set of genetic information in an organism, encompassing all its genes and their variations.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following structures is NOT found in prokaryotic cells?",
+    "choices": [
+      "Ribosomes",
+      "Nucleus",
+      "Plasma membrane",
+      "Cell wall"
+    ],
+    "correctAnswer": "Nucleus",
+    "explanation": "Prokaryotic cells lack a true nucleus; their genetic material is located in a nucleoid region without a membrane-bound nucleus.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What mechanism is primarily responsible for the maintenance of the resting membrane potential of a neuron?",
+    "choices": [
+      "Passive diffusion",
+      "Sodium-potassium pump",
+      "Calcium influx",
+      "Chloride transport"
+    ],
+    "correctAnswer": "Sodium-potassium pump",
+    "explanation": "The sodium-potassium pump maintains the resting membrane potential by actively transporting sodium out and potassium into the neuron.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which marine organism is known for its bioluminescence and is often used in research on cellular behavior?",
+    "choices": [
+      "Deep-sea anglerfish",
+      "Firefly",
+      "Hawaiian bobtail squid",
+      "Jellyfish"
+    ],
+    "correctAnswer": "Hawaiian bobtail squid",
+    "explanation": "The Hawaiian bobtail squid forms a symbiotic relationship with bioluminescent bacteria, which helps it with camouflage and is used in various biological studies.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following structures is involved in the synthesis of ribosomal RNA (rRNA)?",
+    "choices": [
+      "A) Nucleolus",
+      "B) Ribosome",
+      "C) Smooth Endoplasmic Reticulum",
+      "D) Golgi Apparatus"
+    ],
+    "correctAnswer": "A) Nucleolus",
+    "explanation": "The nucleolus is the site within the nucleus where rRNA is synthesized and combined with proteins to form ribosome subunits.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In which domain of life are operons predominantly found?",
+    "choices": [
+      "A) Eukarya",
+      "B) Archaea",
+      "C) Bacteria",
+      "D) All domains"
+    ],
+    "correctAnswer": "C) Bacteria",
+    "explanation": "Operons, which are clusters of genes transcribed as a single mRNA, are typically found in prokaryotic organisms, with bacteria being the primary example.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What type of symbiotic relationship do bees and flowering plants exhibit during pollination?",
+    "choices": [
+      "A) Parasitism",
+      "B) Competition",
+      "C) Mutualism",
+      "D) Commensalism"
+    ],
+    "correctAnswer": "C) Mutualism",
+    "explanation": "In this mutualistic relationship, bees obtain nectar and pollen for food, while plants receive help with fertilization as bees transfer pollen from one flower to another.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which enzyme is responsible for unzipping the double helix of DNA during replication?",
+    "choices": [
+      "A) DNA polymerase",
+      "B) helicase",
+      "C) ligase",
+      "D) primase"
+    ],
+    "correctAnswer": "B) helicase",
+    "explanation": "Helicase is the enzyme that unwinds the DNA double helix at the replication fork, separating the two strands to allow replication to occur.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following is the expected end product of aerobic cellular respiration?",
+    "choices": [
+      "A) Ethanol",
+      "B) Lactic Acid",
+      "C) ATP",
+      "D) CO2 and H2O"
+    ],
+    "correctAnswer": "D) CO2 and H2O",
+    "explanation": "During aerobic cellular respiration, glucose is oxidized to produce carbon dioxide and water as well as ATP, which serves as an energy currency in the cell.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What term refers to the phase of the cell cycle where DNA replication occurs?",
+    "choices": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "correctAnswer": "S phase",
+    "explanation": "The S phase, or synthesis phase, is when DNA replication occurs, resulting in two identical sets of chromosomes.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which structure is responsible for the termination of translation in eukaryotes?",
+    "choices": [
+      "A site",
+      "P site",
+      "E site",
+      "Stop codon"
+    ],
+    "correctAnswer": "Stop codon",
+    "explanation": "The stop codon is a nucleotide triplet within mRNA that signals the termination of translation, informing the ribosome that protein synthesis is complete.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What amino acid is encoded by the start codon AUG?",
+    "choices": [
+      "Cysteine",
+      "Methionine",
+      "Leucine",
+      "Serine"
+    ],
+    "correctAnswer": "Methionine",
+    "explanation": "AUG is the universal start codon in the genetic code and codes for the amino acid methionine in eukaryotes.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the primary function of telomeres in eukaryotic chromosomes?",
+    "choices": [
+      "Preventing mutation",
+      "Facilitating RNA splicing",
+      "Enabling protein synthesis",
+      "Protecting chromosome ends"
+    ],
+    "correctAnswer": "Protecting chromosome ends",
+    "explanation": "Telomeres are repetitive DNA sequences at the ends of chromosomes that protect them from degradation and prevent them from fusion with neighboring chromosomes.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In yeast, what is the primary method of genetic recombination during meiosis?",
+    "choices": [
+      "Independent assortment",
+      "Gene conversion",
+      "Crossing over",
+      "Inversion"
+    ],
+    "correctAnswer": "Crossing over",
+    "explanation": "Crossing over is the process during meiosis where homologous chromosomes exchange segments of DNA, contributing to genetic diversity.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the predominant structure that connects the spindle poles in a dividing human cell during mitosis?",
+    "choices": [
+      "Centromere",
+      "Kinetochore",
+      "Aster",
+      "Spindle Fiber"
+    ],
+    "correctAnswer": "Spindle Fiber",
+    "explanation": "Spindle fibers are microtubule structures that emerge from the centrosomes and connect to the chromosomes during mitosis, facilitating their separation.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In thermophilic bacteria, what unique adaptation assists in protein stability under extreme temperatures?",
+    "choices": [
+      "Chaperonins",
+      "Mutated Ribosomes",
+      "Freestanding Introns",
+      "Increased Ionic Bonds"
+    ],
+    "correctAnswer": "Increased Ionic Bonds",
+    "explanation": "Thermophilic bacteria often have increased ionic bonds within their proteins, stabilizing them to resist denaturation at high temperatures.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which specific mechanism allows bacteria such as E. coli to regulate gene expression in response to environmental changes, primarily relating to lactose?",
+    "choices": [
+      "Translocation",
+      "Two-component Systems",
+      "Feedback Inhibition",
+      "Lac Operon"
+    ],
+    "correctAnswer": "Lac Operon",
+    "explanation": "The lac operon is a set of genes responsible for the transport and metabolism of lactose in E. coli, and it is regulated based on lactose and glucose availability in the environment.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In eukaryotic cells, which organelle is primarily responsible for lipid biosynthesis and detoxification of harmful substances?",
+    "choices": [
+      "Ribosome",
+      "Lysosome",
+      "Smooth Endoplasmic Reticulum",
+      "Golgi Apparatus"
+    ],
+    "correctAnswer": "Smooth Endoplasmic Reticulum",
+    "explanation": "The smooth endoplasmic reticulum synthesizes lipids and detoxifies metabolic byproducts.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In plant physiology, what specific process occurs in the chloroplasts and converts light energy into chemical energy?",
+    "choices": [
+      "Photosynthesis",
+      "Aerobic Respiration",
+      "Nitrogen Fixation",
+      "Glycolysis"
+    ],
+    "correctAnswer": "Photosynthesis",
+    "explanation": "Photosynthesis is the process through which chloroplasts in plant cells convert light energy into chemical energy stored in glucose.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What mechanism primarily drives the integration of fMet-tRNA into the ribosome during bacterial protein synthesis?",
+    "choices": [
+      "A) Peptidyl transferase activity",
+      "B) Shine-Dalgarno interaction",
+      "C) Release factor-mediated recognition",
+      "D) GTP hydrolysis"
+    ],
+    "correctAnswer": "B) Shine-Dalgarno interaction",
+    "explanation": "The Shine-Dalgarno sequence is a ribosomal binding site in bacterial mRNA that aligns the mRNA with the ribosome for translation initiation, ensuring proper placement of fMet-tRNA in the P site.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which cellular process is significantly regulated by the interaction of the protein Cyclin D with Cyclin-dependent Kinase 4 (CDK4)?",
+    "choices": [
+      "A) Translation",
+      "B) Glycolysis",
+      "C) Cell Cycle Progression",
+      "D) Apoptosis"
+    ],
+    "correctAnswer": "C) Cell Cycle Progression",
+    "explanation": "Cyclin D associates with CDK4 to regulate progression through the G1 phase of the cell cycle, allowing for transition into the S phase.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What mutation would primarily affect the ability of histone proteins to package DNA effectively into chromatin?",
+    "choices": [
+      "A) Silent mutations in coding regions",
+      "B) Mutations affecting amino acid charge",
+      "C) Nonsense mutations in intergenic regions",
+      "D) Frameshift mutations near the telomeres"
+    ],
+    "correctAnswer": "B) Mutations affecting amino acid charge",
+    "explanation": "Histone proteins have a high content of positively charged amino acids which allow for interaction with negatively charged DNA; mutations that alter charge can disrupt DNA packaging.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In plants, what physiological response occurs primarily via the activation of abscisic acid during water stress?",
+    "choices": [
+      "A) Stomatal opening",
+      "B) Branching enhancement",
+      "C) Stomatal closure",
+      "D) Enhancing root growth"
+    ],
+    "correctAnswer": "C) Stomatal closure",
+    "explanation": "Abscisic acid is a plant hormone that signaling leads to the closing of stomata to reduce water loss during drought conditions.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following proteins is crucial for splitting the centromeres during anaphase of mitosis?",
+    "choices": [
+      "A) Tubulin",
+      "B) Kinetochores",
+      "C) Cohesins",
+      "D) Actin filaments"
+    ],
+    "correctAnswer": "C) Cohesins",
+    "explanation": "Cohesins maintain sister chromatid cohesion at sitios until anaphase starts; they are cleaved to allow for the segregation at the centromeres.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following structures is responsible for regulating the passage of glucose into liver cells?",
+    "choices": [
+      "Insulin receptors",
+      "GLUT2 transporters",
+      "Pyruvate dehydrogenase complex",
+      "AMP-activated protein kinase"
+    ],
+    "correctAnswer": "GLUT2 transporters",
+    "explanation": "GLUT2 transporters facilitate the passive transport of glucose into liver cells when blood glucose levels are high, allowing for the regulation of glucose homeostasis in the body.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the primary genetic component that adds complexity to sex determination in some reptiles and fish?",
+    "choices": [
+      "Lamins",
+      "Hox genes",
+      "Environmental factors",
+      "Intron retention"
+    ],
+    "correctAnswer": "Environmental factors",
+    "explanation": "In certain reptiles and fish, the environmental factors such as temperature can determine the sex of the individuals, adding complexity to the typical chromosomal sex determination.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In the context of molecular biology, what does 'RNA editing' refer to?",
+    "choices": [
+      "Synthesis of supplementary DNA strands",
+      "Rearrangement of nucleotides in mRNA sequences after transcription",
+      "Change of amino acids during protein synthesis",
+      "Randomly mutating nucleotide sequences"
+    ],
+    "correctAnswer": "Rearrangement of nucleotides in mRNA sequences after transcription",
+    "explanation": "RNA editing is a post-transcriptional process where specific nucleotide sequences in pre-mRNA are chemically altered, resulting in an mRNA molecule that may code for different protein variants.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In regards to phylogenetics, what is the 'root' of a phylogenetic tree?",
+    "choices": [
+      "The most common ancestor of all taxa",
+      "The lineage with the most descendants",
+      "The species with the most available genetic records",
+      "The extinct species known only through fossils"
+    ],
+    "correctAnswer": "The most common ancestor of all taxa",
+    "explanation": "The 'root' of a phylogenetic tree represents the most recent common ancestor of all taxa depicted in that tree, forming the origin point from which the different lineages diverge.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In the context of cell signaling, which type of receptor initiates a response via a second messenger system?",
+    "choices": [
+      "Intracellular receptors",
+      "Ligand-gated ion channels",
+      "G-protein coupled receptors (GPCRs)",
+      "Enzyme-linked receptors"
+    ],
+    "correctAnswer": "G-protein coupled receptors (GPCRs)",
+    "explanation": "G-protein coupled receptors (GPCRs) initiate intracellular signaling cascades through the activation of G-proteins which then influence the production of second messengers like cyclic AMP or inositol triphosphate.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which structure is primarily responsible for modifying, sorting, and packaging proteins in eukaryotic cells?",
+    "choices": [
+      "A) Ribosomes",
+      "B) Endoplasmic Reticulum",
+      "C) Golgi Apparatus",
+      "D) Lysosomes"
+    ],
+    "correctAnswer": "C) Golgi Apparatus",
+    "explanation": "The Golgi apparatus receives proteins from the endoplasmic reticulum and is involved in the final processing, modifications, and sorting of proteins before they are dispatched to their final destinations.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which phase of the cell cycle is characterized by active protein synthesis and organelle duplication?",
+    "choices": [
+      "A) G1 Phase",
+      "B) S Phase",
+      "C) G2 Phase",
+      "D) M Phase"
+    ],
+    "correctAnswer": "A) G1 Phase",
+    "explanation": "During the G1 phase (Gap 1 phase), the cell grows, synthesizing mRNA and proteins necessary for DNA replication. It's followed by the S phase, where DNA synthesis occurs.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In photosynthesis, which of the following reactions occurs in the thylakoid membranes?",
+    "choices": [
+      "A) Calvin Cycle",
+      "B) Light-Dependent Reactions",
+      "C) Electron Transport Chain",
+      "D) Light-Independent Reactions"
+    ],
+    "correctAnswer": "B) Light-Dependent Reactions",
+    "explanation": "The light-dependent reactions of photosynthesis take place in the thylakoid membranes of chloroplasts, converting light energy into chemical energy (ATP and NADPH).",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What segment of the DNA molecule typically contains the information necessary for the hypothesized evolutionary adaptations called Hox genes?",
+    "choices": [
+      "A) Extons",
+      "B) Introns",
+      "C) Regulatory sequences",
+      "D) Nonsense mutations"
+    ],
+    "correctAnswer": "C) Regulatory sequences",
+    "explanation": "Hox genes control the pattern of body formation during embryonic development and are regulated by specific regulatory sequences that can affect their expression across various organismal forms.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which type of bond is primarily responsible for the secondary structure of proteins?",
+    "choices": [
+      "A) Ionic bonds",
+      "B) Hydrogen bonds",
+      "C) Disulfide bridges",
+      "D) Peptide bonds"
+    ],
+    "correctAnswer": "B) Hydrogen bonds",
+    "explanation": "Hydrogen bonds between the backbone of the polypeptide fibers lead to the coils and folds that characterize the secondary structure of proteins, specifically alpha-helices and beta-sheets.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the context of biochemistry, what is the significance of the Km value in enzyme kinetics?",
+    "choices": [
+      "A) It represents enzyme concentration.",
+      "B) It indicates the enzyme's optimal pH.",
+      "C) It identifies the affinity of the enzyme for the substrate.",
+      "D) It demonstrates the total enzymatic activity."
+    ],
+    "correctAnswer": "C) It identifies the affinity of the enzyme for the substrate.",
+    "explanation": "The Km value is the substrate concentration at which an enzyme reaches half its maximum reaction rate (Vmax). A low Km denotes high affinity between enzyme and substrate.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the function of the protein recA in bacteria?",
+    "choices": [
+      "A. it recycles ATP",
+      "B. it facilitates DNA repair and recombination",
+      "C. it functions as a ribosomal protein",
+      "D. it initiates transcription"
+    ],
+    "correctAnswer": "B. it facilitates DNA repair and recombination",
+    "explanation": "recA is crucial in bacterial cells for DNA repair and its ability to promote homologous recombination, enabling the exchange of genetic information.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the human body, which Ion typically serves as a secondary messenger in signal transduction pathways?",
+    "choices": [
+      "A. Potassium",
+      "B. Calcium",
+      "C. Sodium",
+      "D. Magnesium"
+    ],
+    "correctAnswer": "B. Calcium",
+    "explanation": "Calcium ions play a significant role as secondary messengers, allowing cells to respond to various extracellular signals.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What protein complex in eukaryotic cells is responsible for translating mRNA into protein?",
+    "choices": [
+      "A. The aminoacyl-tRNA synthetase complex",
+      "B. The ribosomal complex",
+      "C. The spliceosome",
+      "D. The transcription factor complex"
+    ],
+    "correctAnswer": "B. The ribosomal complex",
+    "explanation": "Ribosomes are the molecular machinery in eukaryotic cells that translate mRNA sequences into polypeptide chains (proteins).",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Endocytosis involves the invagination of the plasma membrane to incorporate which type of environmental substance?",
+    "choices": [
+      "A. Waste materials",
+      "B. Water molecules",
+      "C. Nutrients or pathogens",
+      "D. Carbon dioxide"
+    ],
+    "correctAnswer": "C. Nutrients or pathogens",
+    "explanation": "Endocytosis is a cellular process in which substances such as nutrients or pathogens are engulfed by cells via the inward folding of the plasma membrane.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following techniques is primarily used for protein quantification in a sample?",
+    "choices": [
+      "A. Western blotting",
+      "B. PCR",
+      "C. ELISA",
+      "D. Gel electrophoresis"
+    ],
+    "correctAnswer": "C. ELISA",
+    "explanation": "The Enzyme-Linked Immunosorbent Assay (ELISA) is used for the specific quantitative measurement of proteins through antigen-antibody interactions.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the function of the Calvin cycle?",
+    "choices": [
+      "Photosynthesis",
+      "Cellular respiration",
+      "Nucleotide synthesis",
+      "Protein folding"
+    ],
+    "correctAnswer": "Photosynthesis",
+    "explanation": "The Calvin cycle, also known as the light-independent reactions, is a crucial part of photosynthesis. It occurs in the stroma of chloroplasts where carbon dioxide is fixed into glucose.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In which stage of meiosis do homologous chromosomes fully recombine?",
+    "choices": [
+      "Anaphase I",
+      "Prophase I",
+      "Metaphase II",
+      "Telophase II"
+    ],
+    "correctAnswer": "Prophase I",
+    "explanation": "During Prophase I of meiosis, homologous chromosomes undergo recombination or crossing over, which is essential for genetic diversity.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which enzyme is crucial for synthesizing mRNA from a DNA template during transcription?",
+    "choices": [
+      "DNA polymerase",
+      "Ribonuclease",
+      "RNA polymerase",
+      "Ligase"
+    ],
+    "correctAnswer": "RNA polymerase",
+    "explanation": "RNA polymerase is the enzyme responsible for synthesizing messenger RNA (mRNA) from a DNA template, catalyzing the assembly of ribonucleic acids.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which structure in plant cells is primarily responsible for maintaining turgor pressure?",
+    "choices": [
+      "Chloroplast",
+      "Mitochondria",
+      "Vacuole",
+      "Nucleus"
+    ],
+    "correctAnswer": "Vacuole",
+    "explanation": "The central vacuole in plant cells maintains turgor pressure by storing water and other substances, thereby providing structural support.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What class of genes is referred to as oncogenes?",
+    "choices": [
+      "Genes involved in wound healing",
+      "Genes that are inherited but non-functional",
+      "Genes that control cell growth and division",
+      "Genes responsible for color vision"
+    ],
+    "correctAnswer": "Genes that control cell growth and division",
+    "explanation": "Oncogenes are mutated forms of normal genes that lead to uncontrolled cell proliferation and contribute to cancer development by promoting cell division.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which organelle is primarily responsible for the modulation of calcium ion concentrations within cells?",
+    "choices": [
+      "A. Endoplasmic Reticulum",
+      "B. Mitochondria",
+      "C. Golgi Apparatus",
+      "D. Lysosome"
+    ],
+    "correctAnswer": "A. Endoplasmic Reticulum",
+    "explanation": "The endoplasmic reticulum, particularly the smooth endoplasmic reticulum, plays a key role in the storage and release of calcium ions, which are vital for various cellular functions.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In prokaryotic cells, which process allows for genetic material exchange between cells?",
+    "choices": [
+      "A. Mitosis",
+      "B. Conjugation",
+      "C. Meiosis",
+      "D. Transcription"
+    ],
+    "correctAnswer": "B. Conjugation",
+    "explanation": "Conjugation is a process by which one bacterium transfers genetic material to another through direct contact, resulting in genetic diversity in prokaryotic populations.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What specific contrast technique can selectively highlight neurom\u7684\u65b9\u6cd5\u5165\u53e32 cells while minimizing background signal from other entities in fluorescence microscopy?",
+    "choices": [
+      "A. Natural auto-fluorescence",
+      "B. Immunofluorescence",
+      "C. Phase-contrast microscopy",
+      "D. Dark-field microscopy"
+    ],
+    "correctAnswer": "B. Immunofluorescence",
+    "explanation": "Immunofluorescence uses antibodies tagged with fluorophores to selectively illuminate specific proteins and cell components, providing clearer identification of neuromuscular connections.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which class of biomolecules directly plays a role in catalyzing biochemical reactions as enzymes?",
+    "choices": [
+      "A. Lipids",
+      "B. Nucleic acids",
+      "C. Carbohydrates",
+      "D. Proteins"
+    ],
+    "correctAnswer": "D. Proteins",
+    "explanation": "Enzymes are specialized proteins that serve as catalysts in biochemical reactions, significantly increasing the rate of reaction without being consumed in the process.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the term for the phenomenon where organisms evolve to resemble another species' advantageous traits, providing increased survival benefits?",
+    "choices": [
+      "A. M\u00fcllerian Mimicry",
+      "B. Batesian Mimicry",
+      "C. Coevolution",
+      "D. Genetic Drift"
+    ],
+    "correctAnswer": "B. Batesian Mimicry",
+    "explanation": "In Batesian mimicry, a harmless species evolves to resemble a harmful or unpalatable species to ward off predators and enhance its own survival prospects.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which mechanism is primarily responsible for genomic imprinting in mammals?",
+    "choices": [
+      "A) Binding of regulatory RNAs to promoter regions",
+      "B) Methylation of cytosine bases in DNA",
+      "C) Phosphorylation of histone proteins",
+      "D) Chromatin remodeling via histone variants"
+    ],
+    "correctAnswer": "B) Methylation of cytosine bases in DNA",
+    "explanation": "Genomic imprinting in mammals is mainly regulated by differential methylation of DNA, where some alleles are marked with methyl groups that silence their expression based on parental origin.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following enzymes is implicated in the removal of introns from pre-mRNA during RNA splicing?",
+    "choices": [
+      "A) Topoisomerase",
+      "B) Exonuclease",
+      "C) Spliceosome",
+      "D) RNA polymerase II"
+    ],
+    "correctAnswer": "C) Spliceosome",
+    "explanation": "The spliceosome is a complex of small nuclear RNAs and proteins that bind to pre-mRNA and catalyze the removal of introns, the non-coding sequences, during the mRNA splicing process.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What role does the protein p53 play in preventing cancer? ",
+    "choices": [
+      "A) It promotes cell division by phosphorylating DNA polymerase",
+      "B) It triggers apoptosis in damaged cells",
+      "C) It directly repairs mutant DNA",
+      "D) It enhances angiogenesis in tumors"
+    ],
+    "correctAnswer": "B) It triggers apoptosis in damaged cells",
+    "explanation": "The protein p53 acts as a tumor suppressor by facilitating apoptosis in cells that are deemed to be damaged or irreparably mutated, thereby preventing the propagation of cancerous cells.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In mitochondrial DNA, how is inheritance primarily characterized?",
+    "choices": [
+      "A) Mendelian segregation from both parents",
+      "B) Maternal inheritance exclusively",
+      "C) Paternal mitochondrial contribution is predominant",
+      "D) Random segregation during meiosis"
+    ],
+    "correctAnswer": "B) Maternal inheritance exclusively",
+    "explanation": "Mitochondrial DNA is exclusively inherited from the mother, as the mitochondria from the sperm are usually lost during fertilization and therefore do not contribute to the offspring's mitochondrial genome.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following phenomena is most directly related to the endosymbiotic theory?",
+    "choices": [
+      "A) Convergent evolution of chloroplasts and anabaena",
+      "B) Eukaryotic cell organelles evolving from symbiotic prokaryotes",
+      "C) Genetic drift in bacteriophage populations",
+      "D) Polyploidy in plant evolution"
+    ],
+    "correctAnswer": "B) Eukaryotic cell organelles evolving from symbiotic prokaryotes",
+    "explanation": "The endosymbiotic theory posits that some eukaryotic organelles, specifically mitochondria and chloroplasts, originated from free-living prokaryotes that were engulfed by ancestral eukaryotic cells.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary purpose of the structure known as the rough endoplasmic reticulum?",
+    "choices": [
+      "Lipid synthesis",
+      "Protein synthesis and processing",
+      "photosynthesis",
+      "Amino acid catabolism"
+    ],
+    "correctAnswer": "Protein synthesis and processing",
+    "explanation": "The rough endoplasmic reticulum is studded with ribosomes, which are the sites of protein synthesis. It is responsible for producing and processing proteins that are either secreted from the cell or incorporated into membranes.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following structures is involved in the attachment of chromosomes during cell division?",
+    "choices": [
+      "Centrioles",
+      "Spindle fibers",
+      "Plasma membrane",
+      "Golgi apparatus"
+    ],
+    "correctAnswer": "Spindle fibers",
+    "explanation": "Spindle fibers are formed from microtubules and are essential for the separation of sister chromatids during mitosis and meiosis by attaching to the kinetochores of chromosomes.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "The process that occurs wherein bacteria can take up genetic material from their environment is known as?",
+    "choices": [
+      "Transduction",
+      "Conjugation",
+      "Transformation",
+      "Alignment"
+    ],
+    "correctAnswer": "Transformation",
+    "explanation": "Transformation is the process by which bacteria take up free-floating DNA from their environment and incorporate it into their own genomes, contributing to genetic diversity and horizontal gene transfer.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which organelle is responsible for the modification, sorting, and packaging of proteins for secretion?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Endoplasmic reticulum",
+      "Golgi apparatus"
+    ],
+    "correctAnswer": "Golgi apparatus",
+    "explanation": "The Golgi apparatus processes proteins made in the rough endoplasmic reticulum, modifying them and preparing them for secretion or use within the cell.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the context of evolutionary biology, which term describes the phenomenon where two different species develop similar traits independently in response to similar environmental pressures?",
+    "choices": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Adaptive radiation"
+    ],
+    "correctAnswer": "Convergent evolution",
+    "explanation": "Convergent evolution occurs when different species independently evolve similar traits as a result of having to adapt to similar environments or ecological niches, despite not having a recent common ancestor.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the function of the enzyme telomerase in eukaryotic cells?",
+    "choices": [
+      "A) Catalyzes the hydrolysis of ATP",
+      "B) Synthesizes RNA from a DNA template",
+      "C) Maintains the length of telomeres in chromosomes",
+      "D) Repairs DNA double-strand breaks"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Telomerase adds repetitive nucleotide sequences to the ends of chromosomes, thus maintaining telomere length and promoting cellular lifespan.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which gene is known as the 'master regulator' of the skeletal muscle development in vertebrates?",
+    "choices": [
+      "A) MyoD",
+      "B) Pax3",
+      "C) MYF5",
+      "D) MEF2"
+    ],
+    "correctAnswer": "A",
+    "explanation": "MyoD is a key transcription factor that drives the development of skeletal muscle by promoting myogenic differentiation.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary mechanism by which protons move across the thylakoid membrane in chloroplasts during photosynthesis?",
+    "choices": [
+      "A) Simple diffusion",
+      "B) Proton pumps",
+      "C) ATP hydrolysis",
+      "D) facilitated diffusion"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Protons are actively transported across the thylakoid membrane by the action of ATP synthase and multiple proton pumps, establishing a proton gradient.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In human cells, what does the role of the p53 protein primarily involve?",
+    "choices": [
+      "A) Promoting cell cycle progression",
+      "B) DNA repair and apoptosis",
+      "C) Enhancing metabolic efficiency",
+      "D) Synthesis of ribosomal RNA"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The p53 protein is crucial for regulating the cell cycle, maintaining genomic stability, and can trigger apoptosis if DNA damage is irreparable.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which biological process describes the transformation of one type of cell into another, often seen in embryonic differentiation?",
+    "choices": [
+      "A) Transdifferentiation",
+      "B) Metaplasia",
+      "C) Homologous recombination",
+      "D) Apoptosis"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Transdifferentiation refers to the direct conversion of one cell type into another without passing through a pluripotent state.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following is a metabolic byproduct associated with fish communication in the context of chemical signaling?",
+    "choices": [
+      "Dopamine",
+      "Urea",
+      "Neurotransmitters",
+      "Pheromones"
+    ],
+    "correctAnswer": "Pheromones",
+    "explanation": "Pheromones are chemical cues that can affect the behavior or physiology of individuals of the same species, and many fish use them for communication.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary function of the Golgi apparatus in a biological cell?",
+    "choices": [
+      "Lipid synthesis",
+      "Protein folding and modification",
+      "ATP production",
+      "DNA replication"
+    ],
+    "correctAnswer": "Protein folding and modification",
+    "explanation": "The Golgi apparatus is responsible for processing, packaging, and modifying proteins synthesized in the endoplasmic reticulum before they are sent to their destinations.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which enzyme is responsible for unwinding the DNA helix during replication?",
+    "choices": [
+      "DNA polymerase",
+      "Ligase",
+      "Helicase",
+      "Topoisomerase"
+    ],
+    "correctAnswer": "Helicase",
+    "explanation": "Helicase is the enzyme that unwinds the DNA double helix, allowing for replication to proceed by exposing the strands for copying.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In the context of ecological niche, what does the term 'fundamental niche' refer to?",
+    "choices": [
+      "The role of species considering both biotic and abiotic factors",
+      "The actual role a species plays in its ecosystem",
+      "The maximum range of environmental conditions a species can tolerate",
+      "Resources and habitats that a species could theoretically exploit"
+    ],
+    "correctAnswer": "Resources and habitats that a species could theoretically exploit",
+    "explanation": "A fundamental niche includes all potential environments where a species could survive and reproduce without interactions with other species.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which process in cellular respiration occurs on the inner mitochondrial membrane and involves electron transport chains?",
+    "choices": [
+      "Glycolysis",
+      "Krebs cycle",
+      "Chemiosmosis",
+      "Oxidative phosphorylation"
+    ],
+    "correctAnswer": "Oxidative phosphorylation",
+    "explanation": "Oxidative phosphorylation is the final step in cellular respiration, utilizing an electron transport chain and chemiosmosis to produce ATP.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In plant biology, what is the term for the liquid-filled organelle that contains enzymes for digestion?",
+    "choices": [
+      "Chloroplast",
+      "Vesicle",
+      "Lysosome",
+      "Central vacuole"
+    ],
+    "correctAnswer": "Central vacuole",
+    "explanation": "The central vacuole in plant cells can store nutrients and waste products, and contains enzymes used for digestion.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following ionic concentrations predominantly influences the resting membrane potential in neurons?",
+    "choices": [
+      "Sodium (Na+)",
+      "Potassium (K+)",
+      "Chloride (Cl-)",
+      "Calcium (Ca+2)"
+    ],
+    "correctAnswer": "Potassium (K+)",
+    "explanation": "The resting membrane potential of neurons is primarily influenced by the high permeability of the membrane to potassium ions compared to sodium ions and other electrolytes, optimizing the electrochemical gradient.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What structure is known as the 'control center' of prokaryotic cells due to lack of membrane-bound organelles?",
+    "choices": [
+      "Plasma Membrane",
+      "Nucleoid",
+      "Ribosome",
+      "Cytoplasm"
+    ],
+    "correctAnswer": "Nucleoid",
+    "explanation": "In prokaryotic cells, the nucleoid region contains the genetic material (DNA) but is not bounded by a membrane, functioning as the 'control center' for cellular activities.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following is NOT a primary macromolecule involved in living organisms?",
+    "choices": [
+      "Carbohydrates",
+      "Lipids",
+      "Nucleic Acids",
+      "Hydrogen Peroxide"
+    ],
+    "correctAnswer": "Hydrogen Peroxide",
+    "explanation": "Hydrogen peroxide is a reactive oxidative species and not a primary macromolecule, whereas carbohydrates, lipids, and nucleic acids are essential classes of macromolecules in biology.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What term describes the molecular interplay of proteins within a metabolic pathway leading to equilibrium in cellular activity?",
+    "choices": [
+      "Flux Balance Analysis",
+      "Homeostasis",
+      "Dynamic Equilibrium",
+      "Signal Transduction"
+    ],
+    "correctAnswer": "Flux Balance Analysis",
+    "explanation": "Flux Balance Analysis is a mathematical framework used in systems biology to model and analyze metabolic networks while achieving dynamic equilibrium in cellular activities.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which component of the respiratory system is primarily responsible for gas exchange at the alveolar level?",
+    "choices": [
+      "Bronchi",
+      "Diaphragm",
+      "Type I Alveolar Cells",
+      "Bronchioles"
+    ],
+    "correctAnswer": "Type I Alveolar Cells",
+    "explanation": "Type I alveolar cells are crucial for the gas exchange process in the alveoli due to their thin structure, allowing for efficient transfer of oxygen and carbon dioxide.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary function of the anti-HIV drug Tenofovir inside cells?",
+    "choices": [
+      "Inhibits reverse transcriptase",
+      "Inhibits integration",
+      "Acts as a protease inhibitor",
+      "Inhibits viral assembly"
+    ],
+    "correctAnswer": "Inhibits reverse transcriptase",
+    "explanation": "Tenofovir is a nucleotide reverse transcriptase inhibitor, meaning its primary function is to interfere with the reverse transcription process of HIV, impeding viral replication.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which protein in the human body is primarily responsible for the fixation of atmospheric nitrogen into organic compounds?",
+    "choices": [
+      "Nitrogenase",
+      "Hemoglobin",
+      "Bacteriophage",
+      "Endonuclease"
+    ],
+    "correctAnswer": "Nitrogenase",
+    "explanation": "Nitrogenase is the enzyme complex responsible for reducing atmospheric nitrogen (N2) to ammonia (NH3) in nitrogen-fixing microorganisms, which is crucial in certain contexts like symbiosis in plants.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary role of the Magnus effect within the context of botany?",
+    "choices": [
+      "Influences seed dispersal mechanisms",
+      "Assists in root development",
+      "Increases photosynthetic efficiency",
+      "Regulates plant hormonal balance"
+    ],
+    "correctAnswer": "Influences seed dispersal mechanisms",
+    "explanation": "The Magnus effect describes the phenomena where rotation affects the path of a projectile and is key to understanding how certain seeds, like those of dandelions, utilize oscillation and wind to enhance dispersal.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which mechanism exemplifies the anticipatory load mechanics in muscle contraction?",
+    "choices": [
+      "Inverse dynamics",
+      "Fiber elastic properties",
+      "Lengthening contractions",
+      "Eccentric contractions"
+    ],
+    "correctAnswer": "Eccentric contractions",
+    "explanation": "Eccentric contractions provide insights into anticipatory load as they involve muscle lengthening under tension, highlighting muscle mechanics beyond isometric and concentric behaviors in response to external load changes.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "In early embryonic development, which signaling pathway is critical for the establishment of body axes in Deuterostomes?",
+    "choices": [
+      "Epidermal Growth Factor Pathway",
+      "Wnt Pathway",
+      "Transforming Growth Factor-beta Pathway",
+      "Hedgehog Pathway"
+    ],
+    "correctAnswer": "Wnt Pathway",
+    "explanation": "The Wnt signaling pathway plays a crucial role during early development, particularly in dorsal-ventral patterning and axis specification, which is essential in Deuterostome development.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the basic economic problem that all societies face?",
+    "choices": [
+      "Scarcity of resources",
+      "Inflation of currency",
+      "Unemployment",
+      "Globalization"
+    ],
+    "correctAnswer": "Scarcity of resources",
+    "explanation": "The basic economic problem that all societies face is scarcity, which occurs because resources are limited while human wants are unlimited.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does CPI stand for in economic terms?",
+    "choices": [
+      "Consumer Product Index",
+      "Cost of Purchasing Income",
+      "Consumer Price Index",
+      "Core Price Inflation"
+    ],
+    "correctAnswer": "Consumer Price Index",
+    "explanation": "CPI stands for Consumer Price Index, an index that measures the average change over time in the prices paid by consumers for goods and services.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In the context of economics, what is 'opportunity cost'?",
+    "choices": [
+      "The loss of potential gain from other alternatives when one alternative is chosen",
+      "The expenses incurred to mitigate risk",
+      "The cost involved in producing one extra unit of a product",
+      "The total cost of production divided by output levels"
+    ],
+    "correctAnswer": "The loss of potential gain from other alternatives when one alternative is chosen",
+    "explanation": "Opportunity cost refers to the value of the next best alternative that is forfeited when a decision is made to pursue a certain action.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which economic theory suggests that market efficiency increases when markets are competitive?",
+    "choices": [
+      "Keynesian Economics",
+      "Neoclassical Economics",
+      "Marginal Utility Theory",
+      "Monetarism"
+    ],
+    "correctAnswer": "Neoclassical Economics",
+    "explanation": "Neoclassical Economics posits that consumers and firms operate to maximize utility and profit, respectively, leading to resource allocation efficiency in competitive markets.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the 'invisible hand' concept as proposed by Adam Smith?",
+    "choices": [
+      "The result of untraceable manipulations in market economies",
+      "The self-regulating nature of the marketplace",
+      "The hidden interests of government policies",
+      "Psycho-social influences on consumer behavior"
+    ],
+    "correctAnswer": "The self-regulating nature of the marketplace",
+    "explanation": "The 'invisible hand' refers to the unintended social benefits resulting from individual actions in a free market, advancing the economic interests of society as a whole.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary tool used by central banks to control inflation?",
+    "choices": [
+      "Fiscal policy",
+      "Monetary policy",
+      "Tariff rates",
+      "Subsidy programs"
+    ],
+    "correctAnswer": "Monetary policy",
+    "explanation": "Central banks primarily use monetary policy, which involves managing interest rates and money supply, to control inflation.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which concept describes the decrease in economic output during a recession?",
+    "choices": [
+      "Recessionary gap",
+      "Trade balance",
+      "Inflationary spiral",
+      "Stagflation"
+    ],
+    "correctAnswer": "Recessionary gap",
+    "explanation": "A recessionary gap refers to the difference between potential gross domestic product (GDP) and actual GDP during a recession.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does the term 'opportunity cost' mean?",
+    "choices": [
+      "The cost incurred on business operations",
+      "The profit made from investments",
+      "The loss of potential gain from other alternatives when one alternative is chosen",
+      "The tax applied on income exceeding a certain limit"
+    ],
+    "correctAnswer": "The loss of potential gain from other alternatives when one alternative is chosen",
+    "explanation": "Opportunity cost is the concept in economics that defines what you miss out on when choosing one option over another.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following is considered a characteristic of a perfectly competitive market?",
+    "choices": [
+      "Barriers to entry",
+      "Same product from all firms",
+      "Non-price competition",
+      "Price-makers"
+    ],
+    "correctAnswer": "Same product from all firms",
+    "explanation": "In a perfectly competitive market, all firms offer a homogeneous product, meaning there is no differentiation.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Under what condition would a good be considered a 'public good'?",
+    "choices": [
+      "When it can be easily sold and individually consumed",
+      "When it is non-excludable and non-rivalrous",
+      "When it generates personal profit",
+      "When market failure occurs"
+    ],
+    "correctAnswer": "When it is non-excludable and non-rivalrous",
+    "explanation": "Public goods are characterized by being non-excludable and non-rivalrous, meaning they are available for everyone and one person's use does not diminish another's.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What economic principle describes a situation where increasing the inputs will eventually lead to a diminishing increase in outputs?",
+    "choices": [
+      "A) Law of Supply",
+      "B) Law of Diminishing Returns",
+      "C) Absolute Advantage",
+      "D) Opportunity Cost"
+    ],
+    "correctAnswer": "B) Law of Diminishing Returns",
+    "explanation": "The Law of Diminishing Returns states that if one factor of production is increased while other factors remain constant, the overall increase in output will eventually slow down and decline.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following terms refers to the burden placed on society by the allocation of scarce resources among competing uses?",
+    "choices": [
+      "A) Marginal Cost",
+      "B) Externalities",
+      "C) Societal Trade-off",
+      "D) Economic Inefficiency"
+    ],
+    "correctAnswer": "C) Societal Trade-off",
+    "explanation": "A societal trade-off occurs when society must prioritize certain uses of resources over others, leading to opportunity costs in fulfilling alternative needs.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which model describes the economy determined by private companies competing in the market, seeking to increase profits?",
+    "choices": [
+      "A) Socialism",
+      "B) Command Economy",
+      "C) Capitalism",
+      "D) Communism"
+    ],
+    "correctAnswer": "C) Capitalism",
+    "explanation": "Capitalism is an economic system where private individuals own the means of production and operate for profit within a system of consists competition.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "A government restricts foreign imports to protect domestic industries. What is this policy called?",
+    "choices": [
+      "A) Quota",
+      "B) Tariff",
+      "C) Subsidy",
+      "D) Protectionism"
+    ],
+    "correctAnswer": "D) Protectionism",
+    "explanation": "Protectionism is an economic policy of restricting trade between countries to protect domestic industries from foreign competition.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following concepts is used to describe the overall fluctuations in economic activity over time?",
+    "choices": [
+      "A) Supply Chain",
+      "B) Business Cycle",
+      "C) Economic Equilibrium",
+      "D) Inflation Rate"
+    ],
+    "correctAnswer": "B) Business Cycle",
+    "explanation": "The business cycle refers to the economy's fluctuations between periods of economic growth and contraction.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What term describes the economic principle where higher prices lead to lower demand?",
+    "choices": [
+      "Demand elasticity",
+      "Law of demand",
+      "Supply responsiveness",
+      "Market equilibrium"
+    ],
+    "correctAnswer": "Law of demand",
+    "explanation": "The law of demand states that, all else being equal, as the price of a good or service increases, consumer demand for that good or service falls.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of a market economy?",
+    "choices": [
+      "Private property rights",
+      "Central planning by the government",
+      "Competition among producers",
+      "Consumer choice"
+    ],
+    "correctAnswer": "Central planning by the government",
+    "explanation": "A market economy is primarily characterized by private ownership, competition, and consumer choice, without comprehensive central planning.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which economic theory focuses on the role of government in managing the economy through fiscal and monetary policies?",
+    "choices": [
+      "Classical economics",
+      "Supply-side economics",
+      "Keynesian economics",
+      "Austrian economics"
+    ],
+    "correctAnswer": "Keynesian economics",
+    "explanation": "Keynesian economics suggests that aggregate demand is influenced by public and private spending and emphasizes the role of government intervention in stabilizing the economy.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the GDP deflator used to measure?",
+    "choices": [
+      "The unemployment rate",
+      "The inflation rate adjusted for changes in consumption",
+      "Real GDP versus nominal GDP",
+      "The balance of trade"
+    ],
+    "correctAnswer": "Real GDP versus nominal GDP",
+    "explanation": "The GDP deflator is a measure of the level of prices of all new, domestically produced, final goods and services in an economy. It serves to convert nominal GDP into real GDP.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following is an assumption of the classical economic theory?",
+    "choices": [
+      "Markets are always in equilibrium",
+      "Government intervention is necessary to correct market failures",
+      "Monetary policy is more effective than fiscal policy",
+      "Consumers have bounded rationality"
+    ],
+    "correctAnswer": "Markets are always in equilibrium",
+    "explanation": "Classical economics assumes that markets function effectively and are always clearing, resulting in supply meeting demand at equilibrium.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the main focus of Keynesian economics?",
+    "choices": [
+      "Long-term growth through supply-side policies",
+      "The study of how changes in interest rates affect investment",
+      "The importance of government intervention in the economy to manage demand",
+      "Maximizing consumer surplus through free markets"
+    ],
+    "correctAnswer": "The importance of government intervention in the economy to manage demand",
+    "explanation": "Keynesian economics emphasizes that governments should increase spending and decrease taxes to stimulate demand during economic downturns.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following is considered a public good?",
+    "choices": [
+      "National defense",
+      "Private education",
+      "Traffic lights",
+      "Cell phone service"
+    ],
+    "correctAnswer": "National defense",
+    "explanation": "Public goods are characterized by being non-excludable and non-rivalrous, making national defense a key example as it is provided to all citizens regardless of payment.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does the term 'hyperinflation' refer to?",
+    "choices": [
+      "Inflation rates exceeding 100% for one year",
+      "Sustained inflation around 2% annually",
+      "The devaluation of a currency due to stock market losses",
+      "Rapid increase in prices that leads to total loss of confidence in the currency"
+    ],
+    "correctAnswer": "Rapid increase in prices that leads to total loss of confidence in the currency",
+    "explanation": "Hyperinflation occurs when prices rise uncontrollably in an economy, usually due to a significant drop in currency value that makes the price of goods and services soar.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the 'invisible hand' concept attributed to Adam Smith?",
+    "choices": [
+      "A natural market mechanism that leads to resource allocation through competition",
+      "Government regulation necessary for market success",
+      "Essentially the control of prices through an oligopoly",
+      "A hand that helps entrepreneurs in dire need"
+    ],
+    "correctAnswer": "A natural market mechanism that leads to resource allocation through competition",
+    "explanation": "Adam Smith introduced the idea that individuals seeking personal gain indirectly benefit society through the distribution of resources, as if led by an invisible hand.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which economic theory promotes the idea that government spending can help reduce unemployment?",
+    "choices": [
+      "Monetarism",
+      "Supply-side economics",
+      "Perfect competition",
+      "Keynesian economics"
+    ],
+    "correctAnswer": "Keynesian economics",
+    "explanation": "Keynesian economics argues that during periods of economic downturn, government spending becomes essential to stimulate demand and reduce unemployment.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary purpose of a central bank in an economy?",
+    "choices": [
+      "To regulate the stock market",
+      "To control inflation and manage the currency",
+      "To operate government agencies",
+      "To provide loans to individuals"
+    ],
+    "correctAnswer": "To control inflation and manage the currency",
+    "explanation": "Central banks are responsible for implementing monetary policy, controlling inflation, stabilizing the currency, and providing oversight to the banking system.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following occurs during a recession?",
+    "choices": [
+      "Increase in consumer spending",
+      "Fall in unemployment rates",
+      "Decrease in Gross Domestic Product (GDP)",
+      "Rise in business investments"
+    ],
+    "correctAnswer": "Decrease in Gross Domestic Product (GDP)",
+    "explanation": "During a recession, economic activity slows down leading to reduced consumer and business spending, which results in a fall in GDP.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does the term 'inflation' refer to in economics?",
+    "choices": [
+      "A reduction in the value of currency",
+      "An increase in the overall price level of goods and services",
+      "A significant increase in employment",
+      "A steady increase in national earnings"
+    ],
+    "correctAnswer": "An increase in the overall price level of goods and services",
+    "explanation": "Inflation represents the rate at which the general level of prices for goods and services is rising, thus eroding purchasing power.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which economic principle suggests that governments should not intervene in markets?",
+    "choices": [
+      "Mercantilism",
+      "Keynesian economics",
+      "Laissez-faire economics",
+      "Socialism"
+    ],
+    "correctAnswer": "Laissez-faire economics",
+    "explanation": "Laissez-faire economics promotes minimal government intervention in economic affairs, advocating that free markets can efficiently allocate resources and services.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the difference between microeconomics and macroeconomics?",
+    "choices": [
+      "Microeconomics studies the economy as a whole, while macroeconomics focuses on individual markets.",
+      "Microeconomics deals with individual households and firms, while macroeconomics examines entire economies.",
+      "Microeconomics is only applicable to technology, while macroeconomics applies to all products.",
+      "There is no difference; both terms refer to the same field of economics."
+    ],
+    "correctAnswer": "Microeconomics deals with individual households and firms, while macroeconomics examines entire economies.",
+    "explanation": "Microeconomics focuses on the behavior of individual consumers and firms, whereas macroeconomics analyzes entire economic systems and broader economic factors like GDP and inflation.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the 'invisible hand' theory proposed by Adam Smith?",
+    "choices": [
+      "The mysterious forces that drive down prices in a market economy",
+      "The self-regulating nature of the marketplace resulting in beneficial outcomes",
+      "A government oversight mechanism to control prices and wages",
+      "The theory that markets require strict regulations to ensure fairness"
+    ],
+    "correctAnswer": "The self-regulating nature of the marketplace resulting in beneficial outcomes",
+    "explanation": "Adam Smith's 'invisible hand' suggests that individuals' pursuit of their own self-interest can promote societal benefits, resulting in resources being allocated efficiently.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the main purpose of the Consumer Price Index (CPI)?",
+    "choices": [
+      "To measure production output",
+      "To evaluate the country's trade balance",
+      "To assess inflation and changes in purchasing power",
+      "To analyze the unemployment rate"
+    ],
+    "correctAnswer": "To assess inflation and changes in purchasing power",
+    "explanation": "The Consumer Price Index measures the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services, thus it is used as an indicator of inflation.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In economics, what does 'elasticity' refer to?",
+    "choices": [
+      "A measure of responsiveness of one variable to changes in another variable",
+      "The tendency of a market to self-regulate",
+      "The speed at which policies affect an economy",
+      "The ratio of fiscal benefits to tax paid"
+    ],
+    "correctAnswer": "A measure of responsiveness of one variable to changes in another variable",
+    "explanation": "Elasticity in economics refers to how the quantity demanded or supplied of a good responds to changes in price or other variables, such as income.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "According to classical economics, what causes long-term economic growth?",
+    "choices": [
+      "Increased government spending",
+      "Advancements in technology and productivity",
+      "Theory of comparative advantage",
+      "Monetary policy interventions"
+    ],
+    "correctAnswer": "Advancements in technology and productivity",
+    "explanation": "Classical economics suggests that long-term growth is driven primarily by technological advancements and improvements in productivity that increase the efficiency of production.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following is a characteristic of a monopoly?",
+    "choices": [
+      "Many producers and consumers",
+      "Are price takers",
+      "A single supplier dominating the market",
+      "Easy entry and exit from the market"
+    ],
+    "correctAnswer": "A single supplier dominating the market",
+    "explanation": "A monopoly is characterized by a single entity being the sole supplier of a particular good or service, which allows them to control prices and reduce competition.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary function of a central bank?",
+    "choices": [
+      "Regulate agricultural markets",
+      "Oversee commercial banking operations",
+      "Manage inflation and monetary policy",
+      "Enforce labor union regulations"
+    ],
+    "correctAnswer": "Manage inflation and monetary policy",
+    "explanation": "Central banks are primarily responsible for managing inflation and formulating monetary policy to control the money supply and interest rates in the economy.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the principle of 'comparative advantage' in international trade?",
+    "choices": [
+      "It states that countries should produce goods where they have a comparative cost advantage.",
+      "It encourages countries to isolate their economies from trade.",
+      "It dictates that all countries should produce all goods to maximize their self-sufficiency.",
+      "It suggests countries should trade based solely on the goods they can produce more quickly."
+    ],
+    "correctAnswer": "It states that countries should produce goods where they have a comparative cost advantage.",
+    "explanation": "The principle of comparative advantage refers to a country's ability to produce certain goods at a lower opportunity cost compared to others, making it beneficial for countries to specialize and trade.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following scenarios best illustrates market failure?",
+    "choices": [
+      "A monopoly holds control over the production of aluminum.",
+      "Two competing coffee shops offer lower prices due to high demand.",
+      "All consumers can access both luxury and basic goods.",
+      "More bakeries open leading to higher competition."
+    ],
+    "correctAnswer": "A monopoly holds control over the production of aluminum.",
+    "explanation": "Market failure occurs when the allocation of goods and services is not efficient, often due to monopolies where one entity controls the entire supply, leading to higher prices and reduced supply.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the role of central banks in a country's economy?",
+    "choices": [
+      "To regulate all financial markets directly.",
+      "To manage inflation and control the money supply.",
+      "To create competition among commercial banks.",
+      "To encourage government deficits."
+    ],
+    "correctAnswer": "To manage inflation and control the money supply.",
+    "explanation": "Central banks play a key role in regulating the economy by managing interest rates, controlling the money supply, and ensuring economic stability to achieve specific inflation targets.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which concept best describes a situation where supply exceeds demand?",
+    "choices": [
+      "Surplus",
+      "Deficit",
+      "Equilibrium",
+      "Scarcity"
+    ],
+    "correctAnswer": "Surplus",
+    "explanation": "A surplus occurs when the quantity of a product supplied exceeds the quantity demanded at a given price, often leading to a decline in prices.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In economics, what is the technology frontier?",
+    "choices": [
+      "A limit pointing to the maximum output capabilities of an economy.",
+      "The leading edge of management strategies applying digital solutions.",
+      "The difference between old and new business strategies.",
+      "The limitations imposed by natural resources on production."
+    ],
+    "correctAnswer": "A limit pointing to the maximum output capabilities of an economy.",
+    "explanation": "The production possibility frontier represents the maximum output combinations of two goods that an economy can achieve, assuming full use of resources and efficient technology.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following economic systems is characterized by privately owned businesses operating in competitive markets?",
+    "choices": [
+      "Socialism",
+      "Communism",
+      "Capitalism",
+      "Meritocracy"
+    ],
+    "correctAnswer": "Capitalism",
+    "explanation": "Capitalism is an economic system where private individuals own and control property and businesses, and prices are determined by competition in the market.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is 'inflation' as it relates to economics?",
+    "choices": [
+      "The rate at which national currencies are exchanged",
+      "A sustained increase in the general level of prices for goods and services",
+      "The increase in GDP over a specific period",
+      "A decrease in the average consumer spending"
+    ],
+    "correctAnswer": "A sustained increase in the general level of prices for goods and services",
+    "explanation": "Inflation refers to the rate at which the general level of prices for goods and services rises, eroding purchasing power.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which term describes the economic principle that with each additional unit of a good consumed, the additional satisfaction gained decreases?",
+    "choices": [
+      "Scarcity",
+      "Law of Diminishing Marginal Utility",
+      "Opportunitiy Cost",
+      "Comparative Advantage"
+    ],
+    "correctAnswer": "Law of Diminishing Marginal Utility",
+    "explanation": "The Law of Diminishing Marginal Utility states that as an individual consumes more units of a good, the satisfaction or utility gained from each additional unit decreases.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does GDP stand for, and what does it measure?",
+    "choices": [
+      "Gross Domestic Product; the total value of all goods and services produced in a country",
+      "General Development Potential; the potential for sustainable growth",
+      "Global Domestic Price; the average price of goods and services worldwide",
+      "Gross Data Perception; the statistical analysis of domestic income data"
+    ],
+    "correctAnswer": "Gross Domestic Product; the total value of all goods and services produced in a country",
+    "explanation": "GDP stands for Gross Domestic Product and measures the economic performance of a country by valuing all finished goods and services produced within its borders within a specified period.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following is an example of a potentially negative effect of tariffs?",
+    "choices": [
+      "Increased local production",
+      "Higher prices for consumers",
+      "Stronger domestic economy",
+      "Improved international trade relations"
+    ],
+    "correctAnswer": "Higher prices for consumers",
+    "explanation": "Tariffs are taxes imposed on imported goods, which can lead to decreased competition and higher prices for consumers as the cost of imported goods rises.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does GDP stand for in economics?",
+    "choices": [
+      "General Domestic Product",
+      "Gross Domestic Product",
+      "Genuine Domestic Production",
+      "Global Development Potential"
+    ],
+    "correctAnswer": "Gross Domestic Product",
+    "explanation": "GDP stands for Gross Domestic Product and is a monetary measure that represents the market value of all final goods and services produced within a country in a specific period.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary purpose of monetary policy?",
+    "choices": [
+      "To control government spending",
+      "To regulate the stock market",
+      "To manage inflation and stabilize the currency",
+      "To geopolitically influence other nations"
+    ],
+    "correctAnswer": "To manage inflation and stabilize the currency",
+    "explanation": "The primary purpose of monetary policy is to manage inflation, stabilize the currency, and influence interest rates to achieve economic objectives.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following best represents the law of demand?",
+    "choices": [
+      "As the price of a good decreases, consumer demand for that good increases.",
+      "As incomes increase, demand for all goods decreases.",
+      "Consumer preferences have no effect on demand.",
+      "Changes in the price of a good do not affect its demand."
+    ],
+    "correctAnswer": "As the price of a good decreases, consumer demand for that good increases.",
+    "explanation": "The law of demand states that, all else being equal, as the price of a good or service decreases, consumer demand increases.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is considered the 'invisible hand' of the market?",
+    "choices": [
+      "Government intervention",
+      "The guidance provided by central banks",
+      "The self-regulating nature of the marketplace",
+      "Corporate monopolies"
+    ],
+    "correctAnswer": "The self-regulating nature of the marketplace",
+    "explanation": "The 'invisible hand' is a concept popularized by economist Adam Smith, referring to the self-regulating nature of the marketplace where individual breakthroughs lead ultimately to societal benefit.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What characterizes a monopoly?",
+    "choices": [
+      "A market structure with many firms and free entry.",
+      "A single seller dominating the market with no close substitutes.",
+      "Several firms that protect their share through collusion.",
+      "Multiple companies ensuring competition and options for consumers."
+    ],
+    "correctAnswer": "A single seller dominating the market with no close substitutes.",
+    "explanation": "A monopoly is characterized by a single producer or seller dominating a market for a product that has no close subsitutes, often leading to higher prices and less consumer choice.",
+    "category": "Economics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the main purpose of the Federal Reserve System in the United States?",
+    "choices": [
+      "To manage state-level bank operations",
+      "To regulate money supply and maintain monetary policy",
+      "To oversee the stock market",
+      "To offer legislation on federal taxes"
+    ],
+    "correctAnswer": "To regulate money supply and maintain monetary policy",
+    "explanation": "The Federal Reserve System's main functions are to manage the nation's monetary policy, regulate banks, maintain financial stability, and provide banking services.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which concept describes the cost of the next best alternative that is foregone when a decision is made?",
+    "choices": [
+      "Marginal cost",
+      "Opportunity cost",
+      "Sunk cost",
+      "Fixed cost"
+    ],
+    "correctAnswer": "Opportunity cost",
+    "explanation": "Opportunity cost refers to the value of the next best alternative that must be sacrificed when choosing one option over another.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In an economy, what are the three main types of economic systems?",
+    "choices": [
+      "Market, Monopoly, Supply",
+      "Traditional, Command, Market",
+      "Monopolistic, Oligopolistic, Perfect Competition",
+      "Planned, Free, Dimensional"
+    ],
+    "correctAnswer": "Traditional, Command, Market",
+    "explanation": "The three main types of economic systems are traditional economies, command economies, and market economies classified based on how they allocate resources.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "When demand for a product increases while supply remains constant, what is generally the expected outcome?",
+    "choices": [
+      "Balance price decreases",
+      "0% change in market price",
+      "Market saturation starts",
+      "Prices tend to rise"
+    ],
+    "correctAnswer": "Prices tend to rise",
+    "explanation": "When demand increases without a matching increase in supply, it generally leads to higher prices in the market.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary goal of monetary policy?",
+    "choices": [
+      "Increase government spending",
+      "Control inflation",
+      "Boost international trade",
+      "Reduce unemployment manually"
+    ],
+    "correctAnswer": "Control inflation",
+    "explanation": "The primary aim of monetary policy is often to control inflation, ensuring the currency's purchasing power remains stable.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What term describes the additional satisfaction gained from consuming one more unit of a good or service?",
+    "choices": [
+      "Diminishing returns",
+      "Marginal utility",
+      "Elasticity",
+      "Opportunity cost"
+    ],
+    "correctAnswer": "Marginal utility",
+    "explanation": "Marginal utility refers to the added satisfaction or utility obtained from consuming an additional unit of a good or service.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In economics, what does GDP stand for?",
+    "choices": [
+      "Gross Domestic Product",
+      "General Developmental Price",
+      "Gross Demand Price",
+      "Government Domestic Production"
+    ],
+    "correctAnswer": "Gross Domestic Product",
+    "explanation": "GDP stands for Gross Domestic Product, which measures the total economic output of a country and serves as an indicator of its economic health.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which type of market structure is characterized by many firms producing similar but not identical products?",
+    "choices": [
+      "Monopoly",
+      "Perfect competition",
+      "Oligopoly",
+      "Monopolistic competition"
+    ],
+    "correctAnswer": "Monopolistic competition",
+    "explanation": "Monopolistic competition consists of many firms that sell products that are similar but not identical, allowing for some degree of market power.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What economic model explains the relationship between demand and supply?",
+    "choices": [
+      "Keynesian Model",
+      "Classical Model",
+      "Aggregate Supply and Demand Model",
+      "Circular Flow Model"
+    ],
+    "correctAnswer": "Aggregate Supply and Demand Model",
+    "explanation": "The Aggregate Supply and Demand Model showcases how aggregate supply interacts with aggregate demand in an economy, affecting prices and output.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is considered a determinant of demand?",
+    "choices": [
+      "Consumer income",
+      "Production costs",
+      "Market entry barriers",
+      "Supplier networks"
+    ],
+    "correctAnswer": "Consumer income",
+    "explanation": "Consumer income is a key determinant of demand because higher incomes generally increase consumers' ability and willingness to purchase goods and services.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the means by which economic resources are allocated in a free market?",
+    "choices": [
+      "Central planning",
+      "Price mechanism",
+      "Bartering system",
+      "Resource centralization"
+    ],
+    "correctAnswer": "Price mechanism",
+    "explanation": "In a free market, resources are allocated through the price mechanism, where prices rise or fall based on supply and demand dynamics.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What phenomenon occurs when two or more firms implicitly or explicitly cooperate to elevate prices?",
+    "choices": [
+      "Perfect competition",
+      "Cartel formation",
+      "Price gouging",
+      "Market segmentation"
+    ],
+    "correctAnswer": "Cartel formation",
+    "explanation": "Cartel formation takes place when firms collaborate, in some capacity, to fix prices or limit production to maximize their profits.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In supply and demand, what does the term 'elasticity' refer to?",
+    "choices": [
+      "The responsiveness of quantity demanded or supplied to changes in price",
+      "The total value of goods and services in an economy",
+      "The exchange rate between currencies",
+      "Government regulations on price setting"
+    ],
+    "correctAnswer": "The responsiveness of quantity demanded or supplied to changes in price",
+    "explanation": "Elasticity measures how much the quantity demanded or quantity supplied of a good changes in response to a change in price.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the unemployment rate?",
+    "choices": [
+      "The percentage of unemployed individuals out of the total labor force",
+      "The total number of non-working individuals in the economy",
+      "The number of job vacancies compared to employed individuals",
+      "The proportion of wage earners in the population"
+    ],
+    "correctAnswer": "The percentage of unemployed individuals out of the total labor force",
+    "explanation": "The unemployment rate represents the proportion of the labor force that is jobless and actively seeking employment.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What does GDP stand for?",
+    "choices": [
+      "General Domestic Product",
+      "Gross Development Product",
+      "Gross Domestic Product",
+      "General Development Policy"
+    ],
+    "correctAnswer": "Gross Domestic Product",
+    "explanation": "GDP stands for Gross Domestic Product, which is the total monetary value of all finished goods and services produced within a country\u2019s borders in a specific time period.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which concept reflects the cost of the next best alternative forgone?",
+    "choices": [
+      "Opportunity cost",
+      "Marginal cost",
+      "Fixed cost",
+      "Sunk cost"
+    ],
+    "correctAnswer": "Opportunity cost",
+    "explanation": "Opportunity cost is the value of the best alternative that is not chosen when making a decision, representing what you give up to pursue another option.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In economics, what is considered a 'public good'?",
+    "choices": [
+      "A fruit market",
+      "Streetlights",
+      "Private property",
+      "Beer"
+    ],
+    "correctAnswer": "Streetlights",
+    "explanation": "Public goods are those that are non-excludable and non-rivalrous, meaning that they are available to all and one person's use does not reduce availability for others. Streetlights exemplify a public good.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which economic indicator measures the cost of market baskets of goods and services?",
+    "choices": [
+      "Consumer Price Index (CPI)",
+      "Employment Rate",
+      "Gross National Product (GNP)",
+      "Trade Balance"
+    ],
+    "correctAnswer": "Consumer Price Index (CPI)",
+    "explanation": "The Consumer Price Index (CPI) measures changes in the price level of a market basket of consumer goods and services purchased by households, reflecting the cost of living.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What term refers to the restrictions imposed by governments to protect domestic industries?",
+    "choices": [
+      "Import Quotas",
+      "Embargos",
+      "Trade Tariffs",
+      "Deregulation"
+    ],
+    "correctAnswer": "Trade Tariffs",
+    "explanation": "Trade tariffs are taxes imposed on imported goods, designed to make them more expensive and less competitive against local products, helping to protect domestic industries.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which theorem suggests that free markets lead to the efficient allocation of resources?",
+    "choices": [
+      "Smith's Theory of Value",
+      "Pareto Efficiency",
+      "Ricardian Equivalence",
+      "Say's Law"
+    ],
+    "correctAnswer": "Pareto Efficiency",
+    "explanation": "Pareto Efficiency is an economic state where resources cannot be reallocated to improve one individual\u2019s situation without worsening another\u2019s, suggesting efficient role of free markets.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary intent of fiscal policy?",
+    "choices": [
+      "To manage the production of goods and services",
+      "To influence unemployment and economic growth",
+      "To regulate prices of consumer products",
+      "To ensure currency stability"
+    ],
+    "correctAnswer": "To influence unemployment and economic growth",
+    "explanation": "Fiscal policy focuses on using government spending and taxation to influence macroeconomic conditions, with the intent to affect unemployment levels and stimulate or dampen economic growth.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which type of unemployment is caused by a mismatch between skills and job requirements?",
+    "choices": [
+      "Structural unemployment",
+      "Cyclical unemployment",
+      "Frictional unemployment",
+      "Seasonal unemployment"
+    ],
+    "correctAnswer": "Structural unemployment",
+    "explanation": "Structural unemployment occurs when there is a long-term decline in demand for a certain skill set, causing workers to be unable to find jobs that match their abilities.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following describes 'opportunity cost'?",
+    "choices": [
+      "The price of the next best alternative forgone",
+      "The total amount spent on a particular choice",
+      "The sunk cost of an investment",
+      "None of the above"
+    ],
+    "correctAnswer": "The price of the next best alternative forgone",
+    "explanation": "Opportunity cost refers to the value of the next best alternative forgone when a choice is made.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In economics, what does 'GDP' stand for?",
+    "choices": [
+      "General Development Practices",
+      "Gross Domestic Product",
+      "Graph Derived Proposals",
+      "Governmental Department of Policy"
+    ],
+    "correctAnswer": "Gross Domestic Product",
+    "explanation": "GDP stands for Gross Domestic Product, which is the total monetary value of all finished goods and services produced within a country's borders in a specific time period.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is a 'market economy'?",
+    "choices": [
+      "An economy that relies on government control",
+      "An economy that relies on barter systems",
+      "An economy that relies on supply and demand to allocate resources",
+      "An economy with no competitive pricing"
+    ],
+    "correctAnswer": "An economy that relies on supply and demand to allocate resources",
+    "explanation": "In a market economy, decisions on production and consumption are made by the interaction of citizens and businesses through supply and demand.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is 'inflation'?",
+    "choices": [
+      "The decrease in purchasing power as prices rise",
+      "The increase in purchasing power when prices fall",
+      "The stability of prices in the economy",
+      "The rise in savings rates"
+    ],
+    "correctAnswer": "The decrease in purchasing power as prices rise",
+    "explanation": "Inflation refers to the rate at which the general level of prices for goods and services rises, resulting in the reduction of purchasing power.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is a common consequence of high inflation?",
+    "choices": [
+      "Increased purchasing power",
+      "Reduction in interest rates",
+      "Increased uncertainty in the economy",
+      "Higher savings rates"
+    ],
+    "correctAnswer": "Increased uncertainty in the economy",
+    "explanation": "High inflation creates uncertainty since it erodes the value of money over time, affecting spending, saving, and investment decisions.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What term describes an economic situation where the market fails to allocate resources efficiently?",
+    "choices": [
+      "Market equilibrium",
+      "Market failure",
+      "Price dependence",
+      "Resource allocation"
+    ],
+    "correctAnswer": "Market failure",
+    "explanation": "Market failure occurs when the allocation of goods and services is not efficient, often due to externalities, public goods, or monopolies.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which economic theory advocates for minimal government intervention in the economy?",
+    "choices": [
+      "Keynesian economics",
+      "Monetarism",
+      "Classical economics",
+      "Behavioral economics"
+    ],
+    "correctAnswer": "Classical economics",
+    "explanation": "Classical economics advocates for free markets and minimal government intervention, believing that markets are best at regulating themselves.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What does 'elasticity' measure in economics?",
+    "choices": [
+      "The quantity of consumption changes with income",
+      "The responsiveness of quantity demanded or supplied to changes in price",
+      "The total expenditure on goods and services",
+      "The rate of unemployment in the economy"
+    ],
+    "correctAnswer": "The responsiveness of quantity demanded or supplied to changes in price",
+    "explanation": "Elasticity measures how much the quantity demanded or supplied changes in response to changes in price, reflecting consumer behavior and preferences.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which economist is associated with the concept of the 'invisible hand'?",
+    "choices": [
+      "A) John Maynard Keynes",
+      "B) Adam Smith",
+      "C) Milton Friedman",
+      "D) David Ricardo"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Adam Smith introduced the concept of the 'invisible hand' to describe how individuals' self-interested actions can lead to positive social outcomes.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "When demand increases while supply remains unchanged, what typically happens to equilibrium price?",
+    "choices": [
+      "A) It decreases",
+      "B) It increases",
+      "C) It remains unchanged",
+      "D) It fluctuates randomly"
+    ],
+    "correctAnswer": "B",
+    "explanation": "When demand increases and supply remains constant, the equilibrium price typically increases due to higher competition for the limited goods available.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What role does the central bank typically play in a country's economy?",
+    "choices": [
+      "A) Setting government policies",
+      "B) Regulating international trade",
+      "C) Managing monetary policy",
+      "D) Determining sector-based wages"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The central bank's primary role is to manage monetary policy, which involves controlling the money supply and interest rates.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What does the term 'opportunity cost' refer to?",
+    "choices": [
+      "A) The cost of the best alternative forgone",
+      "B) The cost plus future interest",
+      "C) The fixed costs of producing a product",
+      "D) The financial compensation demanded by workers"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Opportunity cost refers to the value of the next best alternative forgone when making a decision.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following describes a trade deficit?",
+    "choices": [
+      "A) Exports exceed imports",
+      "B) Imports exceed exports",
+      "C) Domestic production exceeds domestic consumption",
+      "D) Trade costs exceed trade benefits"
+    ],
+    "correctAnswer": "B",
+    "explanation": "A trade deficit occurs when a country's imports exceed its exports, indicating an outflow of domestic currency to foreign markets.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What would likely happen in a market facing short run equilibrium above the long-run average cost?",
+    "choices": [
+      "A) Firms will enter the market",
+      "B) Firms will exit the market",
+      "C) Demand will necessarily fall",
+      "D) Prices will stabilize instantly"
+    ],
+    "correctAnswer": "A",
+    "explanation": "If firms are earning profits in the short run and prices are above the long-run average cost, other firms will likely enter the market.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which measure indicates the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services?",
+    "choices": [
+      "A) Producer Price Index (PPI)",
+      "B) Consumer Price Index (CPI)",
+      "C) Gross Domestic Product (GDP) Deflator",
+      "D) Retail Price Index"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Consumer Price Index (CPI) measures the average change over time in the prices consumers pay for goods and services.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In the context of economic policy, what does the term 'fiscal policy' refer to?",
+    "choices": [
+      "A) Central Bank regulations",
+      "B) Government spending and taxation decisions",
+      "C) Trade relations with foreign countries",
+      "D) Monetary supply control"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Fiscal policy involves the government's decisions on spending and taxation aimed at influencing the economy.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary focus of microeconomics?",
+    "choices": [
+      "Inflation rates",
+      "Market behavior of individuals",
+      "Government policies",
+      "International trade"
+    ],
+    "correctAnswer": "Market behavior of individuals",
+    "explanation": "Microeconomics mainly deals with the behavior and decision-making of individual consumers and firms.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following represents a demand curve?",
+    "choices": [
+      "Upward sloping",
+      "Flat",
+      "Downward sloping",
+      "Vertical"
+    ],
+    "correctAnswer": "Downward sloping",
+    "explanation": "A demand curve typically slopes downward from left to right, indicating that as price goes down, the quantity demanded goes up.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In which market structure do firms have some control over price?",
+    "choices": [
+      "Perfect competition",
+      "Monopoly",
+      "Oligopoly",
+      "All of the above"
+    ],
+    "correctAnswer": "Oligopoly",
+    "explanation": "Oligopolistic firms have some control over price due to their market share, but their pricing decisions are interdependent on the actions of other firms.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "If a country has a trade surplus, what does it imply?",
+    "choices": [
+      "Imports are greater than exports",
+      "Exports are greater than imports",
+      "Trade barriers are high",
+      "Economic isolation"
+    ],
+    "correctAnswer": "Exports are greater than imports",
+    "explanation": "A trade surplus indicates that a country's exports exceed its imports, leading to a net inflow of currency.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the role of the central bank in managing the economy?",
+    "choices": [
+      "Regulating company policies",
+      "Managing interest rates and money supply",
+      "Determining tax rates",
+      "Controlling foreign politics"
+    ],
+    "correctAnswer": "Managing interest rates and money supply",
+    "explanation": "Central banks manage the economy by regulating monetary policy, primarily through controlling interest rates and money supply.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is an oligopoly characterized by?",
+    "choices": [
+      "Many sellers, many buyers",
+      "Single seller",
+      "Few sellers, potentially large market share",
+      "None of the above"
+    ],
+    "correctAnswer": "Few sellers, potentially large market share",
+    "explanation": "An oligopoly consists of a market structure where a few firms dominate and have significant influence over price and competition.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which economic principle describes the trade-off of producing more of one good at the expense of another?",
+    "choices": [
+      "Law of Supply",
+      "Opportunity Cost",
+      "Comparative Advantage",
+      "Marginal Utility"
+    ],
+    "correctAnswer": "Opportunity Cost",
+    "explanation": "Opportunity cost reflects the loss of potential gain from other alternatives when one alternative is chosen.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In economics, what does inflation mean?",
+    "choices": [
+      "A decrease in real prices",
+      "An increase in purchasing power",
+      "A sustained rise in the general price level of goods and services",
+      "A measure of economic output"
+    ],
+    "correctAnswer": "A sustained rise in the general price level of goods and services",
+    "explanation": "Inflation indicates the rate at which the general level of prices for goods and services rises, eroding purchasing power.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What does the concept of 'elasticity' in economics measure?",
+    "choices": [
+      "Supply of goods only",
+      "Specific input behavior",
+      "Responsive change in consumers' quantity demanded or supplied relative to price changes",
+      "Market capability"
+    ],
+    "correctAnswer": "Responsive change in consumers' quantity demanded or supplied relative to price changes",
+    "explanation": "Elasticity measures how much the quantity demanded or supplied changes in response to price changes, indicating sensitivity.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is considered a type of monopoly?",
+    "choices": [
+      "Perfect competition",
+      "Natural monopoly",
+      "Oligopoly",
+      "Monopolistic competition"
+    ],
+    "correctAnswer": "Natural monopoly",
+    "explanation": "A natural monopoly exists when a single firm can supply the entire market at a lower cost than could two or more firms, which often occurs in industries with high fixed costs.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "According to Classical economics, what primarily drives market outcomes?",
+    "choices": [
+      "Government intervention",
+      "Consumer sentiment",
+      "Supply and demand",
+      "Historical trends"
+    ],
+    "correctAnswer": "Supply and demand",
+    "explanation": "Classical economics posits that supply and demand are the primary forces driving the prices and allocation of goods and services in a market economy.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Who is known as the father of modern economics?",
+    "choices": [
+      "John Maynard Keynes",
+      "David Ricardo",
+      "Adam Smith",
+      "Friedrich Hayek"
+    ],
+    "correctAnswer": "Adam Smith",
+    "explanation": "Adam Smith is often referred to as the father of modern economics due to his influential book 'The Wealth of Nations' where he outlines the principles of free market capitalism.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What does elasticity of demand measure?",
+    "choices": [
+      "Responsiveness of supply to price changes",
+      "Consumers' sensitivity to changes in income",
+      "Consumers' sensitivity to changes in price",
+      "Government regulation of commodities"
+    ],
+    "correctAnswer": "Consumers' sensitivity to changes in price",
+    "explanation": "Elasticity of demand measures how much the quantity demanded of a good responds to a change in its price, indicating consumers' sensitivity to price fluctuations.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is likely to happen if the central bank decides to increase interest rates?",
+    "choices": [
+      "Increased consumer spending",
+      "Less investment by businesses",
+      "Higher inflation",
+      "Decreased unemployment"
+    ],
+    "correctAnswer": "Less investment by businesses",
+    "explanation": "Higher interest rates usually lead to less borrowing, discouraging businesses from making investments, as loan costs increase.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which principle states that as income rises, consumption rises but at a decreasing rate?",
+    "choices": [
+      "Marginal Propensity to Save",
+      "Law of Demand",
+      "Engel's Law",
+      "Keynesian Economics"
+    ],
+    "correctAnswer": "Engel's Law",
+    "explanation": "Engel's Law suggests that as household income increases, the proportion of income spent on food decreases.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the economic term for a market structure Henry O. Long viewed similar to a contest?",
+    "choices": [
+      "Monopoly",
+      "Perfect Competition",
+      "Oligopoly",
+      "Game Theory"
+    ],
+    "correctAnswer": "Game Theory",
+    "explanation": "Game Theory analyzes competitive situations where the outcome depends not just on one's choices but on the choices of others, resembling strategic contests.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In which type of unemployment does the individual possess skills not relevant to available jobs?",
+    "choices": [
+      "Frictional Unemployment",
+      "Structural Unemployment",
+      "Seasonal Unemployment",
+      "Cyclical Unemployment"
+    ],
+    "correctAnswer": "Structural Unemployment",
+    "explanation": "Structural unemployment occurs when workers' skills do not match the jobs available in the market.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the term for the systematic increase in prices across an economy?",
+    "choices": [
+      "Stagflation",
+      "Deflation",
+      "Inflation",
+      "Recession"
+    ],
+    "correctAnswer": "Inflation",
+    "explanation": "Inflation is the rate at which the general level of prices for goods and services rises, eroding purchasing power.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary purpose of fiscal policy?",
+    "choices": [
+      "Regulate Lake Psychology",
+      "Improve military outcomes",
+      "Stimulate economic growth",
+      "Develop new materials"
+    ],
+    "correctAnswer": "Stimulate economic growth",
+    "explanation": "Fiscal policy, implemented through government spending and taxation, aims to influence the economy and stimulate growth.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which economic theory posits that user behaviors will guide decisions with limited government intervention?",
+    "choices": [
+      "Classical Economics",
+      "Marxist Economics",
+      "Keynesian Economics",
+      "Fransalan Economics"
+    ],
+    "correctAnswer": "Classical Economics",
+    "explanation": "Classical economics focuses on the idea that free markets lead to efficient outcomes and that individual behavior primarily drives economic growth.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is a market where there are many buyers and sellers, and no single entity can influence the price?",
+    "choices": [
+      "Monopolistic Market",
+      "Perfectly Competitive Market",
+      "Oligopolistic Market",
+      "Duopoly"
+    ],
+    "correctAnswer": "Perfectly Competitive Market",
+    "explanation": "A perfectly competitive market is characterized by a large number of consumers and producers, ensuring no single seller can influence the market price.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What term is used to describe the total market value of all final goods and services produced in a country in a given year?",
+    "choices": [
+      "A) Gross National Product",
+      "B) Gross Domestic Product",
+      "C) Net National Product",
+      "D) GDP Deflator"
+    ],
+    "correctAnswer": "B) Gross Domestic Product",
+    "explanation": "Gross Domestic Product (GDP) measures the total economic output of a country, indicating the health of its economy.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which economic theory emphasizes the importance of governmental intervention in the economy to ensure free market outcomes?",
+    "choices": [
+      "A) Classical Economics",
+      "B) Keynesian Economics",
+      "C) Monetarism",
+      "D) Supply-side Economics"
+    ],
+    "correctAnswer": "B) Keynesian Economics",
+    "explanation": "Keynesian Economics, proposed by John Maynard Keynes, advocates for government policies to stimulate demand and combat economic downturns.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is NOT a primary function of money?",
+    "choices": [
+      "A) Medium of exchange",
+      "B) Unit of account",
+      "C) Store of value",
+      "D) Measure of GDP"
+    ],
+    "correctAnswer": "D) Measure of GDP",
+    "explanation": "While money serves as a medium of exchange, unit of account, and store of value, it does not function as a measure of GDP.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "The principle of 'comparative advantage' primarily supports the idea of?",
+    "choices": [
+      "A) Fixed exchange rates",
+      "B) Deregulation of trade",
+      "C) Specialization in production",
+      "D) Monopoly power"
+    ],
+    "correctAnswer": "C) Specialization in production",
+    "explanation": "Comparative advantage suggests that individuals and nations can gain from trade by specializing in the production of goods for which they have a relative efficiency.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What type of unemployment is caused by a mismatch of skills between workers and the requirements of available jobs?",
+    "choices": [
+      "A) Structural Unemployment",
+      "B) frictional Unemployment",
+      "C) Cyclical Unemployment",
+      "D) Seasonal Unemployment"
+    ],
+    "correctAnswer": "A) Structural Unemployment",
+    "explanation": "Structural unemployment arises from changes in the economy that create a mismatch between the skills of workers and the needs of employers.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is considered a leading economic indicator?",
+    "choices": [
+      "Unemployment Rate",
+      "Stock Market Performance",
+      "Consumer Price Index",
+      "Inflation Rate"
+    ],
+    "correctAnswer": "Stock Market Performance",
+    "explanation": "The stock market performance is often viewed as a leading indicator because it reflects investor sentiment and can predict future economic activity.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary purpose of the Federal Reserve?",
+    "choices": [
+      "Regulating taxes",
+      "Controlling monetary policy",
+      "Managing government debt",
+      "Facilitating international trade"
+    ],
+    "correctAnswer": "Controlling monetary policy",
+    "explanation": "The primary purpose of the Federal Reserve is to control monetary policy in order to manage inflation, employment, and overall economic stability.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which economic theory advocates for limited government intervention in the economy?",
+    "choices": [
+      "Keynesian economics",
+      "Supply-side economics",
+      "Marxist economics",
+      "Behavioral economics"
+    ],
+    "correctAnswer": "Supply-side economics",
+    "explanation": "Supply-side economics advocates for limited government intervention, emphasizing that economic growth can be most effectively fostered by lowering taxes and decreasing regulation.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is 'elasticity' in economics?",
+    "choices": [
+      "Responsive measure pertaining to quantity change",
+      "The ability to create regulatory flexibility",
+      "Stability of price controls",
+      "Influence of monopolistic practices"
+    ],
+    "correctAnswer": "Responsive measure pertaining to quantity change",
+    "explanation": "'Elasticity' measures how responsive the quantity demanded or supplied of a good is to changes in price or income.",
+    "category": "Economics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary focus of Keynesian economics?",
+    "choices": [
+      "Supply-side policies",
+      "Consumer demand and aggregate spending",
+      "Monetary base adjustments",
+      "Long-term economic growth"
+    ],
+    "correctAnswer": "Consumer demand and aggregate spending",
+    "explanation": "Keynesian economics primarily focuses on the importance of aggregate demand in influencing economic output and employment.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which economic theory argues that markets are always clear and prices adjust to ensure supply equals demand?",
+    "choices": [
+      "Monetarism",
+      "Supply-Side Economics",
+      "Classical Economics",
+      "Keynesian Economics"
+    ],
+    "correctAnswer": "Classical Economics",
+    "explanation": "Classical Economics posits that free markets lead to optimal distribution of resources and that prices adjustment naturally leads to clear markets.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In which model does the 'labor-leisure trade-off' play a crucial role in determining supply?",
+    "choices": [
+      "Solow Growth Model",
+      "Production Possibilities Frontier",
+      "Utility maximizing model",
+      "Endogenous Growth Theory"
+    ],
+    "correctAnswer": "Utility maximizing model",
+    "explanation": "The utility maximizing model incorporates consumers' choices between labor and leisure, which directly influences labor supply.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary role of the World Bank?",
+    "choices": [
+      "Regulate international trade",
+      "Provide developmental assistance and reduce poverty",
+      "Control inflation rates worldwide",
+      "Set interest rates for developing countries"
+    ],
+    "correctAnswer": "Provide developmental assistance and reduce poverty",
+    "explanation": "The World Bank's primary mission focuses on providing financial and technical assistance to developing countries to reduce poverty and promote sustainable development.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which theorem states that a competitive market will allocate resources efficiently under certain conditions?",
+    "choices": [
+      "Nash Equilibrium Theorem",
+      "Coase Theorem",
+      "Becker's theorem",
+      "Pareto Efficiency"
+    ],
+    "correctAnswer": "Pareto Efficiency",
+    "explanation": "Pareto efficiency, also known as Pareto optimality, indicates that resources in a competitive market are allocated such that no individual's situation could be improved without worsening another's.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary goal of monetary policy in an economy?",
+    "choices": [
+      "To increase unemployment",
+      "To stabilize prices and promote maximum employment",
+      "To promote international trade agreements",
+      "To increase government spending"
+    ],
+    "correctAnswer": "To stabilize prices and promote maximum employment",
+    "explanation": "The primary goal of monetary policy is to control the supply of money and interest rates to stabilize prices (inflation) while promoting maximum sustainable employment.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which economic theory promotes the idea that economies operate best when governments do not interfere?",
+    "choices": [
+      "Keynesian economics",
+      "Supply-side economics",
+      "Monetarism",
+      "Classical economics"
+    ],
+    "correctAnswer": "Classical economics",
+    "explanation": "Classical economics asserts that free markets can regulate themselves, arguing that government intervention should be minimal.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In fiscal policy, which of the following is considered an automatic stabilizer?",
+    "choices": [
+      "Tax cuts",
+      "Public spending on infrastructure",
+      "Unemployment benefits",
+      "Redistributive taxation"
+    ],
+    "correctAnswer": "Unemployment benefits",
+    "explanation": "Automatic stabilizers like unemployment benefits help stabilize the economy by increasing government spending during downturns without the need for additional legislative action.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What does the Phillips Curve illustrate about inflation and unemployment?",
+    "choices": [
+      "There is a stable long-term trade-off between inflation and unemployment.",
+      "There is no relationship between inflation and unemployment.",
+      "Higher inflation leads to lower unemployment in the short run.",
+      "Contracting economies experience increased inflation."
+    ],
+    "correctAnswer": "Higher inflation leads to lower unemployment in the short run.",
+    "explanation": "The Phillips Curve suggests that, in the short run, there may be an inverse relationship between inflation and unemployment.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What measurement is often used to gauge a country's economic performance?",
+    "choices": [
+      "Price Index",
+      "Civilian Labor Force",
+      "Gross Domestic Product (GDP)",
+      "Balance of Payments"
+    ],
+    "correctAnswer": "Gross Domestic Product (GDP)",
+    "explanation": "Gross Domestic Product (GDP) is the primary indicator used to measure the economic performance of a country, reflecting the total value of goods and services produced.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary goal of monetary policy in most developed economies?",
+    "choices": [
+      "A. Increase unemployment",
+      "B. Maximize stock prices",
+      "C. Control inflation",
+      "D. Reduce the national debt"
+    ],
+    "correctAnswer": "C. Control inflation",
+    "explanation": "Central banks aim to maintain price stability by controlling inflation, which helps preserve the purchasing power of the currency.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following terms describes a market structure characterized by a few large firms dominating a market?",
+    "choices": [
+      "A. Perfect competition",
+      "B. Monopolistic competition",
+      "C. Oligopoly",
+      "D. Monopoly"
+    ],
+    "correctAnswer": "C. Oligopoly",
+    "explanation": "Oligopoly is a market structure where a small number of firms have significant market power and can influence prices and other market outcomes.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of economic growth, what does the 'primary sector' include?",
+    "choices": [
+      "A. Financial services",
+      "B. Agriculture and mining",
+      "C. Technology and software",
+      "D. Manufacturing and construction"
+    ],
+    "correctAnswer": "B. Agriculture and mining",
+    "explanation": "The primary sector involves the extraction and harvesting of natural resources, which includes agriculture, mining, forestry, and fishing.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is 'moral hazard' in economics?",
+    "choices": [
+      "A. Unintended consequences of regulations",
+      "B. The tendency of lending involving high default risk",
+      "C. Less incentive to take precautions when one is insulated from risk",
+      "D. Nothing, it is simply a logical fallacy"
+    ],
+    "correctAnswer": "C. Less incentive to take precautions when one is insulated from risk",
+    "explanation": "Moral hazard occurs when one party is allowed to take risks because another party bears the consequences of those risks, thus fostering irresponsible behavior.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What theory suggests that rational individuals create bubbles only due to herd behavior in finance?",
+    "choices": [
+      "A. Behavioral finance theory",
+      "B. Efficient market hypothesis",
+      "C. Game theory",
+      "D. Prospect theory"
+    ],
+    "correctAnswer": "A. Behavioral finance theory",
+    "explanation": "Behavioral finance theory accounts for cognitive biases and emotional reactions that lead individuals to create financial bubbles based on herd behavior rather than fundamentals.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What economic principle states that as the level of investment in a country increases, the return on additional investments tend to decrease?",
+    "choices": [
+      "A. Say's Law",
+      "B. Law of Diminishing Returns",
+      "C. Gresham's Law",
+      "D. Marjolin's Principle"
+    ],
+    "correctAnswer": "B. Law of Diminishing Returns",
+    "explanation": "The Law of Diminishing Returns posits that beyond a certain point, carrying out more of an investment input results in smaller output gains.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following is considered a 'leading economic indicator'?",
+    "choices": [
+      "A. Unemployment rate",
+      "B. Consumer Price Index (CPI)",
+      "C. Stock market performance",
+      "D. GDP growth rate"
+    ],
+    "correctAnswer": "C. Stock market performance",
+    "explanation": "Stock market performance is regarded as a leading indicator because it typically signals future economic activity before actual economic changes occur.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What does the term 'Phillips Curve' illustrate?",
+    "choices": [
+      "A. The trade-off between inflation and unemployment",
+      "B. The relationship between interest rates and currency value",
+      "C. The performance of the trade balance",
+      "D. The correlation between wage levels and consumer spending"
+    ],
+    "correctAnswer": "A. The trade-off between inflation and unemployment",
+    "explanation": "The Phillips Curve theorizes that there is an inverse relationship between inflation and unemployment, suggesting that higher inflation can result in lower unemployment, and vice versa.",
+    "category": "Economics",
+    "difficulty": "Masters"
   }
 ];

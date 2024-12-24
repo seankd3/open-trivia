@@ -53,7 +53,6 @@ def generate_questions(category, difficulty, num_questions):
     return []
 
 def main():
-    categories = ["Aerospace", "Aviation", "Aerospace Engineering", "Lex Fridman Podcast Guests"]
     categories = [
         "Science", "Mathematics", "History", "Geography", "Literature", 
         "Philosophy", "Art", "Music Theory", "Classical Music", "Physics", 
@@ -63,7 +62,7 @@ def main():
         "Architecture", "Medicine", "Law", "Ethics", "Religious Studies", 
         "Archaeology", "Statistics", "Military Technology", "Rocket Science", "Orbital Mechanics", "Rocket Propulsion"
     ]
-    difficulty_levels = ["Highschool", "Undergrad", "Masters", "PhD", "Extreme", "Extra Super Extremely hard"]
+    difficulty_levels = ["Elementary", "Middle School", "Highschool", "Undergrad", "Masters", "PhD", "Extreme", "Extra Super Extremely hard", "Impossible"]
 
     try:
         with open('questions.js', 'r') as f:
