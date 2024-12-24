@@ -23,7 +23,7 @@ To run this project, you need a web browser that supports HTML5 and JavaScript.
 
 ### Running the Game
 
-1. Open the `index.html` file in your web browser.
+1. Open the `Trivia.html` file in your web browser.
 2. Click the "Start Game" button to begin the game.
 
 ## Game Mechanics

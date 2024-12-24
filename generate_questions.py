@@ -54,13 +54,7 @@ def generate_questions(category, difficulty, num_questions):
 
 def main():
     categories = [
-        "Science", "Mathematics", "History", "Geography", "Literature", 
-        "Philosophy", "Art", "Music Theory", "Classical Music", "Physics", 
-        "Chemistry", "Biology", "Astronomy", "Geology", "Environmental Science", 
-        "Computer Science", "Engineering", "Economics", "Psychology", 
-        "Sociology", "Political Science", "Anthropology", "Linguistics", 
-        "Architecture", "Medicine", "Law", "Ethics", "Religious Studies", 
-        "Archaeology", "Statistics", "Military Technology", "Rocket Science", "Orbital Mechanics", "Rocket Propulsion"
+        "Geography"
     ]
     difficulty_levels = ["Elementary", "Middle School", "Highschool", "Undergrad", "Masters", "PhD", "Extreme", "Extra Super Extremely hard", "Impossible"]
 

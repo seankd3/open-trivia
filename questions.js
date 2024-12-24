@@ -27419,5 +27419,1604 @@ const questions = [
     "explanation": "The Phillips Curve theorizes that there is an inverse relationship between inflation and unemployment, suggesting that higher inflation can result in lower unemployment, and vice versa.",
     "category": "Economics",
     "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary characteristic of a Keynesian economic approach?",
+    "choices": [
+      "A. Long-term growth focus",
+      "B. The importance of consumer confidence",
+      "C. Government intervention in markets",
+      "D. Absence of fiscal policy"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Keynesian economics emphasizes the role of government intervention in stabilizing the economy during downturns, focusing on total spending in the economy and its effects on output and inflation.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which economic model is characterized by the smoothing of consumption over time, regardless of income variability?",
+    "choices": [
+      "A. Permanent Income Hypothesis",
+      "B. Proximal Revenue Model",
+      "C. Fisher Separation Theorem",
+      "D. Ricardian Equivalence"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Permanent Income Hypothesis, introduced by Milton Friedman, suggests that people base their consumption on expected long-term average income rather than current income.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In project evaluation, the concept of discounting is used primarily for which of the following reasons?",
+    "choices": [
+      "A. To compare revenues over different periods",
+      "B. To account for inflation",
+      "C. To reflect the opportunity cost of capital",
+      "D. To adjust for personal investment preferences"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Discounting is used to express future cash flows in today's terms, reflecting the concept of opportunity cost - the return that could be earned if the capital were invested elsewhere.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following theories suggests that currency values are determined by the supply and demand of currencies in the market?",
+    "choices": [
+      "A. Purchasing Power Parity",
+      "B. Currency Manipulation Theory",
+      "C. Floating Exchange Rate Theory",
+      "D. Absolute Advantage Theory"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Floating Exchange Rate Theory posits that currency values fluctuate based on the market's perception of supply and demand for multiple currencies.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is an externality in economics?",
+    "choices": [
+      "A. A financial effect observed within markets",
+      "B. A cost or benefit incurred by a third party",
+      "C. A form of government debt",
+      "D. An outcome of direct market transactions"
+    ],
+    "correctAnswer": "B",
+    "explanation": "An externality is a cost or benefit experienced by a third-party, resulting from an economic transaction that they did not participate in, which can lead to market failure.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What economic model is primarily used to analyze the supply and demand in a competitive market place?",
+    "choices": [
+      "Keynesian Model",
+      "Classical Model",
+      "IS-LM Model",
+      "Perfect Competition Model"
+    ],
+    "correctAnswer": "Perfect Competition Model",
+    "explanation": "The Perfect Competition Model is used to illustrate how prices are determined in a market where many buyers and sellers are present, and individuals cannot influence prices.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following concepts refers to an economy's ability to produce more goods and services more efficiently over time?",
+    "choices": [
+      "Absolute Advantage",
+      "Comparative Advantage",
+      "Economic Growth",
+      "Fiscal Stimulus"
+    ],
+    "correctAnswer": "Economic Growth",
+    "explanation": "Economic Growth refers to an increase in the production of goods and services in an economy over time, indicating improved efficiency and resource utilization.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary objective of demand-side economic policies?",
+    "choices": [
+      "Stimulate production capacity",
+      "Control inflation",
+      "Increase consumer demand",
+      "Maintain trade balance"
+    ],
+    "correctAnswer": "Increase consumer demand",
+    "explanation": "Demand-side economic policies are aimed at increasing overall consumer demand, especially during periods of recession or high unemployment, to stimulate economic growth.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of macroeconomic theory, what does the Phillips Curve represent?",
+    "choices": [
+      "The trade-off between inflation and unemployment",
+      "The relationship between money supply and interest rates",
+      "The correlation between fiscal deficits and trade balances",
+      "The impact of taxation on economic growth"
+    ],
+    "correctAnswer": "The trade-off between inflation and unemployment",
+    "explanation": "The Phillips Curve illustrates the inverse relationship between the rate of inflation and the rate of unemployment, suggesting that lower unemployment can be associated with higher inflation.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "According to the Solow Growth Model, sustained long-term economic growth is primarily driven by what factor?",
+    "choices": [
+      "Capital accumulation",
+      "Labor force growth",
+      "Technological progress",
+      "Government intervention"
+    ],
+    "correctAnswer": "Technological progress",
+    "explanation": "The Solow Growth Model posits that long-term economic growth is mainly due to technological progress, as this enhances productivity independent of labor and capital accumulation.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary purpose of a central bank's monetary policy?",
+    "choices": [
+      "A) To control inflation",
+      "B) To maximize stock prices",
+      "C) To increase government revenue",
+      "D) To regulate labor markets"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The primary purpose of a central bank's monetary policy is to control inflation, maintaining price stability to foster a healthier economy.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following models best describes the interaction between inflation and unemployment?",
+    "choices": [
+      "A) The Laffer Curve",
+      "B) The Phillips Curve",
+      "C) The Keynesian Model",
+      "D) The Solow Growth Model"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Phillips Curve illustrates an inverse relationship between rates of inflation and unemployment, suggesting that lower unemployment correlates with higher inflation.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following concepts explains the idea that increasing risk will require a higher expected return in investments?",
+    "choices": [
+      "A) Financial Liquidity",
+      "B) The Risk-Return Tradeoff",
+      "C) The Diversification Principle",
+      "D) The Efficient Market Hypothesis"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Risk-Return Tradeoff principle states that investors demand a higher return for taking on more risk, as they expect to be compensated for increased uncertainty.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What principle states that when the price of a good rises, the quantity supplied will also increase, all else being equal?",
+    "choices": [
+      "A) Law of Demand",
+      "B) Law of Diminishing Returns",
+      "C) Law of Supply",
+      "D) Giffen Paradox"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The Law of Supply states that when the price of a good or service increases, producers are willing to supply more of it into the market.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of economic growth, what does the term 'human capital' refer to?",
+    "choices": [
+      "A) Natural resources available in a country",
+      "B) The value of economists' aggregated knowledge",
+      "C) The education, skills, and health of the workforce",
+      "D) The physical capital present in a country"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Human capital refers to the collective skills, knowledge, and other intangible assets of individuals that contribute to economic productivity.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the Phillips Curve primarily used to illustrate?",
+    "choices": [
+      "The trade-off between inflation and unemployment",
+      "The relationship between national debt and interest rates",
+      "The impact of fiscal policy on economic growth",
+      "The movement of supply and demand"
+    ],
+    "correctAnswer": "The trade-off between inflation and unemployment",
+    "explanation": "The Phillips Curve suggests that inflation and unemployment have an inverse relationship. When inflation is high, unemployment tends to be low and vice versa.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which economic theory argues against the effectiveness of tax cuts on stimulating the economy?",
+    "choices": [
+      "Classical economics",
+      "Keynesian economics",
+      "Monetarism",
+      "Supply-side economics"
+    ],
+    "correctAnswer": "Keynesian economics",
+    "explanation": "Keynesian economics posits that tax cuts alone may not be effective for stimulating demand, especially during periods of diminished consumer and business confidence.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary purpose of stochastic frontier analysis in production economics?",
+    "choices": [
+      "To evaluate sending costs",
+      "To measure productivity and efficiency discrepancies",
+      "To estimate price elasticity of demand",
+      "To understand consumer behavior variation"
+    ],
+    "correctAnswer": "To measure productivity and efficiency discrepancies",
+    "explanation": "Stochastic frontier analysis offers a way to measure the efficiency of production while accounting for random errors, helping to identify inefficiencies in production processes.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of international trade, what does the term 'sheer purchasing power' refer to?",
+    "choices": [
+      "The value of currency in terms of domestic goods",
+      "The ability of nations to compete through low-cost commodities",
+      "The disproportionate capital access for less developed countries",
+      "The disparity in income levels across regions"
+    ],
+    "correctAnswer": "The value of currency in terms of domestic goods",
+    "explanation": "Sheer purchasing power is the concept that reflects a currency's value compared to decision calculations for purchasing local goods, impacting international price evaluations.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What phenomenon describes a situation where factors are being underutilized even when production is below capacity?",
+    "choices": [
+      "Cyclical unemployment",
+      "Structural underemployment",
+      "Non-accelerating inflation rate of unemployment",
+      "Underemployment equilibrium"
+    ],
+    "correctAnswer": "Underemployment equilibrium",
+    "explanation": "Underemployment equilibrium occurs when skilled workers might be underutilized or occupied in jobs below their capability, indicating inefficiency despite jobs existing in lower productivity levels.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In economic theory, which of the following concepts refers to the situation where an increase in the quantity of a good demanded does not necessarily lead to an increase in its price?",
+    "choices": [
+      "Consumer preferences",
+      "Market saturation",
+      "Supply inelasticity",
+      "Elasticity of demand"
+    ],
+    "correctAnswer": "Market saturation",
+    "explanation": "Market saturation occurs when a market is no longer able to absorb more of a product, which can stabilize the prices despite an increase in demand.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary purpose of using the consumer price index (CPI) in economics?",
+    "choices": [
+      "To measure unemployment rates",
+      "To determine the stock market performances",
+      "To assess inflation over time",
+      "To evaluate exchange rates"
+    ],
+    "correctAnswer": "To assess inflation over time",
+    "explanation": "The consumer price index (CPI) is used to measure changes in the price level of a basket of consumer goods and services and is a common method to gauge inflation.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of macroeconomics, what does the Laffer Curve illustrate?",
+    "choices": [
+      "The relationship between tax rates and tax revenue",
+      "The correlation between government spending and GDP",
+      "The trade-off between inflation and unemployment",
+      "The effects of currency devaluation"
+    ],
+    "correctAnswer": "The relationship between tax rates and tax revenue",
+    "explanation": "The Laffer Curve posits that there exists an optimal tax rate that maximizes revenue; beyond this point, increasing tax rates can lead to a decrease in total revenue.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What phenomenon is often described by Olley-Pakes productivity index in the context of firm dynamics?",
+    "choices": [
+      "Effect of entry and exit of firms on productivity",
+      "Measurement of labor productivity across sectors",
+      "Comparative advantage in trade",
+      "Capital allocation across economies"
+    ],
+    "correctAnswer": "Effect of entry and exit of firms on productivity",
+    "explanation": "The Olley-Pakes productivity index specifically examines how innovation and capital investment affect the productivity of established firms while accounting for new entrants and exits within an industry.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following best defines 'disguised unemployment'?",
+    "choices": [
+      "Appearance of having a job without real productivity",
+      "Individuals working in the informal economy",
+      "Workers temporarily not in a workforce due to seasonal factors",
+      "Those employed part-time who want to work full-time"
+    ],
+    "correctAnswer": "Appearance of having a job without real productivity",
+    "explanation": "Disguised unemployment refers to a situation where individuals are considered employed but contribute little to the overall production; this often occurs in public jobs.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What economic model explains how firms make output decisions based on price fluctuations in relation to marginal cost?",
+    "choices": [
+      "A. Keynesian Model",
+      "B. Perfect Competition Model",
+      "C. Game Theory",
+      "D. Solow Growth Model"
+    ],
+    "correctAnswer": "B. Perfect Competition Model",
+    "explanation": "In a Perfect Competition Model, firms take the market price as given and determine the quantity of output to produce where marginal cost equals marginal revenue, reflecting price fluctuations.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In which of the following situations can the economy experience hyperinflation?",
+    "choices": [
+      "A. Rapid increase in consumer demand",
+      "B. Sudden and excessive printing of money",
+      "C. Significant reduction in government spending",
+      "D. Diminished global demand for exports"
+    ],
+    "correctAnswer": "B. Sudden and excessive printing of money",
+    "explanation": "Hyperinflation is typically caused by an excessive increase in the money supply, often due to central banks printing more money than the economy can support.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following best describes 'moral hazard' in economics?",
+    "choices": [
+      "A. When deposits are guaranteed by the government",
+      "B. When an individual or institution takes risks knowing that the negative consequences will be borne by someone else",
+      "C. The tendency for people to take less risk when they gain information",
+      "D. Situations where open access to resources leads to depletion"
+    ],
+    "correctAnswer": "B. When an individual or institution takes risks knowing that the negative consequences will be borne by someone else",
+    "explanation": "Moral hazard occurs when a party is insulated from risk and can act in a way that is reckless or not in the best interest of another, confident that someone else will handle the repercussions.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the 'Phillips Curve' primarily used to demonstrate in macroeconomics?",
+    "choices": [
+      "A. The trade-off between inflation and unemployment",
+      "B. The relationship between interest rates and investment",
+      "C. The impact of foreign exchange rates on domestic prices",
+      "D. Output levels at different stages of economic growth"
+    ],
+    "correctAnswer": "A. The trade-off between inflation and unemployment",
+    "explanation": "The Phillips Curve illustrates an inverse relationship between the rate of inflation and the unemployment rate, suggesting that lower unemployment in an economy correlates with higher inflation.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of behavioral economics, what does 'loss aversion' characterize?",
+    "choices": [
+      "A. Preference for simple solutions over complex ones",
+      "B. Strength of losing over gaining equivalent amounts",
+      "C. Willingness to take on greater risk for lesser rewards",
+      "D. Majority voting in decision-making models"
+    ],
+    "correctAnswer": "B. Strength of losing over gaining equivalent amounts",
+    "explanation": "Loss aversion refers to the psychological phenomenon where losses are perceived to be more significant than gains of the same size, leading individuals to avoid losses more rigorously than they seek gains.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What economic concept explains the phenomenon where a decrease in the price of one good leads to an increase in the quantity demanded of a related good?",
+    "choices": [
+      "A) Substitution Effect",
+      "B) Income Effect",
+      "C) Cross-Price Elasticity",
+      "D) Supply Shock"
+    ],
+    "correctAnswer": "C) Cross-Price Elasticity",
+    "explanation": "Cross-price elasticity measures how the quantity demanded of one good responds to a change in the price of another good, illustrating the substitutive relationship between them.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following best describes the concept of the Laffer Curve?",
+    "choices": [
+      "A) It represents the relationship between tax rates and tax revenue.",
+      "B) It shows the trade-off between inflation and unemployment.",
+      "C) It indicates the point of diminishing returns on capital.",
+      "D) It analyzes consumer theory related to indifference curves."
+    ],
+    "correctAnswer": "A) It represents the relationship between tax rates and tax revenue.",
+    "explanation": "The Laffer Curve illustrates that there is an optimal tax rate that maximizes revenue; beyond this rate, increases can actually lead to decreased revenue due to reduced incentives to earn taxable income.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of option pricing models, what does the 'Black-Scholes formula' calculate?",
+    "choices": [
+      "A) The intrinsic value of an underlying asset.",
+      "B) The fair value of European-style options.",
+      "C) The expected future cash flows of an investment.",
+      "D) The volatility coefficient of.market returns."
+    ],
+    "correctAnswer": "B) The fair value of European-style options.",
+    "explanation": "The Black-Scholes model provides a mathematical framework for estimating the price of options, specifically European options which can only be exercised at expiration.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following describes Hirschman's principles of 'linkages' in economic development?",
+    "choices": [
+      "A) It emphasizes horizontal linkages between industries.",
+      "B) It refers to the importance of capital-intensive agriculture.",
+      "C) It represents reciprocal relationships and dependencies formed during development.",
+      "D) It is focused on vertical integration in manufacturing processes."
+    ],
+    "correctAnswer": "C) It represents reciprocal relationships and dependencies formed during development.",
+    "explanation": "Hirschman's concept of linkages stresses how investments in one sector can have a multiplier effect across different sectors, positively affecting overall economic development.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What does the term 'ceteris paribus' translate to and imply in economic analysis?",
+    "choices": [
+      "A) All else being equal",
+      "B) Statistically significant relationships",
+      "C) Accelerated productivity models",
+      "D) Aggregate demand curves"
+    ],
+    "correctAnswer": "A) All else being equal",
+    "explanation": "Ceteris paribus is a Latin phrase used by economists to indicate that they are isolating the effect of one variable while holding all other relevant factors constant, crucial for controlled analysis.",
+    "category": "Economics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary implication of the Arrow-Debreu theorem in general equilibrium theory?",
+    "choices": [
+      "Markets can achieve Pareto efficiency under certain conditions",
+      "Monopolies lead to optimal resource allocation",
+      "Government intervention is essential for market success",
+      "Prices are always equal to marginal costs in equilibrium"
+    ],
+    "correctAnswer": "Markets can achieve Pareto efficiency under certain conditions",
+    "explanation": "The Arrow-Debreu theorem demonstrates that under specific assumptions (e.g., complete markets, perfect information), markets can allocate resources efficiently, which leads to Pareto optimal outcomes.",
+    "category": "Economics",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In game theory, what does a 'Nash equilibrium' represent?",
+    "choices": [
+      "The state in which players cooperate to achieve the best collective outcome",
+      "A situation where players adopt the strategy that maximizes their own utility given the strategies of others",
+      "A dominant strategy leading to the best payoff for every player",
+      "The perfect competition scenario"
+    ],
+    "correctAnswer": "A situation where players adopt the strategy that maximizes their own utility given the strategies of others",
+    "explanation": "A Nash equilibrium occurs when no player can benefit by changing their strategy whilst other players maintain their current strategies, reflecting a state of mutual best responses.",
+    "category": "Economics",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What does the concept of 'creative destruction' in economic theory refer to?",
+    "choices": [
+      "The process by which new industries destroy traditional industries",
+      "An increase in inefficiency as companies grow",
+      "Innovations that lead to economic stagnation",
+      "Government policies disrupting market flows"
+    ],
+    "correctAnswer": "The process by which new industries destroy traditional industries",
+    "explanation": "Coined by Joseph Schumpeter, creative destruction describes how innovation leads to the obliteration of outdated industries and economic structures, thereby driving growth and evolution in the economy.",
+    "category": "Economics",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the significance of the Phillips Curve in economics?",
+    "choices": [
+      "It explains the interdependent relationship between unemployment and inflation",
+      "It serves as a model for aggregate demand and supply fluctuations",
+      "It shows the balance of trade dynamics over the economic cycle",
+      "It outlines the long-term GDP growth without impacting inflation"
+    ],
+    "correctAnswer": "It explains the interdependent relationship between unemployment and inflation",
+    "explanation": "The Phillips Curve illustrates the empirical inverse relationship between inflation and unemployment, suggesting that lower unemployment in an economy tends to correlate with higher inflation, particularly in the short run.",
+    "category": "Economics",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following best describes 'Moral Hazard' in economics?",
+    "choices": [
+      "Risk-taking behavior that increases in the absence of accountability",
+      "Individuals ensuring fair market practices through self-regulation",
+      "The situation where one party has more information than another",
+      "A natural adjustment process correcting economic imbalances"
+    ],
+    "correctAnswer": "Risk-taking behavior that increases in the absence of accountability",
+    "explanation": "Moral hazard refers to the propensity for increased risk-taking behavior when an individual does not bear the full consequences of their actions, particularly noticeable in situations like insurance and financial bailouts.",
+    "category": "Economics",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What economic model is often used to analyze competition in imperfect markets, particularly oligopolies?",
+    "choices": [
+      "A) Nash Equilibrium",
+      "B) Cournot Model",
+      "C) General Equilibrium Model",
+      "D) Neoclassical Growth Theory"
+    ],
+    "correctAnswer": "B) Cournot Model",
+    "explanation": "The Cournot model describes an oligopoly in which firms compete by choosing quantities, with the price determined by the total quantity produced. It is a fundamental model studied in industrial organization.",
+    "category": "Economics",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In which kind of economy does Hayek argue that decentralization of decision-making leads to more efficient utilization of resources?",
+    "choices": [
+      "A) Command economy",
+      "B) Mixed economy",
+      "C) Market economy",
+      "D) Mercantilist economy"
+    ],
+    "correctAnswer": "C) Market economy",
+    "explanation": "Friedrich Hayek argues that a market economy facilitates spontaneous order and efficient resource allocation through decentralized decision-making, allowing individuals to respond to price signals.",
+    "category": "Economics",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which model discusses how birth rates and death rates affect population growth over generations?",
+    "choices": [
+      "A) Solow Growth Model",
+      "B) Malthusian Growth Model",
+      "C) The Harrod-Domar Model",
+      "D) The Integrated Growth Model"
+    ],
+    "correctAnswer": "B) Malthusian Growth Model",
+    "explanation": "The Malthusian Growth Model posits that population growth inherently leads to resource depletion, emphasizing the relationship between population dynamics and resources available.",
+    "category": "Economics",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What does the phrase 'crowding out' refer to in public economics?",
+    "choices": [
+      "A) Reduction of private investment due to higher government spending.",
+      "B) Increase in costs due to excessive infrastructure construction.",
+      "C) Policymaking that intentionally limits monopolistic behavior.",
+      "D) The decrease in public sector price elasticity."
+    ],
+    "correctAnswer": "A) Reduction of private investment due to higher government spending.",
+    "explanation": "Crowding out occurs when government spending reduces or 'crowds out' private sector investment, resulting in an overall less efficient allocation of resources in the economy.",
+    "category": "Economics",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the context of intertemporal choice theory, what does 'hyperbolic discounting' suggest?",
+    "choices": [
+      "A) Individuals value future rewards linearly irrespective of immediate gratification.",
+      "B) Individuals have a higher discount rate for delayed rewards closer to the present.",
+      "C) Future rewards are weighted exponentially more than current rewards.",
+      "D) Individuals will always prefer immediate rewards over future investments."
+    ],
+    "correctAnswer": "B) Individuals have a higher discount rate for delayed rewards closer to the present.",
+    "explanation": "Hyperbolic discounting describes how people tend to prefer smaller immediate rewards over larger delayed rewards more when the option is contingent upon shorter time frames.",
+    "category": "Economics",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the capital city of France?",
+    "choices": [
+      "Paris",
+      "Rome",
+      "Berlin",
+      "Madrid"
+    ],
+    "correctAnswer": "Paris",
+    "explanation": "Paris is the capital city of France, known for its art, fashion, and culture.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which continent is known as the 'Land Down Under'?",
+    "choices": [
+      "Africa",
+      "Asia",
+      "Australia",
+      "America"
+    ],
+    "correctAnswer": "Australia",
+    "explanation": "Australia is often referred to as the 'Land Down Under' because it is located in the Southern Hemisphere.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which ocean is the largest in the world?",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean",
+    "explanation": "The Pacific Ocean is the largest ocean in the world, covering more area than all the landmasses combined.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which country is famous for the pyramids?",
+    "choices": [
+      "Greece",
+      "Egypt",
+      "China",
+      "Italy"
+    ],
+    "correctAnswer": "Egypt",
+    "explanation": "Egypt is world-renowned for its ancient pyramids, particularly the Great Pyramid of Giza.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "choices": [
+      "Nile",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "correctAnswer": "Nile",
+    "explanation": "The Nile River is traditionally considered the longest river in the world, flowing through northeastern Africa.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What continent do penguins primarily live on?",
+    "choices": [
+      "North America",
+      "Africa",
+      "Antarctica",
+      "Australia"
+    ],
+    "correctAnswer": "Antarctica",
+    "explanation": "Most species of penguins live in the Southern Hemisphere, particularly in Antarctica.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which country has the largest land area?",
+    "choices": [
+      "Canada",
+      "China",
+      "United States",
+      "Russia"
+    ],
+    "correctAnswer": "Russia",
+    "explanation": "Russia is the largest country in the world, covering more than 17 million square kilometers.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "choices": [
+      "Monaco",
+      "Vatican City",
+      "San Marino",
+      "Nauru"
+    ],
+    "correctAnswer": "Vatican City",
+    "explanation": "Vatican City is an independent city-state enclaved within Rome, Italy, and is the smallest country in the world by both area and population.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which of these countries is located in South America?",
+    "choices": [
+      "Egypt",
+      "Australia",
+      "Chile",
+      "Norway"
+    ],
+    "correctAnswer": "Chile",
+    "explanation": "Chile is a long, narrow country located along the western edge of South America, bordered by the Pacific Ocean.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What feature is the Great Wall of China?",
+    "choices": [
+      "A river",
+      "A road",
+      "A wall",
+      "A palace"
+    ],
+    "correctAnswer": "A wall",
+    "explanation": "The Great Wall of China is a series of fortifications built to protect Chinese states from invasions and raids.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Mount Everest is found in which mountain range?",
+    "choices": [
+      "Rockies",
+      "Andes",
+      "Himalayas",
+      "Appalachians"
+    ],
+    "correctAnswer": "Himalayas",
+    "explanation": "Mount Everest, the highest mountain in the world, is part of the Himalayan mountain range located in Asia.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which river is the longest in the world?",
+    "choices": [
+      "Amazon River",
+      "Nile River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "correctAnswer": "Nile River",
+    "explanation": "The Nile River, located in northeastern Africa, is traditionally considered the longest river in the world, stretching about 6,650 kilometers.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the main language spoken in Brazil?",
+    "choices": [
+      "Spanish",
+      "Portuguese",
+      "English",
+      "French"
+    ],
+    "correctAnswer": "Portuguese",
+    "explanation": "Portuguese is the official language of Brazil, a country that was colonized by Portugal.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean",
+    "explanation": "The Pacific Ocean is the largest and deepest ocean on Earth, covering more area than all the continents combined.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What mountain range separates Europe and Asia?",
+    "choices": [
+      "Appalachian Mountains",
+      "Himalayas",
+      "Rocky Mountains",
+      "Ural Mountains"
+    ],
+    "correctAnswer": "Ural Mountains",
+    "explanation": "The Ural Mountains are traditionally considered the natural boundary that separates Europe and Asia.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the largest continent on Earth?",
+    "choices": [
+      "Africa",
+      "Antarctica",
+      "Asia",
+      "Europe"
+    ],
+    "correctAnswer": "Asia",
+    "explanation": "Asia is the largest continent, covering about 30% of the Earth's land area.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean",
+    "explanation": "The Pacific Ocean is the largest and deepest ocean, extending between Asia to the west and North America to the east.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "In which country would you find the Great Pyramid of Giza?",
+    "choices": [
+      "Egypt",
+      "India",
+      "China",
+      "Mexico"
+    ],
+    "correctAnswer": "Egypt",
+    "explanation": "The Great Pyramid of Giza is located in Egypt and is one of the Seven Wonders of the Ancient World.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "In which continent is the Sahara Desert located?",
+    "choices": [
+      "Asia",
+      "Antarctica",
+      "Africa",
+      "Australia"
+    ],
+    "correctAnswer": "Africa",
+    "explanation": "The Sahara Desert is located in northern Africa and is the largest hot desert in the world.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "choices": [
+      "China",
+      "Japan",
+      "Thailand",
+      "South Korea"
+    ],
+    "correctAnswer": "Japan",
+    "explanation": "Japan is called the Land of the Rising Sun, reflecting its name in Japanese, which means 'the sunorigin'.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the capital of France?",
+    "choices": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Rome"
+    ],
+    "correctAnswer": "Paris",
+    "explanation": "Paris is the capital city of France, known for its famous landmarks such as the Eiffel Tower and the Louvre.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which continent is known as the 'Dark Continent'?",
+    "choices": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "Australia"
+    ],
+    "correctAnswer": "Africa",
+    "explanation": "Africa was historically referred to as the 'Dark Continent' due to the little information that was known about its interior and exploration.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What country is famous for maple syrup?",
+    "choices": [
+      "United States",
+      "Mexico",
+      "Canada",
+      "Japan"
+    ],
+    "correctAnswer": "Canada",
+    "explanation": "Canada is famous for its maple syrup production, derived from sugar maple trees found in the country.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which country is home to the kangaroo?",
+    "choices": [
+      "Australia",
+      "India",
+      "South Africa",
+      "Brazil"
+    ],
+    "correctAnswer": "Australia",
+    "explanation": "Kangaroos are native to Australia and are one of the country's most iconic animals.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "choices": [
+      "K2",
+      "Kangchenjunga",
+      "Mount Everest",
+      "Mount Kilimanjaro"
+    ],
+    "correctAnswer": "Mount Everest",
+    "explanation": "Mount Everest is the tallest mountain in the world, with a peak that rises 8,848 meters (29,029 feet) above sea level.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which desert is the largest in the world?",
+    "choices": [
+      "Sahara Desert",
+      "Gobi Desert",
+      "Kalahari Desert",
+      "Antarctic Desert"
+    ],
+    "correctAnswer": "Antarctic Desert",
+    "explanation": "The Antarctic Desert is the largest desert in the world, classified as a cold desert with extremely low temperatures and little precipitation.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which continent is known for its rainforests?",
+    "choices": [
+      "North America",
+      "Asia",
+      "Africa",
+      "South America"
+    ],
+    "correctAnswer": "South America",
+    "explanation": "South America is known for its vast rainforests, particularly the Amazon Rainforest, which is one of the most biodiverse regions on Earth.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which country is famous for the Great Wall?",
+    "choices": [
+      "India",
+      "Japan",
+      "China",
+      "Thailand"
+    ],
+    "correctAnswer": "China",
+    "explanation": "The Great Wall of China is a historical structure built to protect Chinese states from invasions.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What ocean is the largest?",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean",
+    "explanation": "The Pacific Ocean is the largest and deepest ocean on Earth, covering more area than all land masses combined.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which US state is known as the Sunshine State?",
+    "choices": [
+      "California",
+      "Florida",
+      "Texas",
+      "Arizona"
+    ],
+    "correctAnswer": "Florida",
+    "explanation": "Florida is popularly known as the Sunshine State due to its generally sunny and warm climate.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What mountain range separates Europe from Asia?",
+    "choices": [
+      "Himalayas",
+      "Mount Everest",
+      "Andes",
+      "Ural Mountains"
+    ],
+    "correctAnswer": "Ural Mountains",
+    "explanation": "The Ural Mountains are traditionally considered the natural boundary that separates Europe from Asia.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which continent is known as the Land Down Under?",
+    "choices": [
+      "Asia",
+      "Australia",
+      "Africa",
+      "South America"
+    ],
+    "correctAnswer": "Australia",
+    "explanation": "Australia is often referred to as the Land Down Under because it is located in the Southern Hemisphere.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which country is known for the Great Pyramids?",
+    "choices": [
+      "Greece",
+      "Egypt",
+      "Mayan Empire",
+      "India"
+    ],
+    "correctAnswer": "Egypt",
+    "explanation": "Egypt is famous for the Great Pyramids, particularly the Pyramids of Giza, which are one of the Seven Wonders of the Ancient World.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which mountain is the highest in the world?",
+    "choices": [
+      "K2",
+      "Kangchenjunga",
+      "Everest",
+      "Mont Blanc"
+    ],
+    "correctAnswer": "Everest",
+    "explanation": "Mount Everest is the highest mountain in the world, standing at 29,032 feet (8,848 meters).",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the largest desert on Earth?",
+    "choices": [
+      "Sahara",
+      "Arctic",
+      "Gobi",
+      "Kalahari"
+    ],
+    "correctAnswer": "Sahara",
+    "explanation": "The Sahara Desert is the largest hot desert in the world, located in North Africa.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the currency used in the United States?",
+    "choices": [
+      "Euro",
+      "Pound",
+      "Yen",
+      "Dollar"
+    ],
+    "correctAnswer": "Dollar",
+    "explanation": "The currency of the United States is the US Dollar.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which country has the largest population?",
+    "choices": [
+      "India",
+      "United States",
+      "China",
+      "Indonesia"
+    ],
+    "correctAnswer": "China",
+    "explanation": "As of my last update, China has the largest population of any country in the world, with over 1.4 billion people.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which of the following states is NOT part of the contiguous United States?",
+    "choices": [
+      "Florida",
+      "Texas",
+      "Hawaii",
+      "New York"
+    ],
+    "correctAnswer": "Hawaii",
+    "explanation": "Hawaii is the only U.S. state that is not located on the North American continent; it is an archipelago in the central Pacific Ocean.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the capital city of Spain?",
+    "choices": [
+      "Madrid",
+      "Barcelona",
+      "Sevilla",
+      "Valencia"
+    ],
+    "correctAnswer": "Madrid",
+    "explanation": "Madrid is the capital of Spain and the country's largest city.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which continent is known as 'The Dark Continent'?",
+    "choices": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "Australia"
+    ],
+    "correctAnswer": "Africa",
+    "explanation": "Europeans referred to Africa as 'The Dark Continent' due to its unexplored jungles and mystery in the 19th century.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "choices": [
+      "Sahara",
+      "Arabian Desert",
+      "Gobi Desert",
+      "Antarctic Desert"
+    ],
+    "correctAnswer": "Antarctic Desert",
+    "explanation": "Although the Sahara Desert is famous, the Antarctic Desert is actually the largest desert, classified as a cold desert.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which country has the most natural lakes?",
+    "choices": [
+      "Canada",
+      "USA",
+      "Russia",
+      "India"
+    ],
+    "correctAnswer": "Canada",
+    "explanation": "Canada has more lakes than any other country, with thousands of valid waterways.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What ocean borders the east coast of the United States?",
+    "choices": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": "Atlantic Ocean",
+    "explanation": "The Atlantic Ocean is on the eastern border of the continental United States.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which country is the island nation of Madagascar off the coast of?",
+    "choices": [
+      "India",
+      "Mozambique",
+      "Australia",
+      "Tanzania"
+    ],
+    "correctAnswer": "Mozambique",
+    "explanation": "Madagascar is situated in the Indian Ocean, off the southeastern coast of Mozambique.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which of these countries is landlocked?",
+    "choices": [
+      "Switzerland",
+      "Thailand",
+      "Egypt",
+      "Vietnam"
+    ],
+    "correctAnswer": "Switzerland",
+    "explanation": "Switzerland is completely surrounded by land and does not have a coastline.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which country is both in Asia and Europe?",
+    "choices": [
+      "Turkey",
+      "Russia",
+      "Kazakhstan",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Turkey, Russia, and Kazakhstan all span both Asia and Europe, making them transcontinental countries.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "choices": [
+      "Tokyo",
+      "Kyoto",
+      "Osaka",
+      "Hokkaido"
+    ],
+    "correctAnswer": "Tokyo",
+    "explanation": "Tokyo is the capital city of Japan and is one of the most populous cities in the world.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which mountain range separates Europe from Asia?",
+    "choices": [
+      "Andes",
+      "Himalayas",
+      "Urals",
+      "Rockies"
+    ],
+    "correctAnswer": "Urals",
+    "explanation": "The Ural Mountains are generally considered to be the natural boundary that separates Europe from Asia.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What river is the longest in the world?",
+    "choices": [
+      "Amazon River",
+      "Nile River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "correctAnswer": "Nile River",
+    "explanation": "The Nile River is traditionally considered the longest river in the world, stretching for about 4,135 miles.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "choices": [
+      "Sydney",
+      "Canberra",
+      "Melbourne",
+      "Brisbane"
+    ],
+    "correctAnswer": "Canberra",
+    "explanation": "Canberra was selected as the capital of Australia in 1908 as a compromise between rivals Sydney and Melbourne.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which continent is the Sahara Desert located on?",
+    "choices": [
+      "Asia",
+      "Australia",
+      "Africa",
+      "South America"
+    ],
+    "correctAnswer": "Africa",
+    "explanation": "The Sahara Desert is located in North Africa and is the largest hot desert in the world.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which U.S. state is known for having the most active volcanoes?",
+    "choices": [
+      "California",
+      "Hawaii",
+      "Alaska",
+      "Washington"
+    ],
+    "correctAnswer": "Alaska",
+    "explanation": "Alaska has more active volcanoes than any other U.S. state, with approximately 130 historically active volcanoes.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which mountain range separates Europe and Asia?",
+    "choices": [
+      "Himalayas",
+      "Rocky Mountains",
+      "Ural Mountains",
+      "Andes"
+    ],
+    "correctAnswer": "Ural Mountains",
+    "explanation": "The Ural Mountains are conventionally considered the natural boundary separating Europe and Asia.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the smallest country in the world by land area?",
+    "choices": [
+      "Monaco",
+      "Vatican City",
+      "San Marino",
+      "Nauru"
+    ],
+    "correctAnswer": "Vatican City",
+    "explanation": "Vatican City is the smallest country in the world, occupying just about 44 hectares (110 acres).",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What landform is characterized by high, steep sides and a flat top?",
+    "choices": [
+      "Hill",
+      "Mountain",
+      "Plateau",
+      "Valley"
+    ],
+    "correctAnswer": "Plateau",
+    "explanation": "A plateau is a flat-topped area that has been raised up by geological processes, often surrounded by steep cliffs.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which state in the United States has the most coastline?",
+    "choices": [
+      "California",
+      "Alaska",
+      "Florida",
+      "Texas"
+    ],
+    "correctAnswer": "Alaska",
+    "explanation": "Alaska has the longest coastline of any state in the U.S., with over 33,000 miles (53,000 kilometers) of coastline.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which country has the largest population in the world?",
+    "choices": [
+      "India",
+      "United States",
+      "China",
+      "Brazil"
+    ],
+    "correctAnswer": "China",
+    "explanation": "China has the largest population in the world, with over 1.4 billion people as of 2021.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "choices": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "correctAnswer": "Ottawa",
+    "explanation": "Ottawa is the capital city of Canada and is located in Eastern Ontario along the Ottawa River.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which continent is known for having the most countries?",
+    "choices": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "North America"
+    ],
+    "correctAnswer": "Africa",
+    "explanation": "Africa is the continent with the most countries, boasting 54 recognized sovereign states.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which is the only continent without a native species of ants?",
+    "choices": [
+      "Australia",
+      "Antarctica",
+      "Europe",
+      "South America"
+    ],
+    "correctAnswer": "Antarctica",
+    "explanation": "Antarctica is the only continent without any native species of ants, largely due to its harsh climate.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What line divides the Earth into the Northern and Southern Hemispheres?",
+    "choices": [
+      "Equator",
+      "Prime Meridian",
+      "Tropic of Cancer",
+      "International Date Line"
+    ],
+    "correctAnswer": "Equator",
+    "explanation": "The Equator is an imaginary line that is equidistant from the North and South Poles, effectively dividing the Earth into the Northern and Southern Hemispheres.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which is the largest continent by land area?",
+    "choices": [
+      "Africa",
+      "Asia",
+      "North America",
+      "Antarctica"
+    ],
+    "correctAnswer": "Asia",
+    "explanation": "Asia is the largest continent, covering approximately 44.58 million square kilometers (17.21 million square miles).",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Mount Everest is part of which mountain range?",
+    "choices": [
+      "Andes",
+      "Rocky Mountains",
+      "Himalayas",
+      "Alps"
+    ],
+    "correctAnswer": "Himalayas",
+    "explanation": "Mount Everest, known as the highest peak on Earth, is located in the Himalayas, which stretch across several countries including Nepal and China.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the most widely spoken language in the world?",
+    "choices": [
+      "Spanish",
+      "English",
+      "Mandarin Chinese",
+      "Arabic"
+    ],
+    "correctAnswer": "Mandarin Chinese",
+    "explanation": "Mandarin Chinese has the most native speakers in the world, primarily due to China's large population.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "choices": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Brisbane"
+    ],
+    "correctAnswer": "Canberra",
+    "explanation": "Canberra was selected as the capital of Australia in a compromise between rival cities Sydney and Melbourne.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which river is known as the longest river in the world?",
+    "choices": [
+      "Amazon River",
+      "Nile River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "correctAnswer": "Nile River",
+    "explanation": "The Nile River in Africa is commonly regarded as the longest river in the world, stretching about 4,135 miles.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which country has the most land borders?",
+    "choices": [
+      "China",
+      "Brazil",
+      "Russia",
+      "India"
+    ],
+    "correctAnswer": "China",
+    "explanation": "China shares borders with 14 different countries, making it the country with the most land borders.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which ocean is the largest by surface area?",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean",
+    "explanation": "The Pacific Ocean is the largest ocean, covering more than 63 million square miles.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which U.S. state is known as the 'Sunshine State'?",
+    "choices": [
+      "California",
+      "Florida",
+      "Texas",
+      "Hawaii"
+    ],
+    "correctAnswer": "Florida",
+    "explanation": "Florida is known as the 'Sunshine State' due to its warm and sunny climate.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Mount Everest is located in which mountain range?",
+    "choices": [
+      "Rocky Mountains",
+      "Andes",
+      "Himalayas",
+      "Alps"
+    ],
+    "correctAnswer": "Himalayas",
+    "explanation": "Mount Everest, the highest peak in the world, is located in the Himalayas on the border between Nepal and China.",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which is the smallest country in the world?",
+    "choices": [
+      "Liechtenstein",
+      "Vatican City",
+      "Monaco",
+      "San Marino"
+    ],
+    "correctAnswer": "Vatican City",
+    "explanation": "Vatican City is the smallest independent state in the world, both in area and population, covering approximately 44 hectares (110 acres).",
+    "category": "Geography",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "In which ocean is the island of Hawaii located?",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean",
+    "explanation": "Hawaii is situated in the central Pacific Ocean and is known for its beautiful beaches and unique culture.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which continent is Australia located on?",
+    "choices": [
+      "Asia",
+      "Africa",
+      "Australia",
+      "Europe"
+    ],
+    "correctAnswer": "Australia",
+    "explanation": "Australia is both a country and a continent, located in the southern hemisphere.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What country has the largest land area?",
+    "choices": [
+      "China",
+      "United States",
+      "Russia",
+      "Canada"
+    ],
+    "correctAnswer": "Russia",
+    "explanation": "Russia is the largest country in the world, covering more area than any other country.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "In which ocean is the island of Madagascar located?",
+    "choices": [
+      "Atlantic Ocean",
+      "Arctic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": "Indian Ocean",
+    "explanation": "Madagascar is situated in the Indian Ocean, off the southeastern coast of Africa.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "choices": [
+      "Tokyo",
+      "Seoul",
+      "Beijing",
+      "Bangkok"
+    ],
+    "correctAnswer": "Tokyo",
+    "explanation": "Tokyo is the capital of Japan and one of the most populous cities in the world.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "choices": [
+      "Australia",
+      "Brazil",
+      "Egypt",
+      "Mexico"
+    ],
+    "correctAnswer": "Australia",
+    "explanation": "The Great Barrier Reef, the largest coral reef system, is located off the northeast coast of Australia.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What continent is Canada located in?",
+    "choices": [
+      "Asia",
+      "Africa",
+      "North America",
+      "South America"
+    ],
+    "correctAnswer": "North America",
+    "explanation": "Canada is located in North America, sharing the continent with the United States and Mexico.",
+    "category": "Geography",
+    "difficulty": "Elementary"
   }
 ];
