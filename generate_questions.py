@@ -14,7 +14,7 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 
 def generate_questions(category, difficulty, num_questions):
     prompt = (
-    "Generate {num_questions} trivia questions with multiple choices "
+    f"Generate {num_questions} trivia questions with multiple choices "
     f"in the category of {category} and difficulty level {difficulty}. "
     "Output **only** valid JSON. The JSON must be a list of objects with "
     "keys 'question', 'choices', 'correctAnswer', 'explanation'. "
@@ -54,7 +54,7 @@ def generate_questions(category, difficulty, num_questions):
 
 def main():
     categories = [
-        "Geography"
+        "Space travel"
     ]
     difficulty_levels = ["Elementary", "Middle School", "Highschool", "Undergrad", "Masters", "PhD", "Extreme", "Extra Super Extremely hard", "Impossible"]
 

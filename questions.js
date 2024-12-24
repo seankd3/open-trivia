@@ -29018,5 +29018,2189 @@ const questions = [
     "explanation": "Canada is located in North America, sharing the continent with the United States and Mexico.",
     "category": "Geography",
     "difficulty": "Elementary"
+  },
+  {
+    "question": "Which ocean is the smallest in the world?",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": "Arctic Ocean",
+    "explanation": "The Arctic Ocean is the smallest and shallowest of the world's five major oceans.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which of these is the largest ocean on Earth?",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correctAnswer": "Pacific Ocean",
+    "explanation": "The Pacific Ocean is the largest ocean on Earth, covering more area than all the landmasses combined.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which country is home to the Great Wall?",
+    "choices": [
+      "India",
+      "China",
+      "Japan",
+      "Vietnam"
+    ],
+    "correctAnswer": "China",
+    "explanation": "The Great Wall of China is a historic structure that stretches across northern China and was built to protect against invasions.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the currency used in Japan?",
+    "choices": [
+      "Yen",
+      "Dollar",
+      "Euro",
+      "Pound"
+    ],
+    "correctAnswer": "Yen",
+    "explanation": "The currency used in Japan is called the yen (\u00a5), and it has been in use since 1871.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "In which country would you find the Great Barrier Reef?",
+    "choices": [
+      "India",
+      "Australia",
+      "Brazil",
+      "Egypt"
+    ],
+    "correctAnswer": "Australia",
+    "explanation": "The Great Barrier Reef is located off the coast of Queensland, Australia, and is the largest coral reef system in the world.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the mountain range that runs along the border between the United States and Canada?",
+    "choices": [
+      "Rocky Mountains",
+      "Appalachian Mountains",
+      "Andes Mountains",
+      "Himalayas"
+    ],
+    "correctAnswer": "Rocky Mountains",
+    "explanation": "The Rocky Mountains, or Rockies, form a major mountain range in the Western United States and Canada.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which of these countries is located in Europe?",
+    "choices": [
+      "Brazil",
+      "Japan",
+      "Germany",
+      "Australia"
+    ],
+    "correctAnswer": "Germany",
+    "explanation": "Germany is a country in Europe, known for its rich history and culture.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which mountain range is the longest in the world?",
+    "choices": [
+      "Rocky Mountains",
+      "Andes Mountains",
+      "Himalayas",
+      "Appalachian Mountains"
+    ],
+    "correctAnswer": "Andes Mountains",
+    "explanation": "The Andes Mountains stretch over 4,300 miles across South America, making it the longest mountain range.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which continent is Australia located in?",
+    "choices": [
+      "Asia",
+      "Europe",
+      "Australia",
+      "Africa"
+    ],
+    "correctAnswer": "Australia",
+    "explanation": "Australia is both a country and a continent, located in the Southern Hemisphere.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What do we call a large body of salt water?",
+    "choices": [
+      "River",
+      "Lake",
+      "Ocean",
+      "Pond"
+    ],
+    "correctAnswer": "Ocean",
+    "explanation": "Oceans are vast bodies of salt water, and they cover about 71% of the Earth's surface.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which mountain is the tallest in the world?",
+    "choices": [
+      "K2",
+      "Kangchenjunga",
+      "Mount Everest",
+      "Makalu"
+    ],
+    "correctAnswer": "Mount Everest",
+    "explanation": "Mount Everest is the highest mountain in the world, with a peak that reaches 8,848 meters above sea level.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "choices": [
+      "Nile River",
+      "Amazon River",
+      "Mississippi River",
+      "Yangtze River"
+    ],
+    "correctAnswer": "Amazon River",
+    "explanation": "Though the Nile is often cited as the longest, the Amazon is considered the longest river by many measurements.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "In which country is the Great Pyramid of Giza located?",
+    "choices": [
+      "Mexico",
+      "Egypt",
+      "Greece",
+      "India"
+    ],
+    "correctAnswer": "Egypt",
+    "explanation": "The Great Pyramid of Giza is one of the Seven Wonders of the Ancient World and is located in Egypt.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which continent is known as the frozen continent?",
+    "choices": [
+      "Asia",
+      "Antarctica",
+      "Africa",
+      "Europe"
+    ],
+    "correctAnswer": "Antarctica",
+    "explanation": "Antarctica is known as the frozen continent because it is covered in ice and is mostly uninhabited.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which country is famous for maple syrup?",
+    "choices": [
+      "United States",
+      "Canada",
+      "France",
+      "Germany"
+    ],
+    "correctAnswer": "Canada",
+    "explanation": "Canada is known for producing the most maple syrup in the world, primarily from its abundant maple trees.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the longest river in North America?",
+    "choices": [
+      "Missouri River",
+      "Ohio River",
+      "Colorado River",
+      "Mississippi River"
+    ],
+    "correctAnswer": "Missouri River",
+    "explanation": "The Missouri River is the longest river in North America, flowing for about 2,341 miles.",
+    "category": "Geography",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the first man-made object to reach space?",
+    "choices": [
+      "Apollo 11",
+      "Soyuz",
+      "Vostok 1",
+      "Vanguard 1"
+    ],
+    "correctAnswer": "Vanguard 1",
+    "explanation": "Vanguard 1 was launched by the United States in 1958 and is considered the first man-made object to reach space.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "choices": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswer": "Mars",
+    "explanation": "Mars is commonly referred to as the Red Planet due to its reddish appearance caused by iron oxide.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What do astronauts wear to protect themselves in space?",
+    "choices": [
+      "Jumpsuits",
+      "Space suits",
+      "Helmets",
+      "Snorkels"
+    ],
+    "correctAnswer": "Space suits",
+    "explanation": "Astronauts wear space suits to protect themselves from the harsh environment of space, including vacuum, extreme temperatures, and radiation.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which is our closest star?",
+    "choices": [
+      "Sirius",
+      "Proxima Centauri",
+      "The Sun",
+      "Alpha Centauri"
+    ],
+    "correctAnswer": "The Sun",
+    "explanation": "The Sun is our closest star, providing the Earth with light and heat.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the main purpose of a satellite?",
+    "choices": [
+      "To fly around spaceships",
+      "To collect data and communication",
+      "To test new materials",
+      "To protect astronauts"
+    ],
+    "correctAnswer": "To collect data and communication",
+    "explanation": "Satellites are used to collect data, communicate signals, and provide various services, including television and internet.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the first human to travel into space?",
+    "choices": [
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Buzz Aldrin",
+      "John Glenn"
+    ],
+    "correctAnswer": "Yuri Gagarin",
+    "explanation": "Yuri Gagarin was the first human in space, traveling aboard Vostok 1 on April 12, 1961.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What spacecraft did humans use to land on the Moon?",
+    "choices": [
+      "Apollo 11",
+      "Space Shuttle",
+      "Mars Rover",
+      "Voyager"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11 was the mission that first landed humans on the Moon on July 20, 1969.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which of these is Earth's only natural satellite?",
+    "choices": [
+      "Mars",
+      "Venus",
+      "the Sun",
+      "the Moon"
+    ],
+    "correctAnswer": "the Moon",
+    "explanation": "The Moon is the only natural satellite of Earth and significantly affects our tides.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the main purpose of the Hubble Space Telescope?",
+    "choices": [
+      "To transport people to space",
+      "To observe stars and galaxies",
+      "To communicate with aliens",
+      "To collect meteor samples"
+    ],
+    "correctAnswer": "To observe stars and galaxies",
+    "explanation": "The Hubble Space Telescope is used to observe distant stars, galaxies, and other astronomical phenomena.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the first human to journey into space?",
+    "choices": [
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Buzz Aldrin",
+      "John Glenn"
+    ],
+    "correctAnswer": "Yuri Gagarin",
+    "explanation": "Yuri Gagarin, a Soviet astronaut, became the first human to travel into space on April 12, 1961, aboard the Vostok 1 spacecraft.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of Earth's only natural satellite?",
+    "choices": [
+      "Phobos",
+      "Deimos",
+      "Europa",
+      "Moon"
+    ],
+    "correctAnswer": "Moon",
+    "explanation": "The Moon is Earth's only natural satellite, orbiting our planet and influencing tides and night time illumination.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which rocket was used to land humans on the Moon during Apollo missions?",
+    "choices": [
+      "Space Shuttle",
+      "Falcon 9",
+      "Saturn V",
+      "Atlas V"
+    ],
+    "correctAnswer": "Saturn V",
+    "explanation": "The Saturn V rocket was used by NASA to propel astronauts to the Moon during the Apollo program.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the international space station abbreviated as?",
+    "choices": [
+      "ISS",
+      "NASA",
+      "MSAA",
+      "ETS"
+    ],
+    "correctAnswer": "ISS",
+    "explanation": "ISS stands for the International Space Station, a space station where astronauts from different countries can live and work in space.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is used to launch spaceships into space?",
+    "choices": [
+      "Freight Train",
+      "Airplanes",
+      "Rockets",
+      "Balloons"
+    ],
+    "correctAnswer": "Rockets",
+    "explanation": "Rockets are used to launch spacecraft into orbit around the Earth and beyond due to their powerful engines.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "How long does it take for the International Space Station to orbit the Earth?",
+    "choices": [
+      "90 minutes",
+      "24 hours",
+      "half of a day",
+      "1 week"
+    ],
+    "correctAnswer": "90 minutes",
+    "explanation": "The International Space Station orbits the Earth approximately every 90 minutes, traveling at a speed of about 17,500 miles per hour.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which planet is known for its beautiful rings?",
+    "choices": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswer": "Saturn",
+    "explanation": "Saturn is famous for its stunning rings, which are made up of ice and rock particles.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Who was the first woman in space?",
+    "choices": [
+      "Sally Ride",
+      "Valentina Tereshkova",
+      "Mae Jemison",
+      "Ellen Ochoa"
+    ],
+    "correctAnswer": "Valentina Tereshkova",
+    "explanation": "Valentina Tereshkova, a Soviet cosmonaut, became the first woman to travel to space in 1963.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What do we call the first human to travel into space?",
+    "choices": [
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "Buzz Aldrin",
+      "John Glenn"
+    ],
+    "correctAnswer": "Yuri Gagarin",
+    "explanation": "Yuri Gagarin was the first human to journey into outer space on April 12, 1961.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the telescope that has provided us with many images of space since its launch in 1990?",
+    "choices": [
+      "Hubble Space Telescope",
+      "James Webb Telescope",
+      "Chandra X-ray Observatory",
+      "Kepler Space Telescope"
+    ],
+    "correctAnswer": "Hubble Space Telescope",
+    "explanation": "The Hubble Space Telescope has been a crucial satellite for astronomy, providing stunning images of distant galaxies and other celestial bodies.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "choices": [
+      "Earth",
+      "Venus",
+      "Mercury",
+      "Mars"
+    ],
+    "correctAnswer": "Mercury",
+    "explanation": "Mercury is the closest planet to the Sun, orbiting it at an average distance of about 57 million kilometers (35 million miles).",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the first American astronaut to orbit the Earth?",
+    "choices": [
+      "John Glenn",
+      "Alan Shepard",
+      "Charles Duke",
+      "Ken Mattingly"
+    ],
+    "correctAnswer": "John Glenn",
+    "explanation": "John Glenn was the first American astronaut to orbit the Earth, completing three orbits on February 20, 1962.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which space agency is responsible for the Apollo moon missions?",
+    "choices": [
+      "NASA",
+      "ESA",
+      "Roscosmos",
+      "ISRO"
+    ],
+    "correctAnswer": "NASA",
+    "explanation": "The National Aeronautics and Space Administration (NASA) is the United States government agency that conducted the Apollo moon missions.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of our galaxy?",
+    "choices": [
+      "The Milky Way",
+      "The Andromeda Galaxy",
+      "The Whirlpool Galaxy",
+      "The Sombrero Galaxy"
+    ],
+    "correctAnswer": "The Milky Way",
+    "explanation": "Our galaxy is called the Milky Way, which is a barred spiral galaxy containing billions of stars, including our solar system.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which spacecraft was the first to land on the moon?",
+    "choices": [
+      "Lunar Module",
+      "Viking",
+      "Voyager",
+      "Space Shuttle"
+    ],
+    "correctAnswer": "Lunar Module",
+    "explanation": "The Lunar Module was the spacecraft dedicated to landing on the Moon during the Apollo missions, with Apollo 11 being the first successful landing in 1969.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the rocket ship that took humans to the Moon?",
+    "choices": [
+      "Apollo 11",
+      "Challenger",
+      "Discovery",
+      "Space Shuttle"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11 was the first manned mission to land on the Moon, occurring in July 1969.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the central body in our solar system?",
+    "choices": [
+      "Earth",
+      "Moon",
+      "Sun",
+      "Mars"
+    ],
+    "correctAnswer": "Sun",
+    "explanation": "The Sun is the star at the center of our solar system, providing light and heat to the planets.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What do astronauts have to wear to go into space?",
+    "choices": [
+      "Hiking clothes",
+      "Swimming trunks",
+      "Space suits",
+      "Regular clothes"
+    ],
+    "correctAnswer": "Space suits",
+    "explanation": "Space suits protect astronauts from the harsh environment of space, including extreme temperatures and lack of air.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which animal was the first to travel into outer space?",
+    "choices": [
+      "Cat",
+      "Dog",
+      "Monkey",
+      "Goldfish"
+    ],
+    "correctAnswer": "Dog",
+    "explanation": "A Russian dog named Laika became the first animal to orbit the Earth in 1957 on the Sputnik 2 mission.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What do astronauts wear when they go into space?",
+    "choices": [
+      "Swim suits",
+      "Space suits",
+      "Pajamas",
+      "Regular clothes"
+    ],
+    "correctAnswer": "Space suits",
+    "explanation": "Space suits are specially designed to protect astronauts from the harsh conditions of space, including extreme temperatures and lack of air.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What does NASA stand for?",
+    "choices": [
+      "National Aeronautics and Space Administration",
+      "National Air and Space Agency",
+      "New Astronauts and Space Adventures",
+      "North American Space Agency"
+    ],
+    "correctAnswer": "National Aeronautics and Space Administration",
+    "explanation": "NASA is the United States government agency responsible for the nation's civilian space program and for aeronautics and aerospace research.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "How many planets are in our Solar System?",
+    "choices": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswer": "8",
+    "explanation": "There are eight recognized planets in our Solar System: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What device do astronauts use to move around in space?",
+    "choices": [
+      "Wheels",
+      "Rockets",
+      "Thrust shoes",
+      "Tethers"
+    ],
+    "correctAnswer": "Rockets",
+    "explanation": "Astronauts use rockets to propel themselves into space as vehicles that overcome Earth's gravity and carry them into orbit.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the main goal of space exploration?",
+    "choices": [
+      "To find treasure",
+      "To discover more about the universe",
+      "To conquer other planets",
+      "To build space homes"
+    ],
+    "correctAnswer": "To discover more about the universe",
+    "explanation": "The primary goal of space exploration is to learn as much as possible about celestial bodies, the origins of the universe, and our own planet.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the first country to send a person into space?",
+    "choices": [
+      "United States",
+      "Russia",
+      "China",
+      "India"
+    ],
+    "correctAnswer": "Russia",
+    "explanation": "Yuri Gagarin, a Russian cosmonaut, became the first person to travel into space on April 12, 1961.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What spaceship did the United States use to send astronauts to the moon?",
+    "choices": [
+      "Apollo",
+      "Shuttle",
+      "Soyuz",
+      "Venture"
+    ],
+    "correctAnswer": "Apollo",
+    "explanation": "The Apollo program was responsible for landing the first humans on the Moon in 1969.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the first artificial satellite launched into space?",
+    "choices": [
+      "Explorer",
+      "Vostok",
+      "Sputnik",
+      "ISS"
+    ],
+    "correctAnswer": "Sputnik",
+    "explanation": "Sputnik 1 was the first artificial satellite, launched by the Soviet Union on October 4, 1957.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What do astronauts use to breathe in space?",
+    "choices": [
+      "Oxygen tanks",
+      "Water bottles",
+      "Jet packs",
+      "Gloves"
+    ],
+    "correctAnswer": "Oxygen tanks",
+    "explanation": "Astronauts wear spacesuits with oxygen tanks to breathe in the vacuum of space.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What do astronauts wear in space to protect themselves?",
+    "choices": [
+      "T-Shirts",
+      "Space Suits",
+      "Shorts",
+      "Dance Costumes"
+    ],
+    "correctAnswer": "Space Suits",
+    "explanation": "Astronauts wear space suits to protect them from the vacuum of space, extreme temperatures, and debris.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which celestial body did humans first land on?",
+    "choices": [
+      "Mars",
+      "The Moon",
+      "Venus",
+      "The Sun"
+    ],
+    "correctAnswer": "The Moon",
+    "explanation": "Humans first landed on the Moon during the Apollo 11 mission on July 20, 1969.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the force that keeps us on the ground?",
+    "choices": [
+      "Magnetism",
+      "Gravity",
+      "Friction",
+      "Electromagnetism"
+    ],
+    "correctAnswer": "Gravity",
+    "explanation": "Gravity is the force that pulls objects toward one another, keeping us on the ground.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "choices": [
+      "Jupiter",
+      "Earth",
+      "Mars",
+      "Saturn"
+    ],
+    "correctAnswer": "Mars",
+    "explanation": "Mars is called the 'Red Planet' because of its reddish appearance, which is due to iron oxide, or rust, on its surface.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What do you call the first human-made object to go into space?",
+    "choices": [
+      "Vostok 1",
+      "Saturn V",
+      "Hubble",
+      "Space Shuttle"
+    ],
+    "correctAnswer": "Vostok 1",
+    "explanation": "Vostok 1 was the first human-made object to carry a human into space, launched by the Soviet Union in 1961.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the first person to travel into space?",
+    "choices": [
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "John Glenn"
+    ],
+    "correctAnswer": "Yuri Gagarin",
+    "explanation": "Yuri Gagarin, a Soviet cosmonaut, became the first human to travel to space on April 12, 1961.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the spacecraft that took astronauts to the Moon?",
+    "choices": [
+      "Apollo 11",
+      "Discovery",
+      "Atlantis",
+      "Voyager"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11 was the space mission that successfully landed the first humans on the Moon on July 20, 1969.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What do we call the path an object takes as it moves around a planet?",
+    "choices": [
+      "A. Orbit",
+      "B. Rotation",
+      "C. Revolution",
+      "D. Translation"
+    ],
+    "correctAnswer": "A. Orbit",
+    "explanation": "An orbit is the gravitational curve path of an object around a planet or a star.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What spacecraft was the first to land on the Moon?",
+    "choices": [
+      "A. Apollo 11",
+      "B. Apollo 13",
+      "C. Voyager 1",
+      "D. Enterprise"
+    ],
+    "correctAnswer": "A. Apollo 11",
+    "explanation": "Apollo 11 was the first manned mission to land on the Moon on July 20, 1969.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the main purpose of a space shuttle?",
+    "choices": [
+      "A. To explore Mars",
+      "B. To travel to other galaxies",
+      "C. To transport people and cargo to space",
+      "D. To build space stations"
+    ],
+    "correctAnswer": "C. To transport people and cargo to space",
+    "explanation": "Space shuttles were designed to carry astronauts and equipment to and from space.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the spacecraft that carried astronauts to the Moon in 1969?",
+    "choices": [
+      "Space Shuttle",
+      "Apollo 11",
+      "Soyuz",
+      "Voyager"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11 was the mission in which astronauts Neil Armstrong and Buzz Aldrin became the first and second humans to walk on the Moon.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What do astronauts wear to survive in space?",
+    "choices": [
+      "Casual clothes",
+      "Space suits",
+      "Coats",
+      "Swimwear"
+    ],
+    "correctAnswer": "Space suits",
+    "explanation": "Astronauts wear space suits, which provide them with oxygen, protect them from harsh conditions, and allow them to move in space.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the first manned spacecraft to travel to the Moon?",
+    "choices": [
+      "Apollo 11",
+      "Gemini 8",
+      "Atmospheric Explorer",
+      "Voyager 1"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11 was the space mission that first landed humans on the Moon in 1969.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which space agency is known for the Apollo Moon missions?",
+    "choices": [
+      "NASA",
+      "ESA",
+      "Roscosmos",
+      "ISRO"
+    ],
+    "correctAnswer": "NASA",
+    "explanation": "NASA, the National Aeronautics and Space Administration, was responsible for the Apollo moon missions in the United States.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What vehicle do astronauts travel in to go into space?",
+    "choices": [
+      "Car",
+      "Bicycle",
+      "Rocket",
+      "Boat"
+    ],
+    "correctAnswer": "Rocket",
+    "explanation": "Astronauts travel in rockets because they are specially designed to carry people and equipment into space.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "How do astronauts move in space?",
+    "choices": [
+      "By walking",
+      "By floating",
+      "By swimming",
+      "By flying"
+    ],
+    "correctAnswer": "By floating",
+    "explanation": "In space, there is very low gravity, so astronauts float instead of walking.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What do we call the structure used in space to support life for astronauts?",
+    "choices": [
+      "Boat",
+      "Station",
+      "Dome",
+      "House"
+    ],
+    "correctAnswer": "Station",
+    "explanation": "An example of such a structure is the International Space Station (ISS), where astronauts live and work while in space.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the first spacecraft to take humans to the Moon?",
+    "choices": [
+      "Voyager 1",
+      "Apollo 11",
+      "Mars Rover",
+      "Space Shuttle"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11 was the first histotic mission that landed humans on the Moon on July 20, 1969.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "How many planets are in our solar system?",
+    "choices": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswer": "8",
+    "explanation": "There are eight recognized planets in our solar system, ranging from Mercury to Neptune.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the only planet in our solar system known to support life?",
+    "choices": [
+      "Mars",
+      "Venus",
+      "Earth",
+      "Jupiter"
+    ],
+    "correctAnswer": "Earth",
+    "explanation": "Earth is the only planet in our solar system that is known to support a diverse range of life.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the force that pulls objects toward each other?",
+    "choices": [
+      "Magnetism",
+      "Friction",
+      "Gravity",
+      "Pressure"
+    ],
+    "correctAnswer": "Gravity",
+    "explanation": "Gravity is the force that attracts objects with mass towards one another; it's what holds planets and stars in orbit.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the purpose of a satellite?",
+    "choices": [
+      "To land on other planets",
+      "To provide ladybugs for insects",
+      "To orbit Earth and collect information",
+      "To make space games"
+    ],
+    "correctAnswer": "To orbit Earth and collect information",
+    "explanation": "Satellites are used for communication, weather monitoring, navigation, and collecting data about the Earth.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What tool do astronomers use to see distant stars and planets?",
+    "choices": [
+      "Telescope",
+      "Microscope",
+      "Binoculars",
+      "Magnifying glass"
+    ],
+    "correctAnswer": "Telescope",
+    "explanation": "A telescope allows astronomers to see distant celestial objects by collecting light and focusing it.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the international space station orbiting Earth?",
+    "choices": [
+      "Hubble",
+      "Apollo",
+      "ISS",
+      "Curiosity"
+    ],
+    "correctAnswer": "ISS",
+    "explanation": "The International Space Station (ISS) is a multinational collaborative project where scientific research is conducted in microgravity.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What must a rocket reach to break free from Earth's gravity?",
+    "choices": [
+      "Safety limit",
+      "Launch mode",
+      "Escape velocity",
+      "Liftoff speed"
+    ],
+    "correctAnswer": "Escape velocity",
+    "explanation": "Escape velocity is the speed an object must achieve to break free from Earth's gravitational pull without any additional propulsion.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "How do astronauts travel to the International Space Station?",
+    "choices": [
+      "Cars",
+      "Bicycles",
+      "Spacecraft",
+      "Submarines"
+    ],
+    "correctAnswer": "Spacecraft",
+    "explanation": "Astronauts travel to the International Space Station (ISS) using specially designed spacecraft launched by rockets.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of NASA's spacecraft that took the first humans to the Moon?",
+    "choices": [
+      "Apollo 11",
+      "Challenger",
+      "Voyager",
+      "Columbia"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11 was the first manned mission to land on the Moon, which occurred in July 1969.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "How long does it take for the Sun's light to reach Earth?",
+    "choices": [
+      "8 minutes",
+      "5 minutes",
+      "20 minutes",
+      "1 hour"
+    ],
+    "correctAnswer": "8 minutes",
+    "explanation": "Light from the Sun takes about 8 minutes and 20 seconds to travel to Earth.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is a satellite?",
+    "choices": [
+      "A type of star",
+      "An object that orbits a planet",
+      "A planet itself",
+      "A comet"
+    ],
+    "correctAnswer": "An object that orbits a planet",
+    "explanation": "A satellite is any object that orbits a planet, such as the Moon or artificial satellites launched by humans.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which planet is the largest in our Solar System?",
+    "choices": [
+      "Mercury",
+      "Earth",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswer": "Jupiter",
+    "explanation": "Jupiter is the largest planet in the Solar System, known for its Great Red Spot and gas giant characteristics.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What protects Earth from meteoroids and asteroids?",
+    "choices": [
+      "The Sun",
+      "Ozone Layer",
+      "Earth's atmosphere",
+      "City lights"
+    ],
+    "correctAnswer": "Earth's atmosphere",
+    "explanation": "Earth's atmosphere burns up most meteoroids and asteroids before they can reach the surface.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "In which direction does the Earth rotate?",
+    "choices": [
+      "North to South",
+      "East to West",
+      "West to East",
+      "South to North"
+    ],
+    "correctAnswer": "West to East",
+    "explanation": "The Earth rotates on its axis from West to East, which is why the Sun rises in the East.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the first spaceship to reach beyond our solar system?",
+    "choices": [
+      "Voyager 1",
+      "Falcon Heavy",
+      "Earth 1",
+      "New Horizons"
+    ],
+    "correctAnswer": "Voyager 1",
+    "explanation": "Voyager 1 was launched in 1977 and is the first human-made object to enter interstellar space beyond our solar system.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What force keeps the planets in orbit around the Sun?",
+    "choices": [
+      "Inertia",
+      "Gravity",
+      "Magnetism",
+      "Wind"
+    ],
+    "correctAnswer": "Gravity",
+    "explanation": "Gravity is the force that attracts the planets toward the Sun, keeping them in their respective orbits.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which planet is known as the red planet?",
+    "choices": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "correctAnswer": "Mars",
+    "explanation": "Mars is often called the red planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of the spacecraft that first successfully landed humans on the Moon?",
+    "choices": [
+      "Apollo 11",
+      "Shuttle Atlantis",
+      "Gemini 4",
+      "Vostok 1"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11 was the mission that landed the first two humans, Neil Armstrong and Buzz Aldrin, on the Moon on July 20, 1969.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which Sun orbiting spacecraft shared images of solar flares and sunspots?",
+    "choices": [
+      "Voyager",
+      "Parker Solar Probe",
+      "Hubble Space Telescope",
+      "Spirit Rover"
+    ],
+    "correctAnswer": "Parker Solar Probe",
+    "explanation": "The Parker Solar Probe is designed to study the outer corona of the Sun and provides unprecedented images and data about solar activities.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What force keeps planets in orbit around the Sun?",
+    "choices": [
+      "Magnetism",
+      "Friction",
+      "Gravity",
+      "Wind"
+    ],
+    "correctAnswer": "Gravity",
+    "explanation": "Gravity is the force that attracts planets to the Sun and keeps them moving in an orbit.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Which vehicle is used to carry astronauts and equipment into space?",
+    "choices": [
+      "Buckle",
+      "Rocket",
+      "Submarine",
+      "Helicopter"
+    ],
+    "correctAnswer": "Rocket",
+    "explanation": "Rockets are vehicles designed specifically to travel into space by directing their engines to create thrust and overcome Earth's gravity.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the international space station mainly used for?",
+    "choices": [
+      "Shopping",
+      "Science experiments",
+      "Playing games",
+      "Flying toy rockets"
+    ],
+    "correctAnswer": "Science experiments",
+    "explanation": "The International Space Station serves as a home and a place for scientific research, allowing astronauts to conduct experiments in a microgravity environment.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What is the name of NASA's telescope that looks into deep space?",
+    "choices": [
+      "James Webb Space Telescope",
+      "Hubble Space Telescope",
+      "Galileo Telescope",
+      "Kepler Space Telescope"
+    ],
+    "correctAnswer": "Hubble Space Telescope",
+    "explanation": "The Hubble Space Telescope has been providing incredible images and data about our universe since its launch in 1990.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What do we call the first spacecraft to take humans to the Moon?",
+    "choices": [
+      "Apollo 11",
+      "Challenger",
+      "Voyager",
+      "Discovery"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11 was the first manned mission to land on the Moon, occurring in 1969.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "What gas do astronauts breathe in space?",
+    "choices": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswer": "Oxygen",
+    "explanation": "Astronauts breathe oxygen while in space, just like we do on Earth.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "How many people have walked on the Moon?",
+    "choices": [
+      "Number I don't know",
+      "12",
+      "6",
+      "16"
+    ],
+    "correctAnswer": "12",
+    "explanation": "As of now, 12 astronauts have walked on the Moon during six missions of the Apollo program.",
+    "category": "Space travel",
+    "difficulty": "Elementary"
+  },
+  {
+    "question": "Who was the first human to travel into space?",
+    "choices": [
+      "Niel Armstrong",
+      "Yuri Gagarin",
+      "Buzz Aldrin",
+      "John Glenn"
+    ],
+    "correctAnswer": "Yuri Gagarin",
+    "explanation": "Yuri Gagarin, a Russian cosmonaut, became the first human in space when he completed a single orbit of Earth on April 12, 1961.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What spacecraft was used to land humans on the Moon?",
+    "choices": [
+      "Orbiter 1",
+      "Lunar Module",
+      "Mars Rover",
+      "Motorspace"
+    ],
+    "correctAnswer": "Lunar Module",
+    "explanation": "The Lunar Module was the spacecraft used by astronauts during the Apollo program to land on the Moon, specifically during Apollo 11 on July 20, 1969.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which of the following is NOT a measurement of distance in space?",
+    "choices": [
+      "Astronomical Unit (AU)",
+      "Light Year",
+      "Parsec",
+      "Centimeter"
+    ],
+    "correctAnswer": "Centimeter",
+    "explanation": "Centimeters are a standard unit of length in the metric system but are not used to measure large distances in space; instead, larger units like AU, Light Year, and Parsecs are used.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the name of NASA's space probe that was launched to study Pluto?",
+    "choices": [
+      "Voyager 1",
+      "New Horizons",
+      "Cassini",
+      "Hubble"
+    ],
+    "correctAnswer": "New Horizons",
+    "explanation": "New Horizons was launched by NASA in 2006 and flew by Pluto in July 2015, providing the first close-up images of the planet.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What was the first human-made object to leave Earth's atmosphere?",
+    "choices": [
+      "Vostok 1",
+      "Apollo 11",
+      "Vanguard 1",
+      "Sputnik 1"
+    ],
+    "correctAnswer": "Sputnik 1",
+    "explanation": "Launched by the Soviet Union in 1957, Sputnik 1 was the first artificial satellite to orbit the Earth.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "On which space mission was the first Moon landing achieved?",
+    "choices": [
+      "Apollo 10",
+      "Apollo 11",
+      "Apollo 12",
+      "Apollo 9"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11, launched in 1969, was the first mission to land humans on the Moon, with Neil Armstrong and Buzz Aldrin walking on its surface.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which gas giant is known for its prominent rings?",
+    "choices": [
+      "Jupiter",
+      "Uranus",
+      "Earth",
+      "Saturn"
+    ],
+    "correctAnswer": "Saturn",
+    "explanation": "Saturn is famous for its extensive and visually striking ring system composed of ice and rock particles.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the largest terrestrial planet in our solar system?",
+    "choices": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Mercury"
+    ],
+    "correctAnswer": "Earth",
+    "explanation": "Earth is the largest of the terrestrial planets, which are defined as solid planets with rocky surfaces.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What does the term 'light year' measure?",
+    "choices": [
+      "Distance",
+      "Speed",
+      "Time",
+      "Mass"
+    ],
+    "correctAnswer": "Distance",
+    "explanation": "A light year is the distance that light travels in one year, used as a measure to quantify astronomical distances.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which spacecraft was the first to land on Mars?",
+    "choices": [
+      "Viking 1",
+      "Mars Rover",
+      "Spirit",
+      "Curiosity"
+    ],
+    "correctAnswer": "Viking 1",
+    "explanation": "Viking 1 was the first spacecraft to successfully land on Mars, achieving this historic event in 1976.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "In what year did the first human travel into space?",
+    "choices": [
+      "1957",
+      "1961",
+      "1969",
+      "1975"
+    ],
+    "correctAnswer": "1961",
+    "explanation": "Yuri Gagarin, a Soviet cosmonaut, became the first human to journey into outer space in 1961.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the core of a comet primarily made of?",
+    "choices": [
+      "Iron",
+      "Rock",
+      "Gas",
+      "Ice and dust"
+    ],
+    "correctAnswer": "Ice and dust",
+    "explanation": "Comets have a core often described as a dirty snowball, composed mainly of ice and dust.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the name of the spacecraft that first landed humans on the Moon in 1969?",
+    "choices": [
+      "Apollo 11",
+      "Discovery",
+      "Venus",
+      "Curiosity"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11 was the first manned mission to land on the Moon, carrying astronauts Neil Armstrong and Buzz Aldrin.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the main objective of NASA\u2019s Mars Rover missions?",
+    "choices": [
+      "To find alien life",
+      "To study Mars\u2019 geology and atmosphere",
+      "To communicate with Earth",
+      "To map the Moon"
+    ],
+    "correctAnswer": "To study Mars\u2019 geology and atmosphere",
+    "explanation": "NASA\u2019s Mars Rover missions aim to explore the surface of Mars to gather data about its geology, atmosphere, and potential for past life.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which rocket is used to transport crew to the International Space Station (ISS)?",
+    "choices": [
+      "Falcon 9",
+      "Space Shuttle",
+      "Soyuz",
+      "Hubble"
+    ],
+    "correctAnswer": "Soyuz",
+    "explanation": "The Soyuz spacecraft has been a key method for transporting astronauts to and from the ISS, especially before the advent of other commercial crewed options.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What does ISS stand for in astrophysics?",
+    "choices": [
+      "International Space Station",
+      "Intrinsic Stellar Spectroscopy",
+      "Independent Solar System",
+      "Intergalactic Safe Space"
+    ],
+    "correctAnswer": "International Space Station",
+    "explanation": "ISS stands for International Space Station, a space station that serves as a microgravity and space environment research laboratory.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What fuel do most rockets use to lift off from Earth?",
+    "choices": [
+      "Liquid Hydrogen and Liquid Oxygen",
+      "Gasoline",
+      "Coal",
+      "Solar Power"
+    ],
+    "correctAnswer": "Liquid Hydrogen and Liquid Oxygen",
+    "explanation": "Most rockets use a combination of liquid hydrogen and liquid oxygen as propellants because these combination offers high efficiency and performance.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the primary purpose of the International Space Station (ISS)?",
+    "choices": [
+      "To serve as a space station for tourists",
+      "To conduct scientific research",
+      "To mine asteroids for resources",
+      "To launch spacecraft to Mars"
+    ],
+    "correctAnswer": "To conduct scientific research",
+    "explanation": "The ISS primarily serves as a microgravity and space environment research laboratory in which scientific research is conducted in astrobiology, astronomy, meteorology, physics, and many other fields.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which space agency is responsible for the United States' civilian space program?",
+    "choices": [
+      "NASA",
+      "ESA",
+      "Roscosmos",
+      "ISRO"
+    ],
+    "correctAnswer": "NASA",
+    "explanation": "NASA, the National Aeronautics and Space Administration, is responsible for the United States' civilian space program and for aeronautics and aerospace research.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What was the name of the spacecraft that carried the first humans to the Moon?",
+    "choices": [
+      "Apollo 11",
+      "Apollo 13",
+      "Gemini 3",
+      "Mercury 7"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11 was the spaceflight that landed the first humans on the Moon on July 20, 1969.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the primary function of a rocket launch pad?",
+    "choices": [
+      "To store fuel",
+      "To launch rockets",
+      "To build rockets",
+      "To land spacecraft"
+    ],
+    "correctAnswer": "To launch rockets",
+    "explanation": "A rocket launch pad is a location from which rockets are launched. It is designed to support the rocket and its boosters during launch.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What was the first spacecraft to successfully land on the Moon?",
+    "choices": [
+      "Apollo 12",
+      "Viking 1",
+      "Luna 2",
+      "Apollo 11"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11 was the first manned mission to land on the Moon on July 20, 1969.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the main ingredient in rocket fuel?",
+    "choices": [
+      "Water",
+      "Hydrogen",
+      "Oxygen",
+      "Alcohol"
+    ],
+    "correctAnswer": "Hydrogen",
+    "explanation": "Hydrogen is often used as a fuel along with oxygen for combustion in rocket engines.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Who was the first person to travel into space?",
+    "choices": [
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "John Glenn"
+    ],
+    "correctAnswer": "Yuri Gagarin",
+    "explanation": "Yuri Gagarin was the first human to journey into outer space on April 12, 1961, aboard the Vostok 1 spacecraft.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the name of the NASA program that landed humans on the Moon?",
+    "choices": [
+      "Mercury",
+      "Gemini",
+      "Apollo",
+      "Skylab"
+    ],
+    "correctAnswer": "Apollo",
+    "explanation": "The Apollo program was a series of space missions designed to land humans on the Moon, starting with Apollo 11 in 1969.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What year did the Space Shuttle program officially begin?",
+    "choices": [
+      "1980",
+      "1986",
+      "1990",
+      "1975"
+    ],
+    "correctAnswer": "1981",
+    "explanation": "The Space Shuttle program officially began with the launch of Columbia on April 12, 1981.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What spacecraft was used for the first moon landing?",
+    "choices": [
+      "Apollo 10",
+      "Apollo 11",
+      "Apollo 12",
+      "Gemini 4"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11 was the mission that resulted in the first humans, Neil Armstrong and Buzz Aldrin, landing on the Moon on July 20, 1969.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the term for the imaginary line that the Earth rotates around?",
+    "choices": [
+      "Orbit",
+      "Axis",
+      "Equator",
+      "Meridian"
+    ],
+    "correctAnswer": "Axis",
+    "explanation": "The axis is an imaginary line that passes through the North and South Poles, around which the Earth rotates.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What powers a spacecraft for long-duration missions?",
+    "choices": [
+      "Batteries",
+      "Nuclear Reactors",
+      "Solar Panels",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Spacecraft use various power sources including batteries, nuclear reactors, and solar panels to sustain long-duration missions.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the name of the spacecraft that first landed humans on the Moon?",
+    "choices": [
+      "Apollo 10",
+      "Apollo 11",
+      "Apollo 12",
+      "Apollo 13"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11, launched in 1969, was the first mission to land humans on the Moon, with Neil Armstrong and Buzz Aldrin taking the historic first steps.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which planet is known for having a prominent ring system?",
+    "choices": [
+      "Mars",
+      "Jupiter",
+      "Saturn",
+      "Neptune"
+    ],
+    "correctAnswer": "Saturn",
+    "explanation": "Saturn is known for its stunning and complex ring system, which is composed of ice and rock particles.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What was the first artificial satellite launched into space?",
+    "choices": [
+      "Vanguard 1",
+      "Explorer 1",
+      "Greater Moon Base",
+      "Sputnik 1"
+    ],
+    "correctAnswer": "Sputnik 1",
+    "explanation": "Launched by the Soviet Union in 1957, Sputnik 1 was the first artificial satellite to orbit Earth.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What agency is responsible for the United States' civilian space program?",
+    "choices": [
+      "NASA",
+      "NSA",
+      "USDA",
+      "DOD"
+    ],
+    "correctAnswer": "NASA",
+    "explanation": "NASA, the National Aeronautics and Space Administration, is responsible for the country's civilian space program.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the name of the rover currently exploring Mars, which has been sending back vast amounts of data since landing in 2021?",
+    "choices": [
+      "Curiosity",
+      "Perseverance",
+      "Spirit",
+      "Opportunity"
+    ],
+    "correctAnswer": "Perseverance",
+    "explanation": "Perseverance is the rover that landed on Mars in February 2021, designed to search for signs of ancient life and collect samples from the Martian surface.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What phenomenon occurs when the shadow of the Earth falls on the Moon?",
+    "choices": [
+      "Solar eclipse",
+      "Lunar eclipse",
+      "Meteor shower",
+      "Comet season"
+    ],
+    "correctAnswer": "Lunar eclipse",
+    "explanation": "A lunar eclipse occurs when the Earth positions itself between the Sun and the Moon, causing the Earth's shadow to fall on the Moon.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the name of the first space station to be built in orbit around Earth?",
+    "choices": [
+      "Skylab",
+      "Mir",
+      "International Space Station",
+      "Hubble Space Telescope"
+    ],
+    "correctAnswer": "Skylab",
+    "explanation": "Launched in 1973, Skylab was the first space station built in orbit around Earth and served as a space laboratory for scientific research.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which spacecraft is used for launching astronauts to and from the International Space Station as of 2020?",
+    "choices": [
+      "Endeavour",
+      "Soyuz",
+      "Dragon",
+      "Atlantis"
+    ],
+    "correctAnswer": "Dragon",
+    "explanation": "The SpaceX Dragon spacecraft has been regularly used for transporting astronauts to and from the ISS since it was certified by NASA in 2020.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which spacecraft was the first to land on the Moon?",
+    "choices": [
+      "Apollo 11",
+      "Voyager 1",
+      "Atlantis",
+      "Challenger"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11 was the first successful mission to land humans on the Moon in 1969, with astronauts Neil Armstrong and Buzz Aldrin.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the main component of the Sun?",
+    "choices": [
+      "Oxygen",
+      "Hydrogen",
+      "Helium",
+      "Carbon Dioxide"
+    ],
+    "correctAnswer": "Hydrogen",
+    "explanation": "The Sun is predominantly composed of hydrogen, which makes up about 75% of its mass.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which shuttle was tragically lost in an accident shortly after liftoff in 1986?",
+    "choices": [
+      "Endeavour",
+      "Columbia",
+      "Challenger",
+      "Discovery"
+    ],
+    "correctAnswer": "Challenger",
+    "explanation": "The Challenger disaster occurred on January 28, 1986, tragically resulting in the loss of all seven crew members.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What was the primary goal of NASA's Apollo program?",
+    "choices": [
+      "Deploy satellites",
+      "Land humans on the Moon",
+      "Research other planets",
+      "Develop space shuttles"
+    ],
+    "correctAnswer": "Land humans on the Moon",
+    "explanation": "The Apollo program, especially Apollo 11, famously succeeded in landing humans on the Moon in 1969.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which space agency is responsible for the Voyager missions?",
+    "choices": [
+      "NASA",
+      "ESA",
+      "Roscosmos",
+      "Isro"
+    ],
+    "correctAnswer": "NASA",
+    "explanation": "NASA (National Aeronautics and Space Administration) is responsible for the Voyager missions, launched in 1977.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What does the 'ISS' in space travel stand for?",
+    "choices": [
+      "International Space System",
+      "Interstellar Space Station",
+      "International Space Station",
+      "Inner Solar System"
+    ],
+    "correctAnswer": "International Space Station",
+    "explanation": "The ISS, or International Space Station, is a cooperative program among multiple countries for scientific research in space.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What tool do astronauts use to navigate in space?",
+    "choices": [
+      "GPS",
+      "Star Charts",
+      "Astronavigation",
+      "Both B and C"
+    ],
+    "correctAnswer": "Both B and C",
+    "explanation": "Astronauts use star charts and various forms of astronavigation to find their way in the vastness of space.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the name of NASA's most famous space telescope?",
+    "choices": [
+      "Hubble Space Telescope",
+      "James Webb Space Telescope",
+      "Kepler Space Telescope",
+      "Chandra X-ray Observatory"
+    ],
+    "correctAnswer": "Hubble Space Telescope",
+    "explanation": "The Hubble Space Telescope, launched in 1990, has provided some of the most detailed images of space ever captured.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the purpose of a space suit?",
+    "choices": [
+      "To provide oxygen",
+      "To insulate from temperature extremes",
+      "To protect from radiation",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "A space suit is designed to provide oxygen, temperature regulation, and protection from space radiation among other things.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What vehicle is used to send astronauts to and from the International Space Station?",
+    "choices": [
+      "Space Shuttle",
+      "Apollo",
+      "Soyuz",
+      "Dragon"
+    ],
+    "correctAnswer": "Soyuz",
+    "explanation": "The Soyuz spacecraft has been used for many years to transport astronauts to and from the International Space Station.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What was the name of the first space station in orbit?",
+    "choices": [
+      "SkyLab",
+      "Mir",
+      "International Space Station",
+      "Almaz"
+    ],
+    "correctAnswer": "SkyLab",
+    "explanation": "SkyLab was the first United States space station, launched in 1973, and remains a significant part of space history.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which planet in our solar system is known for having rings?",
+    "choices": [
+      "Jupiter",
+      "Earth",
+      "Uranus",
+      "Saturn"
+    ],
+    "correctAnswer": "Saturn",
+    "explanation": "Saturn is famous for its prominent ring system, which is made up of ice and rock particles.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the name of the rocket that took astronauts to the Moon during the Apollo missions?",
+    "choices": [
+      "Saturn V",
+      "Space Shuttle",
+      "Falcon 9",
+      "Delta IV"
+    ],
+    "correctAnswer": "Saturn V",
+    "explanation": "The Saturn V rocket was a multi-stage rocket used by NASA during the Apollo (and Skylab) programs from 1967 until 1973, and it was the launch vehicle that sent astronauts to the Moon.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What scientific device is used to explore space and is not dependent on Earth's atmosphere?",
+    "choices": [
+      "Telescope",
+      "Satellite",
+      "Rocket",
+      "Probe"
+    ],
+    "correctAnswer": "Probe",
+    "explanation": "A probe can be launched into space to gather data and send it back to Earth without being dependent on any atmosphere.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which spacecraft was the first to successfully land humans on the Moon?",
+    "choices": [
+      "Luna 9",
+      "Apollo 11",
+      "Voyager 1",
+      "Mars Pathfinder"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "Apollo 11 was the first manned mission to land on the Moon on July 20, 1969.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the first human-made object to reach the Moon?",
+    "choices": [
+      "Apollo 11",
+      "Luna 2",
+      "Voyager 1",
+      "Mars Rover"
+    ],
+    "correctAnswer": "Luna 2",
+    "explanation": "Luna 2, launched by the Soviet Union in 1959, was the first human-made object to reach the Moon, impacting its surface.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which planet is known for its prominent rings?",
+    "choices": [
+      "Earth",
+      "Uranus",
+      "Saturn",
+      "Jupiter"
+    ],
+    "correctAnswer": "Saturn",
+    "explanation": "Saturn is well known for its stunning and complex ring system, which is made up of ice and rock particles.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the name of the first space telescope launched into orbit?",
+    "choices": [
+      "Hubble Space Telescope",
+      "Chandra X-ray Observatory",
+      "Kepler Space Telescope",
+      "Spitzer Space Telescope"
+    ],
+    "correctAnswer": "Hubble Space Telescope",
+    "explanation": "Launched in 1990, the Hubble Space Telescope has provided many key discoveries and images of distant galaxies and nebulae.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which astronaut was the first to walk on the Moon?",
+    "choices": [
+      "Buzz Aldrin",
+      "John Glenn",
+      "Yuri Gagarin",
+      "Neil Armstrong"
+    ],
+    "correctAnswer": "Neil Armstrong",
+    "explanation": "Neil Armstrong took the first steps on the lunar surface during the Apollo 11 mission on July 20, 1969.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What type of spacecraft was needed to carry astronauts to the International Space Station (ISS)?",
+    "choices": [
+      "Space Shuttle",
+      "Voyager",
+      "Mars Rover",
+      "Soyuz"
+    ],
+    "correctAnswer": "Soyuz",
+    "explanation": "The Soyuz spacecraft has been a reliable vehicle for transporting astronauts to and from the ISS since 2000.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What event marks the beginning of the reusable space flight era?",
+    "choices": [
+      "Lunar landing",
+      "Space Shuttle launch",
+      "International Space Station assembly",
+      "Mars Rover launch"
+    ],
+    "correctAnswer": "Space Shuttle launch",
+    "explanation": "The Space Shuttle program, began in 1981, was the first program to allow multiple uses of spacecraft in space flight.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What was the first spacecraft to land on the Moon?",
+    "choices": [
+      "Apollo 11",
+      "Luna 2",
+      "Voyager 1",
+      "Mars Rover"
+    ],
+    "correctAnswer": "Luna 2",
+    "explanation": "Luna 2 was the first human-made object to reach the Moon, impacting on September 12, 1959.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the name of NASA's spacecraft that carried astronauts to the Moon?",
+    "choices": [
+      "Challenger",
+      "Apollo",
+      "Atlantis",
+      "Voyager"
+    ],
+    "correctAnswer": "Apollo",
+    "explanation": "The Apollo program included the Apollo spacecraft, which was used to land astronauts on the Moon.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What does the term 'astronaut' mean?",
+    "choices": [
+      "Star sailor",
+      "Sky diver",
+      "Space traveler",
+      "Moon walker"
+    ],
+    "correctAnswer": "Star sailor",
+    "explanation": "The term 'astronaut' comes from the Greek words 'astro' meaning star and 'naut\u0113s' meaning sailor.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which force keeps planets in orbit around the Sun?",
+    "choices": [
+      "Magnetism",
+      "Friction",
+      "Gravity",
+      "Electromagnetism"
+    ],
+    "correctAnswer": "Gravity",
+    "explanation": "Gravity is the force that attracts planets towards the Sun and keeps them in orbit.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What was the first human-made object to reach space?",
+    "choices": [
+      "Apollo 11",
+      "Vostok 1",
+      "Friendship 7",
+      "Vanguard 1"
+    ],
+    "correctAnswer": "Vanguard 1",
+    "explanation": "Vanguard 1, launched in 1958, was the first human-made object to reach space, surviving for nearly six years in orbit.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the name of the first spacecraft to land on the moon?",
+    "choices": [
+      "Apollo 11",
+      "Luna 2",
+      "Viking 1",
+      "Mars Rover"
+    ],
+    "correctAnswer": "Apollo 11",
+    "explanation": "The Apollo 11 mission successfully landed the first humans on the Moon on July 20, 1969.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which galaxy is the Milky Way expected to collide with in about 4.5 billion years?",
+    "choices": [
+      "The Andromeda Galaxy",
+      "The Whirlpool Galaxy",
+      "The Triangulum Galaxy",
+      "The Sombrero Galaxy"
+    ],
+    "correctAnswer": "The Andromeda Galaxy",
+    "explanation": "The Milky Way galaxy is on a collision course with the Andromeda Galaxy and will collide in about 4.5 billion years.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which spacecraft was the first to reach the outer planets, including Jupiter and Saturn?",
+    "choices": [
+      "Voyager 1",
+      "Voyager 2",
+      "Pioneer 10",
+      "New Horizons"
+    ],
+    "correctAnswer": "Voyager 1",
+    "explanation": "Voyager 1 was launched in 1977 and became the first spacecraft to travel into interstellar space after capturing images of Jupiter and Saturn.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What are the small, rocky bodies that orbit the Sun between Mars and Jupiter called?",
+    "choices": [
+      "Comets",
+      "Planets",
+      "Asteroids",
+      "Telescopes"
+    ],
+    "correctAnswer": "Asteroids",
+    "explanation": "Asteroids are small, rocky bodies that primarily reside in the asteroid belt between Mars and Jupiter.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which spacecraft was designed for a crewed mission to Mars?",
+    "choices": [
+      "Helios",
+      "Orion",
+      "Surveyor",
+      "Gemini"
+    ],
+    "correctAnswer": "Orion",
+    "explanation": "The Orion spacecraft is designed for deep space exploration and has the capability to support a crewed mission to Mars.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the primary gas that makes up the atmosphere of Mars?",
+    "choices": [
+      "Oxygen",
+      "Hydrogen",
+      "Carbon Dioxide",
+      "Nitrogen"
+    ],
+    "correctAnswer": "Carbon Dioxide",
+    "explanation": "Mars' atmosphere is composed of about 95% carbon dioxide, making it vastly different from Earth\u2019s breathable atmosphere.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "What is the term for the speed that a rocket must reach to break free from the Earth's gravitational pull?",
+    "choices": [
+      "Escape velocity",
+      "Launch velocity",
+      "Initial velocity",
+      "Drift speed"
+    ],
+    "correctAnswer": "Escape velocity",
+    "explanation": "Escape velocity is the speed at which an object must travel to break free from the gravitational pull of a planet, which for Earth is about 11.2 km/s.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
+  },
+  {
+    "question": "Which planet in our solar system is known as the 'Red Planet'?",
+    "choices": [
+      "Jupiter",
+      "Mars",
+      "Mercury",
+      "Venus"
+    ],
+    "correctAnswer": "Mars",
+    "explanation": "Mars is often referred to as the 'Red Planet' due to its reddish appearance caused by iron oxide, or rust, on its surface.",
+    "category": "Space travel",
+    "difficulty": "Middle School"
   }
 ];
