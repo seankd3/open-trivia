@@ -4313,5 +4313,3775 @@ const questions = [
     "explanation": "The primary purpose of the UN Security Council is to maintain international peace and security. It conducts investigations into situations threatening peace, issues sanctions, and authorizes the use of force when necessary to help maintain or restore peace around the world.",
     "category": "International Relations",
     "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following treaties aimed to enhance military transparency between NATO and the former Warsaw Pact countries post-Cold War?",
+    "choices": [
+      "Treaty on Open Skies",
+      "Strategic Arms Reduction Treaty (START)",
+      "Non-Proliferation Treaty (NPT)",
+      "Intermediate-Range Nuclear Forces Treaty (INF)"
+    ],
+    "correctAnswer": "Treaty on Open Skies",
+    "explanation": "The Treaty on Open Skies, signed in 1992 and implemented in 2002, allows for unarmed reconnaissance flights over the territories of its signatories to promote transparency and confidence-building measures in military activities. It was significant in fostering better relations and trust between NATO and former Warsaw Pact nations after the end of the Cold War.",
+    "category": "International Relations",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of international relations theory, which of the following best describes the concept of 'constructivism' as it pertains to the formation of state identities and interests?",
+    "choices": [
+      "States act primarily based on rational calculations of power and national interest.",
+      "International norms and values shape the interests and identities of states.",
+      "Global economic structures inherently dictate the behavior of states.",
+      "Military capabilities are the central factor in determining state interactions."
+    ],
+    "correctAnswer": "International norms and values shape the interests and identities of states.",
+    "explanation": "Constructivism asserts that the identities and interests of states are constructed through social interactions, historical context, and shared norms and values, contrasting with realism's emphasis on power and material capabilities.",
+    "category": "International Relations",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the context of international relations, which legal theory posits that state sovereignty and hierarchical authority are foundational principles for the interpretation of global law?",
+    "choices": [
+      "Positivism",
+      "Constructivism",
+      "Realism",
+      "Marxism"
+    ],
+    "correctAnswer": "Positivism",
+    "explanation": "Positivism in international legal theory asserts that state sovereignty and the hierarchy of norms are crucial for understanding global law, focusing on the legal systems based on recognized state actions rather than idealistic or moral perspectives.",
+    "category": "International Relations",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which treaty first established the framework for the organizational structure within the then newly formed Organization of African Unity (OAU), ultimately leading to principles of non-interference in member states' internal affairs?",
+    "choices": [
+      "Treaty of Cairo",
+      "Bangui Agreements",
+      "Charter of the Organization of African Unity",
+      "Kairo Declaration"
+    ],
+    "correctAnswer": "Charter of the Organization of African Unity",
+    "explanation": "The Charter of the Organization of African Unity, adopted in 1963, outlined the primary principles governing African collective action and established norms such as respect for the sovereignty and territorial integrity of member states, which included the non-interference policy in the internal affairs of these states.",
+    "category": "International Relations",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which part of the neuron is primarily responsible for receiving incoming signals from other neurons?",
+    "choices": [
+      "Axon",
+      "Dendrites",
+      "Soma",
+      "Myelin sheath"
+    ],
+    "correctAnswer": "Dendrites",
+    "explanation": "Dendrites are extensions of the neuron that receive signals from other neurons, integrating them before transmitting the information down the axon to the nerve terminal.",
+    "category": "Neuroscience",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What part of the brain is primarily responsible for the regulation of emotional responses?",
+    "choices": [
+      "Hippocampus",
+      "Amygdala",
+      "Cerebellum",
+      "Hypothalamus"
+    ],
+    "correctAnswer": "Amygdala",
+    "explanation": "The amygdala is crucial for processing emotions, particularly those related to fear and pleasure. It plays a significant role in how we emotionally react to various stimuli.",
+    "category": "Neuroscience",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following neurotransmitters is primarily associated with the regulation of mood and has been implicated in the pathophysiology of major depressive disorder?",
+    "choices": [
+      "Serotonin",
+      "Dopamine",
+      "Norepinephrine",
+      "GABA"
+    ],
+    "correctAnswer": "Serotonin",
+    "explanation": "Serotonin is a monoamine neurotransmitter that plays a crucial role in mood regulation, and its dysregulation has been linked to major depressive disorder. Drugs known as selective serotonin reuptake inhibitors (SSRIs) specifically target serotonin pathways to alleviate depressive symptoms.",
+    "category": "Neuroscience",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following mechanisms is primarily responsible for synaptic pruning during neurodevelopment?",
+    "choices": [
+      "Psi-2 pathway signaling",
+      "Microglial-mediated phagocytosis",
+      "Caspase-mediated apoptosis",
+      "Action potential propagation alterations"
+    ],
+    "correctAnswer": "Microglial-mediated phagocytosis",
+    "explanation": "Synaptic pruning is a crucial process during neurodevelopment where unnecessary synapses are eliminated to enhance the efficiency of neuronal networks. One of the primary mechanisms driving this process is microglial-mediated phagocytosis, in which microglia selectively engulf and remove synaptic structures that are not actively being used. This process is essential for proper brain development and function, ensuring that neural circuits are refined based on experience.",
+    "category": "Neuroscience",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which specific region of the brain is primarily responsible for the regulation of circadian rhythms and directly influenced by light exposure?",
+    "choices": [
+      "Hypothalamus",
+      "Suprachiasmatic nucleus",
+      "Pineal gland",
+      "Hippocampus"
+    ],
+    "correctAnswer": "Suprachiasmatic nucleus",
+    "explanation": "The suprachiasmatic nucleus (SCN) is located in the hypothalamus and is considered the master clock of the body, regulating circadian rhythms. It receives direct input from the retina and adjusts the physiological processes dependent on the light-dark cycle.",
+    "category": "Neuroscience",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the role of the protein 'Arc' (activity-regulated cytoskeleton-associated protein) in neural synaptic plasticity?",
+    "choices": [
+      "It increases neurogenesis by influencing the differentiation of stem cells.",
+      "It phosphorylates AMP-activated protein kinase to regulate metabolic processes.",
+      "It mediates the endocytosis of AMPA receptors, facilitating long-term depression.",
+      "It acts as a transcription factor that enhances the expression of neurotrophic factors."
+    ],
+    "correctAnswer": "It mediates the endocytosis of AMPA receptors, facilitating long-term depression.",
+    "explanation": "Arc is crucial in synaptic plasticity as it is involved in the internalization of AMPA receptors from the postsynaptic membrane, playing a significant role in long-term depression (LTD). This process is essential for the refinement and stabilization of synapses in response to neuronal activity, which is key to learning and memory.",
+    "category": "Neuroscience",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary mechanism through which massive stars end their lives, leading to supernova explosions?",
+    "choices": [
+      "Nuclear Fusion Halting",
+      "Electron Degeneracy Pressure",
+      "Core Collapse",
+      "Neutron Star Formation"
+    ],
+    "correctAnswer": "Core Collapse",
+    "explanation": "In massive stars, once the iron core forms from nuclear fusion, no further energy can be produced through fusion, leading the core to become unstable. The core then collapses under gravity, triggering an enormous explosion known as a supernova.",
+    "category": "Astrophysics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary source of energy for the Sun?",
+    "choices": [
+      "Fusion of Carbon",
+      "Fusion of Helium",
+      "Fusion of Hydrogen",
+      "Fission of Uranium"
+    ],
+    "correctAnswer": "Fusion of Hydrogen",
+    "explanation": "The Sun generates energy through the process of nuclear fusion, primarily by converting hydrogen into helium in its core. This fermentation releases a tremendous amount of energy, which is what powers the Sun and provides heat and light to our solar system.",
+    "category": "Astrophysics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which theory predicts the existence of gravitational waves, which were first directly detected in 2015?",
+    "choices": [
+      "Quantum Mechanics",
+      "General Relativity",
+      "String Theory",
+      "Newtonian Gravity"
+    ],
+    "correctAnswer": "General Relativity",
+    "explanation": "Albert Einstein's General Relativity predicts that massive accelerating bodies produce ripples in spacetime known as gravitational waves. These waves were directly observed for the first time by the LIGO detector in 2015, confirming a key prediction of Einstein's theory.",
+    "category": "Astrophysics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of the cosmic microwave background radiation, what is the primary effect observed by the South Pole Telescope that provides evidence for non-Gaussianity in quantum fluctuations from the early universe?",
+    "choices": [
+      "Temperature anisotropies",
+      "Polarization patterns",
+      "Baryonic acoustic oscillations",
+      "Weak gravitational lensing"
+    ],
+    "correctAnswer": "Polarization patterns",
+    "explanation": "The South Pole Telescope primarily measures the polarization of the cosmic microwave background (CMB) radiation. Studying the power spectra of these polarization patterns allows astronomers to detect non-Gaussian signatures that arise from quantum fluctuations, offering insights into the conditions of the early universe.",
+    "category": "Astrophysics",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the main mechanism behind the dissipation of gravitational wave energy in a two-body inspiral system?",
+    "choices": [
+      "Vlasov Equation Dissipation",
+      "Parametric Resonance Mechanism",
+      "Structural Relaxation of Stellar Density",
+      "Dynamical Friction Physics"
+    ],
+    "correctAnswer": "Parametric Resonance Mechanism",
+    "explanation": "In a two-body inspiral system, the dissipation of energy due to gravitational wave emission is primarily governed by the Parametric Resonance Mechanism, which arises from the relative motion and energy exchange between the bodies as they spiral inward, allowing for a substantial extraction of orbital energy and momentum in the form of gravitational waves.",
+    "category": "Astrophysics",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which phenomenon allows observational astronomers to infer the presence of black holes in binary star systems without directly imaging them, utilizing the redshift and blueshift of spectral lines?",
+    "choices": [
+      "Gravitational precession",
+      "Doppler effect",
+      "Gravitational lensing",
+      "Frame dragging"
+    ],
+    "correctAnswer": "Doppler effect",
+    "explanation": "In binary star systems where a black hole is present, the companion star's light exhibits shifts in its spectral lines due to changes in velocity as it orbits the invisible mass of the black hole. This phenomenon is known as the Doppler effect, allowing astronomers to deduce properties of the black hole even if it cannot be seen directly.",
+    "category": "Astrophysics",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary method by which paleontologists determine the age of fossils?",
+    "choices": [
+      "Radiometric Dating",
+      "Stratigraphy",
+      "Biostratigraphy",
+      "Dendrochronology"
+    ],
+    "correctAnswer": "Radiometric Dating",
+    "explanation": "Paleontologists often use radiometric dating to determine the age of fossils by measuring the decay of isotopes within the rocks surrounding them. This method provides a more precise age compared to stratigraphy, which relies on the layered arrangement of sedimentary deposits, or biostratigraphy, which uses fossil correlation. Dendrochronology, on the other hand, is a technique used for dating tree rings, and is not applicable in paleontological contexts involving fossils.",
+    "category": "Paleontology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What type of dinosaur is considered the largest known land animal to have ever existed?",
+    "choices": [
+      "Triceratops",
+      "Spinosaurus",
+      "Argentinosaurus",
+      "Tyrannosaurus Rex"
+    ],
+    "correctAnswer": "Argentinosaurus",
+    "explanation": "Argentinosaurus is believed to be one of the largest dinosaurs and possibly the largest land animal ever, with estimates suggesting it reached lengths of up to 100 feet. It belonged to the sauropods, known for their long necks, while other dinosaurs listed, although large, do not match the size of Argentinosaurus.",
+    "category": "Paleontology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following fossil evidence supports the theory that some dinosaurs displayed feathers, suggesting a close evolutionary relationship with modern birds?",
+    "choices": [
+      "Burgess Shale fossils",
+      "Feathered dinosaur fossils from Liaoning Province",
+      "Dinosaur tracks found in peat bogs",
+      "The London Specimens of Archaeopteryx"
+    ],
+    "correctAnswer": "Feathered dinosaur fossils from Liaoning Province",
+    "explanation": "Fossils discovered in Liaoning Province, particularly those belonging to the theropod dinosaurs, exhibit well-preserved feathers. These finds provide critical evidence that feathers evolved before birds, suggesting that various feathered theropods were in fact ancestors to modern birds, thus revealing the longstanding connection between these groups in evolutionary biology.",
+    "category": "Paleontology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which evolutionary event is primarily associated with the end-Ordovician mass extinction that occurred approximately 444 million years ago?",
+    "choices": [
+      "The rise of vascular plants",
+      "The appearance of jawed vertebrates",
+      "The shift of continents leading to formation of Gondwana",
+      "The significant drop in global sea levels and associated habitat loss"
+    ],
+    "correctAnswer": "The significant drop in global sea levels and associated habitat loss",
+    "explanation": "The end-Ordovician mass extinction was largely driven by dramatic changes in sea levels due to glaciation, which led to the loss of shallow marine habitats, significantly impacting marine life. This event is considered one of the major extinction events in Earth's history resulting in approximately 85% of marine species becoming extinct.",
+    "category": "Paleontology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following taxonomic clades are confirmed to have parental care behaviors in their member species, based on fossil evidence?",
+    "choices": [
+      "Ornithischia",
+      "Psittacosaurus",
+      "Theropoda",
+      "Pachycephalosauria"
+    ],
+    "correctAnswer": "Theropoda",
+    "explanation": "Fossil evidence from theropod species, particularly within Oviraptorosaurs and modern avian dinosaurs, suggests the presence of nesting behaviors and parental care. Studies have shown that Oviraptorids' nesting sites provide insight into their parental behaviors, which are echoed in living bird species that evolved from theropods.",
+    "category": "Paleontology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following ornithologists is credited with describing the first theropod dinosaur from complete skeletons, thus significantly shaping our understanding of dinosaur phylogeny during the late 20th century?",
+    "choices": [
+      "Gregory S. Paul",
+      "Robert Thomas Bakker",
+      "James Powell",
+      "Peter Dodson"
+    ],
+    "correctAnswer": "Gregory S. Paul",
+    "explanation": "Gregory S. Paul played a pivotal role in synthesizing ecological and evolutionary data, which led to the redefinition of theropod dinosaurs. His work, particularly on Allosaurus within the context of the Late Jurassic ecosystem, was foundational and has influenced modern paleontological paradigms.",
+    "category": "Paleontology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following game engines is primarily known for its visual scripting capabilities?",
+    "choices": [
+      "Unity",
+      "Unreal Engine",
+      "GameMaker Studio",
+      "CryEngine"
+    ],
+    "correctAnswer": "Unreal Engine",
+    "explanation": "Unreal Engine is particularly known for its blueprint visual scripting system, which allows developers to create game logic without a deep programming background, making it accessible for both programmers and non-programmers.",
+    "category": "Game Development",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In the context of game development, what is the primary purpose of the Game Object Component System (GOCS) architecture model, and which popular game engine utilizes this paradigm?",
+    "choices": [
+      "To facilitate the separation of functionality from data; Unisjoint Engine",
+      "To improve the performance of rendering by using pooled objects; Unreal Engine",
+      "To provide a more flexible relationship between entities and behavior management; Unity",
+      "To enhance real-time physics integration; Godot Engine"
+    ],
+    "correctAnswer": "To provide a more flexible relationship between entities and behavior management; Unity",
+    "explanation": "The Game Object Component System architecture, emphasized by Unity, separates the data of a game object from its behavior components, allowing for more modular and reusable designs. This contrasts with more traditional inheritance models utilized in other engine systems, greatly facilitating complex interactions between multiple systems worn in game design.",
+    "category": "Game Development",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In game development, which of the following approaches to gameplay mechanics emphasizes the emergent behavior from simple rules and systems interaction, rather than explicitly defined player actions?",
+    "choices": [
+      "Top-Down Design",
+      "Bottom-Up Design",
+      "Rule-Based Systems",
+      "Procedural Generation"
+    ],
+    "correctAnswer": "Bottom-Up Design",
+    "explanation": "Bottom-Up Design focuses on creating simple rules that interact with one another, allowing complex systems and emergent gameplay to arise naturally, in contrast to Top-Down Design, where all interactions and systems are predefined. This approach has become increasingly prevalent in modern game design, encouraging player exploration and unique interactions.",
+    "category": "Game Development",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which rendering technique involves projecting the 3D world onto a 2D surface using a series of mathematical transformations, heavily relying on matrices to achieve the perspective effects and definitions of vertices within vertices?",
+    "choices": [
+      "Ray Tracing",
+      "Rasterization",
+      "B\u00e9zier Surfaces",
+      "Stencil Buffering"
+    ],
+    "correctAnswer": "Rasterization",
+    "explanation": "Rasterization is the process of converting geometric data (like vertices and paths) into a format suitable for display on a 2D screen. This technique uses transformations including translation, rotation, and scaling, which heavily depend on matrix calculations to project 3D coordinates onto 2D screens. It is fundamental in real-time graphics rendering, contrasting with techniques like ray tracing, which simulate light paths for photorealism.",
+    "category": "Game Development",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In game development, which architectural pattern is often favored for large-scale applications due to its separation of concerns, where various components communicate primarily through well-defined interfaces?",
+    "choices": [
+      "Event-Driven Architecture",
+      "Model-View-Controller (MVC)",
+      "Entity-Component-System (ECS)",
+      "Microservices Architecture"
+    ],
+    "correctAnswer": "Entity-Component-System (ECS)",
+    "explanation": "The Entity-Component-System (ECS) pattern is particularly popular in game development because it effectively organizes game's data and behavior, allows for more flexible and efficient handling of game objects, and helps separate concerns. In contrast, MVC and Microservices Architecture are more generalized patterns used outside of certain game domains, while Event-Driven Architectures focus more on asynchronous event handling rather than structural separation.",
+    "category": "Game Development",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What phenomenon is characterized by an abrupt and sometimes violent increase in wind patterns, often resulting in severe storm conditions?",
+    "choices": [
+      "Tornado",
+      "Gust Front",
+      "Microburst",
+      "Cyclone"
+    ],
+    "correctAnswer": "Microburst",
+    "explanation": "A microburst is a localized column of damaging winds descending from a thunderstorm and is most notorious for causing intense wind gusts over a small area. Unlike tornadoes, which may have a narrow and extremely strong wind vortex, microbursts can produce winds in excess of 100 mph but cover a much larger horizontal area, typically less than several kilometers across.",
+    "category": "Meteorology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What instrument is commonly used to measure atmospheric pressure?",
+    "choices": [
+      "Anemometer",
+      "Barometer",
+      "Hygrometer",
+      "Thermometer"
+    ],
+    "correctAnswer": "Barometer",
+    "explanation": "A barometer is the device specifically designed to measure atmospheric pressure, while an anemometer measures wind speed, a hygrometer measures humidity, and a thermometer measures temperature.",
+    "category": "Meteorology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which atmospheric boundary layer phenomenon is characterized by a sudden, rapid decrease in wind speed and significant vertical wind shear, often leading to severe clear-air turbulence for ascending or descending aircraft?",
+    "choices": [
+      "Thermal Inversions",
+      "Wind Shear",
+      "Santa Ana Winds",
+      "Downbursts"
+    ],
+    "correctAnswer": "Wind Shear",
+    "explanation": "Wind shear occurs when there is a change in speed and/or direction of the wind over a relatively short distance in the atmosphere. It is particularly dangerous for aviation, as it can cause sudden changes in lift and can be associated with severe turbulence, especially in relation to the phenomenon called clear-air turbulence (CAT).",
+    "category": "Meteorology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of numerical weather prediction (NWP), what is the primary method used to discretize continuous atmospheric equations in order to solve them on a grid for forecasting purposes?",
+    "choices": [
+      "Finite differences method",
+      "Spectral method",
+      "Orthogonal collocation",
+      "Meshfree methods"
+    ],
+    "correctAnswer": "Finite differences method",
+    "explanation": "The finite differences method is one of the most commonly used techniques in numerical weather prediction to approximate the derivatives of the equations governing atmospheric motion, allowing for the continuity of predictions over discrete time and space.",
+    "category": "Meteorology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In meteorology, what is the primary atmospheric condition that leads to the formation of a tropical cyclone?",
+    "choices": [
+      "High shear winds",
+      "Convergent winds and warm ocean water",
+      "Strong upper-level jet streams",
+      "Cool sea surface temperatures"
+    ],
+    "correctAnswer": "Convergent winds and warm ocean water",
+    "explanation": "Tropical cyclones form over warm ocean waters (at least 26.5\u00b0C or approximately 80\u00b0F) where the atmosphere has favorable conditions, including low wind shear. The convergence of winds allows air to rise and create surface low-pressure areas, which evolve into cyclonic systems.",
+    "category": "Meteorology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the primary mechanism responsible for the formation of Polar Stratospheric Clouds (PSCs), which play a significant role in the depletion of the ozone layer during polar spring?",
+    "choices": [
+      "Saturation of volatile organic compounds at low temperatures",
+      "Photosynthesis by microalgae in icy waters",
+      "Microphysical processes during denitrification of stratospheric particles",
+      "Nucleation occurring on the surface of Antarctic ice crystals"
+    ],
+    "correctAnswer": "Microphysical processes during denitrification of stratospheric particles",
+    "explanation": "Polar Stratospheric Clouds (PSCs) form primarily due to the cooling of the stratosphere and the presence of water vapor and nitric acid. During polar nights, stratospheric temperatures drop significantly, allowing for the condensation of water vapor to occur in conjunction with denitrification processes that take place on available aerosol particles. This sets the stage for reactions that lead to ozone depletion during the return of sunlight in spring.",
+    "category": "Meteorology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following theories in sociology posits that society consists of different groups competing for limited resources?",
+    "choices": [
+      "Structural Functionalism",
+      "Symbolic Interactionism",
+      "Conflict Theory",
+      "Social Constructionism"
+    ],
+    "correctAnswer": "Conflict Theory",
+    "explanation": "Conflict Theory, primarily associated with Karl Marx, explores the idea that society is composed of different groups and interests vying for power, resources, and prestige, leading to social change and conflict.",
+    "category": "Sociology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which sociological perspective emphasizes the role of shared meanings and the subjective experiences of individuals in understanding social reality?",
+    "choices": [
+      "Functionalism",
+      "Conflict Theory",
+      "Symbolic Interactionism",
+      "Structuralism"
+    ],
+    "correctAnswer": "Symbolic Interactionism",
+    "explanation": "Symbolic Interactionism is a sociological perspective that focuses on the individual's communication and interpretation of symbols in society. It emphasizes the subjective aspects of social life, including the meanings individuals attach to their experiences and the processes through which they negotiate those meanings in interaction with others.",
+    "category": "Sociology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which sociological theory emphasizes the ways in which societal norms and values are potentially reinforced through institutional structures and processes?",
+    "choices": [
+      "Structural Functionalism",
+      "Symbolic Interactionism",
+      "Conflict Theory",
+      "Postmodernism"
+    ],
+    "correctAnswer": "Structural Functionalism",
+    "explanation": "Structural Functionalism is a sociological perspective that views society as a complex system whose parts work together to promote solidarity and stability. It focuses on how various institutions and processes in society are interconnected to maintain social order and reinforce societal norms and values.",
+    "category": "Sociology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which theoretical framework asserts that societal change primarily arises from the structural inequalities perpetuated by capitalism, as you examine the implications of social reproduction theory in contemporary sociology?",
+    "choices": [
+      "Conflict Theory",
+      "Functionalism",
+      "Symbolic Interactionism",
+      "Social Constructivism"
+    ],
+    "correctAnswer": "Conflict Theory",
+    "explanation": "Conflict Theory emphasizes the role of power dynamics and structural inequalities in societal change, predominantly focused on capitalist structures. It suggests that these inequalities create tensions that lead to social change, aligning closely with social reproduction theory which discusses how existing class structures are perpetuated across generations.",
+    "category": "Sociology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which sociologist is known for the concept of 'structuration' that critiques the dualism between structure and agency in social theory?",
+    "choices": [
+      "Pierre Bourdieu",
+      "Anthony Giddens",
+      "Michel Foucault",
+      "Erving Goffman"
+    ],
+    "correctAnswer": "Anthony Giddens",
+    "explanation": "Anthony Giddens introduced the concept of 'structuration' in his work, emphasizing the interplay between agency (individuals' capacity to act) and social structures (the rules and resources that shape social life). This contributes to a more nuanced understanding of social reality, transcending simplistic binaries between fixed structures and free agents.",
+    "category": "Sociology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In Pierre Bourdieu's theory of social fields, which of the following correctly describes the interplay of various forms of capital in creating social hierarchies?",
+    "choices": [
+      "Cultural capital is entirely independent of social capital.",
+      "Economic capital often dictates the amount of social capital one can obtain.",
+      "Social capital nullifies the effects of cultural and symbolic capital in real-world scenarios.",
+      "Symbolic capital is irrelevant in contemporary structures of power."
+    ],
+    "correctAnswer": "Economic capital often dictates the amount of social capital one can obtain.",
+    "explanation": "In Bourdieu's analysis, economic capital can influence both cultural and social capital access. Those with greater economic resources are often better positioned to acquire and utilize social relationships, thereby enhancing their overall social standing. This reflects Bourdieu's understanding of how different forms of capital leverage one another within social fields, reinforcing and perpetuating social hierarchies.",
+    "category": "Sociology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which type of volcanic eruption is characterized by the explosive ejection of volcanic ash, gas, and debris into the atmosphere?",
+    "choices": [
+      "Effusive",
+      "Phreatomagmatic",
+      "Plinian",
+      "Hawaiian"
+    ],
+    "correctAnswer": "Plinian",
+    "explanation": "Plinian eruptions are known for their highly explosive nature and can produce tall columns of ash that reach up to the stratosphere. These eruptions are named after Pliny the Elder, who provided one of the first comprehensive accounts of a volcanic eruption in AD 79 during the eruption of Mount Vesuvius.",
+    "category": "Geology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following minerals is typically the most abundant in the Earth's crust?",
+    "choices": [
+      "Gypsum",
+      "Quartz",
+      "Mica",
+      "Feldspar"
+    ],
+    "correctAnswer": "Feldspar",
+    "explanation": "Feldspar is the most abundant mineral group in the Earth's crust, making up about 60% of the crust in continental regions. It is part of a larger family of aluminosilicate minerals and includes various species such as orthoclase, plagioclase, and microcline.",
+    "category": "Geology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which geological process is responsible for the transformation of sedimentary rocks into metamorphic rocks?",
+    "choices": [
+      "Lithification",
+      "Metamorphism",
+      "Weathering",
+      "Erosion"
+    ],
+    "correctAnswer": "Metamorphism",
+    "explanation": "Metamorphism is the process by which existing rocks undergo changes in mineralogy, texture, and chemical composition due to increased temperature and pressure, ultimately transforming sedimentary rocks into metamorphic rocks.",
+    "category": "Geology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following mineral groups is characterized by a basic tetrahedral structure and a weakly bonded framework, often resulting in sheet-like structures?",
+    "choices": [
+      "Feldspars",
+      "Micas",
+      "Silicates",
+      "Carbonates"
+    ],
+    "correctAnswer": "Micas",
+    "explanation": "The mica group of minerals is known for their unique layering due to the weak van der Waals bonds that hold the sheets together. This gives them their characteristic \u2018sheet\u2019 form and perfect cleavage. In contrast, feldspars are framework silicates, silicates cover a broad category of minerals with different structures, and carbonates primarily consist of carbonate ions (CO3) and exhibit different bonding and structure characteristics.",
+    "category": "Geology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the primary mineral responsible for the phenomenon known as 'serpentinization', which commonly affects ultramafic rocks in ophiolites during their interactions with seawater?",
+    "choices": [
+      "Olivine",
+      "Pyroxene",
+      "Amphibole",
+      "Cl carbonate"
+    ],
+    "correctAnswer": "Olivine",
+    "explanation": "Serpentinization is a geological process that involves the hydration and transformation of olivine and other mafic minerals into serpentinite, which is a meta-neis rock formed from mafic and ultramafic rocks when they are subjected to seawater or water-bearing fluids. Thus, olivine is the primary mineral affected in this process and is commonly abundantly present in ultramafic rocks.",
+    "category": "Geology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What mineral is the primary source of aluminum in the Earth's crust, comprising approximately 8% of its weight and commonly used in various industrial applications?",
+    "choices": [
+      "Bauxite",
+      "Kaolinite",
+      "Muscovite",
+      "Clay"
+    ],
+    "correctAnswer": "Bauxite",
+    "explanation": "Bauxite is the primary ore of aluminum and is composed of various hydrated aluminum oxides. Extracting aluminum from bauxite involves the Bayer process, highlighting the mineral's significance in industrial aluminum production.",
+    "category": "Geology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following techniques is commonly used to reduce the dimensionality of a dataset in Data Science?",
+    "choices": [
+      "Linear Regression",
+      "PCA (Principal Component Analysis)",
+      "Decision Trees",
+      "K-Means Clustering"
+    ],
+    "correctAnswer": "PCA (Principal Component Analysis)",
+    "explanation": "Principal Component Analysis (PCA) is a statistical technique used to reduce the dimensionality of datasets by transforming the features into a new set of orthogonal features called principal components. This reduces the complexity of the data while preserving as much variance as possible.",
+    "category": "Data Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following techniques is commonly used to prevent overfitting in a machine learning model?",
+    "choices": [
+      "Normalization",
+      "Regularization",
+      "Cross-validation",
+      "Data augmentation"
+    ],
+    "correctAnswer": "Regularization",
+    "explanation": "Regularization is a technique used to prevent overfitting in machine learning by adding a penalty for larger coefficients in the model. This helps to keep the model simpler and more generalizable to unseen data.",
+    "category": "Data Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In the context of gradient descent optimization, which of the following statements accurately describes the impact of a linear learning rate and how it interacts with deterministic gradients?",
+    "choices": [
+      "A linear learning rate ensures convergence in non-convex optimization scenarios by adjusting the step size exponentially to the gradients.",
+      "Using a linear learning rate leads to oscillations around the minima in higher-dimensional spaces if L2 regularization is not applied.",
+      "A well-chosen linear learning rate guarantees faster convergence than adaptive learning methods for complex, high-dimensional datasets.",
+      "An inappropriate linear learning rate can cause divergence in gradient descent, particularly when gradients are relatively large."
+    ],
+    "correctAnswer": "An inappropriate linear learning rate can cause divergence in gradient descent, particularly when gradients are relatively large.",
+    "explanation": "In gradient descent, the choice of learning rate is crucial; an excessively high linear learning rate can lead to divergence from the optimal solution when the gradients are large, causing the optimization process to spiral out of control. Conversely, a learning rate that is too low can slow convergence, while adaptive methods aim to overcome these issues by adjusting the learning rate based on training iterations.",
+    "category": "Data Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following methods is used to solve the problem of multicollinearity in a regression model?",
+    "choices": [
+      "Drop highly correlated predictors",
+      "Principal Component Analysis (PCA)",
+      "Ridge regression",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "explanation": "Multicollinearity can inflate the variance of coefficient estimates and make the results difficult to interpret. To address this issue, one can drop highly correlated predictors, apply techniques like Principal Component Analysis (PCA) to reduce dimensionality, or utilize regularization techniques like Ridge regression, which adds a penalty to the loss function, making the estimates more robust.",
+    "category": "Data Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the context of temporal data analysis, which of the following models is specifically designed to analyze data where the time-varying covariance structure is of primary interest?",
+    "choices": [
+      "ARIMA",
+      "GARCH",
+      "Markov Chain",
+      "Seasonal Decomposition"
+    ],
+    "correctAnswer": "GARCH",
+    "explanation": "GARCH (Generalized Autoregressive Conditional Heteroskedasticity) models are specifically designed for analyzing time series data in which the volatility or variance is not constant but varies with time. This is particularly relevant for financial data, where periods of high volatility are often followed or preceded by very low volatility, hence the time-varying covariance structure is key.",
+    "category": "Data Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In the context of deep learning, what is 'transfer learning' typically used for when training on small datasets?",
+    "choices": [
+      "To increase the learning rate dynamically during training",
+      "To employ a pretrained model on a related task to improve performance",
+      "To apply network pruning techniques to reduce model size",
+      "To generate synthetic data through augmentation methods"
+    ],
+    "correctAnswer": "To employ a pretrained model on a related task to improve performance",
+    "explanation": "Transfer learning refers to the process of taking a machine learning model that has been trained on one problem (often on a larger dataset) and applying its knowledge to a different but related problem, especially when dealing with small datasets. This allows for improved performance due to the model's previously learned features and correlations specific to the task domain.",
+    "category": "Data Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the main function of the ribosomal RNA (rRNA) in a cell?",
+    "choices": [
+      "To transcribe DNA into mRNA",
+      "To serve as a template for protein synthesis",
+      "To form the core component of ribosomes and facilitate protein synthesis",
+      "To transport amino acids to the ribosomes"
+    ],
+    "correctAnswer": "To form the core component of ribosomes and facilitate protein synthesis",
+    "explanation": "Ribosomal RNA (rRNA) is a key structural and functional component of ribosomes. It helps in building the ribosome and catalyzing the formation of peptide bonds during the translation process of protein synthesis. While mRNA encodes the genetic information and tRNA carries amino acids, it is the rRNA that forms the active site for assembling proteins.",
+    "category": "Biology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which cell organelle is responsible for the production of ATP, the primary energy currency of the cell?",
+    "choices": [
+      "Nucleus",
+      "Mitochondria",
+      "Endoplasmic Reticulum",
+      "Chloroplasts"
+    ],
+    "correctAnswer": "Mitochondria",
+    "explanation": "Mitochondria are known as the powerhouse of the cell because they are the site of ATP (adenosine triphosphate) production. This process occurs through cellular respiration, where energy is produced from glucose and other nutrients.",
+    "category": "Biology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary mechanism of action for the protein-nucleotide hybridization in CRISPR-Cas9 technology used for gene editing?",
+    "choices": [
+      "Direct cleavage of DNA single-strand breaks",
+      "Formation of a RNA-DNA duplex",
+      "Targeted repair via homologous recombination",
+      "Activation of DNA repair pathways independently"
+    ],
+    "correctAnswer": "Formation of a RNA-DNA duplex",
+    "explanation": "CRISPR-Cas9 technology relies on the formation of a Brief margin of distinct amino acids that compound as a sequence-specific matching domain binding to the DNA template facilitated by gRNA, which results in gene-targeted edits through ssDNA breaks and integrated RNA-DNA hybrids.",
+    "category": "Biology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following exemplifies a microbial consortium that demonstrates cooperation, metabolic complementation, and environmental adaptation, often studied in biogeochemical cycles?",
+    "choices": [
+      "Chesapeake Bay Microbiome",
+      "The Ciudad Universitaria Microbial Loop",
+      "The nitrogen-fixing legume-rhizobia interaction",
+      "Synechococcus-Limnolamna symbiosis"
+    ],
+    "correctAnswer": "The Ciudad Universitaria Microbial Loop",
+    "explanation": "The Ciudad Universitaria Microbial Loop is a well-studied microbial consortium characterized by discrete microorganisms that cooperate within the nutrient cycle, significantly contributing to biochemical interactions in complex ecosystems. It showcases intricate interdependencies indicative of cooperation and metabolic complementation among microbes.",
+    "category": "Biology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following protein complexes is directly involved in the targeting of proteins to lysosomes for degradation?",
+    "choices": [
+      "AP-2 complex",
+      "Vps34 complex",
+      "Clathrin-coated vesicles",
+      "ESCRT complex"
+    ],
+    "correctAnswer": "ESCRT complex",
+    "explanation": "The ESCRT (Endosomal Sorting Complex Required for Transport) complexes are essential for the sorting of ubiquitinated transmembrane proteins into intralumenal vesicles (ILVs) within multivesicular bodies (MVBs), facilitating their subsequent degradation by lysosomes. This is crucial for regulating protein levels and maintaining cellular homeostasis.",
+    "category": "Biology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following proteins directly mediates the process of generating a mutation in DNA through nucleotide excision repair, specifically by detecting distorting DNA lesions?",
+    "choices": [
+      "DNA polymerase",
+      "XPC",
+      "Rad51",
+      "AP endonuclease"
+    ],
+    "correctAnswer": "XPC",
+    "explanation": "XPC (Xeroderma Pigmentosum group C protein) is a critical component of the nucleotide excision repair (NER) pathway. It plays an essential role in detecting and marking DNA lesions that distort the double helix, thus initiating the repair process. This makes it crucial in repairing bulky DNA adducts and ensuring genomic stability. DNA polymerase is involved later in the process, while Rad51 is more associated with homologous recombination, and AP endonuclease works later in the repair cascade after the damage has been recognized.",
+    "category": "Biology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which treaty, signed in 1919, officially ended World War I and imposed heavy reparations on Germany?",
+    "choices": [
+      "Treaty of Versailles",
+      "Treaty of Trianon",
+      "Treaty of Brest-Litovsk",
+      "Treaty of Saint-Germain"
+    ],
+    "correctAnswer": "Treaty of Versailles",
+    "explanation": "The Treaty of Versailles was signed on June 28, 1919, and officially marked the end of World War I. It included numerous provisions such as territorial losses for Germany and significant reparations, which were a point of contention and contributed to the rise of political instability in Germany post-war.",
+    "category": "Military Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What was the primary objective of Operation Desert Storm, which took place in 1991?",
+    "choices": [
+      "To remove Saddam Hussein from power",
+      "To liberate Kuwait from Iraqi occupation",
+      "To establish a permanent military base in the Gulf region",
+      "To enforce a no-fly zone over Iraq"
+    ],
+    "correctAnswer": "To liberate Kuwait from Iraqi occupation",
+    "explanation": "Operation Desert Storm was aimed at liberating Kuwait following its invasion by Iraq in August 1990. Coalition forces launched a large-scale military operation against Iraqi positions after a lengthy buildup of troops, culminating in a swift campaign that effectively ended the Iraqi occupation of Kuwait.",
+    "category": "Military Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following tactics was prominently employed by the Boers during the Second Boer War to counter the numerical and technological superiority of the British forces?",
+    "choices": [
+      "Trench warfare",
+      "Guerrilla warfare",
+      "Blitzkrieg",
+      "Total war"
+    ],
+    "correctAnswer": "Guerrilla warfare",
+    "explanation": "During the Second Boer War (1899-1902), the Boers used guerrilla warfare as a main tactic to harass and disrupt British supply lines and troop movements, effectively countering the British numerical and technological advantage. Trench warfare came to prominence in World War I, blizkrieg was introduced in World War II, and total war generally refers to a conflict where nations mobilize all resources to destroy the opponent's capacity for war.",
+    "category": "Military Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of modern asymmetrical warfare, which doctrine emphasizes the use of precision-guided munitions coupled with advanced information technologies to achieve strategic objectives while minimizing collateral damage?",
+    "choices": [
+      "Military Revolution Theory",
+      "Total War Doctrine",
+      "Shock and Awe Strategy",
+      "Netwar Concept"
+    ],
+    "correctAnswer": "Shock and Awe Strategy",
+    "explanation": "The 'Shock and Awe Strategy', or Rapid Dominance, concentrates on the psychological and physical destruction of an adversary\u2019s ability to fight, heavily utilizing precision-guided munitions and information warfare tactics to overload and paralyze enemy decision-making processes while aiming to minimize collateral damage. This contrasts with theories like Total War, which endorse maximal destructive outreach, and Military Revolution that discusses technological and structural shifts over time.",
+    "category": "Military Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What was the primary logistical innovation utilized by the United States Army during World War II that significantly enhanced the mobility and sustainability of Allied forces during the European Theater?",
+    "choices": [
+      "Red Ball Express",
+      "Logistics Support System",
+      "Rapid Deployment Force",
+      "Transporter Operating Manual"
+    ],
+    "correctAnswer": "Red Ball Express",
+    "explanation": "The Red Ball Express was a truck convoy system that transported supplies from the ports of France to frontline troops during World War II. Established in 1944, its effective operation ensured that allied forces were well supplied, facilitating successful campaigns in Europe.",
+    "category": "Military Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following military theories, formulated during the interwar period, innovatively emphasized the use of armored units in coordinated, mobile warfare that could bypass enemy defenses?",
+    "choices": [
+      "Total War Theory",
+      "Maneuver Warfare Theory",
+      "Trench Warfare Doctrines",
+      "Lebensraum Strategy"
+    ],
+    "correctAnswer": "Maneuver Warfare Theory",
+    "explanation": "Maneuver Warfare Theory, popularized by military thinkers such as Giulio Douhet and Hans von Seeckt, focused on the rapid movement of armored and mechanized forces, enabling armies to outmaneuver and disrupt their adversaries, effectively rendering traditional static defenses obsolete. This theory profoundly influenced military strategies in World War II.",
+    "category": "Military Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What innovation did the advent of radar technology provide for military strategy during World War II?",
+    "choices": [
+      "Improved encryption methods for communication",
+      "Ability to detect incoming aircraft and ships",
+      "Development of long-range nuclear missiles",
+      "Enhanced troop armor protection"
+    ],
+    "correctAnswer": "Ability to detect incoming aircraft and ships",
+    "explanation": "Radar technology significantly changed military tactics during World War II by allowing for earlier detection of enemy aircraft and naval vessels, which improved defensive strategies and response times, ultimately saving many lives and resources.",
+    "category": "military technology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What technology is primarily used in modern military drones to enhance their surveillance capabilities?",
+    "choices": [
+      "Thermal Imaging",
+      "Molten Salt Energy Storage",
+      "Glycolic Acid Test Kits",
+      "Virtual Reality Simulations"
+    ],
+    "correctAnswer": "Thermal Imaging",
+    "explanation": "Thermal imaging technology allows military drones to detect and track heat signatures, which is essential for surveillance and reconnaissance, especially in low visibility conditions.",
+    "category": "military technology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the main operational principle of the F-35 Lightning II's Distributed Aperture System (DAS)?",
+    "choices": [
+      "To provide situational awareness through a spherical view of the battlefield",
+      "To enhance cloaking capabilities against radar detection",
+      "To coordinate drone networks for tactical air support",
+      "To improve fuel efficiency during sustained operations"
+    ],
+    "correctAnswer": "To provide situational awareness through a spherical view of the battlefield",
+    "explanation": "The F-35 Lightning II employs the Distributed Aperture System (DAS) which integrates a set of infrared sensors that offer the pilot 360-degree situational awareness. This system captures and displays critical environmental data, tracks threats, and enables targeting capabilities, enhancing operational effectiveness and decision-making in combat scenarios.",
+    "category": "military technology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the main purpose of the MEADS (Multi-Agent Distributed Simulation) system in military applications?",
+    "choices": [
+      "Enhanced battlefield communication and coordination",
+      "Real-time target acquisition and engagement",
+      "Interoperability and coordination among NATO forces",
+      "Development of autonomous drone navigation"
+    ],
+    "correctAnswer": "Interoperability and coordination among NATO forces",
+    "explanation": "The MEADS program is designed to enhance the interoperability of various air defense systems and improve coordination among NATO allies, offering a collaborative platform for managing air and missile defense operations.",
+    "category": "military technology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which country is credited with developing the first stealth aircraft that successfully entered service, known for its technological advancement in military aviation during the 20th century?",
+    "choices": [
+      "United States",
+      "Russia",
+      "China",
+      "United Kingdom"
+    ],
+    "correctAnswer": "United States",
+    "explanation": "The United States pioneered the development of stealth technology with the introduction of the F-117 Nighthawk, which was the first operational aircraft designed around stealth technology. It entered service in the late 1970s and was notably used in combat during the Gulf War in 1991. Stealth technology is critical in military aviation as it reduces the likelihood of detection by radar, making it a significant advancement in military capability.",
+    "category": "military technology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What was the primary function of the 'Phalanx CIWS' system, a close-in weapon system developed in the late 20th century?",
+    "choices": [
+      "To intercept and destroy small boats and submarines",
+      "To serve as an early-warning radar system for incoming missile attacks",
+      "To provide close-range defense against anti-ship missiles and aircraft",
+      "To function as a satellite communication system for naval operations"
+    ],
+    "correctAnswer": "To provide close-range defense against anti-ship missiles and aircraft",
+    "explanation": "The Phalanx CIWS (Close-In Weapon System) is designed to provide rapid-fire defense against incoming threats such as anti-ship missiles and low-flying aircraft. It utilizes a rotary gun system and automated targeting capabilities, making it effective in close combat scenarios, particularly in naval operations.",
+    "category": "military technology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which esteemed roboticist and AI researcher, known for his contributions to human-robot interaction, has been a guest on Lex Fridman's podcast?",
+    "choices": [
+      "Ilya Sutskever",
+      "Heather Knight",
+      "Dario Amodei",
+      "Andrew Ng"
+    ],
+    "correctAnswer": "Heather Knight",
+    "explanation": "Heather Knight is a notable roboticist and performer who explores the intersection of robotics and human interaction. She has been featured on Lex Fridman's podcast, sharing insights into her unique approach to robotics and balance between technology and society.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following guests appeared on the Lex Fridman Podcast and is known for their work in the field of artificial intelligence, particularly in the area of deep learning?",
+    "choices": [
+      "Elon Musk",
+      "Andrew Ng",
+      "Joe Rogan",
+      "Daniel Kahneman"
+    ],
+    "correctAnswer": "Andrew Ng",
+    "explanation": "Andrew Ng is a prominent figure in the field of artificial intelligence and deep learning, known for co-founding Google Brain and his role in online education through Coursera. He has been a guest on the Lex Fridman Podcast, discussing various topics related to AI.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following renowned scientists, known for their contributions to quantum mechanics and often engaging in philosophical discussions, is a guest featured in Lex Fridman's podcast?",
+    "choices": [
+      "Max Tegmark",
+      "Stephen Hawking",
+      "Albert Einstein",
+      "Richard Feynman"
+    ],
+    "correctAnswer": "Max Tegmark",
+    "explanation": "Max Tegmark is a physicist and cosmologist known for his work in QR (quantum registered) physics, artificial intelligence, and various philosophical aspects of physics. He has appeared on Lex Fridman's podcast to discuss the implications of artificial intelligence and the nature of reality, making him a notable guest in the realm of scientific discourse.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which renowned physicist and philosopher discussed the concept of consciousness and its relation to artificial intelligence in an episode of Lex Fridman's podcast?",
+    "choices": [
+      "David Deutsch",
+      "Roger Penrose",
+      "Max Tegmark",
+      "Neil deGrasse Tyson"
+    ],
+    "correctAnswer": "Roger Penrose",
+    "explanation": "Roger Penrose, a nobel laureate and prominent theoretical physicist, has explored the relationship between consciousness and the fundamental principles of physics. He shared his insights on these topics during an episode of the Lex Fridman podcast.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which prominent roboticist and AI researcher appeared on the Lex Fridman Podcast in early 2021 and is known for their contributions to the development of intelligent machines and deep reinforcement learning?",
+    "choices": [
+      "Brian O'Whiteney",
+      "Marvin Minsky",
+      "Demis Hassabis",
+      "Hans Moravec"
+    ],
+    "correctAnswer": "Demis Hassabis",
+    "explanation": "Demis Hassabis, co-founder and CEO of DeepMind, has been a significant figure in AI discussion for his groundbreaking work in deep reinforcement learning, particularly with algorithms that surpass human performance in complex tasks such as games. His insights into machine learning and artificial intelligence make him a notable guest on Lex Fridman's podcast.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which influential AI researcher, known for their work on reinforcement learning, and contributed to the development of algorithms for playing games at superhuman levels, was a guest on the Lex Fridman Podcast?",
+    "choices": [
+      "Yann LeCun",
+      "Geoffrey Hinton",
+      "Demis Hassabis",
+      "Andrew Ng"
+    ],
+    "correctAnswer": "Demis Hassabis",
+    "explanation": "Demis Hassabis is the co-founder and CEO of DeepMind, and he is renowned for his contributions to artificial intelligence, particularly in reinforcement learning and neural networks. He is also well-known for leading the development of AlphaGo, the AI that defeated human champions in the game of Go.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What design principle involves balancing elements of a visual presentation to create a cohesive and harmonious layout?",
+    "choices": [
+      "Contrast",
+      "Alignment",
+      "Proximity",
+      "Balance"
+    ],
+    "correctAnswer": "Balance",
+    "explanation": "Balance in design refers to distributing visual weight evenly in a layout, creating a sense of equilibrium between different visual elements, which can enhance the attractiveness and functionality of the design.",
+    "category": "Design",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which design principle, often described as seeking harmony and balance, promotes the placement of elements in a way that creates a sense of tranquility in an overall composition?",
+    "choices": [
+      "Contrast",
+      "Emphasis",
+      "Alignment",
+      "Symmetry"
+    ],
+    "correctAnswer": "Symmetry",
+    "explanation": "Symmetry in design refers to a balanced and proportional arrangement, creating visual harmony. It is often associated with elegance and stability, making it a key principle in design elements.",
+    "category": "Design",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In what year was the influential design concept of 'Affordance' popularized by Donald Norman in his book 'The Psychology of Everyday Things'?",
+    "choices": [
+      "1988",
+      "1995",
+      "2001",
+      "2007"
+    ],
+    "correctAnswer": "1988",
+    "explanation": "The term 'Affordance', referring to the properties of an object that show users how to use it, was notably popularized by Donald Norman in his 1988 book 'The Psychology of Everyday Things' (originally published as 'The Psychology of Everyday Life').",
+    "category": "Design",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In critical graphic design theory, what does the term 'postmodernism' primarily signify in relation to the design aesthetics promoted by Modernism?",
+    "choices": [
+      "A rejection of all previous design principles and total embracing of minimalism.",
+      "A fluid exploration of cultural plurality that embraces contradiction and paradox.",
+      "Strict adherence to the rules of typography and grid systems established by the Bauhaus.",
+      "A focus solely on functionality, without regard for emotional or cultural implications."
+    ],
+    "correctAnswer": "A fluid exploration of cultural plurality that embraces contradiction and paradox.",
+    "explanation": "Postmodernism in graphic design is characterized by its embrace of diverse cultures, eclectic visual styles, and its tendency to mix motifs and movement ideas, rather than conforming to shared wholeness or monochromatic approaches promoted by Modernism.",
+    "category": "Design",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the context of modern design philosophy, which theorist is best known for the principle of 'form follows function', and how has this concept evolved in its application to contemporary design?",
+    "choices": [
+      "Louis Sullivan, with an interpretation fully reliant on minimalist aesthetics",
+      "Mies van der Rohe, advocating for emotional engagement through design",
+      "William Morris, emphasizing organic shapes as reclamation of art",
+      "Walter Gropius, subverting this principle by integrating technology and social aspects"
+    ],
+    "correctAnswer": "Walter Gropius, subverting this principle by integrating technology and social aspects",
+    "explanation": "Walter Gropius, founder of the Bauhaus school, challenged traditional notions of 'form follows function' to advocate for the integration of function with an understanding of social change and technology. This evolution marked a significant shift in modern design philosophy, laying the groundwork for various contemporary design approaches that prioritize not just functionality but also user experience and social context.",
+    "category": "Design",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which design theory emphasizes the convergence of various disciplines and criticisms of dualism in understanding the user's experience and purposefully invites friction in the engagement process?",
+    "choices": [
+      "Interaction Design Framework",
+      "Design Thinking Religion",
+      "Transdisciplinary Design Theory",
+      "Post-Humanist Aesthetics"
+    ],
+    "correctAnswer": "Transdisciplinary Design Theory",
+    "explanation": "Transdisciplinary Design Theory integrates insights from multiple disciplines while rejecting the boundaries typically delineated between them. It underscores the complex interactions of systems which design must account for, and deliberately introduces friction to engage users critically, emphasizing the breadth of experience created through various lenses.",
+    "category": "Design",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the name of the policy requiring news organizations to allow journalists who report a story to inform the subject of that story about its existence before publication?",
+    "choices": [
+      "Right of reply",
+      "Prior restraint",
+      "Public interest exemption",
+      "Freedom of Information"
+    ],
+    "correctAnswer": "Right of reply",
+    "explanation": "The 'Right of reply' refers to the policy that ensures individuals have the opportunity to respond to claims made about them in a news story, promoting fairness and providing an avenue for correction of potential inaccuracies.",
+    "category": "Journalism",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following journals is known for prioritizing peer-reviewed research in communication and media studies?",
+    "choices": [
+      "The New Yorker",
+      "Journalism Studies",
+      "The Guardian",
+      "Rolling Stone"
+    ],
+    "correctAnswer": "Journalism Studies",
+    "explanation": "Journalism Studies is an academic journal that publishes research focused specifically on various aspects of journalism, with a strong emphasis on the peer-review process, making it a crucial resource in the field of communication and media studies.",
+    "category": "Journalism",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which pioneering journalist is credited with developing the principles of investigative journalism in the late 19th century, often exposing corruption and societal issues in their reporting?",
+    "choices": [
+      "Ida B. Wells",
+      "Nellie Bly",
+      "Upton Sinclair",
+      "Jacob Riis"
+    ],
+    "correctAnswer": "Jacob Riis",
+    "explanation": "Jacob Riis is widely recognized for his groundbreaking work 'How the Other Half Lives,' which exposed the living conditions of the urban poor in New York City. His use of revelations, photographs, and detailed investigations helped establish the foundations of modern investigative journalism.",
+    "category": "Journalism",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following reporters is credited with coining the term 'muckraker' in the early 20th century and highlighted the importance of investigative journalism in exposing societal issues?",
+    "choices": [
+      "Rebecca West",
+      "Ida B. Wells",
+      "Lincoln Steffens",
+      "Upton Sinclair"
+    ],
+    "correctAnswer": "Lincoln Steffens",
+    "explanation": "Lincoln Steffens was a prominent journalist who wrote in the early 1900s about corruption in politics and business. His works greatly contributed to the term 'muckraker', which refers to journalists and authors who expose the problems of society, often pushing for reform. His collection of reports, particularly those published in 'The Shame of the Cities', emphasized the need for revealing the stark realities of urban corruption.",
+    "category": "Journalism",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following principles is NOT traditionally considered a key tenet of journalistic ethics?",
+    "choices": [
+      "Fairness",
+      "Accountability",
+      "Egotism",
+      "Transparency"
+    ],
+    "correctAnswer": "Egotism",
+    "explanation": "Egotism is not recognized as a tenet of journalistic ethics. Key principles typically include fairness, accountability, and transparency, which focus on the responsibilities of journalists to provide accurate and unbiased information to the public. Egotism, by contrast, refers to a focus on oneself rather than the informative or ethical standards of reporting.",
+    "category": "Journalism",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which Pulitzer Prize-winning investigative journalism piece helped to expose the Watergate scandal, leading to the resignation of President Richard Nixon?",
+    "choices": [
+      "The Pentagon Papers",
+      "All the President's Men",
+      "The Chicago Seven",
+      "The Boy Scouts of America Investigation"
+    ],
+    "correctAnswer": "All the President's Men",
+    "explanation": "All the President's Men is a book by Bob Woodward and Carl Bernstein that details their investigation of the Watergate scandal, which played a crucial role in uncovering the political corruption that ultimately led to President Nixon's resignation. They received the Pulitzer Prize for Public Service in 1973 for their reporting.",
+    "category": "Journalism",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following culinary techniques is used primarily to enhance the flavor of food by caramelizing the natural sugars present in it?",
+    "choices": [
+      "Searing",
+      "Blanching",
+      "Braising",
+      "Deglazing"
+    ],
+    "correctAnswer": "Searing",
+    "explanation": "Searing is a cooking technique that involves rapidly cooking the surface of food at a high temperature to create a flavorful crust. This method caramelizes the natural sugars and proteins in the food, enhancing its flavor profile.",
+    "category": "Culinary Arts",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the traditional fermentation process used to create the Japanese beverage 'Sake'?",
+    "choices": [
+      "Lactic Acid Fermentation",
+      "Alcoholic Fermentation",
+      "Acetic Acid Fermentation",
+      "Anaerobic Fermentation"
+    ],
+    "correctAnswer": "Alcoholic Fermentation",
+    "explanation": "Sake is traditionally made through a unique fermentation process that involves converting starches in the rice into sugars, which are then fermented by yeast to produce alcohol. This dual process includes both the simultaneous saccharification and fermentation steps, making 'Alcoholic Fermentation' the correct answer.",
+    "category": "Culinary Arts",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary purpose of blanching vegetables before freezing them?",
+    "choices": [
+      "To enhance their flavor",
+      "To preserve their color and texture",
+      "To increase their nutritional value",
+      "To reduce cooking time later on"
+    ],
+    "correctAnswer": "To preserve their color and texture",
+    "explanation": "Blanching vegetables involves boiling them for a short period of time and then rapidly cooling them in ice water. This process helps to set their bright colors, maintain crispness and inhibits enzyme activity, which can lead to loss of flavor, color, and texture during freezing. Although it does help with preparing vegetables for future cooking, the primary purpose is preservation.",
+    "category": "Culinary Arts",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following compounds is primarily responsible for the umami flavor found in food, and also plays a significant role in the Maillard reaction during food cooking?",
+    "choices": [
+      "Glucono delta-lactone",
+      "Monosodium glutamate",
+      "L-Glutamate",
+      "Sodium saccharin"
+    ],
+    "correctAnswer": "L-Glutamate",
+    "explanation": "L-Glutamate is a naturally occurring amino acid that is a key compound responsible for the umami flavor in food. It is known not just for its flavor-enhancing properties, but it also significantly contributes to the Maillard reaction, which occurs between amino acids and reducing sugars in cooking, resulting in the browning and development of complex flavors in cooked food.",
+    "category": "Culinary Arts",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What chemical compound primarily gives French meringue its characteristic stability, often attributed to a specific technique of cooking the egg whites with sugar in a 'sugar syrup' form?",
+    "choices": [
+      "Pectin",
+      "Alanine",
+      "Maillard reaction",
+      "Sucrose"
+    ],
+    "correctAnswer": "Sucrose",
+    "explanation": "Sucrose, the primary disaccharide sugar, significantly contributes to the structural integrity of meringue when cooked with egg whites. When absorbed by the proteins during whipping, it stabilizes the alignments of the protein molecules, leading to a desired firm and fluffy texture.",
+    "category": "Culinary Arts",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which obscure culinary technique, once prevalent in French haute cuisine, involves the use of gelatin extracted from meat stocks or bones to create a translucent, jelly-like substance typically used for garnishing and showcasing ornate presentations?",
+    "choices": [
+      "Aspicism",
+      "Ballotine",
+      "Chiffonade",
+      "Sous-vide"
+    ],
+    "correctAnswer": "Aspicism",
+    "explanation": "Aspicism is a final touch often utilized in professional kitchens to encase ingredients in a clear aspic, which is made from stock that has been boiled down and gelled using gelatin, creating an visually appealing and flavorful decoration for dishes.",
+    "category": "Culinary Arts",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following is the primary mechanism by which the opioid analgesics exert their effect in the human body?",
+    "choices": [
+      "Inhibition of GABA release",
+      "Activation of delta receptors",
+      "Blocking serotonin reuptake",
+      "Mediation of the endorphin response"
+    ],
+    "correctAnswer": "Activation of delta receptors",
+    "explanation": "Opioid analgesics primarily exert their effect by activating specific receptors in the brain and spinal cord, most notably the mu, delta, and kappa opioid receptors. The activation of delta receptors also plays a role in pain modulation. While inhibiting GABA release and blocking serotonin reuptake are mechanisms involved in other types of analgesic drugs, they are not the primary mechanisms for opioids.",
+    "category": "Medicine",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary function of erythropoietin in the human body?",
+    "choices": [
+      "Regulate blood pressure",
+      "Stimulate red blood cell production",
+      "Increase white blood cell count",
+      "Promote healing of tissues"
+    ],
+    "correctAnswer": "Stimulate red blood cell production",
+    "explanation": "Erythropoietin (EPO) is a hormone produced primarily by the kidneys in response to low oxygen levels in the blood. Its main function is to stimulate the production of red blood cells in the bone marrow, which increases the oxygen-carrying capacity of the blood.",
+    "category": "Medicine",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following imaging techniques utilizes ionizing radiation to provide 3D spatial information about bone structures in a patient?",
+    "choices": [
+      "MRI (Magnetic Resonance Imaging)",
+      "CT (Computed Tomography)",
+      "Ultrasound",
+      "X-Ray"
+    ],
+    "correctAnswer": "CT (Computed Tomography)",
+    "explanation": "Computed Tomography (CT) uses ionizing radiation to create detailed cross-sectional images of the body's structures, including bones. It provides 3D spatial information significantly better than plain X-rays, making it a valuable tool in medicine for diagnosing injuries and diseases.",
+    "category": "Medicine",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the field of pharmacogenomics, which of the following enzymes is primarily responsible for the metabolism of a significant proportion of clinically used drugs, particularly those prescribed for cardiovascular and psychiatric conditions?",
+    "choices": [
+      "CYP2D6",
+      "UGT2B7",
+      "CYP3A4",
+      "CYP1A2"
+    ],
+    "correctAnswer": "CYP2D6",
+    "explanation": "CYP2D6 (cytochrome P450 2D6) is an important enzyme that metabolizes many commonly prescribed medications, influencing their efficacy and safety. Variability in CYP2D6 activity can significantly affect drug response. Although CYP3A4 is also crucial for drug metabolism, CYP2D6 is specifically involved in the pharmacokinetics of a variety of cardiovascular and psychiatric drugs, making it a key focus in pharmacogenomic research.",
+    "category": "Medicine",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which imaging technique uses ferromagnetic particles to enhance the contrast in imaging biological tissues, specifically in liver and metastatic disease evaluations?",
+    "choices": [
+      "Computed Tomography (CT)",
+      "Positron Emission Tomography (PET)",
+      "Magnetic Resonance Imaging (MRI) with Superparamagnetic Nanoparticles",
+      "Ultrasound using Contrast Agents"
+    ],
+    "correctAnswer": "Magnetic Resonance Imaging (MRI) with Superparamagnetic Nanoparticles",
+    "explanation": "Magnetic Resonance Imaging (MRI) with superparamagnetic nanoparticles acts as a specialized contrast agent that significantly enhances the visibility and resolution of soft tissues, assisting in the evaluation and diagnosis of conditions like liver diseases and metastatic tumors. This technique is particularly advanced and not commonly used in routine clinical practice, requiring expertise in both the development of suitable nanoparticles and the interpretation of the enhanced imaging results.",
+    "category": "Medicine",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In which anatomical structure is the juxtaglomerular apparatus (JGA) located, and what is its primary physiological function?",
+    "choices": [
+      "Proximal Convoluted Tubule; Glomerular filtration regulation",
+      "Distal Convoluted Tubule; Regulation of potassium levels",
+      "Glomerulus; Filtration of blood volume",
+      "Afferent Arteriole; Hormonal response to hypotension"
+    ],
+    "correctAnswer": "Afferent Arteriole; Hormonal response to hypotension",
+    "explanation": "The juxtaglomerular apparatus is located at the junction of the distal convoluted tubule and the afferent \u0430\u0440teri\u043e\u043be of the nephron, where it plays a crucial role in regulating blood pressure and glomerular filtration rate through the secretion of renin. Renin is released in response to low blood pressure, activating the renin-angiotensin-aldosterone system.",
+    "category": "Medicine",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What component of a rocket is primarily responsible for producing thrust during launch?",
+    "choices": [
+      "Propellant",
+      "Payload",
+      "Structural Frame",
+      "Avionics"
+    ],
+    "correctAnswer": "Propellant",
+    "explanation": "The propellant is a combination of fuel and oxidizer that burns in the rocket engine to produce thrust. The rapidly expanding gases produced by this combustion force the rocket in the opposite direction, propelling it forward according to Newton's third law of motion.",
+    "category": "Aerospace",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary component of the International Space Station that provides support for astronauts while on board?",
+    "choices": [
+      "Solar Arrays",
+      "Pressurized Modules",
+      "Docking Ports",
+      "Robotic Arm"
+    ],
+    "correctAnswer": "Pressurized Modules",
+    "explanation": "Pressurized modules are crucial components of the International Space Station, providing a safe environment for astronauts to live and work. These modules maintain life support systems, shielding from radiation, and even space debris, allowing astronauts to perform experiments and daily activities in a near-Earth orbit.",
+    "category": "Aerospace",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In the context of aerodynamics, which of the following equations is used to describe the relationship between pressure, density, and temperature for an ideal gas under isentropic flow conditions?",
+    "choices": [
+      "Bernoulli's Equation",
+      "Navier-Stokes Equations",
+      "Euler's Equation",
+      "Stoker's Equation"
+    ],
+    "correctAnswer": "Euler's Equation",
+    "explanation": "Euler's Equation defines the conservation of momentum for rather inviscid flows and is key in the equations of motion for an ideal gas in compressible flow. Under the assumptions of isentropic flow, it relates the pressure, density, and temperature, particularly expanding the understanding of how these variables interact in high-speed aero applications.",
+    "category": "Aerospace",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of astrodynamics, what is the primary factor that dictates a spacecraft's trajectory during a gravity assist maneuver?",
+    "choices": [
+      "The specific impulse of the propulsion system",
+      "The angle of approach relative to the planetary body",
+      "The spacecraft's mass and velocity",
+      "The magnitude of the gravitational field of the celestial body"
+    ],
+    "correctAnswer": "The angle of approach relative to the planetary body",
+    "explanation": "During a gravity assist maneuver, the spacecraft's trajectory is highly sensitive to the angle at which it approaches the gravitational field of the planet. This angle affects not only the deflection of the path but also the speed and direction of the spacecraft post-encounter. A non-optimal approach angle can result in a significantly less effective trajectory change, highlighting the importance of careful trajectory planning in astrodynamics.",
+    "category": "Aerospace",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the primary reason for the Lohengrin phenomenon observed in space launch trajectories, particularly for multi-stage rockets?",
+    "choices": [
+      "Thermal expansion of materials at high altitudes",
+      "Inertial decoupling of stages during ascent",
+      "Engines suffering from plume recirculation",
+      "Orbital mechanics altering trajectory due to Earth's gravity variance"
+    ],
+    "correctAnswer": "Inertial decoupling of stages during ascent",
+    "explanation": "The Lohengrin phenomenon relates to the physics of multi-stage rocket launches where significant changes in speed and mass occur due to stage separation. The term encapsulates the resulting inertial effects from decoupling, which fundamentally influences the trajectory dynamics.",
+    "category": "Aerospace",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following orbital maneuvers is used primarily to transfer between two circular orbits of different altitudes and involves the spacecraft firing its thrusters at the periapsis of the lower orbit?",
+    "choices": [
+      "Hohmann transfer",
+      "Eliptical transfer",
+      "Bi-impulsive transfer",
+      "TLI of infinitive velocity"
+    ],
+    "correctAnswer": "Hohmann transfer",
+    "explanation": "A Hohmann transfer is an efficient orbital maneuver used to shift a spacecraft from one circular orbit to another circular orbit at a different altitude. This maneuver involves two engine burns: the first at the periapsis of the lower orbit to increase the spacecraft's velocity and extend its path into an elliptical orbit, and a second burn at the apoapsis to circularize the orbit at the higher altitude. It is named after German engineer Walter Hohmann who described the transfer in the 1920s.",
+    "category": "Aerospace",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary function of Telomeres in eukaryotic DNA?",
+    "choices": [
+      "To provide a site for RNA polymerase attachment for transcription",
+      "To protect the ends of chromosomes from deterioration and fusion with neighboring chromosomes",
+      "To facilitate the replication of RNA molecules during protein synthesis",
+      "To enhance genetic variation through recombination during meiosis"
+    ],
+    "correctAnswer": "To protect the ends of chromosomes from deterioration and fusion with neighboring chromosomes",
+    "explanation": "Telomeres are repetitive DNA sequences at the tips of linear chromosomes that serve to protect them. As cells divide, telomeres shorten, eventually leading to cellular aging, but they function to prevent chromosome ends from being mistaken for broken DNA, thereby avoiding unwanted repair processes that could lead to chromosome fusion.",
+    "category": "Genetics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary function of the enzyme DNA polymerase during DNA replication?",
+    "choices": [
+      "To unwind the DNA double helix",
+      "To synthesize a new DNA strand complementary to the template strand",
+      "To remove RNA primers",
+      "To repair damaged DNA"
+    ],
+    "correctAnswer": "To synthesize a new DNA strand complementary to the template strand",
+    "explanation": "DNA polymerase is essential for DNA replication as it adds nucleotides to the growing DNA strand in a sequence complementary to the template strand, thereby ensuring that the genetic information is accurately copied for the next generation of cells.",
+    "category": "Genetics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What genetic phenomenon explains the process by which RNA molecules can regulate the expression of genes by targeting complementary mRNA sequences, ultimately leading to mRNA degradation or inhibition of translation?",
+    "choices": [
+      "Alternative splicing",
+      "RNA interference",
+      "Transcriptional activation",
+      "Vertical gene transfer"
+    ],
+    "correctAnswer": "RNA interference",
+    "explanation": "RNA interference (RNAi) is a biological process in which RNA molecules inhibit gene expression or translation, by neutralizing targeted mRNA molecules. It involves small interfering RNAs (siRNAs) or microRNAs (miRNAs) that post-transcriptionally regulate gene expression through sequence-specific pathways.",
+    "category": "Genetics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following statements about the regulation of gene expression in eukaryotes is FALSE?",
+    "choices": [
+      "Transcription factors can inhibit gene expression in eukaryotes.",
+      "Epigenetic modifications can permanently affect gene expression patterns.",
+      "Introns are spliced out of the RNA transcript before translation begins.",
+      "Enhancers can function at a distance from the promoter they regulate."
+    ],
+    "correctAnswer": "Introns are spliced out of the RNA transcript before translation begins.",
+    "explanation": "The statement is misleading because splicing, which removes introns, occurs during the maturation of RNA before it is translated into proteins. Therefore, the administration of the sequences only matters after splicing occurs. Introns are not part of the transcript that is translated; rather, they are snipped out to produce a functional mRNA product that can be then translated into protein.",
+    "category": "Genetics",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following mutations is characterized as a transition mutation?",
+    "choices": [
+      "A mutation that changes a purine to a purine",
+      "A mutation that changes a pyrimidine to a purine",
+      "A mutation that introduces a stop codon in the protein sequence",
+      "A deletion of one or more nucleotides from the DNA sequence"
+    ],
+    "correctAnswer": "A mutation that changes a purine to a purine",
+    "explanation": "A transition mutation is a type of point mutation where a purine base (adenine or guanine) is replaced with another purine, or a pyrimidine base (cytosine or thymine) is replaced with another pyrimidine. These mutations have a smaller structural change compared to transversions, making them more common in DNA sequences.",
+    "category": "Genetics",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the significance of the TCF7L2 gene SNP rs7903146 in the context of type 2 diabetes risk?",
+    "choices": [
+      "It is involved in the transcriptional regulation of glucagon-like peptide-1 receptors.",
+      "It plays a role in the modulation of insulin secretion by pancreatic beta cells.",
+      "It has been linked to impaired glucose metabolism and increased insulin resistance.",
+      "It indicates risk via modulation of liver metabolism predominantly related to free fatty acid influx."
+    ],
+    "correctAnswer": "It has been linked to impaired glucose metabolism and increased insulin resistance.",
+    "explanation": "The TCF7L2 gene is a transcription factor implicated in the Wnt signaling pathway, and variants like SNP rs7903146 have been associated with increased prevalence of type 2 diabetes through their effects on glucose metabolism and insulin sensitivity. Understanding genetic variants associated with metabolic diseases bodes well for potential treatment avenues.",
+    "category": "Genetics",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which battle marked the turning point of the American Civil War in favor of the Union forces?",
+    "choices": [
+      "Battle of Antietam",
+      "Battle of Gettysburg",
+      "Battle of Vicksburg",
+      "Battle of Chancellorsville"
+    ],
+    "correctAnswer": "Battle of Gettysburg",
+    "explanation": "The Battle of Gettysburg, fought from July 1 to July 3, 1863, is often described as the turning point of the American Civil War. It resulted in a significant Union victory and halted the Confederate army's invasion of the North. The battle led to massive casualties on both sides and is considered the bloodiest battle in the war, influencing subsequent Confederate strategy.",
+    "category": "Military History",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which battle is often considered the turning point of the American Civil War due to the significant defeat suffered by Confederate forces in July 1863?",
+    "choices": [
+      "Battle of Antietam",
+      "Battle of Gettysburg",
+      "Battle of Bull Run",
+      "Battle of Fort Henry"
+    ],
+    "correctAnswer": "Battle of Gettysburg",
+    "explanation": "The Battle of Gettysburg was fought from July 1 to July 3, 1863, and is often regarded as the turning point of the American Civil War. It marked a significant defeat for General Robert E. Lee's Confederate Army, halting its invasion of the North, and resulted in substantial losses for the Confederacy, both in troop strength and morale.",
+    "category": "Military History",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which military strategy, attributed to Sun Tzu in 'The Art of War', emphasizes the importance of deception and has had a lasting impact on both ancient and modern warfare?",
+    "choices": [
+      "Principle of Attrition",
+      "Flanking Maneuvers",
+      "Sunzi's Delphi",
+      "Strategic Deception"
+    ],
+    "correctAnswer": "Strategic Deception",
+    "explanation": "Sun Tzu's emphasis on strategic deception highlights the critical role of misdirection and subterfuge in achieving victory, which remains influential in various military doctrines and strategies throughout history and into contemporary conflict.",
+    "category": "Military History",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which battle is regarded as the first major engagement of the U.S. Civil War, and marked the incident where inexperienced soldiers on both sides displayed a lack of military readiness?",
+    "choices": [
+      "Battle of Shiloh",
+      "First Battle of Bull Run",
+      "Battle of Gettysburg",
+      "Battle of Antietam"
+    ],
+    "correctAnswer": "First Battle of Bull Run",
+    "explanation": "The First Battle of Bull Run, fought on July 21, 1861, is recognized as the first significant battle of the United States Civil War. It highlighted the inexperience of both Union and Confederate armies, leading to insightful reforms in military strategy and organization in the following years.",
+    "category": "Military History",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "During the Second Punic War, which battle is considered the tactical masterpiece of Hannibal Barca, where he employed an encirclement maneuver to decisively defeat the Roman legions?",
+    "choices": [
+      "Battle of Cannae",
+      "Battle of Zama",
+      "Battle of Trebia",
+      "Battle of Lake Trasimene"
+    ],
+    "correctAnswer": "Battle of Cannae",
+    "explanation": "The Battle of Cannae, fought in 216 BC, is hailed as one of the greatest tactical feats in military history. Hannibal's forces, despite being outnumbered, successfully encircled and defeated a much larger Roman army through clever battlefield maneuvering and the use of!! terrain. This victory has been studied extensively in military academies around the world for its innovative tactics.",
+    "category": "Military History",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which battle is considered the turning point in the Napoleonic Wars, leading to Napoleon Bonaparte's eventual defeat?",
+    "choices": [
+      "Battle of Leipzig",
+      "Battle of Waterloo",
+      "Battle of Borodino",
+      "Battle of Austerlitz"
+    ],
+    "correctAnswer": "Battle of Waterloo",
+    "explanation": "The Battle of Waterloo, fought on June 18, 1815, is often seen as the definitive event that marked the end of the Napoleonic Wars. It was here that Napoleon was decisively defeated by the combined forces of the Duke of Wellington and the Prussian Field Marshal Gebhard Leberecht von Bl\u00fccher, leading to his abdication and exile, and bringing a close to his rule.",
+    "category": "Military History",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which designer is credited with creating the 'New Look' in 1947, revolutionizing women's fashion with its emphasis on a cinched waist and full skirt?",
+    "choices": [
+      "Coco Chanel",
+      "Dior",
+      "Yves Saint Laurent",
+      "Gianni Versace"
+    ],
+    "correctAnswer": "Dior",
+    "explanation": "Christian Dior introduced the 'New Look' during a post-World War II fashion show in 1947, which emphasized femininity and brought a dramatic change to women's clothing, introducing softer silhouettes and luxurious fabrics.",
+    "category": "Fashion",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Who is widely regarded as the pioneer of the 'New Look' fashion movement in the late 1940s?",
+    "choices": [
+      "Coco Chanel",
+      "Christian Dior",
+      "Yves Saint Laurent",
+      "Gabrielle 'Coco' Bonheur"
+    ],
+    "correctAnswer": "Christian Dior",
+    "explanation": "Christian Dior introduced the 'New Look' in 1947 with his current fashion collection, characterized by a silhouette that emphasized a wider skirt and a nipped waist, revolutionizing women's fashion in post-war France and throughout the world.",
+    "category": "Fashion",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following fashion designers is credited with popularizing the 'New Look' silhouette in post-war Paris?",
+    "choices": [
+      "Coco Chanel",
+      "Yves Saint Laurent",
+      "Christian Dior",
+      "Valentino Garavani"
+    ],
+    "correctAnswer": "Christian Dior",
+    "explanation": "Christian Dior introduced the 'New Look' in 1947, characterized by its flattering silhouette, cinched waists, and full skirts. This revolutionized women's fashion after World War II and has remained influential in the industry.",
+    "category": "Fashion",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which avant-garde fashion designer is known for their radical use of deconstruction techniques, particularly exemplified in their Autumn/Winter 1996 collection titled 'The Language of Clothes'?",
+    "choices": [
+      "Issey Miyake",
+      "Thierry Mugler",
+      "Yohji Yamamoto",
+      "Maison Margiela"
+    ],
+    "correctAnswer": "Maison Margiela",
+    "explanation": "Maison Margiela is recognized for pioneering deconstructivist fashion, exploring themes of identity and the nature of clothing itself. Their Autumn/Winter 1996 collection showcased garments designed to appear unfinished or constructively fragmented, prompting discussions on what constitutes 'fashion' and challenging traditional ideas of attire.",
+    "category": "Fashion",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In the context of haute couture, which designer was the first to introduce the concept of the 'jean' into high fashion, inspiring a significant shift in luxury textile norms during the mid-20th century?",
+    "choices": [
+      "Christian Dior",
+      "Yves Saint Laurent",
+      "Balenciaga",
+      "Gianni Versace"
+    ],
+    "correctAnswer": "Yves Saint Laurent",
+    "explanation": "Yves Saint Laurent is credited with revolutionizing the fashion world by introducing denim into haute couture with his iconic 'Le Smoking' tuxedo and other designs that melded street style with high fashion, compelling the industry to incorporate more casual fabrics like denim into luxury apparel during the 1960s.",
+    "category": "Fashion",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which designer is credited with the invention of the concept of 'Total Look', influencing modern fashion by designing complete ensembles across clothing and accessories in the 1960s?",
+    "choices": [
+      "Yves Saint Laurent",
+      "Thierry Mugler",
+      "Pierre Cardin",
+      "Giorgio Armani"
+    ],
+    "correctAnswer": "Pierre Cardin",
+    "explanation": "Pierre Cardin is recognized for pioneering the 'Total Look' concept, which emphasized the holistic presentation of clothing and accessories designed to be put together as a coordinated outfit. This revolutionary approach notably influenced fashion in the 1960s, reshaping how collections are presented and perceived.",
+    "category": "Fashion",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What principle of quantum computing allows quantum bits (qubits) to exist in multiple states simultaneously?",
+    "choices": [
+      "Quantum Superposition",
+      "Quantum Entanglement",
+      "Heisenberg Uncertainty Principle",
+      "Quantum Tunneling"
+    ],
+    "correctAnswer": "Quantum Superposition",
+    "explanation": "Quantum Superposition is the fundamental principle that allows qubits to be in a state of both 0 and 1 at the same time, which enables quantum computers to perform multiple calculations simultaneously, vastly increasing their processing power compared to classical computers.",
+    "category": "Quantum Computing",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary principle that allows quantum computers to process information significantly faster than classical computers?",
+    "choices": [
+      "Simultaneous calculation using multiple processors",
+      "Quantum superposition and entanglement",
+      "Higher clock speeds",
+      "Cloud-based processing"
+    ],
+    "correctAnswer": "Quantum superposition and entanglement",
+    "explanation": "Quantum superposition allows quantum bits (qubits) to exist in multiple states at once, while entanglement creates a strong correlation between qubits, enabling quantum computers to perform complex calculations and process large data sets significantly faster than classical computers.",
+    "category": "Quantum Computing",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which quantum error correction code is known to be the first to enable universal fault-tolerant quantum computation?",
+    "choices": [
+      "Shor's Code",
+      "Steane Code",
+      "Surface Code",
+      "Bacon-Shor Code"
+    ],
+    "correctAnswer": "Surface Code",
+    "explanation": "The Surface Code, introduced by Kitayev, is an important quantum error correction method that can effectively compensate for errors in qubits while allowing for universal fault-tolerant computation. It has become a leading approach for stability in practical quantum computing systems.",
+    "category": "Quantum Computing",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In quantum computing, which of the following phenomena is primarily responsible for achieving quantum parallelism in quantum algorithms?",
+    "choices": [
+      "Entanglement",
+      "Quantum Tunneling",
+      "Superposition",
+      "Decoherence"
+    ],
+    "correctAnswer": "Superposition",
+    "explanation": "Quantum parallelism in quantum algorithms is mainly facilitated by the principle of superposition, which allows quantum bits (qubits) to be in multiple states simultaneously, enabling simultaneous calculations. Entanglement, while crucial for correlation between qubits, does not directly contribute to the parallel processing capabilities that superposition provides.",
+    "category": "Quantum Computing",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the theoretical lower bound for the number of quantum bits (qubits) required to simulate an M-qubit quantum system using classical physics, based on the results of the Bremermann's limit?",
+    "choices": [
+      "2^M",
+      "M^2",
+      "M!",
+      "2M"
+    ],
+    "correctAnswer": "2^M",
+    "explanation": "According to Bremermann's limit, a classical computer would need to simulate a quantum system utilizing roughly 2^M classical bits to simulate an M-qubit quantum system, accounting for the required superposition states and entanglements inherent in quantum mechanics.",
+    "category": "Quantum Computing",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following algorithms specifically demonstrates the theoretic superiority of quantum systems over classical systems in achieving exponential speedup in a specific problem rather than a polynomial factor?",
+    "choices": [
+      "Shor's algorithm",
+      "Grover's algorithm",
+      "Bernstein-Vazirani algorithm",
+      "Quantum Approximate Optimization Algorithm"
+    ],
+    "correctAnswer": "Shor's algorithm",
+    "explanation": "Shor's algorithm is renowned for providing an exponential speedup for factoring large integers, an operation that exhibits substantial difficulty for classical computation. Unlike Grover's algorithm, which demonstrates a square-root speedup for unstructured searches, Shor's is specifically tailored to exhibit this superior performance characteristic, positioning it as a landmark in quantum computing.",
+    "category": "Quantum Computing",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following galaxies is closest to the Milky Way?",
+    "choices": [
+      "Andromeda Galaxy",
+      "Triangulum Galaxy",
+      "Whirlpool Galaxy",
+      "Sombrero Galaxy"
+    ],
+    "correctAnswer": "Andromeda Galaxy",
+    "explanation": "The Andromeda Galaxy, also known as M31, is the closest spiral galaxy to the Milky Way, located about 2.537 million light-years away. It is on a collision course with our galaxy. The Triangulum Galaxy is the next closest galaxy after Andromeda.",
+    "category": "Space",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary component of the atmosphere on Saturn?",
+    "choices": [
+      "Hydrogen",
+      "Helium",
+      "Methane",
+      "Ammonia"
+    ],
+    "correctAnswer": "Hydrogen",
+    "explanation": "Saturn's atmosphere is primarily composed of hydrogen (about 96%) and helium (around 3%), with traces of other gases like methane and ammonia. This composition is similar to that of Jupiter, making them gas giants.",
+    "category": "Space",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What type of galaxy is the Milky Way classified as?",
+    "choices": [
+      "Spiral",
+      "Elliptical",
+      "Lenticular",
+      "Irregular"
+    ],
+    "correctAnswer": "Spiral",
+    "explanation": "The Milky Way galaxy is classified as a barred spiral galaxy. It consists of a flat, rotating disk containing stars, gas and dust, along with a central concentration of stars known as the bulge, all of which are surrounded by a much fainter halo of dark matter and globular clusters.",
+    "category": "Space",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What compound is predominantly responsible for the spectral characteristics observed in the atmospheric emission of Venus, specifically in the near-infrared region?",
+    "choices": [
+      "Carbon Dioxide",
+      "Sulfuric Acid",
+      "Water Vapor",
+      "Nitrogen"
+    ],
+    "correctAnswer": "Sulfuric Acid",
+    "explanation": "The unique spectral characteristics of Venus in the near-infrared region, particularly related to its dense atmosphere, are largely due to the presence of sulfuric acid clouds. These clouds play a significant role in the planet's reflective properties and are pivotal for analyzing the planet's atmospheric composition through spectroscopy.",
+    "category": "Space",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What isotopes of hydrogen are commonly found in astronomical measurements and are indicative of stellar processes?",
+    "choices": [
+      "Protium, Deuterium, Tritium",
+      "Protium, Deuterium, Carbon",
+      "Tritium, Helium-3, Carbon",
+      "Deuterium, Tritium, Neptunium"
+    ],
+    "correctAnswer": "Protium, Deuterium, Tritium",
+    "explanation": "The isotopes of hydrogen most commonly analyzed in astronomical measurements are Protium (\u00b9H), Deuterium (\u00b2H), and Tritium (\u00b3H). Protium is the most abundant, while Deuterium is important in studying the processes in stellar atmospheres, including fusion reactions. Tritium, while radioactive and less common naturally, is also significant in some cosmic processes.",
+    "category": "Space",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the significance of the Tzatziki Nebula in the study of cosmic microwave background radiation?",
+    "choices": [
+      "It represents a rare type of cosmic event that alters primordial radiation.",
+      "It provides evidence for dark matter fluctuations in the early universe.",
+      "It was the first nebula identified to have molecular hydrogen contributing to CMB anisotropies.",
+      "It is a localized area where baryonic acoustic oscillations are amplified."
+    ],
+    "correctAnswer": "It provides evidence for dark matter fluctuations in the early universe.",
+    "explanation": "The Tzatziki Nebula is important in cosmology because its observed density fluctuations are linked to the effects of dark matter in the early universe, offering insights into the formation of cosmic structures and the cosmic microwave background radiation variations.",
+    "category": "Space",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the time complexity of accessing an element in the average case for a hash table?",
+    "choices": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n log n)"
+    ],
+    "correctAnswer": "O(1)",
+    "explanation": "In a well-implemented hash table, the average time complexity for accessing an element is O(1) due to the direct mapping of keys to their corresponding values using a hash function. However, in the worst case (which is exceedingly rare), it could catapult to O(n) due to potential collisions.",
+    "category": "Computer Science",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary function of the ALU (Arithmetic Logic Unit) in a CPU?",
+    "choices": [
+      "Memory management",
+      "Data storage",
+      "Performing arithmetic and logical operations",
+      "Input/Output processing"
+    ],
+    "correctAnswer": "Performing arithmetic and logical operations",
+    "explanation": "The ALU is responsible for carrying out arithmetic calculations like addition and subtraction, as well as logical operations such as AND, OR, and NOT, making it a crucial component of the CPU.",
+    "category": "Computer Science",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In the context of database normalization, which of the following anomalies does the Boyce-Codd Normal Form (BCNF) address that is not addressed by the third normal form (3NF)?",
+    "choices": [
+      "Update anomaly",
+      "Insertion anomaly",
+      "Deletion anomaly",
+      "Dependency anomaly"
+    ],
+    "correctAnswer": "Dependency anomaly",
+    "explanation": "BCNF is a stricter version of 3NF that resolves certain types of dependency anomalies that can still exist in databases modeled to 3NF, specifically those cases where functional dependencies exist that do not hold for all superkeys, thereby reducing redundancy and increasing data integrity.",
+    "category": "Computer Science",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of complexity theory, which of the following languages is described by the complete problem for the class PSPACE?",
+    "choices": [
+      "Graph isomorphism",
+      "Quantified Boolean formulas (QBF)",
+      "Integer linear programming",
+      "The Tiling problem"
+    ],
+    "correctAnswer": "Quantified Boolean formulas (QBF)",
+    "explanation": "The QBF problem, which deals with the satisfiability of quantified boolean formulas, is a complete problem for the class PSPACE. This means that it captures the level of difficulty of all problems in PSPACE. It encompasses various operations of logical quantification making it representative of the resource complexity associated with using polynomial space.",
+    "category": "Computer Science",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the time complexity of executing the Fast Fourier Transform (FFT) algorithm, and how does it relate to the convolution of two sequences in the field of signal processing?",
+    "choices": [
+      "O(n log n)",
+      "O(n^2)",
+      "O(n^3)",
+      "O(log n)"
+    ],
+    "correctAnswer": "O(n log n)",
+    "explanation": "The Fast Fourier Transform (FFT) algorithm converts a signal from its original domain into the frequency domain with a time complexity of O(n log n). This efficiency enables applications such as convolution in signal processing to also be handled in O(n log n) time using the FFT, making it significantly faster than the naive approach that would operate in O(n^2) time.",
+    "category": "Computer Science",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In the context of computational complexity theory, which of the following functions is classified as superpolynomial but sub-exponential?",
+    "choices": [
+      "n^2",
+      "n^(log n)",
+      "2^n",
+      "n!"
+    ],
+    "correctAnswer": "n^(log n)",
+    "explanation": "Superpolynomial functions grow faster than polynomial functions but slower than exponential functions. The function n^(log n) exemplifies a growth rate that is superpolynomial since it is more significant than n^k for any constant k, yet it does not grow as quickly as exponential functions like 2^n.",
+    "category": "Computer Science",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary function of the TCP/IP model's Internet layer?",
+    "choices": [
+      "It establishes, maintains, and terminates connections between applications.",
+      "It formats and generates the syntax of data packets being sent over the network.",
+      "It defines routing and addressing which allows data to travel across networks.",
+      "It provides error checking and guarantees delivery of packets."
+    ],
+    "correctAnswer": "It defines routing and addressing which allows data to travel across networks.",
+    "explanation": "The Internet layer is responsible for ensuring that data is sent across multiple networks, using protocols like IP (Internet Protocol) to facilitate routing and addressing. This ensures that packets can travel from the source to the destination, a vital function in the TCP/IP model.",
+    "category": "Technology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following programming languages was primarily developed for artificial intelligence research?",
+    "choices": [
+      "JavaScript",
+      "Python",
+      "COBOL",
+      "Ada"
+    ],
+    "correctAnswer": "Python",
+    "explanation": "Python is widely used in artificial intelligence research and development due to its simplicity and the availability of numerous libraries, such as TensorFlow and PyTorch. Although other languages like LISP (though not listed) are also known for AI, among the given options, Python is the most appropriate choice.",
+    "category": "Technology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary protocol used for exchanging messages over the internet as defined by the Internet Engineering Task Force (IETF) standard RFC 5321?",
+    "choices": [
+      "POP3",
+      "SMTP",
+      "IMAP",
+      "HTTP"
+    ],
+    "correctAnswer": "SMTP",
+    "explanation": "SMTP, or Simple Mail Transfer Protocol, is the standard protocol used for sending emails from one server to another and was specified in RFC 5321. POP3 and IMAP are protocols used for retrieving emails from a mail server, and HTTP is the protocol used for transferring web pages.",
+    "category": "Technology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of computer vision, what is the main advantage of using Convolutional Neural Networks (CNNs) over traditional image processing techniques?",
+    "choices": [
+      "They require less computational resources.",
+      "They can automatically learn features from data without manual feature extraction.",
+      "They are less prone to overfitting regardless of the amount of training data.",
+      "They operate under unsupervised learning models effectively."
+    ],
+    "correctAnswer": "They can automatically learn features from data without manual feature extraction.",
+    "explanation": "Convolutional Neural Networks (CNNs) significantly enhance the process of feature extraction by learning hierarchical representations of images directly from their data, eliminating the need for manual feature engineering, which is crucial in traditional image processing techniques. This ability allows them to effectively scale to intricate and high-dimensional data sets often encountered in computer vision tasks.",
+    "category": "Technology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which technology, introduced in the late 1980s, significantly contributed to the rapid development of parallel computing and is named after a famous AI protagonist from a classic science fiction novel?",
+    "choices": [
+      "Deep Blue",
+      "Deep Learning",
+      "The Matrix",
+      "HAL 9000"
+    ],
+    "correctAnswer": "HAL 9000",
+    "explanation": "HAL 9000, a fictional AI character from Arthur C. Clarke's '2001: A Space Odyssey', is often referenced in discussions on parallel computing and artificial intelligence due to its complex nature and decision-making capabilities. Although the main impact occurred in later decades, its historical significance laid the groundwork for advancements in hardware and software necessary for parallel processing.",
+    "category": "Technology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What was the primary motivation behind the development of the functionality known as 'Garbage Collection' in computer programming?",
+    "choices": [
+      "To minimize memory duplication",
+      "To provide automatic memory management",
+      "To improve application performance",
+      "To enhance object-oriented programming"
+    ],
+    "correctAnswer": "To provide automatic memory management",
+    "explanation": "Garbage Collection was primarily implemented to automate memory management, preventing memory leaks by reclaiming memory that is no longer in use. This function helps developers by allowing them to focus on the core algorithm rather than manual memory handling, thus making programming simpler and safer.",
+    "category": "Technology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following platforms was the first to introduce the concept of 'Stories' that disappear after 24 hours?",
+    "choices": [
+      "Instagram",
+      "Facebook",
+      "Snapchat",
+      "Twitter"
+    ],
+    "correctAnswer": "Snapchat",
+    "explanation": "Snapchat launched the 'Stories' feature in October 2013, allowing users to share photos and videos that remain viewable for 24 hours. This concept has since been adopted by platforms like Instagram and Facebook.",
+    "category": "Social Media",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What year was Instagram launched?",
+    "choices": [
+      "2010",
+      "2011",
+      "2012",
+      "2013"
+    ],
+    "correctAnswer": "2010",
+    "explanation": "Instagram was launched on October 6, 2010, by Kevin Systrom and Mike Krieger. It quickly gained popularity for its photo-sharing features and was later acquired by Facebook in 2012.",
+    "category": "Social Media",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which specific algorithmic change in 2021 boosted the visibility of content from creators on Instagram, aiming to compete with TikTok's format and prioritize video content over static images?",
+    "choices": [
+      "Shadowbanning updates",
+      "Engagement-based ranking system",
+      "Reels algorithm overhaul",
+      "Algorithmic feed restructuring"
+    ],
+    "correctAnswer": "Reels algorithm overhaul",
+    "explanation": "In 2021, Instagram made significant changes to its algorithms for Reels, prioritizing video content to compete effectively with the rising popularity of TikTok. This overhaul aimed to enhance the reach and visibility of creator content on the platform.",
+    "category": "Social Media",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the significance of 'engagement rate' in social media analytics, and how is it commonly calculated among various platforms?",
+    "choices": [
+      "The number of followers multiplied by the total reach within a post",
+      "The total number of interactions (likes, comments, shares) divided by the total reach or impressions of a post",
+      "The total number of uploads made by an account within a month",
+      "The ratio of third-party shares to total original posts issued by an account"
+    ],
+    "correctAnswer": "The total number of interactions (likes, comments, shares) divided by the total reach or impressions of a post",
+    "explanation": "The engagement rate measures how effectively a piece of content resonates with its audience. It is commonly defined as the total number of interactions (including likes, comments, shares) divided by the reach or impressions of a post, providing insights into content performance across different social media platforms.",
+    "category": "Social Media",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What was the primary motivation behind the creation of the Twitter character limit of 140, which was later increased to 280 characters in 2017?",
+    "choices": [
+      "To accommodate text messages on mobile devices",
+      "To reduce server load during peak usage",
+      "To promote concise communication and quick thought sharing",
+      "To limit the spread of spam and misinformation"
+    ],
+    "correctAnswer": "To accommodate text messages on mobile devices",
+    "explanation": "Twitter's original character limit of 140 echoed the maximum length of SMS text messages, which was a key consideration in the platform's early design. This design choice aimed to ensure that tweets could be easily sent and received via mobile phones, which significantly influenced the growth and accessibility of Twitter.",
+    "category": "Social Media",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What social media platform, founded in 2003, was specifically designed for academic networking and has been credited with significantly change how researchers share their work compared to traditional publishing?",
+    "choices": [
+      "ResearchGate",
+      "Academia.edu",
+      "Mendeley",
+      "LinkedIn"
+    ],
+    "correctAnswer": "Academia.edu",
+    "explanation": "Academia.edu, which launched in 2008, is specifically designed for academics to share research papers and collaborate, distinguishing itself from the more general-purpose platform LinkedIn. Although ResearchGate also caters to researchers, the former pioneered many features focused explicitly on academic needs.",
+    "category": "Social Media",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary function of the thin endoplasmic reticulum in animal cells, specifically related to protein dynamics?",
+    "choices": [
+      "Synthesis of fatty acids",
+      "Synthesis of lipids and steroid hormones",
+      "Modification and folding of newly synthesized proteins",
+      "Storage of calcium ions"
+    ],
+    "correctAnswer": "Synthesis of lipids and steroid hormones",
+    "explanation": "The smooth endoplasmic reticulum (SER) primarily functions in the synthesis of lipids, such as phospholipids and cholesterol, as well as steroid hormones. Unlike the rough ER, which has ribosomes and is involved in protein synthesis and processing, the SER's key role is largely centered around lipid metabolism and the detoxification of certain chemicals.",
+    "category": "Zoology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary physiological mechanism that allows birds to achieve efficient flight at high altitudes?",
+    "choices": [
+      "Increased heart rate",
+      "Specialized respiratory system",
+      "High energy diet",
+      "Reduced body weight"
+    ],
+    "correctAnswer": "Specialized respiratory system",
+    "explanation": "Birds possess a unique respiratory system that includes air sacs, allowing for continuous airflow through the lungs and efficient gas exchange. This adaptation enables them to survive and thrive in low-oxygen environments at high altitudes.",
+    "category": "Zoology",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following statements best describes the phenomenon of neoteny in salamanders, specifically regarding the axolotl?",
+    "choices": [
+      "It refers to the occurrence of adult animals retaining juvenile traits.",
+      "It involves the transition from aquatic larva to a fully terrestrial adult.",
+      "It is a form of apomictic reproduction that leads to viviparity.",
+      "It describes a symbiotic relationship between axolotls and particular algae."
+    ],
+    "correctAnswer": "It refers to the occurrence of adult animals retaining juvenile traits.",
+    "explanation": "Neoteny in salamanders, such as the axolotl, is a developmental phenomenon in which adults retain juvenile traits while reproducing. Axolotls remain in their larval form throughout their life, which includes features such as external gills and a swimbladder aiding in buoyancy.",
+    "category": "Zoology",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following statements regarding the evolutionary significance of parental investment strategies in primates is true?",
+    "choices": [
+      "Parental investment in primates generally reduces reproductive success due to the increased energy spent on offspring care.",
+      "Primate species with more complex social structures tend to exhibit decreased maternal investment to increase social alliances.",
+      "Reduced parental investment in males can lead to an increase in female reproductive autonomy observed in certain primate lineages.",
+      "Higher degrees of parental investment in primate species are exclusively associated with gestation duration and not postnatal care."
+    ],
+    "correctAnswer": "Reduced parental investment in males can lead to an increase in female reproductive autonomy observed in certain primate lineages.",
+    "explanation": "Many primate species exhibit diverse parental care approaches primarily influenced by the socioecological context. An example includes how male non-investment in offspring caregiving can enhance female mating opportunities and trigger behavioral adaptations that allow women greater reproductive freedom, thus paralleling evolutionary fitness with degrees of maternal investment.",
+    "category": "Zoology",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following species of cephalopod possesses the ability to produce light through bioluminescence, making it one of the few known marine invertebrates to utilize this phenomenon for communication and predation?",
+    "choices": [
+      "Octopus vulgaris",
+      "Architeuthis dux",
+      "Witlua sachalinensis",
+      "Hapalochlaena malamensis"
+    ],
+    "correctAnswer": "Witlua sachalinensis",
+    "explanation": "Witlua sachalinensis, a species of light-producing cephalopod, has been noted for its ability to bioluminesce. Although other cephalopods possess interesting capabilities such as chromatophores for color change, Witlua sachalinensis is unique in utilizing bioluminescence both for communication with mates and potentially in ambushing prey, thus enhancing its survival prospects in the dark ocean depths.",
+    "category": "Zoology",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following animal species exhibits the phenomenon of altruistic behavior more frequently in predator-rich environments?",
+    "choices": [
+      "Meerkat",
+      "Whale",
+      "Ant",
+      "Dolphin"
+    ],
+    "correctAnswer": "Meerkat",
+    "explanation": "Meerkats are known for their highly cooperative behavior, particularly in predator-rich environments. They display altruism by taking turns acting as sentinels to warn the group of approaching threats, often putting their own safety at risk for the protection of others.",
+    "category": "Zoology",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which architectural style is characterized by the use of large glass windows, open spaces, and asymmetrical shapes, often associated with the International Movement in the mid-20th century?",
+    "choices": [
+      "Gothic",
+      "Brutalism",
+      "Bauhaus",
+      "Postmodernism"
+    ],
+    "correctAnswer": "Bauhaus",
+    "explanation": "The Bauhaus architectural style emerged from the German school founded in 1919 that combined crafts and fine arts, establishing principles of functional design that heavily influenced modern architecture. It is known for its emphasis on simplicity, minimalism, and interaction with contemporary technologies, which was particularly prominent in the buildings constructed during the International Movement.",
+    "category": "Architecture",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which architect is credited with popularizing the concept of the 'Golden Ratio' in modern architecture?",
+    "choices": [
+      "Frank Lloyd Wright",
+      "Le Corbusier",
+      "Ludwig Mies van der Rohe",
+      "Frank Gehry"
+    ],
+    "correctAnswer": "Le Corbusier",
+    "explanation": "Le Corbusier was an influential Swiss-French architect who extensively applied the Golden Ratio in his designs, believing that it embodies aesthetic and harmonic proportions. His works and writings elaborated on this mathematical principle in the realm of architecture.",
+    "category": "Architecture",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following architectural styles is characterized by intricate ornamentation, asymmetrical shapes, and the use of technology in the design process, often seen in early 20th-century buildings?",
+    "choices": [
+      "Art Deco",
+      "Bauhaus",
+      "Brutalism",
+      "Tudor Revival"
+    ],
+    "correctAnswer": "Art Deco",
+    "explanation": "Art Deco is an influential design style that emerged in the early 20th century, known for its bold geometric shapes, rich colors, and lavish ornamentation. This style often incorporates the use of modern technology in its aesthetic and signifies luxury and modernity, as seen in iconic buildings like the Chrysler Building in New York City.",
+    "category": "Architecture",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which architecture style, characterized by its emphasis on tubular structure and lack of ornamentation, was notably developed by the architect Lina Bo Bardi in Brazil during the mid-20th century?",
+    "choices": [
+      "Brutalism",
+      "Modernism",
+      "International Style",
+      "Metabolism"
+    ],
+    "correctAnswer": "Brutalism",
+    "explanation": "Lina Bo Bardi's work is often associated with the Brutalist architecture style, which emerged in the early 20th century and prioritized functionality and materials over decorative elements.",
+    "category": "Architecture",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which 20th-century architectural movement was characterized by a reaction against international modernism and emphasized regional cultural features, local traditions, and varied materials?",
+    "choices": [
+      "Brutalism",
+      "Postmodernism",
+      "Deconstructivism",
+      "Regionalism"
+    ],
+    "correctAnswer": "Regionalism",
+    "explanation": "Regionalism emerged as an architectural movement in the late 20th century, focusing on how architecture reflects the local environment, culture, and geography. It stood in contrast to the uniformity perceived in international modernism, encouraging the use of local materials and design elements that serve to integrate buildings with their surroundings.",
+    "category": "Architecture",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which architectural style is defined by its stark geometric forms and strict functionalism, originally discussed in the theoretical works of architect Le Corbusier and reaching its peak in the mid-20th century with structures like the Villa Savoye?",
+    "choices": [
+      "Brutalism",
+      "Modernism",
+      "Postmodernism",
+      "Bauhaus"
+    ],
+    "correctAnswer": "Modernism",
+    "explanation": "Modernism in architecture emphasized function over form, using clean lines and a lack of ornamentation. Le Corbusier's writings and designs, including the Villa Savoye, exemplified key principles of Modernism where buildings were designed intellectually and aesthetically from the utilitarian bases.",
+    "category": "Architecture",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which of the following algorithms is considered a type of ensemble learning in machine learning?",
+    "choices": [
+      "Linear Regression",
+      "Support Vector Machine",
+      "Random Forest",
+      "K-Means Clustering"
+    ],
+    "correctAnswer": "Random Forest",
+    "explanation": "Random Forest is an ensemble learning method that combines multiple decision trees to make more accurate predictions. It mitigates overfitting and improves overall model performance by averaging the results of the individual trees.",
+    "category": "Artificial Intelligence",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary purpose of a convolutional neural network (CNN)?",
+    "choices": [
+      "Image processing and recognition",
+      "Natural language processing",
+      "Reinforcement learning",
+      "Predictive analytics"
+    ],
+    "correctAnswer": "Image processing and recognition",
+    "explanation": "Convolutional Neural Networks (CNNs) are primarily designed for tasks related to image processing and recognition, exploiting the spatial structure of images to effectively extract features and patterns.",
+    "category": "Artificial Intelligence",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What technique is primarily used in training deep neural networks to avoid the problem of overfitting by providing a stronger form of regularization than standard weight decay?",
+    "choices": [
+      "L1 Regularization",
+      "Early Stopping",
+      "Dropout",
+      "Batch Normalization"
+    ],
+    "correctAnswer": "Dropout",
+    "explanation": "Dropout is a regularization technique used in deep learning that involves randomly setting a subset of neurons to zero during training. This helps prevent neurons from co-adapting too strongly to the training data, thus promoting a more robust model and significantly improving its generalization capability.",
+    "category": "Artificial Intelligence",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of reinforcement learning, which of the following represents the main trade-off that agents face in the exploration-exploitation dilemma?",
+    "choices": [
+      "Maximizing immediate rewards versus averaging long-term rewards",
+      "Minimizing state space complexity versus maximizing transition probabilities",
+      "Balancing stochastic vs deterministic policies in training",
+      "Searching for rewarding states versus optimizing the reward function"
+    ],
+    "correctAnswer": "Maximizing immediate rewards versus averaging long-term rewards",
+    "explanation": "In reinforcement learning, the exploration-exploitation dilemma refers to the trade-off where an agent chooses between exploring new, uncertain actions (which may yield higher long-term rewards) and exploiting known actions to receive immediate rewards. Thus, visualizing it as maximizing immediate rewards while considering potential long-term benefits is foundational to effective reinforcement learning strategies.",
+    "category": "Artificial Intelligence",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In Reinforcement Learning, what does the term 'exploration-exploitation trade-off' refer to in the context of policy optimization?",
+    "choices": [
+      "The balance between acquiring new knowledge about the environment and using known information to maximize the reward.",
+      "The distinction between training an agent in a simulated environment versus a real-world environment.",
+      "The choice to either adhere strictly to the selected policy or randomly choose actions outside of the policy's recommendations.",
+      "The process of increasing the learning rate while gradually decreasing the discount factor."
+    ],
+    "correctAnswer": "The balance between acquiring new knowledge about the environment and using known information to maximize the reward.",
+    "explanation": "The exploration-exploitation trade-off is a fundamental concept in reinforcement learning, where an agent must decide whether to explore new actions to discover their potential rewards or exploit its existing knowledge to maximize immediate reward. Over-emphasizing exploration can lead to lower immediate rewards, while neglecting exploration might hinder the agent from finding better long-term strategies.",
+    "category": "Artificial Intelligence",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In the context of machine learning, what is the 'No Free Lunch' theorem suggesting regarding the performance of learning algorithms?",
+    "choices": [
+      "No single algorithm is universally better than all others across all possible problems.",
+      "The best machine learning models must prioritize interpretability over accuracy.",
+      "Enhancing the size of a training dataset always leads to better model performance.",
+      "It's impossible to design a learning algorithm that achieves zero error on any dataset."
+    ],
+    "correctAnswer": "No single algorithm is universally better than all others across all possible problems.",
+    "explanation": "The 'No Free Lunch' theorem states that if one algorithm performs well on some class of problems, then there exist problems on which it performs poorly. Hence, any advantage gained by an algorithm in one scenario can be completely nullified in another, emphasizing that there is no one-size-fits-all solution in machine learning.",
+    "category": "Artificial Intelligence",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the main purpose of the leading edge slats on an aircraft wing?",
+    "choices": [
+      "To reduce drag at cruise speeds",
+      "To increase lift at lower speeds",
+      "To increase maneuverability during high speeds",
+      "To improve fuel efficiency"
+    ],
+    "correctAnswer": "To increase lift at lower speeds",
+    "explanation": "Leading edge slats are devices added to the wings of an aircraft to enhance their aerodynamic efficiency at lower speeds. They help to delay airflow separation and increase the angle of attack before stall occurs, allowing the aircraft to achieve greater lift under those conditions.",
+    "category": "Aviation",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary purpose of flaps on an aircraft?",
+    "choices": [
+      "To increase the thrust produced by the engines",
+      "To reduce the aircraft's weight during flight",
+      "To increase lift and reduce stall speed during low speed operations",
+      "To enhance the maneuverability of the aircraft at high speeds"
+    ],
+    "correctAnswer": "To increase lift and reduce stall speed during low speed operations",
+    "explanation": "Flaps are movable surfaces on the wings of an aircraft that, when extended, increase the camber and surface area of the wing, allowing the aircraft to generate more lift at lower speeds. This is particularly important during takeoff and landing, making it easier for the aircraft to fly safely at slower speeds.",
+    "category": "Aviation",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What was the primary purpose of the Douglas DC-3 when it was first introduced in the 1930s?",
+    "choices": [
+      "Cargo transportation",
+      "Military reconnaissance",
+      "Passenger air travel",
+      "Aerobatic performances"
+    ],
+    "correctAnswer": "Passenger air travel",
+    "explanation": "The Douglas DC-3 was primarily designed as a commercial passenger airline, revolutionizing air travel with its speed, range, and ability to carry a significant number of passengers. Although it was later used for cargo and military purposes, its original intent was for passenger air transport.",
+    "category": "Aviation",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of aviation, what is the significance of the International Civil Aviation Organization (ICAO) Annex 14 regulations regarding aerodromes, particularly in the design considerations for runway safety areas?",
+    "choices": [
+      "They establish the minimum length required for all runways in international airports.",
+      "They dictate the minimum visibility requirements for landing and takeoff operations.",
+      "They set standards for the location of navigational aids and their obstructions within airspace.",
+      "They define the design parameters for runway safety areas to enhance an aircraft's survivability in case of an overshoot or excursion."
+    ],
+    "correctAnswer": "They define the design parameters for runway safety areas to enhance an aircraft's survivability in case of an overshoot or excursion.",
+    "explanation": "ICAO Annex 14 specifies the design requirements for aerodromes, including safety areas that are essential for mitigating the risks associated with runway excursions or overruns. These standards ensure that sufficient unobstructed areas are available at the ends of runways, contributing to improved safety outcomes in modern aviation operations.",
+    "category": "Aviation",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following factors was a major contributing cause of the decompression incident during the Air Canada Flight 143 emergency, often referred to as the 'Gimli Glider' incident in 1983?",
+    "choices": [
+      "Inadequate fuel calculations leading to fuel starvation",
+      "Malfunctioning cabin pressure regulation system",
+      "Pilot's failure to communicate with air traffic control regarding altitude changes",
+      "Flawed emergency descent procedures leading to structural failure"
+    ],
+    "correctAnswer": "Inadequate fuel calculations leading to fuel starvation",
+    "explanation": "Air Canada Flight 143 ran out of fuel during its transcontinental flight due to incorrect fuel calculations and mismanagement during the conversion from imperial to metric measurements. This resulted in a complete loss of power and subsequently, a daring gliding landing at an abandoned airbase, leading to its nickname as the 'Gimli Glider'.",
+    "category": "Aviation",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "What is the roll rate, in degrees per second, considered the maximum for modern fighter jets such as the F-22 Raptor during aerial maneuvers?",
+    "choices": [
+      30,
+      60,
+      90,
+      180
+    ],
+    "correctAnswer": 180,
+    "explanation": "The F-22 Raptor is capable of achieving a roll rate of up to 180 degrees per second, which is among the highest in modern aviation technology. This capability allows for rapid maneuvering during combat, enabling pilots to effectively evade threats and engage opponents.",
+    "category": "Aviation",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary function of a kinematic chain in robotics?",
+    "choices": [
+      "To generate electricity for robotic devices",
+      "To reduce friction in robotic mechanisms",
+      "To determine the motion and position of a robot's component",
+      "To enhance the sensory feedback of robotic systems"
+    ],
+    "correctAnswer": "To determine the motion and position of a robot's component",
+    "explanation": "A kinematic chain is a mathematical model that represents the movement of connected components (links) in a robot. It helps in calculating the position, velocity, and acceleration of each part involved in the robotic movement, thus enabling controlled motion and efficient performance of tasks.",
+    "category": "Robotics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following robot operating systems is most widely used in academic and research settings?",
+    "choices": [
+      "ROS (Robot Operating System)",
+      "V-REP (Virtual Robot Experimentation Platform)",
+      "Webots",
+      "OpenRAVE"
+    ],
+    "correctAnswer": "ROS (Robot Operating System)",
+    "explanation": "ROS (Robot Operating System) is the most widely used framework for robot software development, especially in academic and research environments. It provides libraries and tools for building robot applications and enables easy integration of different robot hardware and software components.",
+    "category": "Robotics",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In which year was the groundbreaking humanoid robot ASIMO, developed by Honda, first introduced to the public?",
+    "choices": [
+      "1996",
+      "2000",
+      "2003",
+      "2005"
+    ],
+    "correctAnswer": "2000",
+    "explanation": "ASIMO, designed to be a multi-functional mobile assistant, was unveiled by Honda on October 31, 2000. Its creation marked a significant advancement in robotics, showcasing capabilities such as walking, running, and climbing stairs.",
+    "category": "Robotics",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following algorithms is commonly used for optimal motion planning in robotic manipulation, especially in high-dimensional state spaces?",
+    "choices": [
+      "Dijkstra's Algorithm",
+      "Rapidly-exploring Random Tree (RRT)",
+      "Simulated Annealing",
+      "Support Vector Machines (SVM)"
+    ],
+    "correctAnswer": "Rapidly-exploring Random Tree (RRT)",
+    "explanation": "The Rapidly-exploring Random Tree (RRT) algorithm is particularly effective for solving motion planning problems in high-dimensional spaces by incrementally building a tree of potential paths in the search space, making it a popular choice in robotics for achieving optimal solutions.",
+    "category": "Robotics",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the primary principle behind the Hybrid Autonomous Computation Model (HACM) that enables robots to make real-time decisions in uncertain environments?",
+    "choices": [
+      "Probabilistic Inference",
+      "Deep Reinforcement Learning",
+      "Evolutionary Algorithms",
+      "Bayesian Networks"
+    ],
+    "correctAnswer": "Probabilistic Inference",
+    "explanation": "The Hybrid Autonomous Computation Model (HACM) utilizes Probabilistic Inference as a foundational mechanism to process uncertainties and ambiguities in its environment, allowing robots to make informed decisions when faced with complex and variable situations.",
+    "category": "Robotics",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which of the following researchers is credited with pioneering the field of robotics through the introduction of the concept of 'Logic Programming' as a framework for programming robots?",
+    "choices": [
+      "Rodney Brooks",
+      "John McCarthy",
+      "Marvin Minsky",
+      "Hans Moravec"
+    ],
+    "correctAnswer": "John McCarthy",
+    "explanation": "John McCarthy is a foundational figure in artificial intelligence (AI) and is regarded as one of the fathers of AI. His creation of the term 'Artificial Intelligence' and development of LISP as a language for AI programming significantly impacted various robotics applications. His work on logic programming directly influenced how robots could be designed to perform reasoning tasks.",
+    "category": "Robotics",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the primary purpose of using a heat exchanger in an engineering system?",
+    "choices": [
+      "To increase pressure in a closed system",
+      "To Transfer heat between two or more fluids",
+      "To monitor the flow rate of fluids",
+      "To filter out impurities from a fluid"
+    ],
+    "correctAnswer": "To Transfer heat between two or more fluids",
+    "explanation": "Heat exchangers are crucial in various engineering applications as they facilitate the thermal transfer between different fluids without mixing them. This process helps in managing operational temperatures and improving the efficiency of systems such as HVAC, power plants, and manufacturing processes.",
+    "category": "Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary purpose of a heat exchanger in engineering applications?",
+    "choices": [
+      "To increase the pressure of a fluid",
+      "To transfer heat between two or more fluids",
+      "To filter impurities from a fluid",
+      "To promote chemical reactions"
+    ],
+    "correctAnswer": "To transfer heat between two or more fluids",
+    "explanation": "Heat exchangers are devices designed to efficiently transfer heat from one fluid to another, which can be useful in various applications such as HVAC systems, refrigeration, and chemical processing. They help in designing energy-efficient system operations.",
+    "category": "Engineering",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In the context of structural engineering, what is the primary purpose of using materials with high ductility in the design of earthquake-resistant structures?",
+    "choices": [
+      "To increase the overall density of the material",
+      "To allow large deformations without failure, absorbing energy",
+      "To reduce the weight of the structure significantly",
+      "To enhance the thermal conductivity of the materials used"
+    ],
+    "correctAnswer": "To allow large deformations without failure, absorbing energy",
+    "explanation": "High ductility in materials enables them to undergo significant deformation before failure. This property is particularly valuable in earthquake-resistant design as it allows structures to absorb and dissipate energy during seismic events, helping to prevent catastrophic collapse and enhancing safety.",
+    "category": "Engineering",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In the context of structural engineering, which theorem is fundamentally linked to the appropriate use of virtual work in determining deflections in beams?",
+    "choices": [
+      "Castigliano's Theorem",
+      "Mohr's Circle",
+      "Navier-Bresse Equations",
+      "Mileva's Principle"
+    ],
+    "correctAnswer": "Castigliano's Theorem",
+    "explanation": "Castigliano's Theorem states that the partial derivative of the total strain energy in a structure with respect to an applied load gives the deflection at the point of application of that load. It combines the concepts of energy conservation and equilibrium, making it pivotal in structural analysis and deflection determination. The theorem is particularly useful in indeterminate structures.",
+    "category": "Engineering",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "In advanced materials engineering, what phenomenon describes the deterioration of materials when exposed to high temperatures and corrosive environments, typically altering their microstructural properties over time?",
+    "choices": [
+      "Fatigue failure",
+      "Oxidation",
+      "Creep",
+      "Stress corrosion cracking"
+    ],
+    "correctAnswer": "Creep",
+    "explanation": "Creep is the slow, time-dependent deformation of materials under constant stress, typically observed at high temperatures. It underscores the importance of selecting appropriate materials for components exposed to thermal stresses and corrosive agents over extended periods.",
+    "category": "Engineering",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In the context of Finite Element Analysis, what is the purpose of the isoparametric formulation?",
+    "choices": [
+      "To ensure the numerical stability of high-order differential equations.",
+      "To map the geometry of the element into the parameter space and maintain the shape function for both geometry and approximation.",
+      "To directly interpolate equivalent stress-strain relations without regard for the geometry.",
+      "To simplify the mesh requirements for fractal dimensions in complex geometries."
+    ],
+    "correctAnswer": "To map the geometry of the element into the parameter space and maintain the shape function for both geometry and approximation.",
+    "explanation": "The isoparametric formulation plays a critical role in Finite Element Analysis by enabling the use of the same shape functions for both the geometry and element approximation variables. This approach effectively helps to represent complex geometries more accurately in computational models, thus enhancing the accuracy and efficiency of the simulation results.",
+    "category": "Engineering",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which design principle emphasizes the importance of balance in a composition, often achieved through symmetrical or asymmetrical arrangements?",
+    "choices": [
+      "Contrast",
+      "Alignment",
+      "Harmony",
+      "Balance"
+    ],
+    "correctAnswer": "Balance",
+    "explanation": "Balance is a fundamental design principle that creates a sense of stability and equality in a layout. It can be achieved through symmetrical arrangements, which are visually equal on both sides of an axis, or asymmetrical arrangements, which differentiate while maintaining equilibrium.",
+    "category": "Graphic Design",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which design principle refers to the visual weight distribution within a composition, creating a sense of stability and structure?",
+    "choices": [
+      "Contrast",
+      "Balance",
+      "Hierarchy",
+      "Alignment"
+    ],
+    "correctAnswer": "Balance",
+    "explanation": "Balance in graphic design refers to the way visual elements are arranged to create a harmonious composition. It involves the distribution of weight which can be symmetrical (equal) or asymmetrical (unequal), influencing how stable a design feels to the viewer.",
+    "category": "Graphic Design",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which notable design principle is widely attributed to the Bauhaus movement, emphasizing the union of form and function in design as well as the integration of various artistic disciplines?",
+    "choices": [
+      "Gestalt Principles",
+      "Swiss Design",
+      "Functionality \u00c6sthetic",
+      "Constructivism"
+    ],
+    "correctAnswer": "Functionality \u00c6sthetic",
+    "explanation": "The Bauhaus movement championed the idea that form should always follow function, leading to the concept of 'Functionality \u00c6sthetic'. This approach was about creating designs that were not just beautiful but functional as well, showcasing the importance of utility in the design process.",
+    "category": "Graphic Design",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the primary purpose of the Gestalt principles in graphic design, and which principle emphasizes the simplification of complex shapes into a coherent whole?",
+    "choices": [
+      "Proximity",
+      "Closure",
+      "Continuity",
+      "Figure-Ground"
+    ],
+    "correctAnswer": "Closure",
+    "explanation": "The Gestalt principles theorize how humans perceive visual elements as organized wholes rather than as separate parts. The principle of Closure encourages the mind to fill in missing information within a visual field, thereby creating a complete image from incomplete shapes, facilitating understanding and recognition.",
+    "category": "Graphic Design",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "Which of the following design principles does NOT directly contribute to an effective user interface (UI) design?",
+    "choices": [
+      "Consistency",
+      "Hierarchy",
+      "Balance",
+      "Miscibility"
+    ],
+    "correctAnswer": "Miscibility",
+    "explanation": "Miscibility refers to the ability of substances to mix and is not a design principle related to UI. Effective UI design relies on principles such as consistency (ensuring elements behave the same way), hierarchy (guiding users with the arrangement of elements), and balance (distributing elements to create a cohesive layout).",
+    "category": "Graphic Design",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "Which influential graphic design movement, characterized by its focus on simplicity, functionality, and the integration of typography with spatial dynamics, emerged from the Bauhaus school and continued to evolve throughout the mid-20th century, laying the groundwork for modernist design principles?",
+    "choices": [
+      "Constructivism",
+      "De Stijl",
+      "Swiss Design",
+      "Art Deco"
+    ],
+    "correctAnswer": "Swiss Design",
+    "explanation": "Swiss Design, also known as the International Typographic Style, originated in Switzerland in the 1950s and is known for its clean and minimalist approach, using grid systems and sans-serif typefaces. Though Bauhaus laid the groundwork for modernist design, Swiss Design took it a step further, focusing significantly on typography and the use of abstract forms. Constructivism and De Stijl also contributed to modernist ideas but did not directly result from the Bauhaus tradition.",
+    "category": "Graphic Design",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "Which part of the plant is primarily responsible for photosynthesis?",
+    "choices": [
+      "Roots",
+      "Stems",
+      "Leaves",
+      "Flowers"
+    ],
+    "correctAnswer": "Leaves",
+    "explanation": "Leaves contain chloroplasts, which house chlorophyll, the pigment that captures light energy for photosynthesis. While other parts of the plant play roles in growth and reproduction, leaves are the main sites for this crucial process.",
+    "category": "Botany",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following compounds is primarily produced during photosynthesis as a byproduct in plants?",
+    "choices": [
+      "Nitrate",
+      "Oxygen",
+      "Glucose",
+      "Carbon dioxide"
+    ],
+    "correctAnswer": "Oxygen",
+    "explanation": "During photosynthesis, plants convert carbon dioxide and water into glucose and oxygen, the latter of which is released as a byproduct. This process occurs in chloroplasts using light energy, commonly using chlorophyll as a pigment to absorb light.",
+    "category": "Botany",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "Which of the following secondary metabolites is specifically known for playing a role in plant defense mechanisms against herbivores and pathogens?",
+    "choices": [
+      "Alkaloids",
+      "Flavonoids",
+      "Terpenoids",
+      "Lignin"
+    ],
+    "correctAnswer": "Alkaloids",
+    "explanation": "Alkaloids are a class of secondary metabolites characterized by their biologically active compounds, which often have pharmacological effects on herbivorous insects and pathogens. They deter feeding and provide anti-parasitic qualities, playing a crucial role in plant defense. Flavonoids and terpenoids also contribute to plant defense, but alkaloids are particularly noted for their potent defensive properties.",
+    "category": "Botany",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the primary role of the plant enzyme ribulose-1,5-bisphosphate carboxylase/oxygenase (RuBisCO) in the process of photosynthesis?",
+    "choices": [
+      "Catalyzes the conversion of Xylose to Glucose",
+      "Facilitates the photophosphorylation of ADP to ATP",
+      "Fixes carbon dioxide in the Calvin cycle",
+      "Catalyzes the hydrolysis of starch to glucose monomers"
+    ],
+    "correctAnswer": "Fixes carbon dioxide in the Calvin cycle",
+    "explanation": "RuBisCO is crucial for the Calvin cycle, as it catalyzes the reaction between ribulose-1,5-bisphosphate (RuBP) and carbon dioxide, resulting in the formation of two molecules of 3-phosphoglycerate, which are then converted into sugars during photosynthesis.",
+    "category": "Botany",
+    "difficulty": "Extreme"
+  },
+  {
+    "question": "In which botanical family is the genus 'Welwitschia' classified, notable for its unique reproductive systems and longevity in arid environments?",
+    "choices": [
+      "Aspidistraceae",
+      "Gnetaceae",
+      "Cycadaceae",
+      "Ericaceae"
+    ],
+    "correctAnswer": "Gnetaceae",
+    "explanation": "'Welwitschia' is the sole genus in the family Gnetaceae, which is characterized by its unique features such as two leaves that continue to grow throughout the plant's lifespan and its large underground root system. It is primarily found in the Namib Desert and can live for over a thousand years.",
+    "category": "Botany",
+    "difficulty": "Extra Super Extremely hard"
+  },
+  {
+    "question": "What is the principal quantum number of the outermost electrons in sodium (Na), which has an atomic number of 11?",
+    "choices": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "correctAnswer": 3,
+    "explanation": "In the electron configuration of sodium (Na), which is 1s\u00b2 2s\u00b2 2p\u2076 3s\u00b9, the outermost electron is found in the 3s orbital. The principal quantum number, n, for the orbital where the outermost electrons reside indicates the energy level, and in this case, n = 3.",
+    "category": "Chemistry",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary oxidation state of Manganese in Permanganate ion (MnO4^-)?",
+    "choices": [
+      "-1",
+      "+2",
+      "+3",
+      "+7"
+    ],
+    "correctAnswer": "+7",
+    "explanation": "In the permanganate ion (MnO4^-), the oxidation state of oxygen is typically -2. There are four oxygen atoms, contributing a total of -8. To balance the entire charge of -1 from the ion to zero, manganese must have an oxidation state of +7. Therefore, Mn in MnO4^- is in the +7 oxidation state.",
+    "category": "Chemistry",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In the context of acid-base chemistry, what is the effect of increasing the strength of an acidic solute on the polyprotic acid dissociation constants in dilute solution?",
+    "choices": [
+      "The first dissociation constant increases while subsequent dissociation constants remain unchanged.",
+      "All dissociation constants increase proportionally.",
+      "The first dissociation constant remains unchanged while subsequent constants decrease.",
+      "All dissociation constants decrease due to increased ionicity."
+    ],
+    "correctAnswer": "The first dissociation constant increases while subsequent dissociation constants remain unchanged.",
+    "explanation": "In a polyprotic acid, the first proton dissociation typically establishes a strong acidic environment, thus enhancing the first dissociation constant. The subsequent protons are more difficult to remove due to the fuller negative charge left behind and amphoteric wire structure, hence subsequent dissociation constants are less impacted and remain largely unchanged, particularly at dilute concentrations.",
+    "category": "Chemistry",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "In molecular orbital theory, which statement about the potential energy of electrons in diatomic molecules is most accurate?",
+    "choices": [
+      "Electrons can only occupy bonding molecular orbitals.",
+      "Electrons in antibonding molecular orbitals have lower energy than those in bonding molecular orbitals.",
+      "As the bond order increases, the potential energy associated with the molecule always decreases.",
+      "The single bond formed in hydrogen gas is represented by a sigma bond only."
+    ],
+    "correctAnswer": "As the bond order increases, the potential energy associated with the molecule always decreases.",
+    "explanation": "In molecular orbital theory, increasing bond order corresponds to the net increase in electrons in bonding molecular orbitals compared to antibonding orbitals, resulting in a stabilizing effect that lowers the potential energy of the molecule. This indicates a stronger and more stable bond as the bond order rises.",
+    "category": "Chemistry",
+    "difficulty": "PhD"
+  },
+  {
+    "question": "What is the principle that describes the lift generated by the wings of an aircraft?",
+    "choices": [
+      "Bernoulli's Principle",
+      "Newton's Third Law",
+      "The Law of Conservation of Energy",
+      "Pascal's Principle"
+    ],
+    "correctAnswer": "Bernoulli's Principle",
+    "explanation": "Bernoulli's Principle states that an increase in the speed of a fluid occurs simultaneously with a decrease in pressure. This principle helps explain how the air moves faster over the upper surface of the wing, creating lower pressure and generating lift.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary principle behind the lift generated by an airfoil?",
+    "choices": [
+      "Newton's Third Law of Motion",
+      "The Bernoulli Principle",
+      "The Law of Gravitation",
+      "The Doppler Effect"
+    ],
+    "correctAnswer": "The Bernoulli Principle",
+    "explanation": "The lift generated by an airfoil (such as a wing) is primarily explained by the Bernoulli Principle, which states that an increase in the velocity of a fluid is accompanied by a decrease in pressure. As air flows over the curved top surface of the wing, it travels faster than the air below, resulting in lower pressure above the wing and a pressure differential that generates lift.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary purpose of the wing design feature known as 'dihedral angle' in aircraft?",
+    "choices": [
+      "To increase the overall aerodynamic drag",
+      "To improve lateral stability during flight",
+      "To enhance lift generation at low speeds",
+      "To reduce structural weight of the wings"
+    ],
+    "correctAnswer": "To improve lateral stability during flight",
+    "explanation": "The dihedral angle is the upward angle between the wings and the horizontal plane, which contributes to the lateral stability of the aircraft. It helps ensure that if the aircraft rolls to one side, the resulting lift helps it return to level flight.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary purpose of a aircraft's wing camber?",
+    "choices": [
+      "To enhance fuel efficiency by reducing drag",
+      "To manage and optimize lift at various speeds",
+      "To stabilize the aircraft in turbulence",
+      "To improve passenger comfort during flight"
+    ],
+    "correctAnswer": "To manage and optimize lift at various speeds",
+    "explanation": "Wing camber refers to the curvature of the wing's upper and lower surfaces. It is designed to help control airflow and pressure over the wing, optimizing lift generation, especially at various speeds during flight. A correctly sized and shaped camber can enhance lift performance while preventing stall.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What phenomenon occurs when an aircraft exceeds the speed of sound, resulting in a shock wave?",
+    "choices": [
+      "Turbulence",
+      "Supersonic flight",
+      "Shock-induced drag",
+      "Transonic effects"
+    ],
+    "correctAnswer": "Supersonic flight",
+    "explanation": "When an aircraft exceeds the speed of sound (approximately 343 meters per second in air at sea level), it enters supersonic flight, which generates shock waves due to the compressibility of air, leading to higher drag and distinct aerodynamic characteristics.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What type of aerodynamic design is characterized by a smooth, continuous shape that minimizes drag as an object moves through air?",
+    "choices": [
+      "Laminar flow",
+      "Turbulent flow",
+      "Transonic flow",
+      "Subsonic flow"
+    ],
+    "correctAnswer": "Laminar flow",
+    "explanation": "Laminar flow refers to an aerodynamic design that features smooth and orderly flow patterns over the surface of an object, which helps to reduce skin friction and minimize drag. This is crucial in aerospace engineering for improving flight efficiency.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary benefit of using a multi-stage rocket for launching payloads into space?",
+    "choices": [
+      "Increased structural integrity of the rocket",
+      "Reduced aerodynamic drag during ascent",
+      "More efficient fuel usage as stages are jettisoned",
+      "Higher overall weight allows for larger payloads"
+    ],
+    "correctAnswer": "More efficient fuel usage as stages are jettisoned",
+    "explanation": "Multi-stage rockets are designed to drop spent stages during ascent, which reduces the mass of the rocket that needs to continue accelerating into space. This leads to more efficient use of fuel, as each stage only carries the fuel necessary for its specific segment of the flight.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the purpose of a wings' airfoil shape in aerospace engineering?",
+    "choices": [
+      "To decrease the weight of the aircraft",
+      "To maximize drag during flight",
+      "To generate lift by manipulating airflow",
+      "To increase the speed of the aircraft on the ground"
+    ],
+    "correctAnswer": "To generate lift by manipulating airflow",
+    "explanation": "The airfoil shape of a wing is designed such that when air flows over it, the pressure difference created between the upper and lower surfaces leads to lift. This phenomenon is essential for an aircraft to take off and maintain flight.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the main purpose of a wing's airfoil shape in aircraft design?",
+    "choices": [
+      "To improve fuel efficiency",
+      "To enhance structural integrity",
+      "To generate lift",
+      "To minimize drag"
+    ],
+    "correctAnswer": "To generate lift",
+    "explanation": "The airfoil shape of a wing is designed to create a difference in air pressure above and below the wing as air flows over it, which generates lift. This lift is essential for an aircraft to rise off the ground and remain airborne.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What principle explains how the pressure difference created by the shape of an aircraft's wing generates lift?",
+    "choices": [
+      "Bernoulli's Principle",
+      "Newton's Third Law",
+      "Archimedes' Principle",
+      "Pascal's Law"
+    ],
+    "correctAnswer": "Bernoulli's Principle",
+    "explanation": "Bernoulli's Principle explains that an increase in the speed of a fluid occurs simultaneously with a decrease in static pressure. In aerodynamics, the wing shape (airfoil) causes air to move faster over the top surface compared to the bottom, resulting in lower pressure above the wing and consequently generating lift.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which law describes the relationship between the pressure of an ideal gas and its volume, stating that the pressure decreases as the volume increases, provided the temperature remains constant?",
+    "choices": [
+      "Boyle's Law",
+      "Charles's Law",
+      "Avogadro's Law",
+      "Ideal Gas Law"
+    ],
+    "correctAnswer": "Boyle's Law",
+    "explanation": "Boyle's Law states that for a given mass of an ideal gas at constant temperature, the pressure of the gas is inversely proportional to its volume. This fundamental principle is critical in aerospace engineering for understanding how gasses behave under different conditions.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary purpose of a fuel control system in a gas turbine engine?",
+    "choices": [
+      "To regulate the airflow into the engine.",
+      "To control the fuel flow to achieve optimal combustion.",
+      "To monitor the engine temperature.",
+      "To adjust the engine's RPM based on altitude."
+    ],
+    "correctAnswer": "To control the fuel flow to achieve optimal combustion.",
+    "explanation": "The fuel control system in a gas turbine engine is responsible for managing the amount of fuel injected into the combustion chamber, ensuring optimal air-fuel mixture for efficient combustion, performance, and engine longevity.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary purpose of a spoiler on an aircraft wing?",
+    "choices": [
+      "To increase lift",
+      "To create drag",
+      "To improve fuel efficiency",
+      "To reduce weight"
+    ],
+    "correctAnswer": "To create drag",
+    "explanation": "Spoilers are used on aircraft wings to disrupt the airflow, which increases drag and decreases lift. This is particularly useful during descent and landing phases to help decrease the aircraft's descent rate and to assist in reducing speed.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary atmospheric layer where commercial airliners typically operate?",
+    "choices": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "correctAnswer": "Stratosphere",
+    "explanation": "Commercial airliners usually cruise in the lower region of the stratosphere, which is situated approximately 10 to 50 kilometers above sea level. This layer is preferred for its stable air and lower turbulence compared to the troposphere.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary purpose of a differential GPS (DGPS) system in aerospace applications?",
+    "choices": [
+      "To improve the accuracy of positioning data",
+      "To reduce the weight of navigation equipment",
+      "To increase the speed of communication between aircraft and ground control",
+      "To enhance the fail-safe capabilities of GPS"
+    ],
+    "correctAnswer": "To improve the accuracy of positioning data",
+    "explanation": "DGPS systems are designed to provide more accurate location information to users by correcting the errors in the GPS signals using additional reference stations. This enhancement of accuracy is especially crucial in aerospace applications where precision in navigation is vital.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following aerodynamic phenomena is primarily responsible for stall in an aircraft?",
+    "choices": [
+      "Increase in angle of attack",
+      "Decrease in stall speed",
+      "High airspeed induction",
+      "Reduction in aircraft surface area"
+    ],
+    "correctAnswer": "Increase in angle of attack",
+    "explanation": "Stall occurs when an aircraft's angle of attack exceeds its critical angle, causing a significant reduction in lift. This phenomenon is fundamental to understanding aircraft performance and safety in aerospace engineering.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary purpose of a rudder in an aircraft's design?",
+    "choices": [
+      "Aileron control",
+      "Pitch control",
+      "Yaw control",
+      "Lift augmentation"
+    ],
+    "correctAnswer": "Yaw control",
+    "explanation": "The rudder is a vertical control surface located at the tail of an aircraft and is primarily used to control yaw, which is the rotation around the vertical axis. By deflecting the rudder, the pilot can steer the aircraft left or right by controlling its directional stability.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the principle that describes the fundamental earning by which lift is generated on an aircraft wing?",
+    "choices": [
+      "Bernoulli's Principle",
+      "Newton's Third Law of Motion",
+      "Conservation of Mass",
+      "Thermodynamics"
+    ],
+    "correctAnswer": "Bernoulli's Principle",
+    "explanation": "Bernoulli's Principle states that an increase in the speed of a fluid occurs simultaneously with a decrease in pressure. In the context of airflow over a wing, the shape of the wing causes air to move faster over the top than underneath, resulting in lower pressure above the wing and generating lift.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What type of aerodynamic drag is primarily associated with the disruption of airflow around a vehicle?",
+    "choices": [
+      "Induced drag",
+      "Parasitic drag",
+      "Wave drag",
+      "Form drag"
+    ],
+    "correctAnswer": "Form drag",
+    "explanation": "Form drag is a type of aerodynamic drag caused by the shape of an object. It arises due to the air or fluid flowing around the object, and increases with the frontal area of the object involved in the flow. In contrast, induced drag is related to lift, parasitic drag includes skin friction and form drag, and wave drag occurs when objects travel at high speeds approaching and exceeding the speed of sound.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary purpose of an elevator in an aircraft's flight control system?",
+    "choices": [
+      "To increase the lift on the wings",
+      "To control the pitch of the aircraft",
+      "To navigate sideways during flight",
+      "To increase the engine thrust"
+    ],
+    "correctAnswer": "To control the pitch of the aircraft",
+    "explanation": "Elevators are movable control surfaces located on the tail of the aircraft and are used primarily to control the pitch angle or nose position of the aircraft during flight. This allows the pilot to ascend or descend by adjusting the angle of attack.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary purpose of a reformer in advanced air breathing propulsion systems?",
+    "choices": [
+      "To increase fuel efficiency by reducing combustion temperature",
+      "To convert hydrocarbon fuels into hydrogen gases for more efficient combustion",
+      "To improve thrust-to-weight ratio by optimizing airflow",
+      "To serve as a cooling mechanism for engine components"
+    ],
+    "correctAnswer": "To convert hydrocarbon fuels into hydrogen gases for more efficient combustion",
+    "explanation": "A reformer in advanced air breathing propulsion systems is primarily used to convert complex hydrocarbon fuels into simpler hydrogen gases. This process allows for more efficient combustion, resulting in improved engine performance and lower emissions, enhancing overall propulsion efficiency.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Masters"
+  },
+  {
+    "question": "What is the Bernoulli\u2019s principle and how does it relate to aircraft lift?",
+    "choices": [
+      "It states that an increase in the speed of a fluid occurs simultaneously with a decrease in pressure.",
+      "It describes the curve of the wing shape as it affects lift.",
+      "It identifies the relationship between mass and gravity in flight mechanics.",
+      "It explains the thrust generated by jet engines."
+    ],
+    "correctAnswer": "It states that an increase in the speed of a fluid occurs simultaneously with a decrease in pressure.",
+    "explanation": "Bernoulli\u2019s principle states that for an incompressible fluid flow, an increase in the fluid's speed occurs simultaneously with a decrease in pressure. This principle is fundamental in understanding how lift is generated on an aircraft's wings.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the function of the Fuselage in an aircraft?",
+    "choices": [
+      "It holds the wings and the tail assembly.",
+      "It is responsible for propulsion.",
+      "It mainly serves as a control surface.",
+      "It acts as the central body of the aircraft where passengers and cargo are carried."
+    ],
+    "correctAnswer": "It acts as the central body of the aircraft where passengers and cargo are carried.",
+    "explanation": "The fuselage is the main body of an aircraft, providing space for passengers and cargo. All critical systems are housed within it and it provides structural integrity.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which instrument is used to measure the speed of an aircraft relative to the surrounding air?",
+    "choices": [
+      "Altimeter",
+      "VSI (Vertical Speed Indicator)",
+      "Airspeed indicator",
+      "Heading indicator"
+    ],
+    "correctAnswer": "Airspeed indicator",
+    "explanation": "The airspeed indicator measures the speed of an aircraft in relation to the air surrounding it. It helps pilots ensure they are flying within safe speed ranges.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What geometric feature of an airfoil significantly contributes to lift when the airfoil is inclined?",
+    "choices": [
+      "Camber",
+      "Aspect ratio",
+      "Chords",
+      "Sweep"
+    ],
+    "correctAnswer": "Camber",
+    "explanation": "Camber refers to the curvature of the airfoil; the increase in the curvature alters how air moves above and below the wing, creating differential pressure leading to lift.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the main purpose of control surfaces on an aircraft?",
+    "choices": [
+      "To generate lift",
+      "To connect wings to fuselage",
+      "To allow the pilot to manipulate the attitude of the aircraft during flight",
+      "To reduce drag"
+    ],
+    "correctAnswer": "To allow the pilot to manipulate the attitude of the aircraft during flight",
+    "explanation": "Control surfaces, including ailerons, elevators, and rudders, enable pilots to control the aircraft\u2019s attitude and maneuver in the desired direction.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In what primary condition does stall occur in an aircraft?",
+    "choices": [
+      "During turbulence",
+      "When exceeding the critical angle of attack",
+      "In a thunderstorm",
+      "When the engine fails"
+    ],
+    "correctAnswer": "When exceeding the critical angle of attack",
+    "explanation": "A stall in aircraft terms indicates that the airstream can no longer flow smoothly over the wing, typically occurring when the angle of attack exceeds a critical threshold.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What\u2019s the basic function of a turbofan engine in an aircraft?",
+    "choices": [
+      "To provide supplementary engine thrust via the bypass air.",
+      "To convert kinetic energy directly into gravitational lift.",
+      "To control cabin pressure.",
+      "To heat fuel before combustion."
+    ],
+    "correctAnswer": "To provide supplementary engine thrust via the bypass air.",
+    "explanation": "A turbofan engine provides thrust through both the incoming air through the core of the engine as well as the bypass air from a large fan. This design makes engines more efficient and quieter.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does the concept of 'Payload' signify in aerospace engineering?",
+    "choices": [
+      "The weight limit for inflight service equipment",
+      "The data capacity for passenger information systems",
+      "Total weight force the aircraft engine generates",
+      "The maximum weight of cargo or passengers that an aircraft can carry"
+    ],
+    "correctAnswer": "The maximum weight of cargo or passengers that an aircraft can carry",
+    "explanation": "Payload refers to the maximum weight the aircraft can bear from passengers, cargo, and any other transported items while still operating efficiently.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Who was responsible for developing the first controlled powered heavier-than-air flight?",
+    "choices": [
+      "Wright Brothers",
+      "Gustave Eiffel",
+      "Leonardo da Vinci",
+      "Charles Lindbergh"
+    ],
+    "correctAnswer": "Wright Brothers",
+    "explanation": "The Wright Brothers, Orville and Wilbur, are credited with achieving the first controlled powered flight on December 17, 1903, in Kitty Hawk, North Carolina.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What term describes the force that opposes an airplane's forward motion and acts along the direction of the aircraft's travel?",
+    "choices": [
+      "Lift",
+      "Drag",
+      "Weight",
+      "Thrust"
+    ],
+    "correctAnswer": "Drag",
+    "explanation": "Drag is the aerodynamic force that works against the aircraft\u2019s motion through the air, which must be overcome by thrust in order for the airplane to move forward.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What was the primary objective of NASA's Apollo 11 mission?",
+    "choices": [
+      "To establish a permanent lunar base",
+      "To land the first humans on the Moon",
+      "To orbit Mars",
+      "To deploy a space telescope"
+    ],
+    "correctAnswer": "To land the first humans on the Moon",
+    "explanation": "Apollo 11 was launched on July 16, 1969, and successfully landed on the Moon on July 20, 1969, making Neil Armstrong and Buzz Aldrin the first humans to walk on the lunar surface.",
+    "category": "Space Exploration",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which spacecraft was the first to successfully orbit the planet Venus?",
+    "choices": [
+      "Pioneer Venus",
+      "Mariner 2",
+      "Venera 4",
+      "Magellan"
+    ],
+    "correctAnswer": "Mariner 2",
+    "explanation": "Mariner 2 was the first spacecraft to successfully obtain data from another planet. It flew by Venus in 1962 and sent back information about the planet's atmosphere and temperature.",
+    "category": "Space Exploration",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What space agency launched the Hubble Space Telescope?",
+    "choices": [
+      "European Space Agency (ESA)",
+      "SoftBank Technology",
+      "National Aeronautics and Space Administration (NASA)",
+      "Roscosmos"
+    ],
+    "correctAnswer": "National Aeronautics and Space Administration (NASA)",
+    "explanation": "The Hubble Space Telescope, one of the most significant scientific instruments of the past three decades, was launched by NASA in 1990 and remains operational today.",
+    "category": "Space Exploration",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which solvent is utilized in the fuel for the Space Shuttle's main engines?",
+    "choices": [
+      "Liquid oxygen",
+      "RP-1 (kerosene)",
+      "Hydrogen peroxide",
+      "Nitrogen tetroxide"
+    ],
+    "correctAnswer": "RP-1 (kerosene)",
+    "explanation": "The Space Shuttle's main engines used RP-1 (a highly refined kerosene) in combination with liquid oxygen as oxidizer. This combination produced thrust during the Shuttle's ascent.",
+    "category": "Space Exploration",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What was the goal of the Voyager 2 mission during its flybys of Uranus and Neptune?",
+    "choices": [
+      "To intercept asteroids",
+      "To study the inner solar system",
+      "To gather data about the planet's atmospheres and moons",
+      "To measure solar wind"
+    ],
+    "correctAnswer": "To gather data about the planet's atmospheres and moons",
+    "explanation": "Voyager 2 provided valuable data on additional moons, rings of Uranus and Neptune, and their atmospheric characteristics during its flybys in 1986 and 1989, respectively.",
+    "category": "Space Exploration",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which theory helps explain how chemical life could self-replicate and lead to evolution in space?",
+    "choices": [
+      "Big Bang Theory",
+      "Panspermia Hypothesis",
+      "Abrupt Climate Change Theory",
+      "Fecund Universe"
+    ],
+    "correctAnswer": "Panspermia Hypothesis",
+    "explanation": "The Panspermia Hypothesis posits that life exists throughout the Universe, distributed by space dust, meteoroids, comets, and planetoids, explaining its evolution in different environments.",
+    "category": "Space Exploration",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which rover was the first to successfully search for signs of life on Mars?",
+    "choices": [
+      "Spirit",
+      "Opportunity",
+      "Curiosity",
+      "Perseverance"
+    ],
+    "correctAnswer": "Curiosity",
+    "explanation": "Launched in 2011, curiously main purpose to explore her past or near present signs of habitability on Mars, allowing unprecedented observations and assessments of Martian conditions.",
+    "category": "Space Exploration",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What communication method does NASA use to relay data back to Earth from deep space?",
+    "choices": [
+      "AM Radio",
+      "Binary Data Transfer",
+      "Delta Modulation",
+      "Deep Space Network"
+    ],
+    "correctAnswer": "Deep Space Network",
+    "explanation": "NASA employs the Deep Space Network (DSN), a global network of large antennas, for communicating and collecting scientific data from far-off robotic space missions.",
+    "category": "Space Exploration",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the significance of Kepler-186f in the search for exoplanets?",
+    "choices": [
+      "It is the first Earth-sized exoplanet in the habitable zone of another star.",
+      "It hosts three moons with signs of life.",
+      "It was the first exoplanet discovered.",
+      "It was the first exoplanet solely detected using radio waves."
+    ],
+    "correctAnswer": "It is the first Earth-sized exoplanet in the habitable zone of another star.",
+    "explanation": "Discovered in 2014, Kepler-186f is significant as it was the first Earth-size exoplanet identified in the habitable zone of its parent star, suggesting conditions suitable for liquid water.",
+    "category": "Space Exploration",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which piece of technology explored the surface of Titan, Saturn's largest moon?",
+    "choices": [
+      "Huygens Probe",
+      "Viking Lander",
+      "Phobos 2",
+      "Pioneer 10"
+    ],
+    "correctAnswer": "Huygens Probe",
+    "explanation": "The Huygens Probe, part of the Cassini-Huygens mission, successfully landed on Titan on January 14, 2005, and provided the first direct data from this intriguing moon, observing its surface and atmosphere.",
+    "category": "Space Exploration",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What part of the neuron is primarily responsible for receiving incoming signals?",
+    "choices": [
+      "Axon",
+      "Dendrite",
+      "Cell body",
+      "Synapse"
+    ],
+    "correctAnswer": "Dendrite",
+    "explanation": "Dendrites are branching extensions of a neuron that receive signals from other neurons and transmit them toward the cell body.",
+    "category": "Neuroscience",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which neurotransmitter is commonly associated with motivation and reward in the brain?",
+    "choices": [
+      "Serotonin",
+      "Dopamine",
+      "Glutamate",
+      "GABA"
+    ],
+    "correctAnswer": "Dopamine",
+    "explanation": "Dopamine is a key neurotransmitter that plays a role in the brain's reward system and is often linked to feelings of motivation and pleasure.",
+    "category": "Neuroscience",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What structure in the brain is primarily involved in the regulation of emotions and has connections to memory?",
+    "choices": [
+      "Amygdala",
+      "Cerebellum",
+      "Medulla",
+      "Thalamus"
+    ],
+    "correctAnswer": "Amygdala",
+    "explanation": "The amygdala is crucial for emotion regulation and processing and has significant interactions with the hippocampus, which plays an essential role in memory.",
+    "category": "Neuroscience",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following is considered a primary function of the prefrontal cortex?",
+    "choices": [
+      "Visual processing",
+      "Motor control",
+      "Decision making",
+      "Breathing regulation"
+    ],
+    "correctAnswer": "Decision making",
+    "explanation": "The prefrontal cortex is critical for higher cognitive functions including decision making, personality expression, and moderating social behavior.",
+    "category": "Neuroscience",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What term describes the ability of the brain to reorganize itself by forming new neural connections?",
+    "choices": [
+      "Plasticity",
+      "Neurogenesis",
+      "Myelination",
+      "Synaptogenesis"
+    ],
+    "correctAnswer": "Plasticity",
+    "explanation": "Neuroplasticity refers to the brain's ability to adapt its structure and function throughout life, promoting the creation of new neural pathways in response to learning and experience.",
+    "category": "Neuroscience",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What force is primarily responsible for the formation of galaxies in the early universe?",
+    "choices": [
+      "Electromagnetic force",
+      "Nuclear force",
+      "Gravitational force",
+      "Weak nuclear force"
+    ],
+    "correctAnswer": "Gravitational force",
+    "explanation": "Gravitational force is the dominant force that acted in the early universe. It caused matter to clump together, leading to the formation of the first galaxies as regions of higher density attracted surrounding matter.",
+    "category": "Astrophysics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the cosmic microwave background radiation a remnant of?",
+    "choices": [
+      "The first stars",
+      "The Big Bang",
+      "Supernova explosions",
+      "Black hole activity"
+    ],
+    "correctAnswer": "The Big Bang",
+    "explanation": "The cosmic microwave background radiation is the afterglow of the Big Bang, providing crucial evidence for the origin of the universe. It consists of very low-energy photons that fill the universe and serves as a snapshot of the early universe, approximately 380,000 years after the Big Bang.",
+    "category": "Astrophysics",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What type of plate boundary is characterized by the movement of tectonic plates away from each other, typically resulting in the creation of new oceanic crust?",
+    "choices": [
+      "Transform boundary",
+      "Convergent boundary",
+      "Divergent boundary",
+      "Subduction zone"
+    ],
+    "correctAnswer": "Divergent boundary",
+    "explanation": "At a divergent boundary, tectonic plates move apart, allowing magma from the mantle to rise and cool, creating new oceanic crust. This is commonly seen along mid-ocean ridges.",
+    "category": "Geology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which mineral is known for its perfect cleavage in one direction, and is commonly found in metamorphic rocks such as schist?",
+    "choices": [
+      "Muscovite",
+      "Quartz",
+      "Feldspar",
+      "Biotite"
+    ],
+    "correctAnswer": "Muscovite",
+    "explanation": "Muscovite is a common mica mineral that has one perfect cleavage direction, allowing it to be split into thin sheets. It is frequently found in metamorphic rocks, particularly in schist.",
+    "category": "Geology",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which prominent AI researcher, known for their work on deep learning and reinforcement learning, appeared as a guest on the Lex Fridman Podcast in 2021?",
+    "choices": [
+      "Yoshua Bengio",
+      "Geoffrey Hinton",
+      "Fei-Fei Li",
+      "J\u00fcrgen Schmidhuber"
+    ],
+    "correctAnswer": "Geoffrey Hinton",
+    "explanation": "Geoffrey Hinton is a key figure in the development of deep learning techniques, and he discussed various aspects of AI in his appearance on the Lex Fridman Podcast.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which physicist and entrepreneur, known for discussing futurism and philosophy, appeared on the Lex Fridman Podcast and has a significant social media presence?",
+    "choices": [
+      "Max Tegmark",
+      "Brian Greene",
+      "Elon Musk",
+      "Michio Kaku"
+    ],
+    "correctAnswer": "Elon Musk",
+    "explanation": "Elon Musk, the CEO of SpaceX and Tesla, appeared on the Lex Fridman Podcast, where he addressed topics like technology, AI, and the future of humanity.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary purpose of a vortex generator in aircraft design?",
+    "choices": [
+      "Increase fuel efficiency",
+      "Reduce drag",
+      "Improve cabin pressurization",
+      "Enhance stability at high speeds"
+    ],
+    "correctAnswer": "Reduce drag",
+    "explanation": "Vortex generators are small aerodynamic devices placed on the wings of an aircraft to disrupt the airflow and energize the boundary layer, ultimately helping to delay flow separation and reduce drag.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In aerospace engineering, what is the term for the condition when airflow over an airfoil reaches supersonic speeds?",
+    "choices": [
+      "Stagnation",
+      "Subsonic flow",
+      "Shockwave",
+      "Transonic flight"
+    ],
+    "correctAnswer": "Shockwave",
+    "explanation": "When airflow over an airfoil reaches supersonic speeds, it creates a shockwave. This phenomenon dramatically affects lift and drag characteristics, especially in high-speed aerodynamics.",
+    "category": "Aerospace Engineering",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary function of the topic of aerodynamics in aerospace engineering?",
+    "choices": [
+      "To enhance fuel efficiency",
+      "To calculate material stress",
+      "To determine the trajectory of a spacecraft",
+      "To analyze the effects of air on moving objects"
+    ],
+    "correctAnswer": "To analyze the effects of air on moving objects",
+    "explanation": "Aerodynamics is the branch of fluid dynamics concerned with the interaction of air with solid objects, like an aircraft or spacecraft. Understanding how air flows around these objects is crucial for designing efficient and stable vehicles.",
+    "category": "Aerospace",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary function of the ejection seat in a military aircraft?",
+    "choices": [
+      "To enhance the aerodynamic performance of the aircraft",
+      "To allow pilots to escape safely in emergencies",
+      "To control the aircraft's altitude",
+      "To stabilize the aircraft during flight"
+    ],
+    "correctAnswer": "To allow pilots to escape safely in emergencies",
+    "explanation": "The primary function of the ejection seat is to provide a safe means for pilots to exit the aircraft in emergency situations, allowing them to parachute to safety without impacting with the aircraft.",
+    "category": "Aerospace",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What phenomenon occurs when an object travels faster than the speed of sound?",
+    "choices": [
+      "Subsonic",
+      "Transonic",
+      "Supersonic",
+      "Hypersonic"
+    ],
+    "correctAnswer": "Supersonic",
+    "explanation": "Supersonic refers to speeds that exceed the speed of sound, which is approximately 343 meters per second (1235 km/h) at sea level.",
+    "category": "Aerospace",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary purpose of winglets on an aircraft?",
+    "choices": [
+      "Increase lift",
+      "Reduce drag",
+      "Enhance stability",
+      "Improve aesthetics"
+    ],
+    "correctAnswer": "Reduce drag",
+    "explanation": "Winglets are designed to reduce drag by minimizing the pressure differential at the wingtips, leading to improved fuel efficiency and performance.",
+    "category": "Aerospace",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which type of aircraft is primarily designed for personal use and leisure?",
+    "choices": [
+      "Commercial airliner",
+      "Cargo plane",
+      "Business jet",
+      "Helicopter"
+    ],
+    "correctAnswer": "Business jet",
+    "explanation": "Business jets are specifically designed for transportation, leisure, and other personal use, often providing comfort and flexibility in travel.",
+    "category": "Aerospace",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the main source of thrust for a jet engine?",
+    "choices": [
+      "Turbine",
+      "Compressor",
+      "Fan blades",
+      "Exhaust gases"
+    ],
+    "correctAnswer": "Exhaust gases",
+    "explanation": "Jet engines generate thrust by expelling high-speed exhaust gases that create a forward force, following Newton's third law of motion.",
+    "category": "Aerospace",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What does the term 'aeroelasticity' refer to in aerospace engineering?",
+    "choices": [
+      "The interaction between aerodynamic forces and elastic structural behavior",
+      "The effect of air density on lift",
+      "Aircraft stability at various speeds",
+      "The study of flying insects' aerodynamics"
+    ],
+    "correctAnswer": "The interaction between aerodynamic forces and elastic structural behavior",
+    "explanation": "Aeroelasticity studies how the elasticity of structures interacts with the aerodynamic forces, which is crucial for ensuring the safety and functionality of aircraft.",
+    "category": "Aerospace",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the main purpose of the apogee in an orbital insertion?",
+    "choices": [
+      "To determine the periapsis altitude",
+      "To maximize orbital speed",
+      "To ensure the satellite achieves a geostationary orbit",
+      "To minimize drag from atmospheric pressure"
+    ],
+    "correctAnswer": "To determine the periapsis altitude",
+    "explanation": "The apogee is the point in an orbit where the satellite is farthest from Earth, which helps in understanding the orbit's characteristics including periapsis.",
+    "category": "Aerospace",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which layer of the Earth's atmosphere is primarily responsible for the phenomenon known as auroras?",
+    "choices": [
+      "Stratosphere",
+      "Mesosphere",
+      "Ionosphere",
+      "Troposphere"
+    ],
+    "correctAnswer": "Ionosphere",
+    "explanation": "The ionosphere is where charged particles collide with atmospheric gases, resulting in the beautiful auroras we see near polar regions.",
+    "category": "Aerospace",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What was the mission name of NASA's initiative to land humans on the Moon?",
+    "choices": [
+      "Project Gemini",
+      "Project Apollo",
+      "Project Mercury",
+      "Project Voyager"
+    ],
+    "correctAnswer": "Project Apollo",
+    "explanation": "Project Apollo was the NASA program aimed at landing humans on the Moon and returning them safely to Earth.",
+    "category": "Aerospace",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In flight dynamics, what is the term used for the resistance of an object when moving through a fluid, primarily air?",
+    "choices": [
+      "Thrust",
+      "Drag",
+      "Lift",
+      "Weight"
+    ],
+    "correctAnswer": "Drag",
+    "explanation": "Drag is the aerodynamic resistance experienced by an object as it moves through air, not to be confused with thrust or lift.",
+    "category": "Aerospace",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which aerospace engineer is credited with creating the first successful supersonic jet?",
+    "choices": [
+      "James Ferguson",
+      "Sir Frank Whittle",
+      "Roger Bacon",
+      "Howard Hughes"
+    ],
+    "correctAnswer": "Sir Frank Whittle",
+    "explanation": "Sir Frank Whittle is known for inventing the turbojet engine, leading to the development of the first successful supersonic jets.",
+    "category": "Aerospace",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following guests on the Lex Fridman Podcast is a prominent figure in artificial intelligence and machine learning, known for co-founding Google Brain?",
+    "choices": [
+      "Elon Musk",
+      "Geoffrey Hinton",
+      "Sam Harris",
+      "Andrej Karpathy"
+    ],
+    "correctAnswer": "Geoffrey Hinton",
+    "explanation": "Geoffrey Hinton is widely regarded as a pioneer in the field of AI, particularly in deep learning, and co-founded Google Brain.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What occupation does Lex Fridman usually identify with during his podcast discussions?",
+    "choices": [
+      "Neuroscientist",
+      "Philosopher",
+      "AI Researcher",
+      "Software Engineer"
+    ],
+    "correctAnswer": "AI Researcher",
+    "explanation": "Lex Fridman is an AI researcher with a focus on human-centered artificial intelligence.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which philosopher known for his work on ethics and the future of technology has featured on the Lex Fridman Podcast?",
+    "choices": [
+      "Yuval Noah Harari",
+      "Peter Singer",
+      "Daniel Dennett",
+      "Nick Bostrom"
+    ],
+    "correctAnswer": "Nick Bostrom",
+    "explanation": "Nick Bostrom is a prominent philosopher known for discussing existential risks and the ethical implications of future technologies.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which scientist known for researching consciousness and its relation to computer science has appeared on Lex Fridman's Podcast?",
+    "choices": [
+      "David Chalmers",
+      "Carl Jung",
+      "Steve Wozniak",
+      "Richard Dawkins"
+    ],
+    "correctAnswer": "David Chalmers",
+    "explanation": "David Chalmers is well-known for his work on consciousness and specified quantum AI, making him a sought-after guest for discussions on these topics.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "During which episode did Lex Fridman have a conversation with the Mercedes-Benz innovation officer, discussing future trends in automotive technology?",
+    "choices": [
+      "Episode 195",
+      "Episode 200",
+      "Episode 207",
+      "Episode 150"
+    ],
+    "correctAnswer": "Episode 200",
+    "explanation": "Lex Fridman discussed insights with the Mercedes-Benz innovation officer in Episode 200, focusing on innovative trends in the automotive industry.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which influential Tech entrepreneur appeared as a guest on Lex Fridman's podcast and is the co-founder of Tesla?",
+    "choices": [
+      "Billy Markus",
+      "Elon Musk",
+      "Larry Page",
+      "Richard Branson"
+    ],
+    "correctAnswer": "Elon Musk",
+    "explanation": "Elon Musk has been a guest on Lex Fridman's podcast discussing various topics surrounding technology and future innovations, given his role as co-founder of Tesla.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Who is the renowned physicist known for his research in quantum astrophysics, featured on Lex Fridman's podcast?",
+    "choices": [
+      "Brian Greene",
+      "Neil deGrasse Tyson",
+      "Max Tegmark",
+      "Stephen Hawking"
+    ],
+    "correctAnswer": "Max Tegmark",
+    "explanation": "Max Tegmark is a physicist specializing in quantum physics and cosmology, and he has discussed concepts in these fields during his appearance on Lex Fridman's podcast.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which prominent AI researcher discussed the ethical implications of artificial intelligence on Lex Fridman's podcast?",
+    "choices": [
+      "Geoffrey Hinton",
+      "Stuart Russell",
+      "J\u00fcrgen Schmidhuber",
+      "Fei-Fei Li"
+    ],
+    "correctAnswer": "Stuart Russell",
+    "explanation": "Stuart Russell is known for his significant contributions to AI and has frequently discussed the ethical issues surrounding AI, including during his appearance on Lex's podcast.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which famous computer scientist and author of 'Designing Data-Intensive Applications' was a guest on Lex Fridman's podcast?",
+    "choices": [
+      "Martin Kleppmann",
+      "Tim Berners-Lee",
+      "Ada Lovelace",
+      "Marissa Mayer"
+    ],
+    "correctAnswer": "Martin Kleppmann",
+    "explanation": "Martin Kleppmann is recognized for his work on data systems and has shared insights on complex system design in his conversation with Lex Fridman.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What name is associated with the neuroscientist and author who spoke on the emerging connections between neuroscience and AI on Lex Fridman's podcast?",
+    "choices": [
+      "Anjan Chatterjee",
+      "David Eagleman",
+      "Sam Harris",
+      "Andres Gerszten"
+    ],
+    "correctAnswer": "David Eagleman",
+    "explanation": "David Eagleman is a well-known neuroscientist who has shared insights about the brain and AI in one of his engaging discussions with Lex Fridman.",
+    "category": "Lex Fridman Podcast Guests",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which literary work features the characters Jay Gatsby and Daisy Buchanan?",
+    "choices": [
+      "A) The Catcher in the Rye",
+      "B) The Great Gatsby",
+      "C) To Kill a Mockingbird",
+      "D) 1984"
+    ],
+    "correctAnswer": "B) The Great Gatsby",
+    "explanation": "The Great Gatsby, written by F. Scott Fitzgerald, is set in the Roaring Twenties and revolves around the tragic romance between Jay Gatsby and Daisy Buchanan.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the main theme of Mary Shelley\u2019s novel \u2018Frankenstein\u2019?",
+    "choices": [
+      "A) Overreaching ambition",
+      "B) Nature's beauty",
+      "C) Youth and friendship",
+      "D) Historical conflicts"
+    ],
+    "correctAnswer": "A) Overreaching ambition",
+    "explanation": "Frankenstein explores the consequences of man\u2019s hubris and the dangers of creating life through scientific ambition, leading to tragic outcomes.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which poem begins with the line 'I wandered lonely as a cloud'?",
+    "choices": [
+      "A) The Road Not Taken",
+      "B) Ode to a Nightingale",
+      "C) Daffodils",
+      "D) How Do I Love Thee?"
+    ],
+    "correctAnswer": "C) Daffodils",
+    "explanation": "'Daffodils', written by William Wordsworth, captures the beauty of nature and explores the inspiration and tranquility it brings to the poet.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What genre does George Orwell's 'Animal Farm' belong to?",
+    "choices": [
+      "A) Fantasy",
+      "B) Satirical Allegory",
+      "C) Mystery",
+      "D) Historical Fiction"
+    ],
+    "correctAnswer": "B) Satirical Allegory",
+    "explanation": "'Animal Farm' is a satirical allegory that uses animals to critique the Russian Revolution and the rise of totalitarianism.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In which literary work do the characters Raskolnikov and Svidrigailov appear?",
+    "choices": [
+      "A) Crime and Punishment",
+      "B) Brothers Karamazov",
+      "C) War and Peace",
+      "D) The Idiot"
+    ],
+    "correctAnswer": "A) Crime and Punishment",
+    "explanation": "Crime and Punishment is a novel by Fyodor Dostoevsky that explores themes of morality, guilt, and redemption through the story of Raskolnikov's tumultuous guilt after committing murder.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Who wrote the epic poem 'Paradise Lost'?",
+    "choices": [
+      "John Milton",
+      "William Blake",
+      "John Bunyan",
+      "William Wordsworth"
+    ],
+    "correctAnswer": "John Milton",
+    "explanation": "John Milton is known for 'Paradise Lost', an epic poem that explores the biblical story of the Fall of Man.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In which novel does the character Jay Gatsby appear?",
+    "choices": [
+      "To Kill a Mockingbird",
+      "The Great Gatsby",
+      "The Catcher in the Rye",
+      "Of Mice and Men"
+    ],
+    "correctAnswer": "The Great Gatsby",
+    "explanation": "'The Great Gatsby' is a novel authored by F. Scott Fitzgerald, featuring the mysterious millionaire Jay Gatsby.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which author is known for the phrase 'It was the best of times, it was the worst of times'?",
+    "choices": [
+      "Charles Dickens",
+      "Leo Tolstoy",
+      "Mark Twain",
+      "Ernest Hemingway"
+    ],
+    "correctAnswer": "Charles Dickens",
+    "explanation": "This phrase is the opening line of Charles Dickens's novel 'A Tale of Two Cities', setting the tone for the contrasting realities depicted within the story.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the central theme of George Orwell's '1984'?",
+    "choices": [
+      "The joys of youth",
+      "The dangers of totalitarianism",
+      "The beauty of nature",
+      "The struggles of love"
+    ],
+    "correctAnswer": "The dangers of totalitarianism",
+    "explanation": "'1984' illustrates the oppressive nature of totalitarian regimes and the impact on individual freedom and truth.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which play features the characters Benedick and Beatrice?",
+    "choices": [
+      "Hamlet",
+      "Much Ado About Nothing",
+      "A Midsummer Night's Dream",
+      "The Tempest"
+    ],
+    "correctAnswer": "Much Ado About Nothing",
+    "explanation": "In Shakespeare's play 'Much Ado About Nothing', Benedick and Beatrice are known for their witty banter and complex romantic relationship.",
+    "category": "Literature",
+    "difficulty": "Highschool"
   }
 ];
