@@ -8083,5 +8083,876 @@ const questions = [
     "explanation": "In Shakespeare's play 'Much Ado About Nothing', Benedick and Beatrice are known for their witty banter and complex romantic relationship.",
     "category": "Literature",
     "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following novels was written by Jane Austen?",
+    "choices": [
+      "Pride and Prejudice",
+      "Wuthering Heights",
+      "Great Expectations",
+      "Mansfield Park"
+    ],
+    "correctAnswer": "Pride and Prejudice",
+    "explanation": "Pride and Prejudice is one of Jane Austen\u2019s most famous novels, published in 1813. Wuthering Heights was written by Emily Bront\u00eb, Great Expectations by Charles Dickens, and Mansfield Park is also by Austen.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In which literary work does the character Raskolnikov appear?",
+    "choices": [
+      "Crime and Punishment",
+      "The Brothers Karamazov",
+      "War and Peace",
+      "The Idiot"
+    ],
+    "correctAnswer": "Crime and Punishment",
+    "explanation": "Raskolnikov is the protagonist in Fyodor Dostoevsky's novel 'Crime and Punishment', which explores themes of morality, redemption, and the psychology of crime.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Who is the author of the epic poem 'Paradise Lost'?",
+    "choices": [
+      "John Milton",
+      "T.S. Eliot",
+      "William Blake",
+      "Samuel Taylor Coleridge"
+    ],
+    "correctAnswer": "John Milton",
+    "explanation": "'Paradise Lost' is an epic poem by John Milton that was first published in 1667. The poem explores the biblical story of the Fall of Man.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary theme explored in George Orwell's '1984'?",
+    "choices": [
+      "Isolation and despair",
+      "War and conflict",
+      "Totalitarianism and surveillance",
+      "Friendship and loyalty"
+    ],
+    "correctAnswer": "Totalitarianism and surveillance",
+    "explanation": "Orwell's '1984' delves into themes of totalitarianism, government surveillance, and how oppressive regimes affect the individual's freedoms and societal norms.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What literary device is primarily used in the phrase 'It\u2019s raining cats and dogs'?",
+    "choices": [
+      "Metaphor",
+      "Simile",
+      "Hyperbole",
+      "Personification"
+    ],
+    "correctAnswer": "Hyperbole",
+    "explanation": "The phrase 'It\u2019s raining cats and dogs' is a hyperbole used to exaggerate the heaviness of rain.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which novel begins with the line, 'Call me Ishmael'?",
+    "choices": [
+      "Moby-Dick by Herman Melville",
+      "The Great Gatsby by F. Scott Fitzgerald",
+      "1984 by George Orwell",
+      "The Catcher in the Rye by J.D. Salinger"
+    ],
+    "correctAnswer": "Moby-Dick by Herman Melville",
+    "explanation": "'Call me Ishmael' is the famous opening line of 'Moby-Dick', which is a classic novel about the quest for revenge against a giant whale.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In George Orwell's '1984', what is the purpose of the Party's slogan 'War is peace. Freedom is slavery. Ignorance is strength.'?",
+    "choices": [
+      "To promote national unity",
+      "To question established norms",
+      "To create cognitive dissonance and control the populace",
+      "To encourage rebellion against oppression"
+    ],
+    "correctAnswer": "To create cognitive dissonance and control the populace",
+    "explanation": "The paradoxical slogans of the Party illustrate how language is manipulated to maintain control over citizens and to suppress individual thought.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following characters is considered an unreliable narrator?",
+    "choices": [
+      "Jay Gatsby",
+      "Holden Caulfield",
+      "Nick Carraway",
+      "Pip"
+    ],
+    "correctAnswer": "Holden Caulfield",
+    "explanation": "Holden Caulfield, the protagonist of 'The Catcher in the Rye', is often seen as an unreliable narrator due to his distorted perceptions and emotional instability.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In the novel 'Pride and Prejudice', which character is associated with the quote, 'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife'? ",
+    "choices": [
+      "Elizabeth Bennet",
+      "Mr. Darcy",
+      "Charlotte Lucas",
+      "Narrator"
+    ],
+    "correctAnswer": "Narrator",
+    "explanation": "The opening line of 'Pride and Prejudice' is narrated from an omniscient perspective, introducing the themes of marriage and property in 19th-century England.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the main focus of existential themes in the literary works of Franz Kafka, particularly 'The Metamorphosis'?",
+    "choices": [
+      "Romantic love",
+      "Social justice",
+      "Alienation and identity crisis",
+      "War and peace"
+    ],
+    "correctAnswer": "Alienation and identity crisis",
+    "explanation": "'The Metamorphosis' deals with the character Gregor Samsa's transformation into an insect, which symbolizes profound themes of alienation, identity, and the human condition.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which novel features the character known as Jay Gatsby?",
+    "choices": [
+      "Moby Dick",
+      "The Great Gatsby",
+      "The Catcher in the Rye",
+      "Pride and Prejudice"
+    ],
+    "correctAnswer": "The Great Gatsby",
+    "explanation": "Jay Gatsby is the central character of F. Scott Fitzgerald's novel 'The Great Gatsby', which explores themes of wealth, love, and the American Dream.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Who wrote the famous line 'To be or not to be, that is the question'?",
+    "choices": [
+      "Edgar Allan Poe",
+      "William Shakespeare",
+      "F. Scott Fitzgerald",
+      "Virginia Woolf"
+    ],
+    "correctAnswer": "William Shakespeare",
+    "explanation": "This iconic line comes from William Shakespeare's play 'Hamlet', specifically from Act 3, Scene 1, and reflects the protagonist's contemplation of existence.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary theme of George Orwell's '1984'?",
+    "choices": [
+      "The power of love",
+      "The dangers of totalitarianism",
+      "The importance of family",
+      "The beauty of nature"
+    ],
+    "correctAnswer": "The dangers of totalitarianism",
+    "explanation": "'1984' illustrates the oppressive nature of a totalitarian regime and the severe consequences of surveillance, censorship, and political manipulation.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In 'Moby Dick', what is the name of Captain Ahab's ship?",
+    "choices": [
+      "The Pequod",
+      "The Rachel",
+      "The Hispaniola",
+      "The Nautilus"
+    ],
+    "correctAnswer": "The Pequod",
+    "explanation": "Captain Ahab's whaling ship in Herman Melville's 'Moby Dick' is named the Pequod, which aids in his obsessive quest to hunt down the white whale.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What genre does 'The Picture of Dorian Gray' primarily belong to?",
+    "choices": [
+      "Fantasy",
+      "Horror",
+      "Psychological thriller",
+      "Gothic fiction"
+    ],
+    "correctAnswer": "Gothic fiction",
+    "explanation": "Oscar Wilde's 'The Picture of Dorian Gray' exhibits key traits of Gothic fiction, including themes of morality, obsession, and a supernatural element.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In which novel does the character Holden Caulfield appear?",
+    "choices": [
+      "To Kill a Mockingbird",
+      "The Catcher in the Rye",
+      "1984",
+      "Pride and Prejudice"
+    ],
+    "correctAnswer": "The Catcher in the Rye",
+    "explanation": "Holden Caulfield is the protagonist of J.D. Salinger's novel 'The Catcher in the Rye', which was published in 1951.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Who wrote the play 'Death of a Salesman'?",
+    "choices": [
+      "Arthur Miller",
+      "Tennessee Williams",
+      "Eugene O'Neill",
+      "Henry Miller"
+    ],
+    "correctAnswer": "Arthur Miller",
+    "explanation": "Arthur Miller wrote 'Death of a Salesman', which premiered in 1949 and is considered a classic of American theater.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which work is considered the first modern novel?",
+    "choices": [
+      "Don Quixote",
+      "Moby Dick",
+      "The Great Gatsby",
+      "Wuthering Heights"
+    ],
+    "correctAnswer": "Don Quixote",
+    "explanation": "Miguel de Cervantes' 'Don Quixote', published in two parts in 1605 and 1615, is often regarded as the first modern novel due to its character-driven narrative and social commentary.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In 'The Veldt' by Ray Bradbury, what technology plays a key role in the family's dysfunction?",
+    "choices": [
+      "Robot assistants",
+      "A virtual reality nursery",
+      "Self-cleaning dishes",
+      "Automated transportation"
+    ],
+    "correctAnswer": "A virtual reality nursery",
+    "explanation": "In Bradbury's short story 'The Veldt', the children's virtual reality nursery reflects their dark emotions and creates conflict within the family.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which Shakespearean play features the characters of Oberon and Titania?",
+    "choices": [
+      "A Midsummer Night's Dream",
+      "Romeo and Juliet",
+      "Macbeth",
+      "Hamlet"
+    ],
+    "correctAnswer": "A Midsummer Night's Dream",
+    "explanation": "Oberon and Titania are the king and queen of the fairies in 'A Midsummer Night's Dream'.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In '1984', what is the name of the totalitarian regime's mascot?",
+    "choices": [
+      "Big Brother",
+      "The Party",
+      "Goldstein",
+      "Winston"
+    ],
+    "correctAnswer": "Big Brother",
+    "explanation": "Big Brother represents the Party's surveillance and control in George Orwell's '1984'.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "choices": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "Mark Twain",
+      "John Steinbeck"
+    ],
+    "correctAnswer": "F. Scott Fitzgerald",
+    "explanation": "'The Great Gatsby' was written by F. Scott Fitzgerald and published in 1925.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary theme of Mary Shelley's 'Frankenstein'?",
+    "choices": [
+      "The dangers of ambition",
+      "Nature vs. nurture",
+      "The impact of technology on humanity",
+      "Isolation and community"
+    ],
+    "correctAnswer": "The dangers of ambition",
+    "explanation": "Mary Shelley's 'Frankenstein' explores the dangers and consequences of unchecked ambition through Victor Frankenstein's hubris in creating life.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which novel begins with the line 'Call me Ishmael'?",
+    "choices": [
+      "Moby-Dick",
+      "The Catcher in the Rye",
+      "The Grapes of Wrath",
+      "The Old Man and the Sea"
+    ],
+    "correctAnswer": "Moby-Dick",
+    "explanation": "The novel 'Moby-Dick', written by Herman Melville, begins with the famous introductory line 'Call me Ishmael'.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In a metaphor, what does the 'road not taken' symbolize?",
+    "choices": [
+      "Regret about opportunities",
+      "Adventure and travel",
+      "Difficult choices",
+      "Fear of change"
+    ],
+    "correctAnswer": "Regret about opportunities",
+    "explanation": "The 'road not taken' in Robert Frost's poem symbolizes regret about choices not made or opportunities missed.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which literary device is characterized by giving human traits to non-human things?",
+    "choices": [
+      "Simile",
+      "Metaphor",
+      "Personification",
+      "Alliteration"
+    ],
+    "correctAnswer": "Personification",
+    "explanation": "Personification is a literary device where human traits are attributed to non-human things.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What type of narration is used in the novel 'The Sound and the Fury' by William Faulkner?",
+    "choices": [
+      "First-person",
+      "Third-person omniscient",
+      "Stream-of-consciousness",
+      "Second-person"
+    ],
+    "correctAnswer": "Stream-of-consciousness",
+    "explanation": "'The Sound and the Fury' is known for its use of stream-of-consciousness narration, representing the thoughts and feelings of characters in a flowing manner.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which of the following novels is set in the dystopian world of Panem?",
+    "choices": [
+      "The Handmaid's Tale",
+      "The Hunger Games",
+      "Brave New World",
+      "Fahrenheit 451"
+    ],
+    "correctAnswer": "The Hunger Games",
+    "explanation": "'The Hunger Games' series, written by Suzanne Collins, is set in the fictional dystopian world of Panem.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the main conflict in 'Pride and Prejudice' by Jane Austen?",
+    "choices": [
+      "Class and social status",
+      "Revenge",
+      "Family loyalty",
+      "Courage in battle"
+    ],
+    "correctAnswer": "Class and social status",
+    "explanation": "The main conflict in 'Pride and Prejudice' revolves around issues of class, social status, and romantic misunderstandings.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary theme of George Orwell's novel '1984'?",
+    "choices": [
+      "Revolutionary zeal",
+      "Freedoms of the individual",
+      "The dangers of totalitarianism",
+      "The futility of war"
+    ],
+    "correctAnswer": "The dangers of totalitarianism",
+    "explanation": "'1984' explores the oppressive nature of totalitarian regimes and the severe consequences they impose on individual freedoms.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Who is the author of the famous play 'Hamlet'?",
+    "choices": [
+      "Christopher Marlowe",
+      "John Webster",
+      "William Shakespeare",
+      "Ben Jonson"
+    ],
+    "correctAnswer": "William Shakespeare",
+    "explanation": "William Shakespeare is widely regarded as one of the greatest playwrights, and 'Hamlet' is one of his most well-known tragedies.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which poetic form consists of 14 lines, typically written in iambic pentameter?",
+    "choices": [
+      "Haiku",
+      "Sonnet",
+      "Villanelle",
+      "Limerick"
+    ],
+    "correctAnswer": "Sonnet",
+    "explanation": "A sonnet is a 14-line poem that traditionally explores themes of love and nature, often with a specific rhyme scheme.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What literary device involves giving human characteristics to non-human entities?",
+    "choices": [
+      "Metonymy",
+      "Personification",
+      "Simile",
+      "Allegory"
+    ],
+    "correctAnswer": "Personification",
+    "explanation": "Personification attributes human-like qualities to inanimate objects, animals, or abstract concepts to create vivid imagery.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which novel is narrated from the perspective of a young girl named Scout Finch?",
+    "choices": [
+      "Pride and Prejudice",
+      "The Catcher in the Rye",
+      "To Kill a Mockingbird",
+      "The Secret Garden"
+    ],
+    "correctAnswer": "To Kill a Mockingbird",
+    "explanation": "Harper Lee's 'To Kill a Mockingbird' tells the story of Scout Finch and her experiences while growing up in a racially divided Southern town.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What mythical place is considered the home of the nymphs in classical literature?",
+    "choices": [
+      "Avalon",
+      "Asgard",
+      "Mount Olympus",
+      "Arcadia"
+    ],
+    "correctAnswer": "Arcadia",
+    "explanation": "In classical literature, Arcadia is described as a utopian land of peace and simplicity, inhabited by nymphs and associated with pastoral beauty.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In Shakespeare's 'Hamlet', who is the last character to die?",
+    "choices": [
+      "Gertrude",
+      "Claudius",
+      "Hamlet",
+      "Laertes"
+    ],
+    "correctAnswer": "Hamlet",
+    "explanation": "Hamlet is the last character to die in Shakespeare's 'Hamlet', succumbing to the poisoned sword stroke.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "The protagonist of F. Scott Fitzgerald's 'The Great Gatsby' is named?",
+    "choices": [
+      "Jay Gatsby",
+      "Nick Carraway",
+      "Daisy Buchanan",
+      "Tom Buchanan"
+    ],
+    "correctAnswer": "Jay Gatsby",
+    "explanation": "Jay Gatsby is the central character in 'The Great Gatsby', whose life of excess reveals the moral decay beneath the glamour of the Roaring Twenties.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In which literary work is the character 'Atticus Finch' featured?",
+    "choices": [
+      "To Kill a Mockingbird",
+      "Animal Farm",
+      "The Grapes of Wrath",
+      "Of Mice and Men"
+    ],
+    "correctAnswer": "To Kill a Mockingbird",
+    "explanation": "Atticus Finch is a prominent character in Harper Lee's novel 'To Kill a Mockingbird', celebrated for his integrity and moral strength.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "In George Orwell's '1984', what is the name of the totalitarian party that rules Oceania?",
+    "choices": [
+      "The Brotherhood",
+      "The Party",
+      "The Authority",
+      "The Regime"
+    ],
+    "correctAnswer": "The Party",
+    "explanation": "In '1984', the governing body is referred to simply as 'The Party', which emphasizes its total control over society and populace.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Who is the author of 'One Hundred Years of Solitude'?",
+    "choices": [
+      "Gabriel Garc\u00eda M\u00e1rquez",
+      "Mario Vargas Llosa",
+      "Jorge Luis Borges",
+      "Isabel Allende"
+    ],
+    "correctAnswer": "Gabriel Garc\u00eda M\u00e1rquez",
+    "explanation": "Gabriel Garc\u00eda M\u00e1rquez wrote 'One Hundred Years of Solitude', a landmark novel in Latin American literature that was published in 1967.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What is the primary theme of Shakespeare's play 'Macbeth'?",
+    "choices": [
+      "Love and loss",
+      "The corrupting power of ambition",
+      "Social justice",
+      "Redemption and forgiveness"
+    ],
+    "correctAnswer": "The corrupting power of ambition",
+    "explanation": "Macbeth explores the theme of ambition and its consequences, particularly through the character's murderous journey spurred by his desire for power.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Which novel features a character named Hester Prynne?",
+    "choices": [
+      "Moby-Dick",
+      "The Scarlet Letter",
+      "The Catcher in the Rye",
+      "Little Women"
+    ],
+    "correctAnswer": "The Scarlet Letter",
+    "explanation": "Hester Prynne is the main character in Nathaniel Hawthorne's 'The Scarlet Letter', who is shamed after bearing an illegitimate child.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "What literary device is prominently used in the phrase 'all the world's a stage' from 'As You Like It'?",
+    "choices": [
+      "Metaphor",
+      "Simile",
+      "Alliteration",
+      "Personification"
+    ],
+    "correctAnswer": "Metaphor",
+    "explanation": "The expression 'all the world's a stage' is a metaphor comparing life to a theatrical performance where individuals play specific roles.",
+    "category": "Literature",
+    "difficulty": "Highschool"
+  },
+  {
+    "question": "Who wrote the play 'Hamlet'?",
+    "choices": [
+      "Christopher Marlowe",
+      "William Shakespeare",
+      "T.S. Eliot",
+      "Arthur Miller"
+    ],
+    "correctAnswer": "William Shakespeare",
+    "explanation": "William Shakespeare is the renowned playwright responsible for 'Hamlet', which is one of his most famous works, written around 1600.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What literary device is employed when the author gives human qualities to non-human entities?",
+    "choices": [
+      "Alliteration",
+      "Metaphor",
+      "Personification",
+      "Simile"
+    ],
+    "correctAnswer": "Personification",
+    "explanation": "Personification is a literary device where human traits are attributed to non-human subjects, used to create vivid imagery and build connections in literature.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is NOT a novel by Charles Dickens?",
+    "choices": [
+      "A Tale of Two Cities",
+      "David Copperfield",
+      "The Picture of Dorian Gray",
+      "Great Expectations"
+    ],
+    "correctAnswer": "The Picture of Dorian Gray",
+    "explanation": "The Picture of Dorian Gray is a novel by Oscar Wilde, while 'A Tale of Two Cities', 'David Copperfield', and 'Great Expectations' are all works by Charles Dickens.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What genre does 'Brave New World' by Aldous Huxley belong to?",
+    "choices": [
+      "Science Fiction",
+      "Fantasy",
+      "Romance",
+      "Historical Fiction"
+    ],
+    "correctAnswer": "Science Fiction",
+    "explanation": "'Brave New World' is a dystopian novel categorized as Science Fiction, exploring themes of technology, society, and the implications of controlled human reproduction.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which poet is known for the quote 'I wander'd lonely as a cloud'?",
+    "choices": [
+      "John Keats",
+      "William Blake",
+      "William Wordsworth",
+      "Robert Frost"
+    ],
+    "correctAnswer": "William Wordsworth",
+    "explanation": "William Wordsworth is the poet who famously wrote 'I wander'd lonely as a cloud' in his poem 'Daffodils', which reflects his connection to nature.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In which book does Holden Caulfield appear?",
+    "choices": [
+      "The Grapes of Wrath",
+      "The Catcher in the Rye",
+      "The Great Gatsby",
+      "To Kill a Mockingbird"
+    ],
+    "correctAnswer": "The Catcher in the Rye",
+    "explanation": "Holden Caulfield is the protagonist of J.D. Salinger's novel 'The Catcher in the Rye', which addresses themes of adolescence, alienation, and identity.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the narrative style of 'One Hundred Years of Solitude' by Gabriel Garc\u00eda M\u00e1rquez?",
+    "choices": [
+      "First-person",
+      "Second-person",
+      "Stream of Consciousness",
+      "Magical Realism"
+    ],
+    "correctAnswer": "Magical Realism",
+    "explanation": "'One Hundred Years of Solitude' is a seminal work in the genre of Magical Realism, blending fantastical elements with the everyday life of the Buend\u00eda family.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which playwright is associated with the concept of Absurdism?",
+    "choices": [
+      "Samuel Beckett",
+      "Henrik Ibsen",
+      "Anton Chekhov",
+      "Lanford Wilson"
+    ],
+    "correctAnswer": "Samuel Beckett",
+    "explanation": "Samuel Beckett is a key figure in Absurdist theatre, with his play 'Waiting for Godot' exemplifying the themes of existential despair and the meaninglessness of life.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Who is the author of the play 'Waiting for Godot'?",
+    "choices": [
+      "Samuel Beckett",
+      "Harold Pinter",
+      "Eugene Ionesco",
+      "Tennessee Williams"
+    ],
+    "correctAnswer": "Samuel Beckett",
+    "explanation": "'Waiting for Godot' is a seminal work of absurdist theatre written by Samuel Beckett, first published in 1952.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which epic poem is centered around the hero Odysseus's journey home after the Trojan War?",
+    "choices": [
+      "The Iliad",
+      "The Aeneid",
+      "The Odyssey",
+      "Beowulf"
+    ],
+    "correctAnswer": "The Odyssey",
+    "explanation": "The 'Odyssey', written by Homer, follows Odysseus's various encounters and challenges on his long journey back to Ithaca after the fall of Troy.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which author is known for the use of magical realism in their writings?",
+    "choices": [
+      "Gabriel Garcia Marquez",
+      "Mark Twain",
+      "Toni Morrison",
+      "Ernest Hemingway"
+    ],
+    "correctAnswer": "Gabriel Garcia Marquez",
+    "explanation": "Gabriel Garcia Marquez is famous for his pioneering of magical realism, especially in works like 'One Hundred Years of Solitude'.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which novel is considered a classic example of dystopian literature, detailing a totalitarian regime that uses extreme surveillance and control?",
+    "choices": [
+      "Brave New World",
+      "Fahrenheit 451",
+      "1984",
+      "The Handmaid's Tale"
+    ],
+    "correctAnswer": "1984",
+    "explanation": "George Orwell's '1984' is iconic for its portrayal of a dystopian future characterized by oppressive government surveillance and the erasure of personal liberties.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In which book does the character Jay Gatsby appear?",
+    "choices": [
+      "To Kill a Mockingbird",
+      "The Great Gatsby",
+      "The Catcher in the Rye",
+      "Of Mice and Men"
+    ],
+    "correctAnswer": "The Great Gatsby",
+    "explanation": "Jay Gatsby is the central character in F. Scott Fitzgerald's 'The Great Gatsby', a novel that critiques the American Dream.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following authors is known for the concept of 'Stream of Consciousness' writing style?",
+    "choices": [
+      "Virginia Woolf",
+      "Mark Twain",
+      "Ernest Hemingway",
+      "Charles Dickens"
+    ],
+    "correctAnswer": "Virginia Woolf",
+    "explanation": "Virginia Woolf is well-known for her use of Stream of Consciousness in novels such as 'To the Lighthouse' and 'Mrs Dalloway', emphasizing the flow of thoughts and experiences.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the main setting of Shakespeare's play 'A Midsummer Night's Dream'?",
+    "choices": [
+      "A magical forest",
+      "A royal court",
+      "A battlefield",
+      "A seaside village"
+    ],
+    "correctAnswer": "A magical forest",
+    "explanation": "The majority of 'A Midsummer Night's Dream' takes place in a magical forest outside Athens, where fairies and enchanted events occur.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which novel begins with the line 'It was the best of times, it was the worst of times'?",
+    "choices": [
+      "Moby Dick",
+      "Great Expectations",
+      "A Tale of Two Cities",
+      "Crime and Punishment"
+    ],
+    "correctAnswer": "A Tale of Two Cities",
+    "explanation": "This line is from Charles Dickens' historical novel 'A Tale of Two Cities', published in 1859, and it reflects the turmoil of the French Revolution.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the main theme of George Orwell's '1984'?",
+    "choices": [
+      "Revenge",
+      "Totalitarianism",
+      "Friendship",
+      "Isolation"
+    ],
+    "correctAnswer": "Totalitarianism",
+    "explanation": "'1984' explores totalitarianism and the pervasive control exercised by the party over the individual, representing Orwell's concerns regarding government oppression.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which author is known for the play 'Waiting for Godot'?",
+    "choices": [
+      "Samuel Beckett",
+      "Harold Pinter",
+      "Tom Stoppard",
+      "Eugene Ionesco"
+    ],
+    "correctAnswer": "Samuel Beckett",
+    "explanation": "Samuel Beckett's 'Waiting for Godot' is a seminal piece in the Theatre of the Absurd, first published in 1948, that questions meaning and existence.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "In which year was 'To Kill a Mockingbird' published?",
+    "choices": [
+      "1945",
+      "1960",
+      "1970",
+      "1980"
+    ],
+    "correctAnswer": "1960",
+    "explanation": "Harper Lee's 'To Kill a Mockingbird' was published in 1960 and has since become a classic of modern American literature, tackling themes of racism and morality.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which of the following is NOT a work by Jane Austen?",
+    "choices": [
+      "Pride and Prejudice",
+      "Emma",
+      "Wuthering Heights",
+      "Sense and Sensibility"
+    ],
+    "correctAnswer": "Wuthering Heights",
+    "explanation": "'Wuthering Heights' was written by Emily Bront\u00eb. The other choices are classic novels authored by Jane Austen that address romantic fiction of the early 19th century.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What literary technique is primarily used by Shakespeare in his plays?",
+    "choices": [
+      "Stream of Consciousness",
+      "Iambic Pentameter",
+      "Fantasy",
+      "Metafiction"
+    ],
+    "correctAnswer": "Iambic Pentameter",
+    "explanation": "Shakespeare extensively used iambic pentameter, a rhythmic scheme consisting of five feet per line, in most of his plays, which contributed to the musicality of the dialogue.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Which one of the following is a major work composed by Virginia Woolf?",
+    "choices": [
+      "The Sound and the Fury",
+      "Mrs. Dalloway",
+      "The Catcher in the Rye",
+      "Of Mice and Men"
+    ],
+    "correctAnswer": "Mrs. Dalloway",
+    "explanation": "Virginia Woolf's 'Mrs. Dalloway', published in 1925, innovates narrative structure with its stream-of-consciousness style and its exploration of time and mind.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "What is the primary conflict faced by the protagonist of 'The Catcher in the Rye'?",
+    "choices": [
+      "Man vs. Nature",
+      "Man vs. Man",
+      "Man vs. Self",
+      "Man vs. Society"
+    ],
+    "correctAnswer": "Man vs. Self",
+    "explanation": "In 'The Catcher in the Rye' by J.D. Salinger, Holden Caulfield engages in an internal conflict, grappling with deep feelings of alienation, loss, and his own identity.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
+  },
+  {
+    "question": "Who is the author of the novel 'The Great Gatsby'?",
+    "choices": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "T.S. Eliot"
+    ],
+    "correctAnswer": "F. Scott Fitzgerald",
+    "explanation": "'The Great Gatsby' is a novel by F. Scott Fitzgerald, published in 1925, that explores themes of decadence, idealism, and resistance to change in the Roaring Twenties.",
+    "category": "Literature",
+    "difficulty": "Undergrad"
   }
 ];

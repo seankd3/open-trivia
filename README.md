@@ -23,8 +23,8 @@ To run this project, you need a web browser that supports HTML5 and JavaScript.
 
 ### Running the Game
 
-1. Open the `Trivia.html` file in your web browser.
-2. Click the "Start" button to begin the game.
+1. Open the `index.html` file in your web browser.
+2. Click the "Start Game" button to begin the game.
 
 ## Game Mechanics
 
@@ -35,6 +35,26 @@ To run this project, you need a web browser that supports HTML5 and JavaScript.
 ## Customization
 
 You can customize the questions by editing the `questions.js` file. Add your own questions and categories to enhance the game.
+
+### Adding Questions
+
+To add questions, follow these steps:
+
+1. Open the `questions.js` file.
+2. Add your questions in the following format:
+    ```javascript
+    const questions = [
+      {
+        question: "What is the capital of France?",
+        choices: ["Paris", "London", "Berlin", "Madrid"],
+        correctAnswer: "Paris",
+        explanation: "Paris is the capital and most populous city of France.",
+        category: "Geography",
+        difficulty: "Highschool"
+      },
+      // Add more questions here
+    ];
+    ```
 
 ## Contributing
 
@@ -48,3 +68,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Inspired by various trivia games and quizzes.
 - Special thanks to all contributors and users.
+
