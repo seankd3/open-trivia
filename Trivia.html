@@ -155,7 +155,7 @@
   <p id="result"></p>
   <button id="next-question">Next</button>
   
-  <script src="questions.js"></script>
+  <script src="questions.js"></script> <!-- Add this line to include the questions.js file -->
   <script>
     const questionElement = document.getElementById('question');
     const categoryElement = document.getElementById('category');
@@ -169,26 +169,35 @@
     let currentDifficultyIndex = 0;
     let askedQuestions = new Set();
     let answeredCorrectly = false;
-    
+
     const difficultyPoints = {
       "Highschool": 1,
       "Undergrad": 4,
       "Masters": 16,
       "PhD": 64,
-      "Extreme": 256
+      "Extreme": 256,
+      "Extra Super Extremely hard": 1024
     };
-    
+
+    const difficultyLevels = ["Highschool", "Undergrad", "Masters", "PhD", "Extreme", "Extra Super Extremely hard"];
+
     const questionsByDifficulty = {
       "Highschool": [],
       "Undergrad": [],
       "Masters": [],
       "PhD": [],
-      "Extreme": []
+      "Extreme": [],
+      "Extra Super Extremely hard": []
     };
-    
-    categorizedQuestions.forEach(question => {
-      questionsByDifficulty[question.difficulty].push(question);
-    });
+
+    function loadQuestionsFromJS() {
+      questions.forEach(question => {
+        if (!questionsByDifficulty[question.difficulty].some(q => q.question === question.question)) {
+          questionsByDifficulty[question.difficulty].push(question);
+        }
+      });
+      loadQuestion(); // Ensure a question is loaded after fetching the questions
+    }
 
     function saveGameState() {
       const gameState = {
@@ -209,19 +218,19 @@
         scoreElement.textContent = `Score: ${score}`;
       }
     }
-    
+
     function getRandomQuestion() {
       const difficulty = difficultyLevels[currentDifficultyIndex];
       const questions = questionsByDifficulty[difficulty];
       let question;
       do {
         question = questions[Math.floor(Math.random() * questions.length)];
-      } while (askedQuestions.has(question));
-      askedQuestions.add(question);
+      } while (askedQuestions.has(question.question));
+      askedQuestions.add(question.question);
       saveGameState();
       return question;
     }
-    
+
     function loadQuestion() {
       const currentQuestion = getRandomQuestion();
       questionElement.textContent = currentQuestion.question;
@@ -230,7 +239,7 @@
       optionsElement.innerHTML = '';
       nextQuestionButton.style.display = 'none';
       answeredCorrectly = false;
-      
+
       currentQuestion.choices.forEach(choice => {
         const button = document.createElement('button');
         button.textContent = choice;
@@ -239,10 +248,10 @@
         optionsElement.appendChild(document.createElement('br'));
       });
     }
-    
+
     function checkAnswer(answer, currentQuestion) {
       if (answeredCorrectly) return;
-      
+
       if (answer === currentQuestion.correctAnswer) {
         resultElement.textContent = 'Correct!';
         resultElement.style.color = '#4CAF50';
@@ -264,19 +273,19 @@
       }
       scoreElement.textContent = `Score: ${score}`;
     }
-    
+
     function disableOptions() {
       const buttons = optionsElement.querySelectorAll('button');
       buttons.forEach(button => {
         button.disabled = true;
       });
     }
-    
+
     nextQuestionButton.addEventListener('click', () => {
       loadQuestion();
       resultElement.textContent = '';
     });
-    
+
     toggleThemeButton.addEventListener('click', () => {
       document.body.classList.toggle('dark-theme');
       if (document.body.classList.contains('dark-theme')) {
@@ -286,8 +295,12 @@
       }
     });
 
-    loadGameState();
-    loadQuestion();
+    function initializeGame() {
+      loadQuestionsFromJS();
+      loadGameState();
+    }
+
+    initializeGame();
   </script>
 </body>
 </html>
